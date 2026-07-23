@@ -1,9 +1,71 @@
 # Chapter 12: Herodias's Court
 
-*POV: Claudia*
-*Target length: ~2,800*
+## The City on the Graves
 
-> **Status: outline only — not yet drafted.**
->
-> Key beats: Embassy or visit touching Herod Antipas's household; introduces the political undercurrent around John
+Tiberias announced itself before the road did, a skyline of new stone rising white and confident along the western shore of the lake the locals still called by older names than the one Antipas had given his city, and Claudia understood, watching it grow larger through the litter's curtain, why Tamar had gone quiet for the length of a whole morning when she learned the household was traveling there. "It is built on a graveyard," Tamar had finally said, the evening before they left, in the careful voice she used for facts she expected to be dismissed as superstition rather than law. "The tetrarch's engineers found old tombs when they broke the ground and built over them regardless. No devout man will set foot inside the walls, whatever the games and the baths and the new harbor promise him. He has a beautiful city that half his own people will not enter."
 
+Pontius had called the visit a courtesy owed between neighboring authorities, prompted by a border dispute over grazing rights that a season of letters had failed to settle and that Antipas himself had finally proposed to close in person, over a shared table, in the manner two men trained to Roman method understood better than any formal arbitration. Claudia had not asked to come. He had asked her to, in a tone that surprised her with how much it wanted an answer rather than assumed one, and she had understood, accepting, that the request was itself a kind of repair attempted after the silence that had followed the riot, a small offered normalcy neither of them was prepared to name as such.
+
+The tetrarch received them in a colonnaded hall built in a style that copied Rome's grandest houses so closely it read, to Claudia's eye, less like architecture than like an argument being made in marble: a man insisting, room by room, on a standing he had not been born to and had spent every year since acquiring it trying to prove he deserved. Antipas himself matched the architecture, a compact, watchful man in Roman dress who greeted Pontius with the particular warmth of two rivals performing cordiality for an audience neither entirely trusted, his handshake a shade too long, his praise of Pontius's aqueduct works pitched a shade too loud for a compliment offered in private, as though every gesture in the room were also, somehow, being made for a listener in Rome neither man could see but both assumed was always somewhere in earshot.
+
+The grazing dispute occupied the two men for the better part of an hour before the banquet proper began, spread across a table between them on a map not unlike the one Pontius kept unrolled in his own study, and Claudia, seated near enough to hear without appearing to listen, watched her husband argue his figures in the same flat, carrying register he used on every ledger he had ever trusted, and watched Antipas counter him not with figures of his own but with a kind of practiced deference that conceded small points readily and held the larger ones with a patience that told her, more clearly than any dispatch could have, that the tetrarch had learned to survive among men like her husband by never once letting them see what he actually wanted until the moment he already had it. It was, she thought, watching the two of them, a different kind of arithmetic than the kind Pontius trusted, and she was not certain her husband had yet learned to see the difference.
+
+## What the Court Watched
+
+Herodias joined them for the evening's banquet, entering the hall with a composure so deliberate it announced itself as composure, a woman who had clearly decided, at some point in a life Claudia did not yet know the shape of, that she would never again be caught without a face fully prepared for whatever the room required of her. She was handsome in the assured way of a woman who had traded one marriage for a better one and intended everyone present to understand the trade as her own achievement rather than a scandal she had survived, and she took the couch beside Claudia with a warmth that felt, within the first exchange of pleasantries, less like hospitality than like reconnaissance.
+
+"The Prefect's wife," Herodias said, studying her over the rim of a wine cup with an attention Claudia recognized, having been on the receiving end of it before, as the particular scrutiny powerful women reserved for other women whose husbands held power adjacent to their own. "I confess I expected someone more visibly unsettled by this province. Most Roman wives who come here arrive already homesick for something. You do not have the look of it."
+
+"I have been here three years. Whatever homesickness I arrived with has had time to wear itself into something more useful."
+
+"Useful." Herodias turned the word over as though testing its weight. "That is not a word I hear Roman wives choose for themselves very often. Ornamental, yes. Devoted, always. Useful, almost never, and yet I think it may be the truest word for what any of us actually are, out here at the edge of everything Rome bothers to remember exists." She set the cup down with a precision that matched her entrance, and something in her tone shifted, the reconnaissance narrowing toward a target Claudia had not yet identified. "I hear your husband has had a difficult season. The aqueduct. I am told the crowd learned a hard lesson about the cost of pressing a Roman tribunal too far."
+
+"I would not call it a lesson anyone learned gladly."
+
+"No. Lessons of that kind rarely are." Herodias's eyes moved, briefly, toward the far end of the hall where Antipas sat in close conference with Pontius over a map of the disputed grazing lands, and something passed behind her composed expression that Claudia read, with the same instinct that had once read a summons for danger before anything else, as fear wearing the shape of idle conversation. "My husband has his own difficult season approaching, though he has not yet found the nerve to call it by its true name. There is a man in the wilderness beyond the Jordan, in his own territory, who has taken it upon himself to instruct my husband on the lawfulness of his own marriage, as though a man who eats locusts and wears camel's hair had any standing to lecture a tetrarch on the arrangement of his household."
+
+Claudia kept her face as still as she had learned, across three years in this province, to keep it. "I have heard something of him. A preacher at the river."
+
+"A preacher who has told half of Galilee that my marriage is an offense against their law, and half of Galilee, it seems, has decided to believe him rather than to mind its own affairs." Herodias said it lightly, in the same register she had used for the wine and the architecture, but Claudia heard, underneath the lightness, a current running considerably darker, a woman who had built an entire second life on the strength of a decision she was not going to allow a wandering ascetic to unmake with a river full of listeners. "My husband has him confined now, at Machaerus, which he tells himself is caution and I tell him plainly is cowardice, since a man imprisoned but unsilenced is worse for a ruler's standing than a man never arrested at all. Either finish what you have started, I have told him, or release the man and let the crowds forget him the way crowds forget everything eventually. He has done neither. He sits with the man's voice in his fortress and cannot decide which fear frightens him more, the crowd outside the walls or the prisoner inside them."
+
+## Salome
+
+Herodias's daughter found Claudia later that evening, in the colonnade beyond the hall where the lake's night air offered some relief from the banquet's heat and noise, a young woman perhaps sixteen or seventeen with her mother's composure not yet fully learned, still showing the seams where the performance had to be consciously assembled rather than worn like skin.
+
+"My mother will have told you about the prisoner," Salome said, without preamble, settling onto the colonnade's low wall with a directness that struck Claudia as more honest than anything spoken in the hall behind them. "She tells everyone eventually. She cannot help it. She has decided he is the only danger in the world worth naming, and so she names him to strangers at dinner as though naming him enough times will finally make my stepfather do something about it."
+
+"Does your stepfather want to do something about it?"
+
+"My stepfather wants the crowds who followed the prisoner to the river to go on thinking well of him, and he wants my mother to stop asking him to choose between that and her peace, and he has not yet discovered that a tetrarch cannot have both those things at once, however long he sits at Machaerus pretending the choice will make itself." Salome looked out at the dark lake, the torches along the near shore throwing a thin broken light across the water that did not reach far enough to show its bottom. "I think my mother will win, in the end. She generally does. I only do not yet know what winning will look like, when it comes, or what she will ask of the rest of us to help her get there."
+
+"You speak of him carefully," Claudia said. "More carefully than your mother does."
+
+"My mother speaks of him as an enemy, because an enemy is a thing she knows how to defeat. I am not certain I think of him as an enemy at all." Salome drew her knees up beneath her, a girl's gesture that sat oddly against the composure she had otherwise nearly mastered. "I have never seen him. I have only heard what the soldiers who guard him say, when they think no one of the household is listening: that he does not rage at his confinement the way a man expecting rescue rages, and does not beg the way a man expecting mercy begs. He simply waits, as though the waiting itself were the point, and my stepfather goes down to the cell some nights to talk with him and comes back up looking less like a ruler who has questioned a prisoner than like a man who has been questioned himself and found his own answers wanting."
+
+"That does not sound like a man your mother should fear losing an argument to."
+
+"It is exactly the man she should fear losing an argument to," Salome said, and for a moment the seams in her composure showed clearly enough that Claudia could see, beneath them, something that looked almost like grief arriving early for a loss not yet suffered. "A man who wants nothing from you cannot be bribed and cannot be frightened, and my mother has never in her life met an opponent she could not eventually bribe or frighten. I think that is why she names him to strangers at dinner. Not because she believes it will change anything my stepfather does. Because saying his name aloud, over and over, in rooms full of people who will nod and agree with her, is the only weapon she has actually found effective against him."
+
+It was, Claudia understood, the closest anyone in Antipas's household would come that night to naming plainly what Herodias's careful conversation had only circled: that a man's life was being weighed in this fortress-court against a woman's pride and a ruler's nerve, and that the weighing was not finished, only paused, the way the riot's reckoning had been paused for three weeks before Sejanus's letter arrived to call it, falsely, closed.
+
+## The Ride Back
+
+She told Pontius what she had heard on the road back to Caesarea, both of them riding easier together than they had in months, the grazing dispute settled to terms neither side loved and both could live with, which he told her was the only kind of settlement worth calling durable. He listened to her account of Herodias and the imprisoned preacher with the particular attention he gave any political intelligence, turning it over for its usefulness the way he turned over every report that reached his desk.
+
+"It is not my province," he said finally. "Whatever Antipas decides to do with a man preaching in his own tetrarchy is his own difficulty to manage, and I have difficulties enough of my own without borrowing his."
+
+"That is not what I am asking you to do with it."
+
+"Then what are you asking?"
+
+She considered the question longer than she had expected to need to, watching the road unspool ahead of them toward the coast, the hills gone the color of old bread in the last of the light the way they had on her first ride inland from Caesarea three years before, when the country behind the coast had still seemed to her like nothing more than a problem waiting for a Roman engineer to solve it. "I do not know yet. I think I am only telling you what I saw, because I did not want to be the only one who had seen it."
+
+"You said that once before. About the colonnade."
+
+"I know I did." She had not expected him to remember the phrase, and hearing it returned to her, plainly, without accusation, she felt something in the day's careful truce shift half a degree toward an honesty neither of them had yet risked with each other since the riot. "Perhaps it is simply what I have become, these three years. A woman who cannot stop seeing things she is not asked to see, and cannot decide, afterward, what to do with the seeing except hand it to you and hope you do something with it I could not manage alone."
+
+"And if I do nothing with it? As I intend to do nothing, this time, since Antipas's household is genuinely not mine to govern."
+
+"Then I will have told you regardless, and you will carry it whether you use it or not, the way I am already carrying it whether Antipas frees the man or not. That is the only part of this I am certain of. Once a thing is seen, it does not go back to being unseen simply because no one acts on it."
+
+He was quiet for the rest of that stretch of road, and she let the quiet stand, understanding that she had said, without quite meaning to plan it that way, as much about the colonnade as about Machaerus, and that he had heard both meanings in it, and that neither of them was yet ready to say so aloud. It was not, she understood even as she said it, the whole truth of what she wanted from him, but it was as much of the truth as either of them had yet learned how to hand across the space between their two horses, and for the length of the ride home, it was enough.
