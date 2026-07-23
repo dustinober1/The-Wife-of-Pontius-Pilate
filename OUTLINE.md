@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 49,300 drafted)
+**Target length:** ~85,000 words total (currently 50,800 drafted)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -67,11 +67,11 @@ The Prologue's morning, now built from the ground up. Chapters 22–23 should re
 | 19 | The Prophet in the Fields | Pontius | His political assessment — not yet judged a threat; comparison to John — drafted | ~2,700 |
 | 20 | The Second Dream | Claudia | The dream returns, sharper; a scene with Tamar discussing the teacher directly — drafted | ~2,200 |
 | 21 | Into Jerusalem | Claudia | Passover travel to Jerusalem; the city filling with pilgrims; the arrest happens overnight, offstage — drafted | ~2,500 |
-| 22 | The Night Before | Claudia | The full nightmare — this chapter can absorb/expand the Prologue's "Waking Nightmare" section | ~2,000 |
+| 22 | The Night Before | Claudia | The full nightmare — this chapter can absorb/expand the Prologue's "Waking Nightmare" section — drafted | ~1,500 |
 | 23 | The Bema | Claudia | Rejoins the Prologue's "View from the Balcony" through "Knife-Edge Moment" — now the reader knows everything both of them carry into it; extend past the Prologue's ending into the verdict itself | ~3,200 |
 | 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd | ~2,600 |
 
-**Part IV subtotal: ~17,600** (Ch 18–21 drafted at ~9,800)
+**Part IV subtotal: ~17,100** (Ch 18–22 drafted at ~11,300)
 
 ## PART V — After
 
@@ -90,8 +90,8 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: ~49,300
-- New material (Ch 22–29 + Epilogue): ~32,300
+- Drafted: ~50,800
+- New material (Ch 23–29 + Epilogue): ~30,800
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order
