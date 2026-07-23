@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 4,677 drafted)
+**Target length:** ~85,000 words total (currently ~4,900 drafted)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -90,10 +90,10 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: ~4,700
+- Drafted: ~4,900
 - New material (Ch 3–29 + Epilogue): ~76,600
-- Projected finished length: ~81,300–85,000 words
+- Projected finished length: ~81,500–85,000 words
 
 ## Suggested drafting order
 
-Write in chapter order — the historical hinge points (Ch 6, 16, 23, 28) work better when the chapters that set them up are fresh. If you want a change of pace, the four Pontius-POV chapters (4, 9, 16, 25, 28 — five, actually) can be drafted as a mini-arc on their own and then interleaved, since they share a throughline: a man whose entire theory of rule is "an even hand and an unbending spine," tested and eroded one crisis at a time.
+Write in chapter order — the historical hinge points (Ch 6, 16, 23, 28) work better when the chapters that set them up are fresh. If you want a change of pace, the eight Pontius-POV chapters (4, 6, 9, 15, 16, 19, 25, 28) can be drafted as a mini-arc on their own and then interleaved, since they share a throughline: a man whose entire theory of rule is "an even hand and an unbending spine," tested and eroded one crisis at a time.

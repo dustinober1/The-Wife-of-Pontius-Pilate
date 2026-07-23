@@ -9,6 +9,9 @@ This is not a software project — it's the manuscript repo for a historical nov
 ## Repository structure
 
 - `OUTLINE.md` — the master plan: full chapter list, POV assignments, target word counts, part-by-part beat summaries, the recurring continuity threads, and the suggested drafting order. Treat this as the source of truth for structure. If a chapter's content changes meaningfully during drafting, update the corresponding row in `OUTLINE.md` to match.
+- `CHARACTERS.md` — the cast sheet: ages, appearances, voices, and status for every recurring figure, plus the "locked continuity facts" already fixed by drafted prose. Facts marked **(on page)** cannot be contradicted; when a new chapter locks a new fact (a name, an age, a physical detail), promote it into this file.
+- `TIMELINE.md` — the historical spine (dated events with primary sources) and the book-internal chronology (invented events with derived dates). Check both before drafting any chapter; keep the aqueduct-riot placement (~A.D. 28–29) consistent everywhere.
+- `STYLE.md` — prose conventions derived from the drafted chapters: POV mechanics, anachronism policy, naming rules ("Pontius" never "Pilate" in narration), dialogue punctuation, and thread discipline. Follow it when drafting; update it only when a deliberate style decision changes.
 - `manuscript/` — one file per chapter, including the Prologue and Epilogue.
 
 ### Manuscript file naming
@@ -84,4 +87,4 @@ wc -w manuscript/*.md
 
 ## Suggested drafting order
 
-Per `OUTLINE.md`: draft in chapter order, since the historical hinge points (Ch 6, 16, 23, 28) land better when the chapters that set them up are freshly written. The five Pontius-POV chapters (4, 9, 16, 25, 28) share a throughline — a man whose theory of rule ("an even hand and an unbending spine") is tested and eroded one crisis at a time — and can be drafted as a mini-arc on their own if a change of pace is wanted, then interleaved back into order.
+Per `OUTLINE.md`: draft in chapter order, since the historical hinge points (Ch 6, 16, 23, 28) land better when the chapters that set them up are freshly written. The eight Pontius-POV chapters (4, 6, 9, 15, 16, 19, 25, 28) share a throughline — a man whose theory of rule ("an even hand and an unbending spine") is tested and eroded one crisis at a time — and can be drafted as a mini-arc on their own if a change of pace is wanted, then interleaved back into order.
