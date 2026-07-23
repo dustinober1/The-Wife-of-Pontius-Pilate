@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 7,399 drafted)
+**Target length:** ~85,000 words total (currently 13,200 drafted)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -22,9 +22,9 @@ Establishes marriage, ambition, and the crossing. Mostly drafted.
 | 1 | The Red Seal | Claudia | Rome / Ostia, A.D. 26 | Appointment as Prefect, the map scene, departure — drafted | ~2,700 |
 | 2 | The Roman Bride | Claudia | Rome, flashback | Childhood as ward, ink-stained hands, arranged marriage, first meeting — drafted | ~1,500 |
 | 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs — drafted | ~2,900 |
-| 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested | ~2,800 |
+| 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested — drafted | ~2,100 |
 
-**Part I subtotal (new): ~5,700**
+**Part I subtotal (new): drafted, ~2,100**
 
 ## PART II — The Governor's Wife (26–29 A.D.)
 
@@ -32,15 +32,15 @@ Judaea resists being mapped. Two real historical crises planted here will detona
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 5 | The Standards at Night | Claudia | Pontius marches military standards bearing Tiberius's image into Jerusalem after dark; five-day sit-in protest in Caesarea | ~3,000 |
-| 6 | What the Crowd Taught Him | Pontius | He backs down rather than massacre unarmed protesters; private humiliation; first crack in his "even hand" theory | ~2,800 |
+| 5 | The Standards at Night | Claudia | Pontius marches military standards bearing Tiberius's image into Jerusalem after dark; five-day sit-in protest in Caesarea — drafted | ~1,900 |
+| 6 | What the Crowd Taught Him | Pontius | He backs down rather than massacre unarmed protesters; private humiliation; first crack in his "even hand" theory — drafted | ~1,600 |
 | 7 | A Woman Named Tamar | Claudia | Deepens the household friendship; Claudia learns Jewish law and hope on human terms, not political ones | ~2,900 |
 | 8 | The River Prophet | Claudia | Rumors of John baptizing at the Jordan reach the household; Herod Antipas named for the first time | ~2,800 |
 | 9 | Corban | Pontius | The aqueduct funded from Temple treasury; Pontius frames it as engineering, the priesthood as sacrilege | ~2,900 |
 | 10 | Blood in the Colonnade | Claudia | Riot suppression — soldiers with hidden clubs among the crowd; deaths; Claudia's first real moral crisis | ~3,100 |
 | 11 | The Cost of Order | Claudia | Aftermath; letters to/from Sejanus; marriage strain; Claudia's private grief kept from Pontius | ~2,900 |
 
-**Part II subtotal: ~20,400**
+**Part II subtotal: ~20,400** (Ch 5–6 drafted at ~3,500; Ch 7–11 remain, ~14,600 new)
 
 ## PART III — The Widening Crack (29–31 A.D.)
 
@@ -90,8 +90,8 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: ~7,400
-- New material (Ch 4–29 + Epilogue): ~73,900
+- Drafted: ~13,200
+- New material (Ch 7–29 + Epilogue): ~68,300
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order
