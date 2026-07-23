@@ -37,10 +37,10 @@ Judaea resists being mapped. Two real historical crises planted here will detona
 | 7 | A Woman Named Tamar | Claudia | Deepens the household friendship; Claudia learns Jewish law and hope on human terms, not political ones — drafted | ~2,900 |
 | 8 | The River Prophet | Claudia | Rumors of John baptizing at the Jordan reach the household; Herod Antipas named for the first time — drafted | ~2,800 |
 | 9 | Corban | Pontius | The aqueduct funded from Temple treasury; Pontius frames it as engineering, the priesthood as sacrilege — drafted | ~2,900 |
-| 10 | Blood in the Colonnade | Claudia | Riot suppression — soldiers with hidden clubs among the crowd; deaths; Claudia's first real moral crisis | ~3,100 |
+| 10 | Blood in the Colonnade | Claudia | Riot suppression — soldiers with hidden clubs among the crowd; deaths; Claudia's first real moral crisis — drafted | ~2,900 |
 | 11 | The Cost of Order | Claudia | Aftermath; letters to/from Sejanus; marriage strain; Claudia's private grief kept from Pontius | ~2,900 |
 
-**Part II subtotal: ~20,400** (Ch 5–9 drafted at ~9,800; Ch 10–11 remain, ~6,900 new)
+**Part II subtotal: ~20,400** (Ch 5–10 drafted at ~12,700; Ch 11 remains, ~2,900 new)
 
 ## PART III — The Widening Crack (29–31 A.D.)
 
@@ -90,8 +90,8 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: ~19,600
-- New material (Ch 10–29 + Epilogue): ~61,900
+- Drafted: ~22,500
+- New material (Ch 11–29 + Epilogue): ~58,800
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order
