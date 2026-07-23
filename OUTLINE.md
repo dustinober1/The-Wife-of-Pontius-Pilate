@@ -50,7 +50,7 @@ Sejanus falls. Pontius loses his cover, and the ground shifts under everything h
 |---|---|---|---|---|
 | 12 | Herodias's Court | Claudia | Embassy or visit touching Herod Antipas's household; introduces the political undercurrent around John — drafted | ~2,600 |
 | 13 | The Baptist's Head | Claudia | News of John's execution reaches Caesarea; Claudia's reaction; Pontius reads it purely as politics — drafted | ~2,500 |
-| 14 | The Dream Begins | Claudia | First, unplaced version of the recurring dream — brief, disturbing, dismissed as heat and fatigue | ~2,200 |
+| 14 | The Dream Begins | Claudia | First, unplaced version of the recurring dream — brief, disturbing, dismissed as heat and fatigue — drafted | ~1,900 |
 | 15 | News from the Palatine | Pontius | Political dispatches from Rome; Sejanus's power appears absolute; dramatic irony for the reader | ~2,600 |
 | 16 | The Fall of Sejanus | Pontius | October, A.D. 31 — the letter arrives; Sejanus executed for conspiracy; Pontius's protection is gone overnight | ~3,000 |
 | 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time | ~2,900 |
@@ -90,8 +90,8 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: ~30,300
-- New material (Ch 14–29 + Epilogue): ~50,600
+- Drafted: ~32,200
+- New material (Ch 15–29 + Epilogue): ~48,400
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order
