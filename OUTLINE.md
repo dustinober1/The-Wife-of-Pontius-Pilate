@@ -69,7 +69,7 @@ The Prologue's morning, now built from the ground up. Chapters 22–23 should re
 | 21 | Into Jerusalem | Claudia | Passover travel to Jerusalem; the city filling with pilgrims; the arrest happens overnight, offstage — drafted | 2,738 |
 | 22 | The Night Before | Claudia | The full nightmare — this chapter can absorb/expand the Prologue's "Waking Nightmare" section — drafted | 1,889 |
 | 23 | The Bema | Claudia | Rejoins the Prologue's "View from the Balcony" through "Knife-Edge Moment" — now the reader knows everything both of them carry into it; extend past the Prologue's ending into the verdict itself — drafted | 3,112 |
-| 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd — drafted | 2,418 |
+| 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd — drafted | 2,404 |
 
 **Part IV subtotal: 17,990 words (drafted in full)**
 
@@ -82,9 +82,9 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 | 25 | The Empty Report | Pontius | Official aftermath; the body released to Joseph of Arimathea; paperwork as a way of not feeling anything — drafted | 2,452 |
 | 26 | Rumors of an Empty Tomb | Claudia | Reports reach the household; Pontius dismisses them outright; Claudia can't — drafted | 2,389 |
 | 27 | Three Years of Silence | Claudia | Time skip to ~36 A.D.; the marriage grown distant; Pontius harsher and more paranoid; Claudia's private transformation, mostly interior — drafted | 2,629 |
-| 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation — drafted | 2,578 |
+| 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation — drafted | 2,560 |
 | 29 | The Recall | Claudia | Vitellius removes him from office; the journey back toward Rome begins under a cloud — drafted | 2,616 |
-| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands — drafted | 1,669 |
+| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands — drafted | 1,631 |
 
 **Part V subtotal: 14,333 words (drafted in full)**
 
