@@ -28,7 +28,7 @@ Marcus returned a second time nearer the fourth watch, and this time she heard, 
 
 "As prepared as a man can be, roused before dawn to be told a council has already decided, in the dark, what it will ask him to finish in the light." Marcus hesitated at the door. "Forgive me, Domina, if I say what is not mine to say. I do not think, whatever the council brings him, that the Prefect yet understands the whole of what he is being asked to judge this morning. I do not think any of us do."
 
-He left her then, and she sat in the lamplight a long while, listening to the household stir itself into the particular hushed activity of a crisis beginning before the sun had risen to give it any proper daylight to unfold in, footsteps in the corridor, a door somewhere below closing with more care than urgency, the ordinary machinery of the palace assembling itself around an hour it had never before had to answer for.
+He left her then, and she sat in the lamplight a long while, listening to the household stir itself into the hushed activity of a crisis beginning before the sun had risen to give it any proper daylight to unfold in, footsteps in the corridor, a door somewhere below closing with more care than urgency, the ordinary machinery of the palace assembling itself around an hour it had never before had to answer for.
 
 She rose at last and dressed herself without calling for help, an old habit from the standards crisis she had never entirely unlearned, the sense that a morning demanding this much of the household was not a morning to spend waiting on someone else's hands. She did not yet know what she meant to do with the hour before dawn. She knew only that she did not intend to meet it lying down.
 

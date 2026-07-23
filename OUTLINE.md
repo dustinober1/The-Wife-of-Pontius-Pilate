@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 73,600 drafted — full first draft complete, Prologue through Epilogue, expanded in a revision pass; remaining gap to target is now mostly a matter of scene-level deepening rather than any chapter running noticeably short)
+**Target length:** ~85,000 words total (currently 73,475 drafted — full first draft complete, Prologue through Epilogue, expanded and then prose-tightened in two revision passes; remaining gap to target is now mostly a matter of scene-level deepening rather than any chapter running noticeably short)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -63,15 +63,15 @@ The Prologue's morning, now built from the ground up. Chapters 22–23 should re
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 18 | Whispers of the Galilean | Claudia | Reports of Jesus and his following reach the household through Tamar and others — drafted | 2,660 |
-| 19 | The Prophet in the Fields | Pontius | His political assessment — not yet judged a threat; comparison to John — drafted | 2,709 |
-| 20 | The Second Dream | Claudia | The dream returns, sharper; a scene with Tamar discussing the teacher directly — drafted | 2,495 |
-| 21 | Into Jerusalem | Claudia | Passover travel to Jerusalem; the city filling with pilgrims; the arrest happens overnight, offstage — drafted | 2,741 |
-| 22 | The Night Before | Claudia | The full nightmare — this chapter can absorb/expand the Prologue's "Waking Nightmare" section — drafted | 1,890 |
-| 23 | The Bema | Claudia | Rejoins the Prologue's "View from the Balcony" through "Knife-Edge Moment" — now the reader knows everything both of them carry into it; extend past the Prologue's ending into the verdict itself — drafted | 3,119 |
-| 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd — drafted | 2,425 |
+| 18 | Whispers of the Galilean | Claudia | Reports of Jesus and his following reach the household through Tamar and others — drafted | 2,646 |
+| 19 | The Prophet in the Fields | Pontius | His political assessment — not yet judged a threat; comparison to John — drafted | 2,704 |
+| 20 | The Second Dream | Claudia | The dream returns, sharper; a scene with Tamar discussing the teacher directly — drafted | 2,483 |
+| 21 | Into Jerusalem | Claudia | Passover travel to Jerusalem; the city filling with pilgrims; the arrest happens overnight, offstage — drafted | 2,738 |
+| 22 | The Night Before | Claudia | The full nightmare — this chapter can absorb/expand the Prologue's "Waking Nightmare" section — drafted | 1,889 |
+| 23 | The Bema | Claudia | Rejoins the Prologue's "View from the Balcony" through "Knife-Edge Moment" — now the reader knows everything both of them carry into it; extend past the Prologue's ending into the verdict itself — drafted | 3,112 |
+| 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd — drafted | 2,418 |
 
-**Part IV subtotal: 18,039 words (drafted in full)**
+**Part IV subtotal: 17,990 words (drafted in full)**
 
 ## PART V — After
 
@@ -79,18 +79,18 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 25 | The Empty Report | Pontius | Official aftermath; the body released to Joseph of Arimathea; paperwork as a way of not feeling anything — drafted | 2,471 |
-| 26 | Rumors of an Empty Tomb | Claudia | Reports reach the household; Pontius dismisses them outright; Claudia can't — drafted | 2,399 |
-| 27 | Three Years of Silence | Claudia | Time skip to ~36 A.D.; the marriage grown distant; Pontius harsher and more paranoid; Claudia's private transformation, mostly interior — drafted | 2,643 |
-| 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation — drafted | 2,601 |
-| 29 | The Recall | Claudia | Vitellius removes him from office; the journey back toward Rome begins under a cloud — drafted | 2,621 |
-| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands — drafted | 1,680 |
+| 25 | The Empty Report | Pontius | Official aftermath; the body released to Joseph of Arimathea; paperwork as a way of not feeling anything — drafted | 2,452 |
+| 26 | Rumors of an Empty Tomb | Claudia | Reports reach the household; Pontius dismisses them outright; Claudia can't — drafted | 2,389 |
+| 27 | Three Years of Silence | Claudia | Time skip to ~36 A.D.; the marriage grown distant; Pontius harsher and more paranoid; Claudia's private transformation, mostly interior — drafted | 2,629 |
+| 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation — drafted | 2,578 |
+| 29 | The Recall | Claudia | Vitellius removes him from office; the journey back toward Rome begins under a cloud — drafted | 2,616 |
+| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands — drafted | 1,669 |
 
-**Part V subtotal: 14,415 words (drafted in full)**
+**Part V subtotal: 14,333 words (drafted in full)**
 
 ## Running total
 
-- Drafted: 73,606 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft)
+- Drafted: 73,475 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened in a prose-quality pass to cut repeated constructions)
 - Remaining gap to the ~85,000 target is now spread thinly across the whole book rather than concentrated in a handful of short chapters; closing it further is a scene-by-scene deepening exercise, not a structural one
 - Projected finished length: ~81,300–85,000 words
 
