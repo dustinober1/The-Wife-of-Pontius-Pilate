@@ -22,6 +22,10 @@ They reached the upper palace, the old residence Herod the Great had built for h
 
 "Both, though I would not have said so plainly to anyone but you." He did not look away from the city as he said it, the lamps below beginning to prick out across the darkening slopes in their hundreds. "Eleazar's warning was not wrong, whatever else I make of the council's motives in delivering it. A city this full, primed by the feast itself to remember every old promise about a king, is a city that manages its own danger regardless of what any single man riding into it intends by the manner of his riding."
 
+"You sound like a man bracing for a storm he cannot yet see the shape of."
+
+"I sound like a man who has learned, across two years of watching a province recalibrate what it can still ask of me, that the storms I fail to see coming are always the ones that cost me the most once they arrive." He turned from the city at last, and she saw in his face the same tired vigilance she had watched deepen in him since Sejanus fell, worn now into something closer to permanent habit than to any single crisis's residue. "I would rather stand here bracing for a storm that never comes than stand here unprepared for the one that does. I have made that mistake once already in this office. I do not intend to make it twice in the same city that watched me make it the first time."
+
 ## What Tamar Heard in the Courts
 
 Tamar went down into the city on the second morning to see to the lamb her own family's custom required even in a season spent under a Roman governor's roof, and returned in the early afternoon with a stillness about her that Claudia had learned, across seven years of friendship, to read as carefully as she read any dispatch.
@@ -31,6 +35,10 @@ Tamar went down into the city on the second morning to see to the lamb her own f
 "Do they mean to move against him."
 
 "I do not know, Domina, and I would not trust myself to guess at it even if I did, because a council that watches this closely does not always act, and a council that acts does not always announce beforehand that it means to." Tamar picked the basket back up, though she made no move yet to carry it further. "I will say only that I have watched my people wait for a promised king through every year of my own life without the promise ever costing the waiting itself very much. This year the waiting has a crowd behind it large enough to frighten the very men whose office exists to manage the promise on the Temple's behalf, and a frightened man with real power, Domina, in my experience, moves faster and less carefully than a hopeful man with none."
+
+"Does Yaakov mean to go to him, while he is near enough to be seen."
+
+"He means to, Domina, though I have told him plainly what I think of standing where a nervous garrison might mistake a crowd's enthusiasm for a threat, twice over, given what standing in such a place has already cost him." Tamar's mouth tightened briefly, an old fear resurfacing beneath the new one. "He tells me a man does not get to choose which crowds history asks him to stand in. I tell him a man who has already been beaten twice for standing in the wrong one might be forgiven for choosing more carefully the third time. We have not settled the argument between us. I do not expect we will before the feast is finished."
 
 ## A King's Welcome
 

@@ -52,9 +52,13 @@ He considered this with the same seriousness she imagined he gave to a battlefie
 
 It was not romantic, and not particularly warm either. But it was honest in a way nothing else that day had been, and Claudia realized, extending her hand to him, that she had expected to feel like cargo being delivered, and instead felt, for the first time in years, like she was being asked a real question.
 
+Her guardian watched the exchange from across the hall with the flat satisfaction of a man confirming a transaction had closed on favorable terms, and said nothing to her about it afterward beyond a single remark, offered the same evening as she passed through the tablinum for what she understood, without being told, would be one of the last times. "You did well," he said, not looking up from his tablet. "Better than I expected of a girl who spent her childhood counting ants instead of suitors." She had not known, until he said it, that he had ever noticed the ants at all.
+
 ## Five Years
 
 Five years folded into the marriage the way a river folds into a delta, not one channel but many, each carved by patience rather than event. Claudia learned the rhythms of his ambition the way she had once learned the rhythms of her guardian's moods: which silences meant calculation, which meant fatigue, which meant a decision already made and only waiting for the right room to announce it in.
+
+She learned, too, the small private tenderness he permitted only within their own walls, a calloused thumb along her cheekbone on the rare evenings his public reserve loosened enough to let it through, and understood, watching him guard that tenderness as carefully as he guarded any military secret, that he had been taught somewhere along the way that softness shown too freely was softness spent. She did not press him to spend it more freely than he chose to. She had learned her own version of the same lesson, in a different tablinum, long before she had ever learned his name.
 
 She was in the garden, mid-morning, when the household steward came to find her at something close to a run.
 

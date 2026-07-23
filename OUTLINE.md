@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 67,330 drafted — full first draft complete, Prologue through Epilogue; a revision pass could still expand chapters that ran under their target length)
+**Target length:** ~85,000 words total (currently 73,600 drafted — full first draft complete, Prologue through Epilogue, expanded in a revision pass; remaining gap to target is now mostly a matter of scene-level deepening rather than any chapter running noticeably short)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -18,13 +18,13 @@ Establishes marriage, ambition, and the crossing. Mostly drafted.
 
 | Ch | Title | POV | Time/Place | Key Beats | Target |
 |---|---|---|---|---|---|
-| — | Prologue: The Shadow of the Bema | Claudia | Jerusalem, A.D. 33 | Dream, the balcony, the note, the locked gaze — drafted | ~1,500 |
-| 1 | The Red Seal | Claudia | Rome / Ostia, A.D. 26 | Appointment as Prefect, the map scene, departure — drafted | ~2,700 |
-| 2 | The Roman Bride | Claudia | Rome, flashback | Childhood as ward, ink-stained hands, arranged marriage, first meeting — drafted | ~1,500 |
-| 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs — drafted | ~2,900 |
-| 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested — drafted | ~2,100 |
+| — | Prologue: The Shadow of the Bema | Claudia | Jerusalem, A.D. 33 | Dream, the balcony, the note, the locked gaze — drafted | 1,365 |
+| 1 | The Red Seal | Claudia | Rome / Ostia, A.D. 26 | Appointment as Prefect, the map scene, departure — drafted | 2,704 |
+| 2 | The Roman Bride | Claudia | Rome, flashback | Childhood as ward, ink-stained hands, arranged marriage, first meeting — drafted | 1,350 |
+| 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs — drafted | 2,792 |
+| 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested — drafted | 2,116 |
 
-**Part I subtotal (new): drafted, ~2,100**
+**Part I subtotal: 10,327 words (drafted in full)**
 
 ## PART II — The Governor's Wife (26–29 A.D.)
 
@@ -32,15 +32,15 @@ Judaea resists being mapped. Two real historical crises planted here will detona
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 5 | The Standards at Night | Claudia | Pontius marches military standards bearing Tiberius's image into Jerusalem after dark; five-day sit-in protest in Caesarea — drafted | ~1,900 |
-| 6 | What the Crowd Taught Him | Pontius | He backs down rather than massacre unarmed protesters; private humiliation; first crack in his "even hand" theory — drafted | ~1,600 |
-| 7 | A Woman Named Tamar | Claudia | Deepens the household friendship; Claudia learns Jewish law and hope on human terms, not political ones — drafted | ~2,900 |
-| 8 | The River Prophet | Claudia | Rumors of John baptizing at the Jordan reach the household; Herod Antipas named for the first time — drafted | ~2,800 |
-| 9 | Corban | Pontius | The aqueduct funded from Temple treasury; Pontius frames it as engineering, the priesthood as sacrilege — drafted | ~2,900 |
-| 10 | Blood in the Colonnade | Claudia | Riot suppression — soldiers with hidden clubs among the crowd; deaths; Claudia's first real moral crisis — drafted | ~2,900 |
-| 11 | The Cost of Order | Claudia | Aftermath; letters to/from Sejanus; marriage strain; Claudia's private grief kept from Pontius — drafted | ~2,700 |
+| 5 | The Standards at Night | Claudia | Pontius marches military standards bearing Tiberius's image into Jerusalem after dark; five-day sit-in protest in Caesarea — drafted | 1,937 |
+| 6 | What the Crowd Taught Him | Pontius | He backs down rather than massacre unarmed protesters; private humiliation; first crack in his "even hand" theory — drafted | 1,600 |
+| 7 | A Woman Named Tamar | Claudia | Deepens the household friendship; Claudia learns Jewish law and hope on human terms, not political ones — drafted | 2,638 |
+| 8 | The River Prophet | Claudia | Rumors of John baptizing at the Jordan reach the household; Herod Antipas named for the first time — drafted | 2,532 |
+| 9 | Corban | Pontius | The aqueduct funded from Temple treasury; Pontius frames it as engineering, the priesthood as sacrilege — drafted | 2,578 |
+| 10 | Blood in the Colonnade | Claudia | Riot suppression — soldiers with hidden clubs among the crowd; deaths; Claudia's first real moral crisis — drafted | 2,879 |
+| 11 | The Cost of Order | Claudia | Aftermath; letters to/from Sejanus; marriage strain; Claudia's private grief kept from Pontius — drafted | 2,716 |
 
-**Part II subtotal: ~20,400** (Ch 5–11 drafted at ~15,400)
+**Part II subtotal: 16,880 words (drafted in full)**
 
 ## PART III — The Widening Crack (29–31 A.D.)
 
@@ -48,14 +48,14 @@ Sejanus falls. Pontius loses his cover, and the ground shifts under everything h
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 12 | Herodias's Court | Claudia | Embassy or visit touching Herod Antipas's household; introduces the political undercurrent around John — drafted | ~2,600 |
-| 13 | The Baptist's Head | Claudia | News of John's execution reaches Caesarea; Claudia's reaction; Pontius reads it purely as politics — drafted | ~2,500 |
-| 14 | The Dream Begins | Claudia | First, unplaced version of the recurring dream — brief, disturbing, dismissed as heat and fatigue — drafted | ~1,900 |
-| 15 | News from the Palatine | Pontius | Political dispatches from Rome; Sejanus's power appears absolute; dramatic irony for the reader — drafted | ~2,300 |
-| 16 | The Fall of Sejanus | Pontius | October, A.D. 31 — the letter arrives; Sejanus executed for conspiracy; Pontius's protection is gone overnight — drafted | ~2,400 |
-| 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time — drafted | ~2,300 |
+| 12 | Herodias's Court | Claudia | Embassy or visit touching Herod Antipas's household; introduces the political undercurrent around John — drafted | 2,560 |
+| 13 | The Baptist's Head | Claudia | News of John's execution reaches Caesarea; Claudia's reaction; Pontius reads it purely as politics — drafted | 2,503 |
+| 14 | The Dream Begins | Claudia | First, unplaced version of the recurring dream — brief, disturbing, dismissed as heat and fatigue — drafted | 1,878 |
+| 15 | News from the Palatine | Pontius | Political dispatches from Rome; Sejanus's power appears absolute; dramatic irony for the reader — drafted | 2,301 |
+| 16 | The Fall of Sejanus | Pontius | October, A.D. 31 — the letter arrives; Sejanus executed for conspiracy; Pontius's protection is gone overnight — drafted | 2,385 |
+| 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time — drafted | 2,318 |
 
-**Part III subtotal: ~16,200** (Ch 12–17 drafted at ~13,500)
+**Part III subtotal: 13,945 words (drafted in full)**
 
 ## PART IV — Passover, A.D. 33
 
@@ -63,15 +63,15 @@ The Prologue's morning, now built from the ground up. Chapters 22–23 should re
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 18 | Whispers of the Galilean | Claudia | Reports of Jesus and his following reach the household through Tamar and others — drafted | ~2,400 |
-| 19 | The Prophet in the Fields | Pontius | His political assessment — not yet judged a threat; comparison to John — drafted | ~2,700 |
-| 20 | The Second Dream | Claudia | The dream returns, sharper; a scene with Tamar discussing the teacher directly — drafted | ~2,200 |
-| 21 | Into Jerusalem | Claudia | Passover travel to Jerusalem; the city filling with pilgrims; the arrest happens overnight, offstage — drafted | ~2,500 |
-| 22 | The Night Before | Claudia | The full nightmare — this chapter can absorb/expand the Prologue's "Waking Nightmare" section — drafted | ~1,500 |
-| 23 | The Bema | Claudia | Rejoins the Prologue's "View from the Balcony" through "Knife-Edge Moment" — now the reader knows everything both of them carry into it; extend past the Prologue's ending into the verdict itself — drafted | ~2,800 |
-| 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd — drafted | ~2,200 |
+| 18 | Whispers of the Galilean | Claudia | Reports of Jesus and his following reach the household through Tamar and others — drafted | 2,660 |
+| 19 | The Prophet in the Fields | Pontius | His political assessment — not yet judged a threat; comparison to John — drafted | 2,709 |
+| 20 | The Second Dream | Claudia | The dream returns, sharper; a scene with Tamar discussing the teacher directly — drafted | 2,495 |
+| 21 | Into Jerusalem | Claudia | Passover travel to Jerusalem; the city filling with pilgrims; the arrest happens overnight, offstage — drafted | 2,741 |
+| 22 | The Night Before | Claudia | The full nightmare — this chapter can absorb/expand the Prologue's "Waking Nightmare" section — drafted | 1,890 |
+| 23 | The Bema | Claudia | Rejoins the Prologue's "View from the Balcony" through "Knife-Edge Moment" — now the reader knows everything both of them carry into it; extend past the Prologue's ending into the verdict itself — drafted | 3,119 |
+| 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd — drafted | 2,425 |
 
-**Part IV subtotal: ~16,300** (Ch 18–24 drafted at ~16,300 — Part IV complete)
+**Part IV subtotal: 18,039 words (drafted in full)**
 
 ## PART V — After
 
@@ -79,19 +79,19 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 25 | The Empty Report | Pontius | Official aftermath; the body released to Joseph of Arimathea; paperwork as a way of not feeling anything — drafted | ~2,100 |
-| 26 | Rumors of an Empty Tomb | Claudia | Reports reach the household; Pontius dismisses them outright; Claudia can't — drafted | ~1,800 |
-| 27 | Three Years of Silence | Claudia | Time skip to ~36 A.D.; the marriage grown distant; Pontius harsher and more paranoid; Claudia's private transformation, mostly interior — drafted | ~2,200 |
-| 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation — drafted | ~1,900 |
-| 29 | The Recall | Claudia | Vitellius removes him from office; the journey back toward Rome begins under a cloud — drafted | ~2,300 |
-| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands — drafted | ~1,600 |
+| 25 | The Empty Report | Pontius | Official aftermath; the body released to Joseph of Arimathea; paperwork as a way of not feeling anything — drafted | 2,471 |
+| 26 | Rumors of an Empty Tomb | Claudia | Reports reach the household; Pontius dismisses them outright; Claudia can't — drafted | 2,399 |
+| 27 | Three Years of Silence | Claudia | Time skip to ~36 A.D.; the marriage grown distant; Pontius harsher and more paranoid; Claudia's private transformation, mostly interior — drafted | 2,643 |
+| 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation — drafted | 2,601 |
+| 29 | The Recall | Claudia | Vitellius removes him from office; the journey back toward Rome begins under a cloud — drafted | 2,621 |
+| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands — drafted | 1,680 |
 
-**Part V subtotal: ~11,900** (Ch 25–29 + Epilogue drafted at ~11,900 — Part V complete)
+**Part V subtotal: 14,415 words (drafted in full)**
 
 ## Running total
 
-- Drafted: ~67,300 (Prologue through Epilogue, full first draft complete)
-- Projected finished length after a revision pass: ~81,300–85,000 words, if the chapters that ran under target are expanded
+- Drafted: 73,606 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft)
+- Remaining gap to the ~85,000 target is now spread thinly across the whole book rather than concentrated in a handful of short chapters; closing it further is a scene-by-scene deepening exercise, not a structural one
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order

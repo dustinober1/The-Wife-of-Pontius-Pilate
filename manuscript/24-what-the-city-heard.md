@@ -64,4 +64,12 @@ Pontius found her there, his correspondence finally set aside for the night, and
 
 "I have already granted it. It costs me nothing to grant a dead man's body to a councillor's private grief, and it costs me, perhaps, some small measure of the province's good faith to refuse a courtesy any other prisoner's family might reasonably have asked of me." He looked out over the emptied pavement, and Claudia heard in his voice the same flatness he had used to give every order that day, though something beneath the flatness now sounded less like administration and more like a man testing, privately, how much weight a single ordinary decision could still bear after a morning that had asked so much more of him than any decision ever had before. "I do not think, Claudia, that granting it undoes anything. I think it is simply the last thing I have left to give, now that everything else about today is already decided and cannot be called back."
 
+"Rufus sent word of the sky as well, I imagine. Whatever it was."
+
+"He did, though he had less to say about it than I expected of a man who has never once, in my hearing, admitted to being unsettled by anything short of a legion's own mutiny." Pontius's mouth showed the ghost of something that was not quite a smile. "He told me only that the garrison found it easier to keep discipline through the dark than through the noise beforehand, and that he did not intend to write it into any official report, since a Roman dispatch has no line for a sky a soldier cannot explain and does not wish to be asked to."
+
+"And you. What will you write."
+
+"The same flat account I have written of every hard thing this office has asked me to survive, I expect. A disturbance, a sentence, a peace restored." He said it without any of the pride such an account might once have carried for him, in the earlier years of this marriage, when a clean report had still felt to him like its own kind of victory. "I do not know how a man writes the truer account, Claudia, even if Rome would trouble to read it. I am not certain I know the truer account myself yet, tonight, though I suspect I will spend a great deal longer than tonight learning what it actually was."
+
 She said nothing to that, only stood beside him as she had stood beside him that morning, the two of them keeping their long, silent watch over a city that had, by tomorrow, already begun forgetting how strange its own sky had looked that afternoon, the way every city eventually forgot everything it did not choose, deliberately, to carry forward.

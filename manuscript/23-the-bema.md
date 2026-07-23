@@ -6,7 +6,7 @@ Claudia threw a silk palla over her linen tunic, leaving her hairpins and gold b
 
 The morning sun struck her like a flat blade. Stepping onto the terrace, she gripped the stone balustrade and looked down at the vast, paved courtyard below: the space the Greeks called Lithostrotos.
 
-The court churned. Roman legionaries, their leather cuirasses dark with sweat, formed a wall against the crowd. Opposite them stood the accusers: temple officials and their gathered clients, gathering their fine wool robes as they pressed their charges.
+The court churned. Roman legionaries, their leather cuirasses dark with sweat, formed a wall against the crowd. Opposite them stood the accusers: temple officials and their gathered clients, gathering their fine wool robes as they pressed their charges. The noise of it reached her in a single unbroken wave, no single voice distinguishable from any other, only the crowd's massed and rising temper, already thick with the day's coming heat.
 
 In the center of the pavement stood the man from the dream.
 
@@ -14,7 +14,7 @@ Jesus of Nazareth stood bound with coarse rope, his simple tunic torn at the col
 
 At the far end of the court, ascending the carved stone steps of the tribunal, stood Pontius.
 
-Claudia watched her husband's back. She knew the tension in his neck, the way his fingers twitched near his belt. He walked with the carriage of a conqueror, yet she knew him better than any officer in the province. In the hard angle of his chin, she recognized the political fear he tried to disguise as imperial duty. He stood trapped between the threat of a street riot that would ruin his standing with Caesar and the realization that his prisoner was no ordinary agitator.
+Claudia watched her husband's back. She knew the tension in his neck, the way his fingers twitched near his belt. He walked with the carriage of a conqueror, yet she knew him better than any officer in the province. In the hard angle of his chin, she recognized the political fear he tried to disguise as imperial duty. He stood trapped between the threat of a street riot that would ruin his standing with Caesar and the realization that his prisoner was no ordinary agitator. She had watched him carry that same rigid composure through the standards crisis years before, through the colonnade's aftermath, through every hard morning this province had ever asked of him, and knew, watching it now, that whatever this morning meant to demand of him would cost him more than any of those mornings had.
 
 *He thinks this is a simple hearing,* she realized, a cold wave washing through her chest. *He cannot see the trap.*
 
@@ -44,6 +44,8 @@ Before the ink dried, she rolled the small sheet tight.
 
 Marcus took the scroll, swallowed hard, and ran from the room.
 
+Claudia stood alone a moment in the emptied reception room, her hands still trembling, the ink already drying on her own fingers in a way she would not notice until much later. She had not stopped to ask herself whether the note would reach him in time, or whether reaching him in time would change anything at all. She had only known, standing at the terrace rail with the dream still bruised into her, that she could not stand there a moment longer without having done something.
+
 ## The Knife-Edge Moment
 
 Claudia returned to the terrace, gripping the stone until her palms went numb.
@@ -58,7 +60,9 @@ Marcus reached the platform steps. Knowing a slave interrupting a capital tribun
 
 The scribe glanced up at Claudia standing exposed in the morning light, then spun and mounted the stone steps.
 
-He handed the scroll to Pontius.
+Marcus did not linger at the foot of the dais. He backed away into the crowd's edge instead, his eyes still fixed on the platform, waiting to see what became of the thing he had just risked the lash to deliver.
+
+The scribe handed the scroll to Pontius.
 
 Her husband paused mid-sentence. Displeasure lined his forehead as he took the parchment. He unrolled it slowly, his thumbs pressing against the curling edges, his dark eyes tracing the hasty Greek letters.
 
@@ -83,6 +87,10 @@ The sun climbed higher over the pavement as she waited, and the heat pooling in 
 "Then why does the shouting continue."
 
 "Because the council will not accept a governor's private finding, Domina, only a public verdict, and the crowd the council has gathered presses harder with each hour that passes without one." Rufus glanced back over the balustrade before he continued. "The Prefect sent him briefly to Herod, since the man is a Galilean and Herod happened to be in the city for the feast, hoping the tetrarch's own jurisdiction might relieve him of the judgment entirely. Herod sent him back within the hour, no wiser for the questioning and no more willing than the Prefect to pronounce a sentence himself. I am told the two men parted on friendlier terms than they have managed in years, having found, in this one matter at least, that neither wished to own the deciding of it."
+
+"And Herod said nothing of use to him. Nothing that might have settled it."
+
+"Herod asked him to perform some sign for his own amusement, Domina, by what the guards who attended them both tell it, and the man gave him nothing, not a word, not a gesture, the whole of the audience. Herod's own soldiers mocked him for it before sending him back, a purple robe thrown over his shoulders as a jest at the crowd's own naming of him, but the Prefect tells Rufus that even the mockery seemed, to anyone watching closely, to land nowhere the man himself was standing." Rufus delivered this with the same flat competence he gave every report, though Claudia thought she heard, beneath it, something closer to genuine unsettlement than professional distance usually allowed him to show.
 
 ## Barabbas
 

@@ -8,6 +8,10 @@ The report that reached him in the early spring carried a number large enough th
 
 Pontius weighed the report for the length of a single breath, a fraction of the time he would once have given a crowd's true danger before he answered it, and found the shortness of his own weighing did not trouble him the way it once would have. Three years of closing doors quickly had taught him a different arithmetic than the one Philotas's careful sketches had once trained him to trust, an arithmetic that asked only how large the danger might become if left to gather further, never how large it presently was, and by that faster, harder measure the report before him required no further study at all. "Armed men climbing a mountain together, at the word of a prophet who promises them something the priesthood in Jerusalem would call blasphemy if it were found. That is not a pilgrimage, Rufus. That is the beginning of an uprising dressed in a scripture's clothing, and I do not intend to let it finish dressing before I answer it."
 
+"The Samaritans have no love for Jerusalem's priesthood, Prefect, nor Jerusalem's priesthood for them. I do not know that a prophet promising Moses' own vessels means to trouble Rome at all, rather than only to settle an old argument between his own people and a Temple that has never once acknowledged their mountain as anything but a rival's counterfeit."
+
+"Then he chooses a poor season to settle an old argument, gathering several thousand armed men to do it in a province already primed by every festival this year to imagine its own prophets crowned." Pontius said it with a certainty that would once have cost him a longer weighing, and did not trouble, in the moment, to notice how little weighing the certainty had actually required of him. "I did not survive Sejanus's fall and three years of a suspicious Rome by waiting to learn whether a gathering crowd's grievance was the one it announced or a different one entirely."
+
 ## The Decision
 
 He gave the order within the hour, cavalry and a body of infantry both, to move against the gathering at Tirathana before the climb to the summit could properly begin, a decision he made standing in the same outer court where he had once, years before, weighed a report of five thousand fed peaceably beside a different water and found, in that weighing, no cause for a Roman hand to act at all.
@@ -37,6 +41,24 @@ The Samaritan council's delegation reached Vitellius in Antioch within the month
 "Vitellius has ordered you to Rome, Prefect, to answer to the Emperor directly for what happened at the mountain, and has sent Marcellus ahead to hold the province in the meanwhile." Rufus delivered this final report with none of the flatness he had managed for every report before it, and Pontius understood, hearing the strain in his oldest officer's voice, that Rufus had served him faithfully through every crisis of ten hard years and had never once, before this morning, had to deliver him a summons that ended the serving.
 
 Pontius took the dispatch and read it through twice, the same close reading he had once given every hard report before three years of closing doors quickly had trained him out of the habit, and found himself now, reading Vitellius's plain and unadorned language a second time, doing the very thing that habit had cost him doing at the mountain itself, weighing every word for what it actually said rather than for how quickly he could file it away and move on to the next demand on his attention. It said, when he had finished weighing it fully, that a legate of Syria who answered to Rome directly had judged a governor of Judaea to have failed at the single thing his whole theory of rule had once claimed to guarantee an even hand, applied evenly, that measured every threat by its true size rather than by a frightened man's hurried arithmetic for how fast the threat could be made to disappear.
+
+"What will you tell Rufus, Prefect, of what comes next for the garrison." Philotas asked it carefully, the dispatch still in Pontius's hands, the steward's own long service in this house giving him, Pontius supposed, some claim to asking a question a lesser servant would not have risked.
+
+"I will tell him the truth, which is that I do not yet know what comes next for any of us, myself least of all." Pontius set the dispatch down at last, and found he had nothing further to add to it, no order to give, no ledger to balance against the fact of it, only the plain unaccustomed weight of a decision that was, for the first time in ten years, no longer his to make.
+
+## What Claudia Asked Him
+
+She found him in the study that same evening, the dispatch still weighted beneath his hand, and did not ask him at once what it said, understanding from the set of his shoulders that whatever it contained had already told him more than he yet knew how to repeat aloud.
+
+"You have not spoken since Rufus left you," she said at last. "Not since the mountain."
+
+"There is little I trust myself to say about the mountain yet, Claudia, that would not sound, spoken aloud, like a man searching for an excuse before anyone has troubled to ask him for one." He looked up at her, and she saw in his face something she had not seen there since the night Sejanus fell, an honesty stripped of the flat administrative register he had worn like armor these past three years. "You asked me once whether a fool's errand and a rebellion were as easily told apart as I made them sound. I did not answer you properly at the time. I do not think I wanted to hear, that evening, that the answer might be no."
+
+"And now."
+
+"Now I have several thousand dead men who wanted nothing but an old relic, and a summons to Rome to answer for having mistaken their errand for a rebellion before I troubled to learn which it actually was." He said it without self-pity, in the same flat voice he might have used to report a harvest's failure, though she heard beneath it something that had not been there in any of his hardest reports these past three years, a plain and unguarded grief he was no longer troubling to manage into a ledger's shape. "You were right to ask the question, Claudia. I was wrong not to weigh it more carefully before I answered it with cavalry."
+
+She had no comfort ready for that, and did not offer a false one, only crossed the room and stood beside him at the desk the way she had stood beside him at a different desk on a different hard night, three years before, when the news of a fallen patron had first taught him how little his own careful measuring actually protected him from.
 
 ## What a Map Could No Longer Show Him
 

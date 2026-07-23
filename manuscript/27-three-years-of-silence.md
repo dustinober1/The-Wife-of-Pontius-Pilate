@@ -26,6 +26,18 @@ She spent more of her days now with Tamar than the household's ordinary business
 
 "I know you do not." Claudia set the seal down, considering the observation with the same care she had learned to give any of Tamar's quieter remarks. "I am not certain I entirely recognize myself either, some days. I only know that I would rather be someone who does these small useless things than someone who has stopped noticing there is anything left worth doing them for."
 
+## What Yaakov Asked Of Her
+
+She went herself, one autumn afternoon, to the house near the harbor where Tamar's cousin Yaakov now lived with a wife of his own and a daughter just old enough to walk unassisted, carrying a length of good wool Claudia had set aside from the household stores without troubling to explain the errand to anyone who might have questioned a prefect's wife visiting so plainly working a household.
+
+"You did not need to come yourself, Domina," Yaakov said, though he said it without the wariness she remembered from the one or two occasions their paths had crossed in earlier years, a wariness that had softened, over the seasons, into something closer to plain acquaintance. "Tamar tells us you have become a woman who fixes small things quietly, rather than one who only notices them and moves on."
+
+"I do not know that I fix very much, Yaakov. I only notice, now, in a way I did not always used to, and I have found that noticing costs me almost nothing to follow with some small action, when the action is available to me at all." She set the wool down, and did not linger over the giving of it, having learned from Tamar years before that a gift lingered over asked to be thanked, and a gift given plainly asked only to be used. "How is the shoulder, since the riot."
+
+"Aches before rain, Domina, same as it has for years now, and otherwise carries my daughter as well as the other one ever did." He smiled, briefly, the same unhurried economy she recognized in his cousin. "I did not think, the day I stood at the standards with a gray shawl over my shoulders, that I would live to carry a daughter on the same arm a soldier's shield later bruised. I find that worth remembering, some days, when the news from the Prefect's house reaches us harder than it once did."
+
+She heard, in the gentleness of the observation, exactly the same rebuke Tamar herself might have delivered, wrapped in enough courtesy that she could not object to it without proving its point, and carried the exchange home with her turning it over the whole walk back through streets that had not changed while everything she measured them against apparently had.
+
 ## Marcus, Grown Quieter
 
 Marcus had grown into these same three years in his own way, and Claudia found, watching him move through the household's daily business with the same careful competence he had always brought to it, that she could no longer entirely separate the young man he had become from the boy who had once run a scroll through a capital tribunal at the risk of the lash. He was near thirty now by any onlooker's ordinary guess, though he was in fact only twenty-six, the household still calling him boy from a habit that had never much depended on accuracy, and he had begun, in the past year, to keep his own small store of learning apart from his duties, a handful of scrolls he read by lamplight after the house had settled, philosophy and history mostly, purchased with wages he might otherwise have spent on anything a young man in his position was more ordinarily expected to want.

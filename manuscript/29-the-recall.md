@@ -28,11 +28,19 @@ She thought, more than once during those weeks, of Sulpicia, dead now these four
 
 Marcus managed the inventory this time with none of the boyish uncertainty she remembered from Ostia, a man of twenty-six directing porters and household staff with the same careful competence he brought to everything, though she caught him once, standing over the same cedar trunk that had once held her record scrolls on the crossing out, running his thumb along its brass corner with an expression she recognized as its own private grief for a decade he was not yet ready to have end.
 
+"You will keep your scrolls, whatever else we leave behind," she told him, finding him at the trunk. "I have made certain the household chests reserve room for them, wherever the rest of the packing crowds them out."
+
+"Thank you, Domina. I did not think to ask." He said it plainly, though she saw the small surprise in him that she had troubled to notice at all, among everything else this recall was asking her to manage. "I find I have grown attached to them in a way I did not expect of myself, when I first began reading them only to have something of my own the household's duties did not ask for."
+
+"I know the feeling, Marcus. I have kept a chest of my own for exactly the same reason, these past several years." She did not explain further, and he did not ask her to, and she understood, watching him return to the inventory, that some things between them had reached the kind of understanding that no longer required either party to spell it out fully.
+
 ## Caiaphas, Also Removed
 
 It was Philotas who brought her the strange, final irony of it, delivered with the same careful economy he had always given the household's news. "Vitellius has deposed Caiaphas as well, Domina, in the same season he recalled the Prefect, though for reasons of his own that have nothing directly to do with the mountain. The high priest who outlasted every governor before this one will not outlast this one after all."
 
 She turned the fact over a long while, thinking of Caiaphas's calm audience in the hall that winter after Sejanus fell, the unhurried economy of a man who no longer needed to press an advantage because the advantage pressed itself, and understood that the same current which had finally caught her husband had reached, in the same season, the one man in this province who had always seemed, across ten years, to stand safely above every current that troubled anyone beneath him. She did not know whether to feel the symmetry as justice or only as further proof that nothing in this province, however carefully built, had ever been as permanent as the men who built it believed.
+
+She told Pontius of it that evening, uncertain what reaction she expected from him, and found he received it with none of the satisfaction she had half feared and none of the sympathy she had half hoped for either, only a tired, level acknowledgment that seemed to cost him more than either extreme would have. "Ten years he outlasted every governor sent to trouble him, and in the end Rome removed us both in the same season, for reasons that have nothing to do with each other and everything to do with how little either of us actually controlled the ground we thought we stood on." He said it without bitterness, in the flattened register she had come to recognize as his truest voice these past three years. "I do not know if that should comfort me or frighten me further. I have stopped trusting myself to tell the difference between the two most nights."
 
 ## Farewell to Tamar
 

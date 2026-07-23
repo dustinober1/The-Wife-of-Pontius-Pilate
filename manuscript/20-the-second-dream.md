@@ -20,6 +20,8 @@ Marcus brought the watered wine again the following morning without being asked,
 
 He did not press the matter, only inclined his head in the small way he had of accepting an answer he had not been convinced by, and she watched him go with the same thought she had carried since the first dream, that whatever he read of the household's private weather he read accurately and kept to himself with a discretion she had never once had cause to doubt, and that his silence on the matter was its own kind of witness, the sort that asked nothing of her and offered, in its place, only the quiet fact of having noticed.
 
+She thought, watching him go, of the ink-stain still faint on his own thumb after all these years, a mirror of the one beneath her own thumbnail that had never fully faded since childhood, and wondered, not for the first time, whether the two marks meant the same thing on two such different hands, or whether a mark of usefulness read differently depending on who was still free to set the usefulness down and who was not.
+
 ## The Page She Almost Kept
 
 She sat with a fresh page before her that same evening, in the same private practice she had kept since the letter she burned after the colonnade riot, and found the words came harder this time than they had the first, as though the dream itself had grown too particular to be reduced honestly to the language she had used two years before.
@@ -43,6 +45,12 @@ Claudia let that sit a moment before she answered it, choosing, as she had learn
 "It is, Domina, and I think that is exactly what troubles the council more than anything he has said himself. A man can refuse to claim a title. He cannot as easily refuse a crowd that has already decided to give it to him, especially not in a city already primed, every Passover, to remember that it was promised a king once and has been waiting since for the promise to come due." Tamar looked up at last, and Claudia saw in her face the same careful reserve she had worn discussing John before his death, the reserve of a woman who had already watched one man's following end at the point of a sword and did not trust herself to hope aloud for a different outcome twice. "I do not know if he is the one, Domina. I have told you before, I do not think that is a question I am equipped to answer from a kitchen court in Caesarea. I know only that the hope people carry toward him now is larger than the hope they carried toward John, because John asked them to prepare for something still arriving, and this one, by every account, behaves as though it has already begun arriving in him."
 
 Claudia thought of the figure at the edge in the dream, bound at the wrists, upright, patient in a way that had unsettled her more than any violence could have, and found she could not decide, sitting in the ordinary daylight of the kitchen court with the figs' sweet decay heavy in the air, whether the thought that had risen in her, unbidden, connecting the two, was a true seeing or only a frightened woman's mind reaching for a shape to fit an unease that had none of its own. She did not speak the thought aloud. She was not yet ready to hear, in Tamar's careful voice, whatever answer the saying of it might return to her.
+
+"You have gone quiet, Domina," Tamar said, setting the last basket aside. "You do that when a thing has occurred to you that you are not yet willing to test against another person's opinion of it."
+
+"I am not certain it is a thought worth testing yet. I am not certain it is a thought at all, rather than only a fear wearing a thought's clothing to make itself easier to carry." Claudia turned a fig over in her own hands without eating it. "I will tell you when I trust it enough to survive being said aloud. I do not trust it yet."
+
+"Then I will not ask again until you bring it to me yourself." Tamar studied her a moment longer, the same careful reading she had once given Claudia's first oblique question about dreams, years before. "I will only say, Domina, that in my experience a fear a person cannot yet say aloud is usually the truest one they carry, precisely because it has not yet been shaped by anyone else's opinion of it. The ones we can say easily are usually the ones we have already half talked ourselves out of."
 
 ## Two Weeks to Jerusalem
 

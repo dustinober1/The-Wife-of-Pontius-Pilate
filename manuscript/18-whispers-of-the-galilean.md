@@ -24,6 +24,10 @@ She found Pontius that evening in the small room off the tablinum where he kept 
 
 "I read it twice because a man who governs badly out of fear is more dangerous to my province than any preacher could be on his own account. If Herod starts seeing John's ghost in every crowd that gathers within his borders, he will do something rash to quiet his own conscience, and Rome will not care whose jurisdiction the rashness began in when the complaints arrive." He set the stylus down at last and looked at her, and she saw in his face the same weighing calculation she had watched him bring to every crisis of the past year. "I would rather know who this man is before Herod's nerves force my hand in a matter I have not yet had cause to touch."
 
+"And if the man himself is nothing you need fear. Does Herod's fear alone become your problem regardless."
+
+"It becomes my problem the moment his fear makes him do something rash enough that Rome has to notice it, and asks afterward why the neighboring prefect said nothing while it was still small enough to watch quietly." He returned to the ledger before him, though she noticed he did not resume writing in it. "I would rather spend an evening reading a dispatch twice than spend a season cleaning up after a tetrarch's guilty conscience."
+
 ## What Tamar Had Already Heard
 
 Tamar, when Claudia raised it with her that evening, had the same unhurried manner she always brought to news the household considered urgent and she did not, though this time Claudia thought she saw something new beneath the unhurriedness, a carefulness that had not been there when she spoke of John.
@@ -61,6 +65,10 @@ It was Simon who gave her the report she trusted most, though he gave it to her 
 He did not answer at once, turning the bucket rope in his hands the way he had once turned his own guilt over surviving a mentor he loved. "John told us the world would end unless we mended it first. This teacher, they say, tells people the mending has already begun, and asks them only to notice it and live as though it were true." Simon looked up at her, and Claudia saw in his face the same unresolved grief she had first seen there the week John died, still working itself out toward some shape it had not yet found. "I do not know if that is a comfort or a wound, Domina. John gave his whole life to say the world must change before it can be forgiven. If this man is right that it need not wait, then John spent everything he had on a fear that was already answered before he ever waded into the river to preach it."
 
 She had no comfort ready for him, and did not offer a false one. "Perhaps a man can be right about the hunger and still not live to see the feast laid," she said instead, and Simon nodded slowly, as though the thought cost him something to accept.
+
+"You have grown wiser than the boy who came back from the Jordan with a sunburn and nothing to say for a week," Claudia said, watching him turn the bucket rope over once more.
+
+"I do not feel wiser, Domina. I feel as though I have simply been given a second grief before I finished with the first, and no one has yet told me whether the two are meant to comfort each other or only to sit side by side, unreconciled, for as long as I carry them." He managed something close to a smile, brief and unpracticed. "My uncle says a man does not need every grief resolved before he goes on living through the next one. I have found that easier to hear than to believe, these past days."
 
 "My uncle says one more thing, Domina, though I do not know what weight to give it." He set the bucket down at last. "He says some who knew John at the river swear this teacher was among those John himself baptized, before either of them was known beyond his own village. If that is true, then whatever John began at the water, this man was standing in the current for it too, long before either of them had a name worth reporting to a garrison."
 

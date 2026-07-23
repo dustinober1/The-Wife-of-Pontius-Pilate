@@ -16,6 +16,10 @@ Claudia found the detail of the skins interested her less than the detail of the
 
 "Large enough that the centurion posted there asked whether he should disperse it. Pontius said not yet. A man saying the world should mend itself before it ends is not, by any statute I know of, a crime, whatever a soldier standing on the bank might find unsettling about the numbers."
 
+"And has the centurion asked again since."
+
+"Twice more, Domina, each time the numbers larger than the last report. Pontius has given the same answer each time, though I notice he no longer gives it as quickly as he gave it the first." Philotas allowed himself, for a moment, something closer to a private opinion than his usual flat delivery permitted. "A steward learns to read a governor's patience the way a farmer reads weather, Domina. I do not think this particular cloud has finished gathering."
+
 ## What the Water Was Doing
 
 Tamar had already heard of him by the time Claudia raised it with her, which did not surprise her; Tamar's news of the province arrived by a current Claudia had learned not to question, faster than any dispatch Philotas carried and considerably more candid.
@@ -55,6 +59,12 @@ The boy considered this longer than the first question, turning a stick of kindl
 "He said someone was coming after him who was greater than he was, so much greater that he was not fit to untie the man's sandals, and that this one would separate the good grain from the chaff the way a farmer does at harvest, keeping one and burning the other." Simon shrugged, a boy's gesture, unweighted by the theology Claudia was reaching for. "He did not say a name, Domina. Only that we should watch for him, and not mistake the one who baptizes for the one who was actually being promised."
 
 Claudia turned the answer over long after the boy had gone back to his woodpile, unable to decide which detail unsettled her more: the calm with which a child recounted being warned of an axe laid to a root, or the fact that the promised figure behind the preacher had been given no name at all, only a shape cut out of the future and left waiting to be filled. She thought of Pontius's maps in the study, every road and garrison marked and measured, and understood, distantly, that here was a kind of territory he had no method for surveying: a coming thing with no name and no border post to watch it from, growing nearer by report alone.
+
+She found Simon again a few days later, drawn back to him by a question she had not thought to ask the first time, and found him more forthcoming now that the novelty of being asked at all had worn into something closer to trust.
+
+"Would you go again, if he were still there next season."
+
+"I would, Domina, though my uncle says a man does not need to be washed twice for the same thing to take hold." Simon considered the question with the same unhurried seriousness he had given the first, a boy's gravity that made him seem, in these small exchanges, considerably older than the years she knew him to have. "I think I would go again anyway. Not for the washing itself. For the feeling of standing in a crowd of people who had all decided, together, to stop waiting for someone else to change first."
 
 ## The Tetrarch's Border
 

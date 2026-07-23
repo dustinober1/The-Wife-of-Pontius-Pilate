@@ -66,7 +66,7 @@ She was perhaps Claudia's own age, dressed plainly, dark hair bound back beneath
 
 "I say it draws mosquitoes." A small, precise smile, there and gone. "Restful is a Roman word for standing water, Domina. We have other words for it."
 
-Claudia felt something in her, tired from three weeks of ocean and a day of strange rooms, sharpen with interest despite itself. "What word would you use?"
+Claudia felt something in her, tired from three weeks of ocean and a day of strange rooms, sharpen with interest despite itself, the same alertness she had once felt as a child measuring a summons for danger before she measured it for anything else, though this time the alertness carried no fear in it at all, only a curiosity she had not expected a stranger's plain correction to provoke in her on the first day of an entirely new life. "What word would you use?"
 
 Tamar considered the question with a seriousness Claudia would come to learn was characteristic of her, a refusal to treat even a stranger's idle question as beneath a real answer. "Stagnant. Or worse. Water that isn't moving toward anything isn't resting, in my father's telling. It's only forgotten." She glanced toward the basin. "Living water runs. That's the word we actually use for it: mayim chayim. Water still connected to its source. Anything else is a jar somebody meant to empty and didn't."
 
@@ -96,4 +96,4 @@ Claudia thought of the parchment unrolled across the study table in Rome, the fi
 
 "No," Tamar agreed. "Men who draw straight lines rarely do." She said it without heat, the way one might note a fact about weather, and Claudia found she could not entirely disagree.
 
-Somewhere beyond the courtyard wall, the sea went on breaking against Herod's stone harbor, patient and unhurried, the way it had broken against this coast for longer than either empire had existed to notice it. Tamar knelt at the basin's edge and began, without being asked twice, to open the small channel that would let the standing water run down toward the sea instead of settling where it was. Claudia watched the water go, and this time did not look for her own face in it before it left.
+Somewhere beyond the courtyard wall, the sea went on breaking against Herod's stone harbor, patient and unhurried, the way it had broken against this coast for longer than either empire had existed to notice it. Claudia thought, listening to it, that she had crossed a great deal of water these past three weeks to arrive at a courtyard where a stranger's plain honesty felt more like home already than anything the palace's borrowed marble had offered her since she stepped off the gangway. Tamar knelt at the basin's edge and began, without being asked twice, to open the small channel that would let the standing water run down toward the sea instead of settling where it was. Claudia watched the water go, and this time did not look for her own face in it before it left.

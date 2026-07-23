@@ -12,6 +12,10 @@ The household did not return to any true quiet after Marcus's first report, and 
 
 She had no answer for him, and did not pretend one, and lay awake a long while after he withdrew turning the same absence over in her own mind, a man who went peaceably toward whatever waited for him, the way the figure at the edge of her dream had waited rather than fled, patient in a manner she had never found the vocabulary to name as anything but unbearable.
 
+Marcus came a second time before Tamar arrived, with a smaller detail that seemed, to Claudia, stranger for its smallness than the larger news had been for its size. "His own followers scattered when the guards came, Domina, by every account. Fled into the dark and did not stay to see what became of him. Only one, they say, followed the company back as far as the high priest's courtyard, and stood at a distance among the servants warming themselves at a fire, saying nothing, watching from the edge of the light rather than the center of it." He turned that over visibly, his jaw tightening the way it always did when a report troubled him more than he had words ready for. "I do not know why that detail has stayed with me more than the blade in the garden, Domina. Only that a man who follows that far and then stops at the fire's edge seems to me a stranger kind of courage than either fighting or fleeing outright."
+
+"Perhaps it is only fear managing what fear can," Claudia said. "A man does not have to choose between running entirely and standing entirely brave. Most of us live somewhere in the distance between the two, all our lives, and call the standing itself its own kind of faithfulness, however far back from the fire it happens to keep us."
+
 Tamar came to her once in that same stretch of dark, unbidden, having heard the same kitchen rumors Marcus carried by whatever quicker current news always found in this household, and sat with Claudia a while without either of them speaking of it directly, the way she had once sat with her in the small courtyard after Rivkah's death, offering nothing but the plain fact of not leaving her alone with it. When she finally rose to go, she paused at the door. "Whatever this morning brings, Domina, I do not think it ends the way the council believes it will. I cannot tell you why I think it. Only that I have watched hope die before in this city, and this does not feel to me like that same dying."
 
 ## The Watch Wears Thin
@@ -25,6 +29,8 @@ Marcus returned a second time nearer the fourth watch, and this time she heard, 
 "As prepared as a man can be, roused before dawn to be told a council has already decided, in the dark, what it will ask him to finish in the light." Marcus hesitated at the door. "Forgive me, Domina, if I say what is not mine to say. I do not think, whatever the council brings him, that the Prefect yet understands the whole of what he is being asked to judge this morning. I do not think any of us do."
 
 He left her then, and she sat in the lamplight a long while, listening to the household stir itself into the particular hushed activity of a crisis beginning before the sun had risen to give it any proper daylight to unfold in, footsteps in the corridor, a door somewhere below closing with more care than urgency, the ordinary machinery of the palace assembling itself around an hour it had never before had to answer for.
+
+She rose at last and dressed herself without calling for help, an old habit from the standards crisis she had never entirely unlearned, the sense that a morning demanding this much of the household was not a morning to spend waiting on someone else's hands. She did not yet know what she meant to do with the hour before dawn. She knew only that she did not intend to meet it lying down.
 
 ## What She Saw of Him Leaving
 
@@ -46,9 +52,13 @@ Jerusalem heat greeted her, heavy and unyielding. The air inside the bedchamber 
 
 She sat up, her lungs burning, her skin cold. She pressed her hands against the linen sheets until her wrist bones pained her.
 
+Somewhere below her, in the household's lower rooms, a door closed too softly to be anything but deliberate, someone moving with the particular care of a person who did not want to be the one who woke her.
+
 The dream lingered.
 
 It faded like morning mist, yet its weight remained bruised into her mind. She still heard the sound: a sharp, cracking rift, like ancient stone splitting under sudden ice. She had seen him in the dark, at last, in the place where the dream had twice before shown her only a shape and a stillness and withheld the rest. The Galilean preacher appeared as a silent, terrifying presence that filled her with dread, nothing like a northern peasant at all. Beside him stood Pontius, her husband, stepping toward a boundary no Roman law could protect him from.
+
+She did not know how long she had slept, or whether the night had given her more than these few borrowed minutes before the sound found her again. It felt, sitting there in the dark with her heart still going hard, as though no time had passed at all, only the dream itself, arriving and leaving her exactly where it had found her.
 
 Outside her chamber, a low murmur shattered the quiet. A tide of voices rose from the cobblestones beyond the palace walls.
 
