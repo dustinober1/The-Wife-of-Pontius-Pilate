@@ -8,7 +8,7 @@ She crouched in the shade of the peristyle, tracing the line of their march with
 
 "Domina Claudia. Your guardian asks for you in the tablinum."
 
-She rose, brushing dust from her tunic, already rehearsing an excuse for the ink stains still faint on her fingers from the letters she had been made to copy that week. The household never let her forget whose blood ran uncertain in her veins (claimed, tolerated, but never quite plain). She understood, in the small ways a child understands such things, that her place in this house depended on being useful rather than simply beloved.
+She rose, brushing dust from her tunic, already rehearsing an excuse for the ink stains still faint on her fingers from the letters she had been made to copy that week. The household never let her forget whose blood ran uncertain in her veins, claimed, tolerated, but never quite plain. She understood, in the small ways a child understands such things, that her place in this house depended on being useful rather than simply beloved.
 
 The tablinum was cooler, lined with scrolls she was forbidden to touch and a bronze brazier that never seemed to warm the room enough. Her guardian sat with his back to the garden light, a stylus resting forgotten beside a wax tablet, his attention fixed instead on a letter already read twice.
 
@@ -50,20 +50,20 @@ Claudia studied him for a moment, this man who was supposed to be either her sal
 
 He considered this with the same seriousness she imagined he gave to a battlefield report. "True, then. I am afraid of Rome forgetting me. I suspect you are not afraid of anything, and I find that I would like to know how you managed it."
 
-It was not romantic. It was not even particularly warm. But it was honest in a way nothing else that day had been, and Claudia realized, extending her hand to him, that she had expected to feel like cargo being delivered, and instead felt, for the first time in years, like she was being asked a real question.
+It was not romantic, and not particularly warm either. But it was honest in a way nothing else that day had been, and Claudia realized, extending her hand to him, that she had expected to feel like cargo being delivered, and instead felt, for the first time in years, like she was being asked a real question.
 
 ## Five Years
 
-Five years folded into the marriage the way a river folds into a delta — not one channel but many, each carved by patience rather than event. Claudia learned the rhythms of his ambition the way she had once learned the rhythms of her guardian's moods: which silences meant calculation, which meant fatigue, which meant a decision already made and only waiting for the right room to announce it in.
+Five years folded into the marriage the way a river folds into a delta, not one channel but many, each carved by patience rather than event. Claudia learned the rhythms of his ambition the way she had once learned the rhythms of her guardian's moods: which silences meant calculation, which meant fatigue, which meant a decision already made and only waiting for the right room to announce it in.
 
 She was in the garden, mid-morning, when the household steward came to find her at something close to a run.
 
 "Domina. The master has returned."
 
-"Already? He wasn't expected before autumn—"
+"Already? He wasn't expected before autumn."
 
 "Alone, domina. He sent the litter-bearers and the clients ahead and rode in himself. He asked for no one but you."
 
-Claudia set down the fig leaf she had been turning over without noticing she held it, and felt the old childhood instinct rise before she could stop it — the instinct that measured a summons for danger before it measured it for anything else. But this was not the tablinum, and she was not nine years old, and whatever was coming toward her now was hers to meet as a wife, not a ward.
+Claudia set down the fig leaf she had been turning over without noticing she held it, and felt the old childhood instinct rise before she could stop it, the instinct that measured a summons for danger before it measured it for anything else. But this was not the tablinum, and she was not nine years old. Whatever was coming toward her now was hers to meet as a wife, not a ward.
 
 She went to find him.

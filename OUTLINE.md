@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 4,677 drafted)
+**Target length:** ~85,000 words total (currently 7,399 drafted)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -21,7 +21,7 @@ Establishes marriage, ambition, and the crossing. Mostly drafted.
 | — | Prologue: The Shadow of the Bema | Claudia | Jerusalem, A.D. 33 | Dream, the balcony, the note, the locked gaze — drafted | ~1,500 |
 | 1 | The Red Seal | Claudia | Rome / Ostia, A.D. 26 | Appointment as Prefect, the map scene, departure — drafted | ~2,700 |
 | 2 | The Roman Bride | Claudia | Rome, flashback | Childhood as ward, ink-stained hands, arranged marriage, first meeting — drafted | ~1,500 |
-| 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs | ~2,900 |
+| 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs — drafted | ~2,900 |
 | 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested | ~2,800 |
 
 **Part I subtotal (new): ~5,700**
@@ -90,8 +90,8 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: ~4,700
-- New material (Ch 3–29 + Epilogue): ~76,600
+- Drafted: ~7,400
+- New material (Ch 4–29 + Epilogue): ~73,900
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order

@@ -10,7 +10,7 @@ She sat up, her lungs burning, her skin cold. She pressed her hands against the 
 
 The dream lingered.
 
-It faded like morning mist, yet its weight remained bruised into her mind. She still heard the sound: a sharp, cracking rift, like ancient stone splitting under sudden ice. She had seen him in the dark. The Galilean preacher appeared not as a northern peasant, but as a silent, terrifying presence that filled her with dread. Beside him stood Pontius, her husband, stepping toward a boundary no Roman law could protect him from.
+It faded like morning mist, yet its weight remained bruised into her mind. She still heard the sound: a sharp, cracking rift, like ancient stone splitting under sudden ice. She had seen him in the dark. The Galilean preacher appeared as a silent, terrifying presence that filled her with dread, nothing like a northern peasant at all. Beside him stood Pontius, her husband, stepping toward a boundary no Roman law could protect him from.
 
 Outside her chamber, a low murmur shattered the quiet. A tide of voices rose from the cobblestones beyond the palace walls.
 
@@ -20,7 +20,7 @@ Passover had arrived, filling the city with thousands of restless pilgrims. The 
 
 Claudia threw a silk palla over her linen tunic, leaving her hairpins and gold behind. Her bare soles slapped against the mosaic floor as she hurried across the chamber, pulling back the heavy woolen tapestries that sealed the terrace doors.
 
-The morning sun struck her like a flat blade. Stepping onto the terrace, she gripped the stone balustrade and looked down at the vast, paved courtyard below—the space the Greeks called Lithostrotos.
+The morning sun struck her like a flat blade. Stepping onto the terrace, she gripped the stone balustrade and looked down at the vast, paved courtyard below: the space the Greeks called Lithostrotos.
 
 The court churned. Roman legionaries, their leather cuirasses dark with sweat, formed a wall against the crowd. Opposite them stood the accusers: temple officials and their gathered clients, gathering their fine wool robes as they pressed their charges.
 
@@ -86,4 +86,4 @@ As the shouting continued below, Pontius slowly lifted his head.
 
 He turned toward the upper palace terrace. Across forty yards of open air, through the heat and dust, his gaze locked onto hers.
 
-He held her warning in his hands. The prisoner stood between them. The full weight of his Roman authority—and the quiet, terrible consequence of what he would do with it—hung on the choice he was about to make.
+He held her warning in his hands. The prisoner stood between them. The full weight of his Roman authority, and the quiet, terrible consequence of what he would do with it, hung on the choice he was about to make.
