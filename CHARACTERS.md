@@ -48,6 +48,7 @@ Cast sheet for continuity. Facts marked **(on page)** are already locked by draf
 - **Ennius (on page):** The guardian's steward in Rome, Ch2 childhood scenes only. Never raised his voice above a murmur.
 - **The guardian (on page):** Unnamed. Flat voice of a man "accustomed to being obeyed rather than loved"; cold hands; "Do you know what it means to be useful to this house?" Keep him unnamed — he works as a force, not a person. If Ch27/Epilogue needs word of his death, that's available as a beat.
 - **Pontius's legal scribe (on page):** At the foot of the dais at the trial; the link in the note's chain of custody. Unnamed; could be given a face in the Pontius POV chapters.
+- **Simon (on page, Ch8):** The cook's boy; quiet, previously unremarked in the household. Walks to the Jordan with his uncle and is baptized by John; gives Claudia her only near-firsthand account of the preacher (John offstage per the style rule, reported through Simon rather than shown directly). Open thread: whether he recurs.
 
 ## Historical figures (as the book needs them)
 
@@ -55,7 +56,7 @@ Cast sheet for continuity. Facts marked **(on page)** are already locked by draf
 - **Sejanus:** Praetorian prefect; Pontius's patron and the marriage's political ceiling. Falls 18 October A.D. 31 (Ch16). His letters in Ch11/15 should read, in retrospect, like a man overreaching.
 - **Caiaphas:** High priest A.D. 18–36; survivor; his working arrangement with the prefecture is the unspoken machinery behind Ch4, 9, 17, 23. Deposed by Vitellius shortly after Pontius's recall — a quiet irony available to the Epilogue.
 - **Annas:** Former high priest, Caiaphas's father-in-law; real power behind the house.
-- **Herod Antipas:** Tetrarch of Galilee and Perea. Executes John at Machaerus. Rivalry with Pontius (Luke 23:12 — "became friends that day") available for Ch23 if wanted.
+- **Herod Antipas:** Tetrarch of Galilee and Perea. Executes John at Machaerus. Rivalry with Pontius (Luke 23:12 — "became friends that day") available for Ch23 if wanted. **First named on page in Ch8**, secondhand through Pontius: one of Herod the Great's several heirs, given Galilee and Perea in the kingdom's partition; builds cities named for the Emperor and himself; Pontius's assessment is that Antipas's position depends on being the only one in his territory who can command large numbers, making John's crowds at the Jordan (which falls inside Antipas's tetrarchy, not Pontius's) a problem for Antipas to solve, not Judaea's prefect.
 - **Herodias:** Formerly married to Antipas's half-brother; the scandal John denounced. Her court is Ch12.
 - **Salome:** Herodias's daughter (name from Josephus, not the Gospels).
 - **John the Baptist:** Never on page directly (rumor in Ch8, news of death in Ch13) — keep him offstage; his offstage-ness is the model for how the book handles Jesus too.
