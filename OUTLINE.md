@@ -53,9 +53,9 @@ Sejanus falls. Pontius loses his cover, and the ground shifts under everything h
 | 14 | The Dream Begins | Claudia | First, unplaced version of the recurring dream — brief, disturbing, dismissed as heat and fatigue — drafted | ~1,900 |
 | 15 | News from the Palatine | Pontius | Political dispatches from Rome; Sejanus's power appears absolute; dramatic irony for the reader — drafted | ~2,300 |
 | 16 | The Fall of Sejanus | Pontius | October, A.D. 31 — the letter arrives; Sejanus executed for conspiracy; Pontius's protection is gone overnight — drafted | ~2,400 |
-| 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time | ~2,900 |
+| 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time — drafted | ~2,300 |
 
-**Part III subtotal: ~16,200**
+**Part III subtotal: ~16,200** (Ch 12–17 drafted at ~13,500)
 
 ## PART IV — Passover, A.D. 33
 
@@ -90,8 +90,8 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: ~36,900
-- New material (Ch 17–29 + Epilogue): ~43,700
+- Drafted: ~39,200
+- New material (Ch 18–29 + Epilogue): ~41,400
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order
