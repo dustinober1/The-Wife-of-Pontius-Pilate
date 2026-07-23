@@ -64,7 +64,7 @@ That evening he found Claudia in the small courtyard at the palace's eastern fac
 
 "And what do you think?"
 
-"I think you told six men who have governed themselves by argument and patience since before Rome had walls that you intend to govern them by measurement instead, and that they heard you perfectly, and agreed to nothing." She said it without heat, watching the empty basin rather than him, and Pontius found himself, not for the first time, unable to tell whether she meant it as accusation or simple report.
+"I think you told six men who have governed themselves by argument and patience since before Rome had walls that you intend to govern them by measurement instead, and that they heard you perfectly, and agreed to nothing." She said it without heat, watching the empty basin rather than him, and Pontius could not tell, not for the first time, whether she meant it as accusation or simple report.
 
 "I offered them a fair compromise. The standards stay out of the Temple courts."
 
@@ -76,6 +76,6 @@ He considered arguing the point, and found, standing in the cooling air with the
 
 "Perhaps," she said. "Or perhaps a spine only stays unbending until the day it's tested past what it was built to hold, and no man knows which day that is until it has already arrived."
 
-He did not answer that. He watched instead as she crouched at the basin's edge and drew one finger through the last thin film of standing water at its bottom, breaking what little reflection the failing light still offered there, and thought, without quite deciding to think it, that he had married a woman who saw danger in still water where he saw only water waiting to be drained, and had never yet worked out which of them the province itself would prove to agree with.
+He did not answer that. He watched instead as she crouched at the basin's edge and drew one finger through the last thin film of standing water at its bottom, breaking what little reflection the failing light still offered there. He had no ready answer for that either, and did not try to invent one.
 
 Somewhere beyond the courtyard wall, a trumpet sounded the changing of the watch, brisk and ordinary, the same call he had heard sounded in every garrison town he had ever served in, and Pontius found the sound obscurely comforting, a single fixed point in a country that seemed determined, in every other particular, to refuse him one.

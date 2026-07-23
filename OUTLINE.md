@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 73,475 drafted — full first draft complete, Prologue through Epilogue, expanded and then prose-tightened in two revision passes; remaining gap to target is now mostly a matter of scene-level deepening rather than any chapter running noticeably short)
+**Target length:** ~85,000 words total (currently 73,335 drafted — full first draft complete, Prologue through Epilogue, expanded and then prose-tightened across three revision passes covering the whole manuscript, not just the chapters drafted this session)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -22,9 +22,9 @@ Establishes marriage, ambition, and the crossing. Mostly drafted.
 | 1 | The Red Seal | Claudia | Rome / Ostia, A.D. 26 | Appointment as Prefect, the map scene, departure — drafted | 2,704 |
 | 2 | The Roman Bride | Claudia | Rome, flashback | Childhood as ward, ink-stained hands, arranged marriage, first meeting — drafted | 1,350 |
 | 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs — drafted | 2,792 |
-| 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested — drafted | 2,116 |
+| 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested — drafted | 2,083 |
 
-**Part I subtotal: 10,327 words (drafted in full)**
+**Part I subtotal: 10,294 words (drafted in full)**
 
 ## PART II — The Governor's Wife (26–29 A.D.)
 
@@ -48,14 +48,14 @@ Sejanus falls. Pontius loses his cover, and the ground shifts under everything h
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 12 | Herodias's Court | Claudia | Embassy or visit touching Herod Antipas's household; introduces the political undercurrent around John — drafted | 2,560 |
+| 12 | Herodias's Court | Claudia | Embassy or visit touching Herod Antipas's household; introduces the political undercurrent around John — drafted | 2,558 |
 | 13 | The Baptist's Head | Claudia | News of John's execution reaches Caesarea; Claudia's reaction; Pontius reads it purely as politics — drafted | 2,503 |
 | 14 | The Dream Begins | Claudia | First, unplaced version of the recurring dream — brief, disturbing, dismissed as heat and fatigue — drafted | 1,878 |
-| 15 | News from the Palatine | Pontius | Political dispatches from Rome; Sejanus's power appears absolute; dramatic irony for the reader — drafted | 2,301 |
+| 15 | News from the Palatine | Pontius | Political dispatches from Rome; Sejanus's power appears absolute; dramatic irony for the reader — drafted | 2,300 |
 | 16 | The Fall of Sejanus | Pontius | October, A.D. 31 — the letter arrives; Sejanus executed for conspiracy; Pontius's protection is gone overnight — drafted | 2,385 |
-| 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time — drafted | 2,318 |
+| 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time — drafted | 2,289 |
 
-**Part III subtotal: 13,945 words (drafted in full)**
+**Part III subtotal: 13,913 words (drafted in full)**
 
 ## PART IV — Passover, A.D. 33
 
@@ -90,7 +90,7 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: 73,475 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened in a prose-quality pass to cut repeated constructions)
+- Drafted: 73,335 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened in two prose-quality passes — the second of which extended to Ch1–17, chapters from before this session that had never had this kind of review)
 - Remaining gap to the ~85,000 target is now spread thinly across the whole book rather than concentrated in a handful of short chapters; closing it further is a scene-by-scene deepening exercise, not a structural one
 - Projected finished length: ~81,300–85,000 words
 
