@@ -21,7 +21,7 @@ Establishes marriage, ambition, and the crossing. Mostly drafted.
 | — | Prologue: The Shadow of the Bema | Claudia | Jerusalem, A.D. 33 | Dream, the balcony, the note, the locked gaze — drafted | ~1,500 |
 | 1 | The Red Seal | Claudia | Rome / Ostia, A.D. 26 | Appointment as Prefect, the map scene, departure — drafted | ~2,700 |
 | 2 | The Roman Bride | Claudia | Rome, flashback | Childhood as ward, ink-stained hands, arranged marriage, first meeting — drafted | ~1,500 |
-| 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs | ~2,900 |
+| 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs — drafted | ~2,900 |
 | 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested | ~2,800 |
 
 **Part I subtotal (new): ~5,700**

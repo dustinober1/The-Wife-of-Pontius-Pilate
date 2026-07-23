@@ -77,6 +77,14 @@ The `*Setting: ...*` line only appears when `OUTLINE.md` specifies a Time/Place 
   - **The dream**: must be seeded twice, lightly, before Part IV (Ch14 "The Dream Begins," Ch20 "The Second Dream"), so its full arrival in the Prologue doesn't feel unearned.
 - **Structural note**: Chapters 22–23 are written to rejoin the Prologue's actual text almost seamlessly — the Prologue is effectively the ending of Ch23 excerpted forward. When drafting either, cross-check against `manuscript/00-prologue-the-shadow-of-the-bema.md` for continuity of action and phrasing.
 
+## Prose style constraints
+
+These apply to every chapter, drafted or in revision — they are the most common tells of AI-generated prose and must be actively avoided, not just left unfixed when noticed:
+
+- **No em dashes.** Rewrite the sentence with a period, comma, colon, or parenthetical instead. This includes the em dash used as a dramatic pause before a final clause.
+- **No "not X, but Y" (or "not quite X, but Y") constructions**, and no other negative-parallelism hedges ("not merely...", "less an X than a Y", "if not X, then at least Y"). State what the thing is, directly, rather than defining it by what it isn't.
+- Be alert generally to other signs of AI writing when drafting or revising: rule-of-three lists, inflated symbolism stated outright rather than left implicit, vague attributions ("some say," "many believe"), excessive conjunctive throat-clearing ("Moreover," "Furthermore," "That said"), and summarizing a scene's meaning in the narration instead of trusting the reader. When in doubt, run a pass with the `humanizer` skill before considering a chapter finished.
+
 ## Word counts
 
 Target lengths are per-chapter in `OUTLINE.md` and in each stub's `*Target length*` line; there's a running total at the bottom of `OUTLINE.md` (drafted vs. new material vs. projected finished length ~81,300–85,000 words). To check current word counts:
