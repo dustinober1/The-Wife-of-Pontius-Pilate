@@ -35,11 +35,11 @@ Cast sheet for continuity. Facts marked **(on page)** are already locked by draf
 
 ### Tamar
 
-- **Role:** Jewish household confidante in Caesarea; Claudia's window into Jewish law and hope "on human terms, not political ones" (Ch7). Later the household's channel for news of John and of Jesus (Ch8, 18, 20).
+- **Role:** Jewish household confidante in Caesarea; Claudia's window into Jewish law and hope "on human terms, not political ones" (Ch7, on page). Later the household's channel for news of John and of Jesus (Ch8, 18, 20).
 - **Name:** Confirmed as Tamar (no longer provisional).
 - **Position:** Free hired servant, not enslaved — chosen deliberately so the friendship with Claudia can read as between near-equals rather than mistress/property, and because it's historically plausible in a coastal household with a mixed local staff.
-- **Age & family:** Still open — a family in Galilee or Jerusalem would give her personal stakes in the standards protest, the aqueduct riot, and Passover without contrivance. Decide by Ch3 or Ch7 at the latest.
-- **Relation to the Jesus movement:** None directly — she relays what ordinary people hear and hope, secondhand. Keeps the faith arc unforced and consistent with CLAUDE.md's rule against a doctrinal conversion scene.
+- **Family (on page, Ch7):** Local to Caesarea, not Galilee or Jerusalem. Mother died of a fever when Tamar was small; raised afterward by her aunt Rivkah in a house two streets from the harbor. Rivkah dies of a lung ailment in Ch7, giving Claudia her first close look at Jewish mourning customs (the seven days, torn collar, round mourners' bread, no thanks offered for it). A cousin, Yaakov, stood in the standards protest (Ch5, gray shawl, three rows back from the gate) and appears again bruised but unharmed in Ch7.
+- **Relation to the Jesus movement:** None directly — she relays what ordinary people hear and hope, secondhand. Keeps the faith arc unforced and consistent with CLAUDE.md's rule against a doctrinal conversion scene. Ch7 gives her the clearest statement yet of the book's "human terms" version of hope: not fear of Roman punishment, but a belief that "what is broken is not broken forever," offered to Claudia as something to carry back to Pontius without letting him mistake it for strategy.
 
 ## Household
 
