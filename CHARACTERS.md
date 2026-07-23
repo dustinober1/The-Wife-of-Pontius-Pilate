@@ -35,11 +35,11 @@ Cast sheet for continuity. Facts marked **(on page)** are already locked by draf
 
 ### Tamar
 
-- **Role:** Jewish household confidante in Caesarea; Claudia's window into Jewish law and hope "on human terms, not political ones" (Ch7). Later the household's channel for news of John and of Jesus (Ch8, 18, 20).
+- **Role:** Jewish household confidante in Caesarea; Claudia's window into Jewish law and hope "on human terms, not political ones" (Ch7, on page). Later the household's channel for news of John and of Jesus (Ch8, 18, 20).
 - **Name:** Confirmed as Tamar (no longer provisional).
 - **Position:** Free hired servant, not enslaved — chosen deliberately so the friendship with Claudia can read as between near-equals rather than mistress/property, and because it's historically plausible in a coastal household with a mixed local staff.
-- **Age & family:** Still open — a family in Galilee or Jerusalem would give her personal stakes in the standards protest, the aqueduct riot, and Passover without contrivance. Decide by Ch3 or Ch7 at the latest.
-- **Relation to the Jesus movement:** None directly — she relays what ordinary people hear and hope, secondhand. Keeps the faith arc unforced and consistent with CLAUDE.md's rule against a doctrinal conversion scene.
+- **Family (on page, Ch7):** Local to Caesarea, not Galilee or Jerusalem. Mother died of a fever when Tamar was small; raised afterward by her aunt Rivkah in a house two streets from the harbor. Rivkah dies of a lung ailment in Ch7, giving Claudia her first close look at Jewish mourning customs (the seven days, torn collar, round mourners' bread, no thanks offered for it). A cousin, Yaakov, stood in the standards protest (Ch5, gray shawl, three rows back from the gate) and appears again bruised but unharmed in Ch7.
+- **Relation to the Jesus movement:** None directly — she relays what ordinary people hear and hope, secondhand. Keeps the faith arc unforced and consistent with CLAUDE.md's rule against a doctrinal conversion scene. Ch7 gives her the clearest statement yet of the book's "human terms" version of hope: not fear of Roman punishment, but a belief that "what is broken is not broken forever," offered to Claudia as something to carry back to Pontius without letting him mistake it for strategy.
 
 ## Household
 
@@ -48,14 +48,15 @@ Cast sheet for continuity. Facts marked **(on page)** are already locked by draf
 - **Ennius (on page):** The guardian's steward in Rome, Ch2 childhood scenes only. Never raised his voice above a murmur.
 - **The guardian (on page):** Unnamed. Flat voice of a man "accustomed to being obeyed rather than loved"; cold hands; "Do you know what it means to be useful to this house?" Keep him unnamed — he works as a force, not a person. If Ch27/Epilogue needs word of his death, that's available as a beat.
 - **Pontius's legal scribe (on page):** At the foot of the dais at the trial; the link in the note's chain of custody. Unnamed; could be given a face in the Pontius POV chapters.
+- **Simon (on page, Ch8):** The cook's boy; quiet, previously unremarked in the household. Walks to the Jordan with his uncle and is baptized by John; gives Claudia her only near-firsthand account of the preacher (John offstage per the style rule, reported through Simon rather than shown directly). Open thread: whether he recurs.
 
 ## Historical figures (as the book needs them)
 
 - **Tiberius:** Emperor throughout; withdrawn to Capri from ~A.D. 26–27 — all imperial contact is by letter, which the book should exploit (distance, delay, dread). Dies 16 March A.D. 37, before Pontius can answer for Gerizim.
 - **Sejanus:** Praetorian prefect; Pontius's patron and the marriage's political ceiling. Falls 18 October A.D. 31 (Ch16). His letters in Ch11/15 should read, in retrospect, like a man overreaching.
-- **Caiaphas:** High priest A.D. 18–36; survivor; his working arrangement with the prefecture is the unspoken machinery behind Ch4, 9, 17, 23. Deposed by Vitellius shortly after Pontius's recall — a quiet irony available to the Epilogue.
+- **Caiaphas:** High priest A.D. 18–36; survivor; his working arrangement with the prefecture is the unspoken machinery behind Ch4, 9, 17, 23. Deposed by Vitellius shortly after Pontius's recall — a quiet irony available to the Epilogue. **First on-page appearance in Ch9**: receives Pontius in a chamber off the Temple's outer court (a deliberately neutral location neither man names as a concession); authorizes korbanas funds for the aqueduct on the condition his own overseers watch the spending alongside Pontius's engineers. Reads to Pontius as a man who calculates rather than believes, which Pontius finds easier to negotiate with than conviction. Names Corban for him: an offering "set apart," no longer available to ordinary use, which is the vocabulary the priesthood will later use against the spending even though Caiaphas himself authorized it.
 - **Annas:** Former high priest, Caiaphas's father-in-law; real power behind the house.
-- **Herod Antipas:** Tetrarch of Galilee and Perea. Executes John at Machaerus. Rivalry with Pontius (Luke 23:12 — "became friends that day") available for Ch23 if wanted.
+- **Herod Antipas:** Tetrarch of Galilee and Perea. Executes John at Machaerus. Rivalry with Pontius (Luke 23:12 — "became friends that day") available for Ch23 if wanted. **First named on page in Ch8**, secondhand through Pontius: one of Herod the Great's several heirs, given Galilee and Perea in the kingdom's partition; builds cities named for the Emperor and himself; Pontius's assessment is that Antipas's position depends on being the only one in his territory who can command large numbers, making John's crowds at the Jordan (which falls inside Antipas's tetrarchy, not Pontius's) a problem for Antipas to solve, not Judaea's prefect.
 - **Herodias:** Formerly married to Antipas's half-brother; the scandal John denounced. Her court is Ch12.
 - **Salome:** Herodias's daughter (name from Josephus, not the Gospels).
 - **John the Baptist:** Never on page directly (rumor in Ch8, news of death in Ch13) — keep him offstage; his offstage-ness is the model for how the book handles Jesus too.
