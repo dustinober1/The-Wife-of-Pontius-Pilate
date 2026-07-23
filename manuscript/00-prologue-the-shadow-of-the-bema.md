@@ -44,19 +44,19 @@ Her secretary stepped quickly from the shadows. The Greek boy carried a small in
 
 "There is no time," Claudia gasped, striding to her writing desk. She snatched a scrap of coarse parchment and a reed pen. Her hand shook so violently that ink bloomed across the grain.
 
-"Write," she commanded, her voice dropping to a fierce whisper. "Write every word, exactly as I say it".
+"Write," she commanded, her voice dropping to a fierce whisper. "Write every word, exactly as I say it."
 
 Marcus dipped his pen, his knuckles stiff.
 
-"Tell the Governor," she began, closing her eyes as the weight of the nightmare returned. "Have nothing to do with that innocent man".
+"Tell the Governor," she began, closing her eyes as the weight of the nightmare returned. "Have nothing to do with that innocent man."
 
 Marcus paused, the nib hovering over the leaf.
 
-"Write it!" Claudia ordered, stepping into his space. "Have nothing to do with that innocent man, for I have suffered much today because of a dream".
+"Write it!" Claudia ordered, stepping into his space. "Have nothing to do with that innocent man, for I have suffered much today because of a dream."
 
 Before the ink dried, she rolled the small sheet tight.
 
-"Take it to him. Do not give it to a captain, nor to a guard. Find his private scribe at the foot of the dais and make him put it directly into his hands".
+"Take it to him. Do not give it to a captain, nor to a guard. Find his private scribe at the foot of the dais and make him put it directly into his hands."
 
 Marcus took the scroll, swallowed hard, and ran from the room.
 
