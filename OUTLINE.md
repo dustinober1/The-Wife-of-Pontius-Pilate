@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 57,700 drafted)
+**Target length:** ~85,000 words total (currently 59,400 drafted)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -80,18 +80,18 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
 | 25 | The Empty Report | Pontius | Official aftermath; the body released to Joseph of Arimathea; paperwork as a way of not feeling anything — drafted | ~2,100 |
-| 26 | Rumors of an Empty Tomb | Claudia | Reports reach the household; Pontius dismisses them outright; Claudia can't | ~2,600 |
+| 26 | Rumors of an Empty Tomb | Claudia | Reports reach the household; Pontius dismisses them outright; Claudia can't — drafted | ~1,800 |
 | 27 | Three Years of Silence | Claudia | Time skip to ~36 A.D.; the marriage grown distant; Pontius harsher and more paranoid; Claudia's private transformation, mostly interior | ~2,900 |
 | 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation | ~2,800 |
 | 29 | The Recall | Claudia | Vitellius removes him from office; the journey back toward Rome begins under a cloud | ~2,700 |
 | — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands | ~1,800 |
 
-**Part V subtotal: ~14,900** (Ch 25 drafted at ~2,100)
+**Part V subtotal: ~14,100** (Ch 25–26 drafted at ~3,900)
 
 ## Running total
 
-- Drafted: ~57,700
-- New material (Ch 26–29 + Epilogue): ~23,900
+- Drafted: ~59,400
+- New material (Ch 27–29 + Epilogue): ~22,200
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order
