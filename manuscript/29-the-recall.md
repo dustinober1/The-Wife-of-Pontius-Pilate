@@ -26,7 +26,7 @@ The packing, when it began in earnest, bore almost no resemblance to the hurried
 
 She thought, more than once during those weeks, of Sulpicia, dead now these four years past of a fever the household physician had never fully named, buried in the small Roman cemetery outside Caesarea's walls rather than carried home to the soil she had always sworn she meant to be buried in, and understood that her old nurse's grave was one more thing this recall would ask her to leave behind unfinished, a grief she had carried quietly through the silent years and would now carry onto a ship without ever having properly closed the account of it.
 
-Marcus managed the inventory this time with none of the boyish uncertainty she remembered from Ostia, a man near thirty directing porters and household staff with the same careful competence he brought to everything, though she caught him once, standing over the same cedar trunk that had once held her record scrolls on the crossing out, running his thumb along its brass corner with an expression she recognized as its own private grief for a decade he was not yet ready to have end.
+Marcus managed the inventory this time with none of the boyish uncertainty she remembered from Ostia, a man of twenty-six directing porters and household staff with the same careful competence he brought to everything, though she caught him once, standing over the same cedar trunk that had once held her record scrolls on the crossing out, running his thumb along its brass corner with an expression she recognized as its own private grief for a decade he was not yet ready to have end.
 
 ## Caiaphas, Also Removed
 

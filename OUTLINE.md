@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 65,800 drafted)
+**Target length:** ~85,000 words total (currently 67,330 drafted — full first draft complete, Prologue through Epilogue; a revision pass could still expand chapters that ran under their target length)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -84,14 +84,14 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 | 27 | Three Years of Silence | Claudia | Time skip to ~36 A.D.; the marriage grown distant; Pontius harsher and more paranoid; Claudia's private transformation, mostly interior — drafted | ~2,200 |
 | 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation — drafted | ~1,900 |
 | 29 | The Recall | Claudia | Vitellius removes him from office; the journey back toward Rome begins under a cloud — drafted | ~2,300 |
-| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands | ~1,800 |
+| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands — drafted | ~1,600 |
 
-**Part V subtotal: ~12,100** (Ch 25–29 drafted at ~10,300)
+**Part V subtotal: ~11,900** (Ch 25–29 + Epilogue drafted at ~11,900 — Part V complete)
 
 ## Running total
 
-- Drafted: ~65,800
-- New material (Epilogue): ~1,800 remaining
+- Drafted: ~67,300 (Prologue through Epilogue, full first draft complete)
+- Projected finished length after a revision pass: ~81,300–85,000 words, if the chapters that ran under target are expanded
 - Projected finished length: ~81,300–85,000 words
 
 ## Suggested drafting order
