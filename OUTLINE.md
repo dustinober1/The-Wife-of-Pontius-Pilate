@@ -49,13 +49,13 @@ Sejanus falls. Pontius loses his cover, and the ground shifts under everything h
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
 | 12 | Herodias's Court | Claudia | Embassy or visit touching Herod Antipas's household; introduces the political undercurrent around John — drafted | 2,558 |
-| 13 | The Baptist's Head | Claudia | News of John's execution reaches Caesarea; Claudia's reaction; Pontius reads it purely as politics — drafted | 2,503 |
+| 13 | The Baptist's Head | Claudia | News of John's execution reaches Caesarea; Claudia's reaction; Pontius reads it purely as politics; restructured (opens in medias res, closes without the old explanatory reflection) per external editorial review to break the report/interpret/reflect rhythm — drafted | 2,424 |
 | 14 | The Dream Begins | Claudia | First, unplaced version of the recurring dream — brief, disturbing, dismissed as heat and fatigue — drafted | 1,878 |
 | 15 | News from the Palatine | Pontius | Political dispatches from Rome; Sejanus's power appears absolute; dramatic irony for the reader — drafted | 2,300 |
 | 16 | The Fall of Sejanus | Pontius | October, A.D. 31 — the letter arrives; Sejanus executed for conspiracy; Pontius's protection is gone overnight — drafted | 2,385 |
 | 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time — drafted | 2,289 |
 
-**Part III subtotal: 13,913 words (drafted in full)**
+**Part III subtotal: 13,834 words (drafted in full)**
 
 ## PART IV — Passover, A.D. 33
 
@@ -90,9 +90,9 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: 73,129 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened across several further passes: two prose-quality passes — the second of which extended to Ch1–17 — a line-variety pass trimming the overused "plainly"/"rather than" constructions manuscript-wide, a structural trim of the Prologue/Ch22/Ch23 duplication and Ch27's pacing, a pass giving Claudia one consequential misjudgment (Ch9–11) and Tamar one unresolved moment of unfairness (Ch13), a voice-differentiation pass on Tamar/Simon/Rufus dialogue, and a new directly-witnessed scene in Ch18 (Simon travels to see the teacher himself) — all per external editorial review)
+- Drafted: 72,863 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened across several further passes: two prose-quality passes — the second of which extended to Ch1–17 — a line-variety pass trimming the overused "plainly"/"rather than" constructions manuscript-wide, a structural trim of the Prologue/Ch22/Ch23 duplication and Ch27's pacing, a pass giving Claudia one consequential misjudgment (Ch9–11) and Tamar one unresolved moment of unfairness (Ch13), a voice-differentiation pass on Tamar/Simon/Rufus dialogue, and a new directly-witnessed scene in Ch18 (Simon travels to see the teacher himself) — all per external editorial review)
 - Chapters 22–23 no longer repeat the Prologue's prose verbatim; they rhyme with its imagery and beats in freshly written sentences, which reads better on a re-read but costs some raw word count against the original target
-- The Ch8–20 "report arrives, someone interprets it, a reflection closes the scene" pattern the review flagged is only partly addressed (Ch18 now has one witnessed scene); the same fix could still be applied to one or two other chapters in that stretch if wanted
+- The Ch8–20 "report arrives, someone interprets it, a reflection closes the scene" pattern the review flagged is now addressed in two ways: Ch18 has one directly-witnessed scene, and Ch13 has been restructured (opens in medias res, closes on a shorter, less explanatory image) as a lower-risk fix that varies rhythm without adding content. Other chapters in that stretch (8, 15, 19, 20) still follow the pattern more closely but were judged lower priority or riskier to alter (Ch8/John content is meant to stay maximally offstage; Ch15/19 are Pontius-POV dispatch chapters where the pattern is closer to the point).
 - Remaining gap to the ~85,000 target is now spread thinly across the whole book rather than concentrated in a handful of short chapters; closing it further is a scene-by-scene deepening exercise, not a structural one
 - Projected finished length: ~80,500–84,500 words
 
