@@ -31,7 +31,9 @@ Conventions derived from the drafted prose (Prologue, Ch1, Ch2). These are descr
 
 ## Punctuation and mechanics
 
-- **Em dashes: unspaced** (`word—word`), the Prologue/Ch1 pattern. Ch2 currently uses spaced em dashes ( — ) in places; normalize toward unspaced in any revision pass that touches those lines, but don't do a mechanical sweep mid-draft.
+- **No em dashes anywhere** (see CLAUDE.md, which supersedes this sheet's earlier "unspaced em dash" guidance from before the manuscript-wide no-em-dash pass). Rewrite with a period, comma, colon, or parenthetical instead. As of the em-dash sweep, zero em dashes remain anywhere in `manuscript/*.md` — keep it that way.
+- Ellipses are also avoided throughout, by the same logic as em dashes (a trailing-off can be conveyed by ending the sentence and letting the next line's action carry the pause). Don't introduce one to indicate a character trailing off; use a full stop and a beat of action/description instead.
+- **Quotes stay straight in the source** (`"` and `'`), which is standard for plain-text/Markdown editing and diffing. The docx export (`build.js` in the working scratchpad) converts them to typographic curly quotes (“ ” ‘ ’) at generation time — don't hand-convert the `.md` files themselves.
 - Numbers spelled out in narration ("forty yards," "eleven years," "tens of thousands").
 - Italics are reserved for interior thought only (see above) — not for emphasis, not for foreign terms.
 

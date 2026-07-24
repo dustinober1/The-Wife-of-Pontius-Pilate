@@ -54,7 +54,7 @@ She found her own rooms by following the sound of water, an old habit now, three
 
 "The basin needs draining, Domina. It draws mosquitoes this time of year." The words were correct, careful, the accented Latin of someone who had learned it as a second language and later than childhood. "I can have it done before evening, if you'd rather it stay dry."
 
-## A Woman Named Tamar
+## The Woman at the Basin
 
 She was perhaps Claudia's own age, dressed without ornament, dark hair bound back beneath a cloth in a style Claudia had not yet learned to read. Married or unmarried, devout or merely modest, she could not yet tell which. She stood at the courtyard's edge with the particular stillness of someone who had already decided, before Claudia turned, exactly how much of herself she intended to show a Roman stranger.
 
