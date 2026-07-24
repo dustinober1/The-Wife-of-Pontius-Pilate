@@ -1,6 +1,6 @@
 # The Wife of Pontius Pilate — Full Book Outline
 
-**Target length:** ~85,000 words total (currently 72,784 drafted — full first draft complete, Prologue through Epilogue, expanded and then prose-tightened across several revision passes covering the whole manuscript, including a structural trim of the Prologue/Ch22/Ch23 repetition and Ch27's pacing)
+**Target length:** ~85,000 words total (currently 73,129 drafted — full first draft complete, Prologue through Epilogue, expanded and then prose-tightened across several revision passes covering the whole manuscript, including a structural trim of the Prologue/Ch22/Ch23 repetition, Ch27's pacing, and a new directly-witnessed scene added to Ch18 to break the middle section's report-only pattern)
 **POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
 **Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
 
@@ -63,7 +63,7 @@ The Prologue's morning, now built from the ground up. Chapters 22–23 should re
 
 | Ch | Title | POV | Beats | Target |
 |---|---|---|---|---|
-| 18 | Whispers of the Galilean | Claudia | Reports of Jesus and his following reach the household through Tamar and others — drafted | 2,646 |
+| 18 | Whispers of the Galilean | Claudia | Reports of Jesus and his following reach the household through Tamar and others; Simon breaks the pattern by going to see the teacher himself and returning with one directly witnessed scene (added per external editorial review to dramatize rather than only report the middle section) — drafted | 3,222 |
 | 19 | The Prophet in the Fields | Pontius | His political assessment — not yet judged a threat; comparison to John — drafted | 2,704 |
 | 20 | The Second Dream | Claudia | The dream returns, sharper; a scene with Tamar discussing the teacher directly — drafted | 2,483 |
 | 21 | Into Jerusalem | Claudia | Passover travel to Jerusalem; the city filling with pilgrims; the arrest happens overnight, offstage — drafted | 2,738 |
@@ -71,7 +71,7 @@ The Prologue's morning, now built from the ground up. Chapters 22–23 should re
 | 23 | The Bema | Claudia | Rejoins the Prologue's balcony/message/knife-edge beats in fresh prose rather than repeated text, then extends past the Prologue's ending into the verdict itself — drafted | 2,802 |
 | 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd — drafted | 2,404 |
 
-**Part IV subtotal: 17,546 words (drafted in full)**
+**Part IV subtotal: 18,122 words (drafted in full)**
 
 ## PART V — After
 
@@ -90,10 +90,11 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: 72,408 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened across several further passes: two prose-quality passes — the second of which extended to Ch1–17 — a line-variety pass trimming the overused "plainly"/"rather than" constructions manuscript-wide, a structural trim of the Prologue/Ch22/Ch23 duplication and Ch27's pacing, a pass giving Claudia one consequential misjudgment (Ch9–11) and Tamar one unresolved moment of unfairness (Ch13), and a voice-differentiation pass on Tamar/Simon/Rufus dialogue — all per external editorial review)
+- Drafted: 73,129 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened across several further passes: two prose-quality passes — the second of which extended to Ch1–17 — a line-variety pass trimming the overused "plainly"/"rather than" constructions manuscript-wide, a structural trim of the Prologue/Ch22/Ch23 duplication and Ch27's pacing, a pass giving Claudia one consequential misjudgment (Ch9–11) and Tamar one unresolved moment of unfairness (Ch13), a voice-differentiation pass on Tamar/Simon/Rufus dialogue, and a new directly-witnessed scene in Ch18 (Simon travels to see the teacher himself) — all per external editorial review)
 - Chapters 22–23 no longer repeat the Prologue's prose verbatim; they rhyme with its imagery and beats in freshly written sentences, which reads better on a re-read but costs some raw word count against the original target
+- The Ch8–20 "report arrives, someone interprets it, a reflection closes the scene" pattern the review flagged is only partly addressed (Ch18 now has one witnessed scene); the same fix could still be applied to one or two other chapters in that stretch if wanted
 - Remaining gap to the ~85,000 target is now spread thinly across the whole book rather than concentrated in a handful of short chapters; closing it further is a scene-by-scene deepening exercise, not a structural one
-- Projected finished length: ~80,000–84,000 words
+- Projected finished length: ~80,500–84,500 words
 
 ## Suggested drafting order
 

@@ -74,6 +74,38 @@ She had no comfort ready for him, and did not offer a false one. "Perhaps a man 
 
 She walked back through the colonnade turning it over, the image of two unknown men standing together in the same brown water years before either had drawn a crowd large enough to trouble a prefect's steward. She could not decide whether the two stories joining at so plain a source comforted her, or only deepened the sense that something had been building toward this season for far longer than the household's recent rumors accounted for.
 
+## What Simon Went To See
+
+He came to her again ten days later, before she had thought to seek him out, standing at the edge of the peristyle with the stillness of a boy who had rehearsed how he meant to begin and lost the rehearsal the moment he opened his mouth.
+
+"I went to see him, Domina." He said it plainly, the way he might have confessed to breaking a jar. "My uncle did not ask me to come this time. I asked him."
+
+She set down the accounts she had been keeping. "Pontius does not know."
+
+"No one told me not to go, Domina, so I did not think I needed to ask first." He had the grace to look uncertain of the logic even as he offered it. "I told the kitchen I was visiting my uncle. That much was true."
+
+"What did you see."
+
+He was quiet a moment. She understood, watching him, that this time he was not holding the story back. He was only choosing which part of it to give her first. "A crowd, Domina. Bigger than the Jordan. Bigger than the standards, I think, though I did not count it the way a soldier would. We stood far back, near the fig trees at the edge of the field, because my uncle would not push closer and I would not go without him." He paused. "I could not hear every word. The wind took half of it. But I heard enough."
+
+"Tell me what you heard."
+
+"He said a woman loses one coin out of ten, and turns the whole house over looking for it, sweeping every corner, and does not stop until she finds it, though the other nine were never in any danger of being lost at all." Simon's hands had gone still at his sides, which she had learned by now to read as a sign he meant what he said more than he usually let himself mean anything aloud. "And then he said that is what it looks like, a coin no one else thought worth counting, being searched for like that. I kept thinking of Yaakov's shoulder, Domina, and of my own uncle, and of a girl I knew once I will not name, and I could not make any of them fit as the coin. Then I understood it was not asking me who the coin was. It was asking whether I believed a house could be turned over like that for anyone at all. Mine included."
+
+Claudia said nothing, letting him find the rest of it in his own time.
+
+"There was a woman near us in the crowd, Domina, with a growth on her face she kept turned away, the way a person learns to turn a wound from strangers. Some boys threw a stone at her before anyone stopped them. Not to hurt her badly. Only to move her back, the way you'd move a dog from a doorway." His jaw tightened. "He saw it. He stopped teaching for as long as it takes to breathe twice, and looked at where the stone had come from. He did not shout. He did not curse the boys. He only waited. And the boys went quiet on their own, and no one threw anything again the whole time we stood there."
+
+"What did your uncle make of it."
+
+"He wept a little, Domina, though he would tell you the sun was in his eyes if you asked him plainly." Simon almost smiled. "I did not weep. I kept thinking John would have shouted at those boys. John would have called down the whole weight of God on them before they finished lifting their arms. This one only waited, and somehow that frightened me more, though I could not tell you why a man who does not shout should frighten me at all."
+
+"And the woman. What became of her."
+
+"Nothing changed on her face, Domina. I could see that plainly enough." He looked down at the basket he had set aside without noticing. "But the field went quiet after, and stayed quiet, and I could not tell you what that quiet was made of."
+
+She had no answer ready for that, and did not pretend one, and let him go back to his work.
+
 ## The Name Claudia Kept
 
 By that night she had begun repeating the name to herself without quite deciding to: Jesus of Nazareth, the Galilean, the teacher who sat at forbidden tables and told crowds that the world's mending had already started somewhere they could not yet fully see. She had heard rumors of prophets before, in six years of living among a people who seemed, to her Roman eye, to expect the world's correction the way other peoples expected only its continuation. None of the earlier rumors had lodged in her the way this one had, quietly, without her permission, in the same part of her mind she kept for things she had not yet found the shape to speak of aloud.
