@@ -1,0 +1,7 @@
+# Author's Note
+
+This novel follows the recorded outline of Pontius Pilate's decade as prefect of Judaea as closely as the surviving sources allow: the standards incident, the aqueduct built with Temple funds, the riot at the tribunal, the fall of Sejanus, the trial and crucifixion of Jesus, and the massacre at Mount Gerizim that ended Pilate's career. Josephus, Philo, and the gospels supply the events. Claudia herself, her household, and nearly everything said between the walls of that household are invention, built to plausibly fit the gaps the histories leave open.
+
+One piece of the reconstruction deserves to be named plainly. The novel treats Sejanus, Tiberius's praetorian prefect, as the patron who secured Pilate's appointment, and treats Pilate's harsher, more self-protective governance after Sejanus's fall in A.D. 31 as a consequence of losing that protection. This connection is a longstanding scholarly hypothesis, argued from the timing and from Philo's account of Pilate's temperament, not a fact the ancient sources state outright. Other reconstructions of Pilate's career are equally defensible. I chose this one because it gave the marriage at the center of this book a hinge to turn on, and because it let Pilate's decline read as the result of a man's own choices rather than as an isolated bad day at a trial. Readers should hold it as the novel's chosen frame, not as settled history.
+
+Where the histories are silent, I have tried to invent only what the silence allows.
