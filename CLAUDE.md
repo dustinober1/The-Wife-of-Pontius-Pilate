@@ -75,7 +75,7 @@ The `*Setting: ...*` line only appears when `OUTLINE.md` specifies a Time/Place 
   - **The map**: "you have not mapped their pride" (Ch1) → a second map scene after Sejanus falls → no map at all by the Epilogue.
   - **Marcus**: secretary/steward, present at nearly every major public moment; his small reactions are how the reader sees Claudia's conscience forming, without narration stating it outright.
   - **The dream**: must be seeded twice, lightly, before Part IV (Ch14 "The Dream Begins," Ch20 "The Second Dream"), so its full arrival in the Prologue doesn't feel unearned.
-- **Structural note**: Chapters 22–23 are written to rejoin the Prologue's actual text almost seamlessly — the Prologue is effectively the ending of Ch23 excerpted forward. When drafting either, cross-check against `manuscript/00-prologue-the-shadow-of-the-bema.md` for continuity of action and phrasing.
+- **Structural note**: Chapters 22–23 rejoin the Prologue's beats (the waking dream, the balcony view, the message to Pontius, the locked gaze) in freshly written prose rather than repeating its text verbatim. An earlier draft had Ch22's ending and Ch23's opening reproduce the Prologue almost word for word; an external editorial review flagged that this much exact repetition stalled the climax for a reader returning to it twenty-plus chapters later, so it was trimmed to a rhyme — same images, same sequence of events, same key phrases (the ink-stained thumb, the forty yards, the bronze clasp) — without restating whole paragraphs. When revising either chapter, cross-check `manuscript/00-prologue-the-shadow-of-the-bema.md` for continuity of action and imagery, not for matching sentences.
 
 ## Prose style constraints
 

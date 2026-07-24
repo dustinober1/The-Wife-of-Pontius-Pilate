@@ -2,9 +2,9 @@
 
 ## What Three Years Wore Away
 
-Three years had passed since the Passover that neither of them spoke of directly anymore, and Claudia had come to measure the passing less by any single change than by the accumulation of small silences the household had learned to keep around certain subjects the way a body learned, over time, to favor an old wound without any longer remembering the day it was first taken.
+Three years had passed since the Passover that neither of them spoke of directly anymore, measured less by any single change than by the small silences the household had learned to keep around certain subjects, the way a body learns to favor an old wound without remembering the day it was first taken.
 
-Caesarea had not changed. The aqueduct still carried its water from the springs at Bethlehem exactly as the surveys had promised it would, the Antonia's replacement garrison still drilled in its ordinary rotations, the market still sold its fish honestly weighed or dishonestly by the same stalls that had always weighed it one way or the other. It was Pontius who had changed, by degrees too gradual for her to mark any single day as the day the change had properly begun, so that she found herself now, in this tenth year of his governorship, married to a man whose company she recognized in outline but no longer entirely in substance, the way a familiar coastline still read as home from a ship's deck even after the ship itself had carried you somewhere the coastline's old maps no longer quite described.
+Caesarea itself had not changed. The aqueduct still carried its water from the springs at Bethlehem, the market still sold its fish honestly weighed or not by the same stalls that always had. Pontius had changed, by degrees too gradual to mark any single day as the day it properly began, so that Claudia found herself now, in this tenth year of his governorship, married to a man she recognized in outline but no longer entirely in substance, the way a familiar coastline still reads as home from a ship's deck even after the ship has carried you somewhere its old maps no longer quite describe.
 
 ## What Pontius Had Become
 
@@ -28,15 +28,15 @@ She spent more of her days now with Tamar than the household's ordinary business
 
 ## What Yaakov Asked Of Her
 
-She went herself, one autumn afternoon, to the house near the harbor where Tamar's cousin Yaakov now lived with a wife of his own and a daughter just old enough to walk unassisted, carrying a length of good wool Claudia had set aside from the household stores without troubling to explain the errand to anyone who might have questioned a prefect's wife visiting so visibly a household that worked for its living.
+She went herself, one autumn afternoon, to the house near the harbor where Tamar's cousin Yaakov now lived with a wife of his own and a daughter just old enough to walk unassisted, carrying a length of good wool she had set aside from the household stores without explaining the errand to anyone who might have questioned a prefect's wife visiting so visibly a household that worked for its living.
 
-"You did not need to come yourself, Domina," Yaakov said, though he said it without the wariness she remembered from the one or two occasions their paths had crossed in earlier years, a wariness that had softened, over the seasons, into something closer to plain acquaintance. "Tamar tells us you have become a woman who fixes small things quietly, not one who only notices them and moves on."
+"You did not need to come yourself, Domina," Yaakov said, without the wariness she remembered from their earlier crossings, softened over the seasons into plain acquaintance. "Tamar tells us you have become a woman who fixes small things quietly, not one who only notices them and moves on."
 
-"I do not know that I fix very much, Yaakov. I only notice, now, in a way I did not always used to, and I have found that noticing costs me almost nothing to follow with some small action, when the action is available to me at all." She set the wool down, and did not linger over the giving of it, having learned from Tamar years before that a gift lingered over asked to be thanked, and a gift given plainly asked only to be used. "How is the shoulder, since the riot."
+"I only notice, now, in a way I did not always used to, and I have found that noticing costs me almost nothing to follow with some small action, when the action is available at all." She set the wool down without lingering over the giving of it. "How is the shoulder, since the riot."
 
-"Aches before rain, Domina, same as it has for years now, and otherwise carries my daughter as well as the other one ever did." He smiled, briefly, the same unhurried economy she recognized in his cousin. "I did not think, the day I stood at the standards with a gray shawl over my shoulders, that I would live to carry a daughter on the same arm a soldier's shield later bruised. I find that worth remembering, some days, when the news from the Prefect's house reaches us harder than it once did."
+"Aches before rain, same as it has for years, and otherwise carries my daughter as well as the other one ever did." He smiled, briefly, the same unhurried economy she recognized in his cousin. "I did not think, the day I stood at the standards with a gray shawl over my shoulders, that I would live to carry a daughter on the same arm a soldier's shield later bruised. I find that worth remembering, some days, when the news from the Prefect's house reaches us harder than it once did."
 
-She heard, in the gentleness of the observation, exactly the same rebuke Tamar herself might have delivered, wrapped in enough courtesy that she could not object to it without proving its point, and carried the exchange home with her turning it over the whole walk back through streets that had not changed while everything she measured them against apparently had.
+She heard, in the gentleness of it, exactly the rebuke Tamar herself might have delivered, and carried it home with her the whole walk back through streets that had not changed while everything she measured them against apparently had.
 
 ## Marcus, Grown Quieter
 
@@ -60,7 +60,7 @@ She did not tell him that hers did not let her sleep easily either, only differe
 
 ## What Still Waited
 
-She had begun to notice, in the past several months, a new note in the dispatches that reached Pontius from beyond Judaea's own borders, reports of a Samaritan matter building somewhere in the hill country around Gerizim, a prophet of their own gathering a following with promises to uncover something sacred buried since Moses' own time, a following Pontius read, when he read it at all, with the same flat administrative attention he now gave everything, filing it alongside a hundred other provincial disturbances not yet large enough to trouble him personally.
+She had begun to notice, in the past several months, a new note in the dispatches that reached Pontius from beyond Judaea's own borders: reports of a Samaritan matter building in the hill country around Gerizim, a prophet of their own gathering a following with promises to uncover something sacred buried since Moses' own time. The first dispatch had named a few hundred. The second, a month later, named more, and Rufus himself had said, delivering that second report, that he did not like how quickly the number was growing between one dispatch and the next. Pontius read both with the same flat administrative attention he now gave everything, filing the matter alongside a hundred other provincial disturbances not yet large enough to trouble him personally.
 
 "The Samaritans have their own mountain and their own prophets, the same as this province has always had its own," he said to her once, dismissing the matter with the same certainty he now dismissed most things, "and a mountain crowd is easier to disperse than a city crowd, should it ever come to that, which I do not expect it will. They gather to dig for old vessels a dead lawgiver supposedly buried, Claudia, not to crown a king. It is a fool's errand, not a rebellion, and I have learned, across ten years in this province, to save my worry for the crowds that gather around a claim rather than a legend."
 

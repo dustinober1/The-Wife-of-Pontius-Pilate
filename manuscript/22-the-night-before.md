@@ -46,20 +46,8 @@ He was gone before she could answer him, his footsteps receding down the corrido
 
 ## The Waking Nightmare
 
-Exhaustion took her at last sometime after Pontius had already gone, sleep arriving the way it sometimes did after a long fear had worn itself past the point of holding a body upright any longer, and Claudia opened her eyes, yet the dark remained.
+Exhaustion took her at last sometime after Pontius had already gone, sleep arriving the way it sometimes did once a long fear had spent itself past the point of holding a body upright any longer. When she woke, the dark had not lifted, only thinned toward the gray edge of a morning not yet arrived.
 
-Jerusalem heat greeted her, heavy and unyielding. The air inside the bedchamber felt thick with old timber, stale sweat, and the coppery tang of sacrificial smoke drifting from the Temple mount.
+She knew the dream had come a third time before she had fully placed herself in the room again, her lungs still working too hard, the same cracking sound still caught somewhere behind her ears. It had shown her the rest of it at last: the man from the two earlier dreams, no longer only a shape and a stillness but a face, quiet and unbearable to look at directly, and Pontius beside him, walking toward whatever edge that stillness had always been waiting at.
 
-She sat up, her lungs burning, her skin cold. She pressed her hands against the linen sheets until her wrist bones pained her.
-
-Somewhere below her, in the household's lower rooms, a door closed too softly to be anything but deliberate, someone moving with the particular care of a person who did not want to be the one who woke her.
-
-The dream lingered.
-
-It faded like morning mist, yet its weight remained bruised into her mind. She still heard the sound: a sharp, cracking rift, like ancient stone splitting under sudden ice. She had seen him in the dark, at last, in the place where the dream had twice before shown her only a shape and a stillness and withheld the rest. The Galilean preacher appeared as a silent, terrifying presence that filled her with dread, nothing like a northern peasant at all. Beside him stood Pontius, her husband, stepping toward a boundary no Roman law could protect him from.
-
-She did not know how long she had slept, or whether the night had given her more than these few borrowed minutes before the sound found her again. It felt, sitting there in the dark with her heart still going hard, as though no time had passed at all, only the dream itself, arriving and leaving her exactly where it had found her.
-
-Outside her chamber, a low murmur shattered the quiet. A tide of voices rose from the cobblestones beyond the palace walls.
-
-Passover had arrived, filling the city with thousands of restless pilgrims. The terror she had suffered through in the dark was about to play out in the light.
+Somewhere below her a door closed with more care than the hour required, and beyond the walls a low tide of voices had already begun rising off the cobblestones, Passover's crowds stirring before the sun had cleared the roofs. She lay a moment longer with her heart still going hard, and understood, listening to the city wake around her, that whatever the dream had been rehearsing these three nights, the day now arriving intended to ask it of her in earnest.
