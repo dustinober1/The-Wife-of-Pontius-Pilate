@@ -8,7 +8,7 @@ The household had moved up to Jerusalem for the length of the festival crowds, a
 
 "Gathering to say it, or gathering to do something about the saying?"
 
-Tamar did not answer at once, which Claudia understood by now to be its own kind of answer. "My cousin Yaakov went down before dawn. He said there were more men than he had counted at the standards, and quieter, which he did not like. A crowd that shouts wants to be heard. A crowd that waits wants something else."
+Tamar did not answer at once, which Claudia understood by now to be its own kind of answer. "My cousin Yaakov went down before dawn. He said there were more men than at the standards. Quieter, too. He did not like the quiet."
 
 Claudia thought of the survey Pontius had brought home from Caesarea a season ago, the figures he had read aloud to her over supper with the particular satisfaction he reserved for a problem reduced at last to its arithmetic: twenty miles of channel, water enough for every cistern in the city, a treasury that funded it without costing the province a single denarius it did not already have. He had not asked what the money had been before it was arithmetic. She remembered, with a clarity she would rather not have kept, that the treasury had been her own idle suggestion in the first place, offered one evening months before out of nothing worse than a wish to see Tamar's household carry less water by hand, and that the suggestion had traveled from her own mouth to her husband's ledger to a high priest's chamber to this crowd without anyone along the way, herself least of all, pausing to ask what it meant to reach into a people's sacred treasury for it. The guilt of that arrived in her now with a weight she had not earned by watching alone, and could not set back down.
 
@@ -60,7 +60,7 @@ Tamar came to her before the second lamp had burned down, still in the plain man
 
 "What did you tell him?"
 
-"I told him to sleep." Tamar's eyes went, briefly, to Claudia's hands, folded in her lap the way they folded when she was working to keep them still, and something passed over her face that was not quite accusation and not quite forgiveness either, a household intimacy stretched thin enough that Claudia could feel, for the first time since Ostia, the actual weight of everything that stood between them and would go on standing there no matter how directly either of them spoke. "He is your husband's subject before he is anything else to you, Domina. I do not forget that, even when I am glad of your company. Tonight I find I cannot quite forget it."
+"I told him to sleep." Tamar's eyes went, briefly, to Claudia's hands, folded in her lap the way they folded when she was working to keep them still, and something passed over her face that was not quite accusation and not quite forgiveness either, a household intimacy stretched thin enough that Claudia could feel, for the first time since Ostia, the actual weight of everything that stood between them and would go on standing there no matter how directly either of them spoke. "He is your husband's subject before he is anything else to you, Domina. I do not forget that. Tonight I cannot forget it at all."
 
 She left before Claudia could answer, and Claudia did not try to call her back, understanding that whatever needed saying between them would keep until the ribs had mended and the number of the dead had stopped growing, if it ever stopped growing, and that nothing she said tonight would do anything but sound like the arithmetic she had just finished telling her husband was not enough.
 

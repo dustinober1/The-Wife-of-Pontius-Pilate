@@ -28,15 +28,15 @@ Tamar had already heard of him by the time Claudia raised it with her, which did
 
 "Different how?"
 
-"He does not ask to be followed. That is the part the soldiers on the bank misunderstand, I think, when they report the numbers as though they were counting an army. He tells them to go home afterward. Tax collectors, he tells to collect no more than what is owed. Soldiers, he tells to extort no one and be content with their pay. He is not building anything for himself out of them, Domina, which is precisely why the numbers keep growing rather than thinning. People trust a man more easily when he asks nothing of them but the thing he is already telling them to do for its own sake."
+"He does not ask to be followed. He tells them to go home after. Tax collectors, he tells to collect no more than what is owed. Soldiers, he tells to extort no one and be content with their pay. He asks nothing for himself. That is why they keep coming back."
 
 Claudia thought of the mourning house nine days into her friendship with Tamar, the round loaf with no corners to catch on, the plain report of Rivkah's death delivered without performance. "You make it sound like the same hope you spoke of after your aunt died."
 
-"It is." Tamar set the cloth down and looked at her directly, the way she had that evening in the small courtyard, without the careful reserve she wore for the rest of the household. "He tells them the world is not finished being set right, and that they should live now as though the setting-right had already begun, instead of waiting for it to arrive before they bother to change anything. That is not so far from what I told you at Rivkah's mourning, only louder, and to more people at once, and standing waist-deep in the Jordan to say it, not sitting on a stool in a mourner's courtyard."
+"It is." Tamar set the cloth down and looked at her directly, the way she had that evening in the small courtyard, without the careful reserve she wore for the rest of the household. "He tells them the world is not finished being set right yet. That they should live now as if the mending had already begun. It is what I told you at Rivkah's mourning. Only louder. And in a river instead of a courtyard."
 
 "And the water. Why the water."
 
-"Because a man cannot see himself made clean. He can only feel it, or be told it, or watch someone else go under and come up different in the face." Tamar considered the lamp cloth again, turning it over. "The river takes what it's given, Domina, the way any water does, and gives back only the parts of a person that were never truly at issue. That is the whole of what he is offering them. Not a new law. A washing off of what the old law already condemned in them, so that they can begin again without the weight of what came before."
+"Because a man cannot see himself made clean. He can only feel it, and watch someone else go under and come up different in the face." Tamar considered the lamp cloth again, turning it over. "The river takes what it's given, the way any water does. It only gives back what was clean in a person to begin with. He is washing off what the old law condemned in them, so they can start again."
 
 Claudia did not answer at once. She had crossed the Jordan only in report, never in person, and found she could picture it regardless: a slow brown river narrowing at a ford, a man in animal skins standing in it to his waist, and a line of ordinary people wading out to him one at a time, carrying whatever they carried, and coming up lighter.
 
@@ -48,15 +48,15 @@ The cook's boy, a quiet child named Simon whom Claudia had exchanged perhaps a d
 
 Claudia found him at the woodpile the next morning and asked, and he answered without the shyness she expected, as though the question were one he had been waiting several days for someone to put to him properly.
 
-"He did not shout, Domina, the way the garrison men said he would. He spoke plainly, the way a father speaks to a son he means to correct rather than punish. He said the axe was already laid to the root of the trees, and that any tree not bearing good fruit would be cut down and burned, and it should have frightened me, hearing it, but it did not, because he said it looking at all of us the same way, not singling out the tax farmers or the soldiers or anyone in particular for the blame of it."
+"He did not shout, Domina. Not the way the garrison men said he would." Simon turned the kindling over. "He spoke plain. Like a father, warning a son, not punishing him. He said the axe was already at the root of the trees. Any tree not bearing good fruit, cut down and burned." He paused, working it out. "It should have frightened me. It didn't. He looked at all of us the same when he said it. Not just the tax farmers. Not just the soldiers. All of us."
 
 "And the washing itself. What was it like."
 
-The boy considered this longer than the first question, turning a stick of kindling over in his hands. "Cold. Colder than I expected, though it was midday and the sun was strong. He asked me first if I understood what I was asking for, and I said I did not fully, and he said that was honest enough to begin with, and put me under anyway. When I came up I did not feel forgiven exactly, Domina, or not in a way I could point to and name. I felt only that I had put something down that I had been carrying without noticing the weight of it, and that I would have to decide, now that my hands were free, what to pick up instead."
+The boy considered this longer than the first question, turning a stick of kindling over in his hands. "Cold." He thought about it more. "Colder than I expected. It was midday, sun was strong, but the water was cold." A pause. "He asked me first if I understood what I was asking for. I said not fully. He said that was honest enough, and put me under anyway." Another pause. "When I came up I didn't feel forgiven, exactly, Domina. Not the way you'd feel it if someone told you plainly. I just felt lighter. Like I'd put something down I didn't know I was carrying."
 
 "Did he say anything of a king. Of when the world would be set right."
 
-"He said someone was coming after him who was greater than he was, so much greater that he was not fit to untie the man's sandals, and that this one would separate the good grain from the chaff the way a farmer does at harvest, keeping one and burning the other." Simon shrugged, a boy's gesture, unweighted by the theology Claudia was reaching for. "He did not say a name, Domina. Only that we should watch for him, and not mistake the one who baptizes for the one who was actually being promised."
+"He said someone was coming after him who was greater than he was, so much greater that he was not fit to untie the man's sandals, and that this one would separate the good grain from the chaff the way a farmer does at harvest, keeping one and burning the other." Simon shrugged, a boy's gesture, unweighted by the theology Claudia was reaching for. "He did not say a name, Domina. Only that we should watch for him. And not confuse the one baptizing with the one who was coming."
 
 Claudia turned the answer over long after the boy had gone back to his woodpile, unable to decide which detail unsettled her more: the calm with which a child recounted being warned of an axe laid to a root, or the fact that the promised figure behind the preacher had been given no name at all, only a shape cut out of the future and left waiting to be filled. She thought of Pontius's maps in the study, every road and garrison marked and measured, and understood, distantly, that here was a kind of territory he had no method for surveying: a coming thing with no name and no border post to watch it from, growing nearer by report alone.
 
@@ -64,7 +64,7 @@ She found Simon again a few days later, drawn back to him by a question she had 
 
 "Would you go again, if he were still there next season."
 
-"I would, Domina, though my uncle says a man does not need to be washed twice for the same thing to take hold." Simon considered the question with the same unhurried seriousness he had given the first, a boy's gravity that made him seem, in these small exchanges, considerably older than the years she knew him to have. "I think I would go again anyway. Not for the washing itself. For the feeling of standing in a crowd of people who had all decided, together, to stop waiting for someone else to change first."
+"I would." Simon thought about it, turning the question the same unhurried way he had turned the first, a boy's gravity that sat oddly against how young he still was in every other way. "My uncle says you don't need to be washed twice for it to take hold. Maybe he's right." He shrugged. "I'd go again anyway. Not just for the water." He stopped, as if unsure how to say the rest. "Everyone was there together. All of us deciding it at once. I liked that part."
 
 ## The Tetrarch's Border
 

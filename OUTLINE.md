@@ -90,10 +90,10 @@ Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and ear
 
 ## Running total
 
-- Drafted: 72,784 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened in three further passes: two prose-quality passes — the second of which extended to Ch1–17 — plus a targeted line-variety pass trimming the overused "plainly"/"rather than" constructions manuscript-wide, and a structural trim of the Prologue/Ch22/Ch23 duplication and Ch27's pacing per external editorial review)
+- Drafted: 72,408 words (Prologue through Epilogue, full first draft, expanded in a revision pass from the initial ~67,300-word draft, then tightened across several further passes: two prose-quality passes — the second of which extended to Ch1–17 — a line-variety pass trimming the overused "plainly"/"rather than" constructions manuscript-wide, a structural trim of the Prologue/Ch22/Ch23 duplication and Ch27's pacing, a pass giving Claudia one consequential misjudgment (Ch9–11) and Tamar one unresolved moment of unfairness (Ch13), and a voice-differentiation pass on Tamar/Simon/Rufus dialogue — all per external editorial review)
 - Chapters 22–23 no longer repeat the Prologue's prose verbatim; they rhyme with its imagery and beats in freshly written sentences, which reads better on a re-read but costs some raw word count against the original target
 - Remaining gap to the ~85,000 target is now spread thinly across the whole book rather than concentrated in a handful of short chapters; closing it further is a scene-by-scene deepening exercise, not a structural one
-- Projected finished length: ~80,500–84,000 words
+- Projected finished length: ~80,000–84,000 words
 
 ## Suggested drafting order
 

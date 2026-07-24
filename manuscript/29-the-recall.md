@@ -4,7 +4,7 @@
 
 Rufus brought her the news before Pontius told her himself, a courtesy she understood, once she had absorbed it, as his own quiet way of giving her a few private moments to compose herself before she had to receive it a second time from her husband's own mouth.
 
-"Vitellius has ordered him to Rome, Domina, to answer to the Emperor for what happened at the mountain. Marcellus arrives within the month to hold the province until Rome decides what comes after." Rufus delivered it standing in the doorway, not entering fully, a soldier's old instinct for not intruding further into a household's grief than his errand required. "I have served the Prefect ten years, Domina. I do not know how to tell you what it costs me to be the one bringing you this, except to say that I would rather it had been almost any other news I ever carried up these stairs."
+"Vitellius has ordered him to Rome, Domina, to answer to the Emperor for what happened at the mountain. Marcellus arrives within the month to hold the province until Rome decides what comes after." Rufus delivered it standing in the doorway, not entering fully, a soldier's old instinct for not intruding further into a household's grief than his errand required. "I have served the Prefect ten years, Domina. I do not know how to tell you what this costs me. Only that I would rather have carried almost any other news up these stairs."
 
 She thanked him for the courtesy of coming himself, and sat a long while afterward in the quiet of her own rooms before she went to find Pontius, turning the shape of the sentence over the way she had once turned over a dispatch's meaning from a doorway, ten years and a whole life distant from the young wife who had first heard the word Judaea spoken aloud in a Roman garden and mistaken her own dread for nothing more than the ordinary fear of distance.
 
@@ -50,7 +50,7 @@ Tamar came to her on the last evening before the ship was to sail, and they sat 
 
 "I do not know that Rome is home to me any longer, Tamar. I am not certain it ever was, in the way you mean it." Claudia took her hand, the first time in ten years of friendship she had done so without some crisis prompting the gesture. "You gave me more of whatever I am becoming than any single person in that city ever gave me, including the ones raised me from a child. I do not know how to thank a woman for that in a single evening in a courtyard."
 
-"Then do not thank me, Domina. Only carry it the way you have carried everything else these ten years, quietly, and put it to use wherever you find yourself needing it." Tamar pressed her hand once, and released it. "I told you once that a hope worth keeping survives the day it is tested without breaking itself. You have been tested a great many days since I first said that to you. I do not think, watching you now, that the hope broke."
+"Then do not thank me, Domina. Only carry it the way you have carried everything else these ten years, quietly, and put it to use wherever you find yourself needing it." Tamar pressed her hand once, and released it. "I told you once that a hope worth keeping gets you through the hard days. It does not spare you from them. You have carried a great many hard days since I first said that to you. I do not think, watching you now, that it broke."
 
 ## Simon's Question
 

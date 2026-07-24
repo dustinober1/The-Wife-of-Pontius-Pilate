@@ -34,11 +34,11 @@ Tamar went down into the city on the second morning to see to the lamb her own f
 
 "Do they mean to move against him."
 
-"I do not know, Domina, and I would not trust myself to guess at it even if I did, because a council that watches this closely does not always act, and a council that acts does not always announce beforehand that it means to." Tamar picked the basket back up, though she made no move yet to carry it further. "I will say only that I have watched my people wait for a promised king through every year of my own life without the promise ever costing the waiting itself very much. This year the waiting has a crowd behind it large enough to frighten the very men whose office exists to manage the promise on the Temple's behalf, and a frightened man with real power, Domina, in my experience, moves faster and less carefully than a hopeful man with none."
+"I do not know, Domina. I would not trust my own guess even if I had one." Tamar picked the basket back up, though she made no move yet to carry it further. "I have watched my people wait for a promised king my whole life. The waiting never cost much before now. This year there is a crowd behind it big enough to frighten the council itself. And a frightened man with power moves faster than a hopeful man with none. That much I have seen."
 
 "Does Yaakov mean to go to him, while he is near enough to be seen."
 
-"He means to, Domina, though I have told him plainly what I think of standing where a nervous garrison might mistake a crowd's enthusiasm for a threat, twice over, given what standing in such a place has already cost him." Tamar's mouth tightened briefly, an old fear resurfacing beneath the new one. "He tells me a man does not get to choose which crowds history asks him to stand in. I tell him a man who has already been beaten twice for standing in the wrong one might be forgiven for choosing more carefully the third time. We have not settled the argument between us. I do not expect we will before the feast is finished."
+"He means to, Domina, though I have told him plainly what I think of standing where a nervous garrison might mistake a crowd's cheering for a threat. Twice over, given what standing in such a place has already cost him." Tamar's mouth tightened briefly, an old fear resurfacing beneath the new one. "He tells me a man does not choose which crowd he ends up standing in. I tell him a man beaten twice already might choose more carefully the third time. We have not settled it. I do not expect we will before the feast is finished."
 
 ## A King's Welcome
 
