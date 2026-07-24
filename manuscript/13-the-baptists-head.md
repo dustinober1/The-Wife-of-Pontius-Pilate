@@ -14,6 +14,14 @@ Claudia set the household ledger aside with a care that felt, even to her, like 
 
 "I do not know that it matters, Domina, which one it is." Tamar's voice had gone flat in the particular way it went flat when a thing had moved past argument into simple fact she expected no one to contest. "He is dead either way. The tetrarch had him killed either from a rash oath at a birthday table, or because a man with that many followers frightened him too much to let go on living, and I have heard both reasons offered by different mouths in the same market this morning, and neither reason makes the man any less dead than the other would."
 
+She was quiet a moment, turning the oil jar in her hands without setting it down, and when she spoke again her voice had sharpened into something Claudia had rarely heard turned on her directly. "Your husband will call it politics solved, when the report reaches him. One fewer voice in the wilderness troubling a tetrarch's sleep, and no Roman hand had to be the one that did the troubling. That is how your people keep their ledgers, Domina. Let the local kings do the killing, and call yourselves clean for having stayed out of the room."
+
+"That is not entirely fair," Claudia said, more startled by it than she let show. "You do not yet know what he will say of it."
+
+"No. I do not." Tamar picked the jar back up, though her hands were not yet steady enough to be trusted with it. "I find I have very little patience this morning for waiting to discover whether I am being fair before I say what is sitting in me. Forgive me the difference, Domina, if you can. I am not certain I can forgive myself the same courtesy today."
+
+She did not wait for an answer, and Claudia let her go, understanding that whatever she might have said in her own husband's defense would have cost Tamar something to hear that this morning's grief had left her no room to spend.
+
 Claudia sat with the ledger closed in her lap for a long while after Tamar had gone back inside, watching the household's ordinary afternoon continue around her, a maid crossing the far end of the garden with a basket of washing, cicadas working steadily in the heat where conversation had been, and found herself unable to settle the news into any of the categories a piece of political intelligence usually settled into by now, three years into learning how this province absorbed its griefs and moved past them. A riot she had learned, however painfully, to hold at a fixed distance in memory, a thing that had happened and could be accounted for, mourned, carried forward as a private practice of small coins sent through Tamar's hands. This felt different in a way she could not yet name, closer to a personal loss than the scale of her actual acquaintance with the man justified, as though some part of her had gone on, without her permission, expecting the story at Tiberias to end differently than it had.
 
 ## Simon
