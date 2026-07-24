@@ -50,9 +50,9 @@ Pontius let the silence stretch a moment, long enough to be felt, not long enoug
 
 "Then your law and Rome's authority will have to find room to stand in the same street," Pontius said. "I do not intend to remove Roman soldiers from a Roman province because their equipment gives offense. I will keep the standards from the Temple courts themselves, as courtesy, and as acknowledgment of your custom. I will not keep them from the city that Rome governs and Rome garrisons."
 
-He watched the words land, watched the six faces arrange themselves into the same careful blankness Claudia had once described to him, years ago in Rome, as the look of men deciding how much of themselves to show a stranger. He had thought, hearing her say it then, that she meant it as praise for her own perceptiveness. He understood now, watching it happen in his own hall, that she had meant it as a warning, and that he had filed the warning away under the heading of things a wife says to seem wise, rather than the heading of things a governor ought to remember.
+He watched the words land, watched the six faces arrange themselves into the same careful blankness Claudia had once described to him, years ago in Rome, as the look of men deciding how much of themselves to show a stranger. He had thought, hearing her say it then, that she meant it as praise for her own perceptiveness. He understood now, watching it happen in his own hall, that she had meant it as a warning, and that he had filed the warning away under the heading of things a wife says to seem wise, not under the heading of things a governor ought to remember.
 
-Hanan rose, and the others with him, the audience concluding itself by unspoken agreement rather than by any word of Pontius's. "We thank the Prefect for his plain speech," he said. "We will remember it exactly as given."
+Hanan rose, and the others with him, the audience concluding itself by unspoken agreement, no word from Pontius needed. "We thank the Prefect for his plain speech," he said. "We will remember it exactly as given."
 
 There was nothing in the sentence Pontius could object to, and everything in it that troubled him faintly as the delegation withdrew, the way a well-aimed blow troubles a man more than a wild one, precisely because it was not wild at all.
 

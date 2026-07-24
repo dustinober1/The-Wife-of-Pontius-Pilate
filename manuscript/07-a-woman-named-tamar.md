@@ -12,11 +12,11 @@ Claudia noticed it first over the water. Tamar knelt at the basin each morning t
 
 "Is it your cousin? The one who stood at the gate."
 
-"Yaakov is well. Bruised at the shoulder where a soldier's shield caught him in the crush, nothing worse." She said it plainly, the way she reported the price of oil or the state of the kitchen fires, and Claudia understood that whatever weighed on her had not come from the standards at all. "It is my aunt Rivkah. She raised me after my mother died of a fever when I was small, in the house two streets from the harbor. She has been failing since the winter rains, and the physician says now it is only a matter of the Sabbath, or the one after, or the one after that. Her lungs fill with water she cannot cough free of anymore."
+"Yaakov is well. Bruised at the shoulder where a soldier's shield caught him in the crush, nothing worse." She said it flatly, the way she reported the price of oil or the state of the kitchen fires, and Claudia understood that whatever weighed on her had not come from the standards at all. "It is my aunt Rivkah. She raised me after my mother died of a fever when I was small, in the house two streets from the harbor. She has been failing since the winter rains, and the physician says now it is only a matter of the Sabbath, or the one after, or the one after that. Her lungs fill with water she cannot cough free of anymore."
 
 Claudia thought of the old man's voice carrying across the stadium, thin but steady, and understood with a small, unwelcome clarity that she had spent five days assuming the household's tension belonged entirely to the standards, when in fact it had been carrying this other, smaller, more ordinary grief alongside it the whole time, unremarked because it concerned no prefect and no emperor's image and would appear in no dispatch to Rome.
 
-Claudia thought of her own household in Rome, where a servant's private grief had never once, in all her years there, been permitted to interrupt the ordinary rhythm of the day, where illness among the staff was managed quietly and reported only when it began to affect the work, and understood, sitting across from Tamar in the thin morning light, how easily she might have gone on for weeks longer mistaking this same silence for simple discretion rather than a woman keeping her grief carefully out of a household that had never once asked her to bring it in.
+Claudia thought of her own household in Rome, where a servant's private grief had never once, in all her years there, been permitted to interrupt the ordinary rhythm of the day, where illness among the staff was managed quietly and reported only when it began to affect the work, and understood, sitting across from Tamar in the thin morning light, how easily she might have gone on for weeks longer mistaking this same silence for simple discretion, missing a woman keeping her grief carefully out of a household that had never once asked her to bring it in.
 
 "I am sorry," Claudia said, and meant it, though she heard how thin the words sounded even as she spoke them.
 
@@ -26,7 +26,7 @@ Claudia thought of her own household in Rome, where a servant's private grief ha
 
 Rivkah died nine days later, on a morning when the sea mist had not yet burned off the harbor, and Tamar did not come to the house.
 
-Claudia learned of it from Philotas, who delivered the news with the flat efficiency he brought to every report, as though a death in the household staff's family were a line item no different from a broken cistern pipe, and something in his tone made Claudia set down the tablet she had been reading and ask, plainly, what the household owed a woman in mourning.
+Claudia learned of it from Philotas, who delivered the news with the flat efficiency he brought to every report, as though a death in the household staff's family were a line item no different from a broken cistern pipe, and something in his tone made Claudia set down the tablet she had been reading and ask outright what the household owed a woman in mourning.
 
 "Owed, Domina?" Philotas seemed genuinely uncertain what she meant.
 
@@ -38,7 +38,7 @@ Claudia went herself, in the end, though every instinct of the household argued 
 
 "You will hear things there I would not want repeated to a magistrate," he added, almost as an afterthought, not looking up from the dispatch he had returned to. "I do not ask you to repeat them. I only ask that you remember whatever you hear is spoken in grief, and grief says a great many things a calmer hour would take back." She had not expected the caution, and turned it over the whole walk down through the darkening streets, uncertain whether it was a husband's genuine concern for a household's discretion or a governor's old habit of gathering intelligence through whatever door happened to be open to him. She decided, by the time they reached the harbor, that it did not matter which, since she intended to honor the spirit of the caution regardless of which reason had prompted it.
 
-The house near the harbor was small, two rooms and a courtyard barely large enough for the mourners already gathered in it, sitting on low stools or on the bare ground, their outer garments visibly torn at the collar in a way that startled Claudia until she understood it was deliberate, a mourning custom rather than an accident of grief. Tamar sat among them on a stool no higher than the others, her hair uncovered, a small tear worked into the shoulder of her tunic, and when she saw Claudia in the doorway her face did something complicated, gratitude and mortification arriving together.
+The house near the harbor was small, two rooms and a courtyard barely large enough for the mourners already gathered in it, sitting on low stools or on the bare ground, their outer garments visibly torn at the collar in a way that startled Claudia until she understood it was deliberate: a mourning custom, not an accident of grief. Tamar sat among them on a stool no higher than the others, her hair uncovered, a small tear worked into the shoulder of her tunic, and when she saw Claudia in the doorway her face did something complicated, gratitude and mortification arriving together.
 
 "You should not have come, Domina."
 
@@ -50,11 +50,11 @@ Claudia sat, awkwardly, on a stool a neighbor brought without being asked, and M
 
 ## Bread for the Mourners
 
-No one offered her wine, and no one asked her to speak, which she understood only slowly to be a kindness rather than an oversight: the house of mourning, Tamar explained later, in a low voice meant only for Claudia, did not serve its own meals in the first days. The neighbors brought round loaves and lentils, food shaped without a beginning or an end, and set it before the mourners without being thanked for it, because thanks belonged to a different kind of visit than this one.
+No one offered her wine, and no one asked her to speak, which she understood only slowly for the kindness it was, and no oversight: the house of mourning, Tamar explained later, in a low voice meant only for Claudia, did not serve its own meals in the first days. The neighbors brought round loaves and lentils, food shaped without a beginning or an end, and set it before the mourners without being thanked for it, because thanks belonged to a different kind of visit than this one.
 
 "Why round?" Claudia asked, turning the small loaf in her hands when one was finally pressed into them by a woman she did not know.
 
-"Because grief has no corners to catch on," Tamar said. "A loaf with edges asks to be broken at a particular place. This asks nothing. You eat where your hand finds it, the way sorrow comes at you from no single direction you can prepare for." She said it without performance, the way she said everything, a plain fact reported rather than a lesson delivered, and Claudia understood that this was precisely why it had taken root in her the way no formal instruction ever had.
+"Because grief has no corners to catch on," Tamar said. "A loaf with edges asks to be broken at a particular place. This asks nothing. You eat where your hand finds it, the way sorrow comes at you from no single direction you can prepare for." She said it without performance, the way she said everything, a plain fact reported, no lesson delivered, and Claudia understood that this was precisely why it had taken root in her the way no formal instruction ever had.
 
 "In Rome," Claudia said, "we hire mourners. Women paid to wail at the proper volume, to tear their hair in the approved manner, so that the family need not manage their own grief in front of witnesses."
 
@@ -64,7 +64,7 @@ Claudia thought of the standards, of the crowd that had sat in the stadium beari
 
 "Does it help?" Claudia asked. "The seven days. Does it actually make the grief smaller?"
 
-"No." Tamar looked at the loaf in her own hands rather than at Claudia. "It does not make it smaller. It only means I will not carry it alone during the days it is heaviest, and that when the seven days end, I will stand up from this stool and walk back into my life with people beside me who watched me sit in it honestly, rather than people who only heard, afterward, that I had managed it well."
+"No." Tamar looked at the loaf in her own hands instead of at Claudia. "It does not make it smaller. It only means I will not carry it alone during the days it is heaviest, and that when the seven days end, I will stand up from this stool and walk back into my life with people beside me who watched me sit in it honestly, and did not merely hear, afterward, that I had managed it well."
 
 ## A Hope Without Rome In It
 
@@ -78,7 +78,7 @@ Tamar considered this the way she considered every question put to her seriously
 
 "No. It was never politics for her. It became politics only when men like your husband have to decide what to do with a crowd who believe it, because a people who do not fear that their story ends at the sword are very difficult to frighten with a sword." Tamar looked up, and in the low lamplight her face had none of the careful reserve she wore in the prefect's house, only a tiredness that made her look, for the first time since Claudia had known her, entirely without armor. "I do not ask you to believe it, Domina. I only ask that when you carry word of it back to your husband, as I know you will, you do not let him mistake it for a strategy. It is not a strategy. It is the only thing some of us have that the standards cannot take down in the night and the sword cannot make us kneel out of."
 
-Claudia sat with that a long while, the lamp oil burning low and fragrant, and did not try to answer it, because she understood, sitting in a mourning house that smelled of thyme and torn wool rather than incense and imperial cedar, that an answer offered too quickly would only prove Tamar's point about her husband's ledgers, and that some things asked to be carried a while before they were answered at all.
+Claudia sat with that a long while, the lamp oil burning low and fragrant, and did not try to answer it, because she understood, sitting in a mourning house that smelled of thyme and torn wool, nothing like incense and imperial cedar, that an answer offered too quickly would only prove Tamar's point about her husband's ledgers, and that some things asked to be carried a while before they were answered at all.
 
 "I will not let him mistake it," she said finally. It was a small promise, and she did not yet know whether she could keep it against the weight of everything Pontius had built his life to believe instead. But she made it plainly, the way Tamar made her own plain reports of prices and Sabbaths and grief, and something in Tamar's shoulders eased, fractionally, at hearing it said aloud.
 

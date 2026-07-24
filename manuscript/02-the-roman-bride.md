@@ -8,7 +8,7 @@ She crouched in the shade of the peristyle, tracing the line of their march with
 
 "Domina Claudia. Your guardian asks for you in the tablinum."
 
-She rose, brushing dust from her tunic, already rehearsing an excuse for the ink stains still faint on her fingers from the letters she had been made to copy that week. The household never let her forget whose blood ran uncertain in her veins, claimed, tolerated, but never quite plain. She understood, in the small ways a child understands such things, that her place in this house depended on being useful rather than simply beloved.
+She rose, brushing dust from her tunic, already rehearsing an excuse for the ink stains still faint on her fingers from the letters she had been made to copy that week. The household never let her forget whose blood ran uncertain in her veins, claimed, tolerated, but never quite plain. She understood, in the small ways a child understands such things, that her place in this house depended on being useful, not simply on being loved.
 
 The tablinum was cooler, lined with scrolls she was forbidden to touch and a bronze brazier that never seemed to warm the room enough. Her guardian sat with his back to the garden light, a stylus resting forgotten beside a wax tablet, his attention fixed instead on a letter already read twice.
 
@@ -56,7 +56,7 @@ Her guardian watched the exchange from across the hall with the flat satisfactio
 
 ## Five Years
 
-Five years folded into the marriage the way a river folds into a delta, not one channel but many, each carved by patience rather than event. Claudia learned the rhythms of his ambition the way she had once learned the rhythms of her guardian's moods: which silences meant calculation, which meant fatigue, which meant a decision already made and only waiting for the right room to announce it in.
+Five years folded into the marriage the way a river folds into a delta, not one channel but many, each carved slowly by patience, no single event cutting it. Claudia learned the rhythms of his ambition the way she had once learned the rhythms of her guardian's moods: which silences meant calculation, which meant fatigue, which meant a decision already made and only waiting for the right room to announce it in.
 
 She learned, too, the small private tenderness he permitted only within their own walls, a calloused thumb along her cheekbone on the rare evenings his public reserve loosened enough to let it through, and understood, watching him guard that tenderness as carefully as he guarded any military secret, that he had been taught somewhere along the way that softness shown too freely was softness spent. She did not press him to spend it more freely than he chose to. She had learned her own version of the same lesson, in a different tablinum, long before she had ever learned his name.
 

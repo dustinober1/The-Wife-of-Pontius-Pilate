@@ -12,7 +12,7 @@ Claudia heard of it first from Philotas, who came to her rooms an hour after daw
 
 "You could say it. You've simply decided not to, in front of me." She said it without unkindness, and Philotas's mouth tightened in a way that told her she had guessed correctly and that he would rather have died than confirm it aloud. She let him go without pressing further. She had learned, in three months in this country, that the household staff carried opinions about her husband's decisions the way Tamar carried opinions about standing water: fully formed, carefully hidden, and offered only when the asking came from someone they had already decided to trust.
 
-She found Pontius in the audience hall, bent over a dispatch with the settled satisfaction of a man who believes a difficult thing has already been accomplished rather than merely begun.
+She found Pontius in the audience hall, bent over a dispatch with the settled satisfaction of a man who believes a difficult thing has already been accomplished, not merely begun.
 
 "You moved the garrison," she said.
 
@@ -38,7 +38,7 @@ They arrived on the fourth day, not as a mob but as something more disciplined a
 
 Tamar found her at the courtyard wall that overlooked the gathering, and stood beside her a long moment without speaking, the two of them watching the crowd settle into the patient postures of a vigil.
 
-"They will not leave," Tamar said finally. "I should tell you that plainly, Domina, before your husband's officers convince him otherwise. I know some of these men. My own cousin is among them, three rows back from the gate, the one with the gray shawl. They have not come to shout and go home by evening. They have come to sit until the standards are removed or until something worse happens to them than sitting."
+"They will not leave," Tamar said finally. "I should tell you that directly, Domina, before your husband's officers convince him otherwise. I know some of these men. My own cousin is among them, three rows back from the gate, the one with the gray shawl. They have not come to shout and go home by evening. They have come to sit until the standards are removed or until something worse happens to them than sitting."
 
 "How long can they sit?"
 
@@ -52,7 +52,7 @@ Marcus came to stand at her other side as the light failed, his wax tablet for o
 
 "And if they do not discourage?"
 
-Marcus did not answer, and his silence told her more plainly than any account from Philotas could have, that the household itself, staff and steward alike, had already begun to wonder the same thing, and had not yet found an answer that let anyone sleep easily.
+Marcus did not answer, and his silence told her more clearly than any account from Philotas could have, that the household itself, staff and steward alike, had already begun to wonder the same thing, and had not yet found an answer that let anyone sleep easily.
 
 ## Five Days
 
@@ -60,7 +60,7 @@ The crowd was still there on the fifth morning, thinner in places where illness 
 
 On the third day Pontius had sent soldiers among them, not to strike, only to walk the rows with an officer reading a proclamation that promised nothing and threatened everything in the careful, bloodless language of Roman administration, and the crowd had listened in silence and had not moved. On the fourth day he had sent the same soldiers again, this time armed for something more than reading, and still the crowd had not moved, only bent their heads lower, as though bracing not against blows but against weather.
 
-She found him alone that evening in the room that had become his study, staring at a map of the city he had not troubled to consult in days, his hand resting flat on the parchment rather than tracing it.
+She found him alone that evening in the room that had become his study, staring at a map of the city he had not troubled to consult in days, his hand resting flat on the parchment instead of tracing it.
 
 "They will not leave," she said, echoing Tamar without meaning to.
 

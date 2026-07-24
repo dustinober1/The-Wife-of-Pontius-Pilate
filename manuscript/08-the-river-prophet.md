@@ -10,7 +10,7 @@ It was Philotas who brought the first word of the preacher, delivered with the s
 
 "Drawing crowds to do what?"
 
-"To be washed, Domina. He preaches first, they say, plainly and at length, and then he puts them under the water himself, one at a time, and they come up saying they have been forgiven of whatever they came carrying." Philotas delivered this with the faint discomfort of a man reporting something he did not personally credit but could not quite dismiss either. "He is called John. Some of the soldiers who watched from the bank said he wears skins rather than wool, and eats what the wilderness provides rather than what a household provides for him."
+"To be washed, Domina. He preaches first, they say, openly and at length, and then he puts them under the water himself, one at a time, and they come up saying they have been forgiven of whatever they came carrying." Philotas delivered this with the faint discomfort of a man reporting something he did not personally credit but could not quite dismiss either. "He is called John. Some of the soldiers who watched from the bank said he wears skins rather than wool, and eats what the wilderness provides, not what a household would set before him."
 
 Claudia found the detail of the skins interested her less than the detail of the numbers. Rome had seen prophets before, wandering men with a handful of followers and a grievance against the world's arrangement of itself, and none of them had troubled a border garrison enough to be reported up the chain to a prefect's steward. "How large a crowd."
 
@@ -32,7 +32,7 @@ Tamar had already heard of him by the time Claudia raised it with her, which did
 
 Claudia thought of the mourning house nine days into her friendship with Tamar, the round loaf with no corners to catch on, the plain report of Rivkah's death delivered without performance. "You make it sound like the same hope you spoke of after your aunt died."
 
-"It is." Tamar set the cloth down and looked at her directly, the way she had that evening in the small courtyard, without the careful reserve she wore for the rest of the household. "He tells them the world is not finished being set right, and that they should live now as though the setting-right had already begun rather than waiting for it to arrive before they bother to change anything. That is not so far from what I told you at Rivkah's mourning, only louder, and to more people at once, and standing waist-deep in the Jordan to say it rather than sitting on a stool in a mourner's courtyard."
+"It is." Tamar set the cloth down and looked at her directly, the way she had that evening in the small courtyard, without the careful reserve she wore for the rest of the household. "He tells them the world is not finished being set right, and that they should live now as though the setting-right had already begun, instead of waiting for it to arrive before they bother to change anything. That is not so far from what I told you at Rivkah's mourning, only louder, and to more people at once, and standing waist-deep in the Jordan to say it, not sitting on a stool in a mourner's courtyard."
 
 "And the water. Why the water."
 
@@ -44,7 +44,7 @@ Claudia did not answer at once. She had crossed the Jordan only in report, never
 
 The cook's boy, a quiet child named Simon whom Claudia had exchanged perhaps a dozen words with in two years, went to the Jordan himself the following month, walking the distance with his uncle over four days and returning with a sunburn across his neck and a manner about him that Tamar noticed before Claudia did.
 
-"He is different," Tamar said, watching the boy carry water across the courtyard with none of his usual slouching haste. "Ask him what he saw, if you want the account plainly, rather than filtered through soldiers who stood at a safe distance counting heads."
+"He is different," Tamar said, watching the boy carry water across the courtyard with none of his usual slouching haste. "Ask him what he saw, if you want the account straight, instead of filtered through soldiers who stood at a safe distance counting heads."
 
 Claudia found him at the woodpile the next morning and asked, and he answered without the shyness she expected, as though the question were one he had been waiting several days for someone to put to him properly.
 
@@ -78,7 +78,7 @@ She raised it with Pontius that evening, in the study where the lamp burned late
 
 "Do you think he means harm. The preacher."
 
-"I think he means exactly what your household tells you he means, whatever that is." It was said without irony, and it was, Claudia understood, as close as Pontius came to admitting that the currents running through Tamar's kitchen reached him eventually too, filtered through his wife rather than through any report his own men filed. "I have no complaint against a man who tells soldiers to take only their wages and tax collectors to take only what is owed. Rome could use a hundred more men saying exactly that in every province it holds. My concern is narrower than his message. My concern is what a tetrarch does when a crowd that size gathers on his side of a river he cannot fully police, and I do not think, whatever comes of it, that the answer will be found on my side of the border."
+"I think he means exactly what your household tells you he means, whatever that is." It was said without irony, and it was, Claudia understood, as close as Pontius came to admitting that the currents running through Tamar's kitchen reached him eventually too, filtered through his wife and not through any report his own men filed. "I have no complaint against a man who tells soldiers to take only their wages and tax collectors to take only what is owed. Rome could use a hundred more men saying exactly that in every province it holds. My concern is narrower than his message. My concern is what a tetrarch does when a crowd that size gathers on his side of a river he cannot fully police, and I do not think, whatever comes of it, that the answer will be found on my side of the border."
 
 He returned to the tablet, and Claudia understood the audience was closing, though something in the exchange stayed with her longer than the conversation itself had lasted: her husband, who trusted ledgers over rumor in every other matter she had watched him weigh, had not once suggested the preacher's numbers were exaggerated, or that the crowds would thin with the season, the way he dismissed most unrest that arrived to him secondhand. He had simply moved the danger across a border and called it someone else's to carry, and Claudia, watching him bend back over the wax with the lamp guttering between them, found she could not decide whether that was wisdom or only the oldest trick a governing man knew: to measure a threat correctly, and then locate it, by whatever means available, on a map that was no longer his to hold.
 
