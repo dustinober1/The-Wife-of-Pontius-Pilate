@@ -26,7 +26,7 @@ Claudia threw a silk palla over her linen tunic, leaving her hairpins and gold b
 
 The morning sun struck her like a flat blade. Stepping onto the terrace, she gripped the stone balustrade and looked down at the vast, paved courtyard below: the space the Greeks called Lithostrotos.
 
-The court churned. Roman legionaries, their leather cuirasses dark with sweat, formed a wall against the crowd. Opposite them stood the accusers: temple officials and their gathered clients, gathering their fine wool robes as they pressed their charges. The noise of it reached her in a single unbroken wave, no single voice distinguishable from any other, only the crowd's massed and rising temper, already thick with the day's coming heat.
+The court churned. Roman soldiers, their leather cuirasses dark with sweat, formed a wall against the crowd. Opposite them stood the accusers: temple officials and their gathered clients, gathering their fine wool robes as they pressed their charges. The noise of it reached her in a single unbroken wave, no single voice distinguishable from any other, only the crowd's massed and rising temper, already thick with the day's coming heat.
 
 In the center of the pavement stood the man from the dream.
 

@@ -2,7 +2,7 @@
 
 ## News Carried Overland
 
-Two years had worn the household into a shape Claudia no longer thought of as foreign. She knew now which market stalls sold fish honestly weighed and which did not, knew the sound of the muezzin's Roman counterpart in the trumpet that marked the changing of the garrison watch, knew enough of Tamar's calendar to expect the kitchen quiet on the seventh day without needing to be told twice in the same season. Caesarea had stopped being a post to be endured and become, without her quite noticing the crossing, a place she measured other places against.
+Two years had worn the household into a shape Claudia no longer thought of as foreign. She knew now which market stalls sold fish honestly weighed and which did not, knew the trumpet call that marked the changing of the garrison watch as well as she knew any of her own household's small rhythms, knew enough of Tamar's calendar to expect the kitchen quiet on the seventh day without needing to be told twice in the same season. Caesarea had stopped being a post to be endured and become, without her quite noticing the crossing, a place she measured other places against.
 
 It was Philotas who brought the first word of the preacher, delivered with the same flat competence he brought to reports of grain prices and road repairs, so that Claudia almost let it pass her by unremarked.
 

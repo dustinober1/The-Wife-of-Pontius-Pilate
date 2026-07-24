@@ -36,7 +36,7 @@ Their leader introduced himself as Hanan ben Nahor, an elder of the council, a n
 
 "I welcome plain speech," Pontius said. "Speak plainly, then, and we will both save time."
 
-Hanan inclined his head, a gesture that might have been respect or might have been the practiced courtesy of a man who had learned long ago that agreeing to a Roman's terms cost nothing and occasionally purchased something. "The garrison at the Antonia overlooks the Temple courts. It has done so since Herod's day, and the previous Prefect maintained the standing custom that the legionary standards, which bear the Emperor's image, remain outside Jerusalem's walls, housed instead at Caesarea, and brought into the city only when necessity demanded a show of force the priesthood itself would then be consulted on beforehand."
+Hanan inclined his head, a gesture that might have been respect or might have been the practiced courtesy of a man who had learned long ago that agreeing to a Roman's terms cost nothing and occasionally purchased something. "The garrison at the Antonia overlooks the Temple courts. It has done so since Herod's day, and the previous Prefect maintained the standing custom that the military standards, which bear the Emperor's image, remain outside Jerusalem's walls, housed instead at Caesarea, and brought into the city only when necessity demanded a show of force the priesthood itself would then be consulted on beforehand."
 
 "A custom," Pontius said. "Not a law."
 
