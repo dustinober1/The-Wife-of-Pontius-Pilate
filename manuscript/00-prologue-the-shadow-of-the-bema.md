@@ -2,88 +2,132 @@
 
 ## The Waking Nightmare
 
-Claudia opened her eyes, yet the dark remained.
+Claudia woke with her hands clenched in the linen.
 
-Jerusalem heat greeted her, heavy and unyielding. The air inside the bedchamber felt thick with old timber, stale sweat, and the coppery tang of sacrificial smoke drifting from the Temple mount.
+For several breaths she could not separate the room from the dream. Jerusalem's heat pressed through the shuttered chamber. Sacrificial smoke drifted from the Temple mount and mixed with old timber, lamp oil, and the salt of her own skin. Beneath the bedchamber floor, somewhere in Herod's palace, a door slammed and feet hurried across stone.
 
-She sat up, her lungs burning, her skin cold. She pressed her hands against the linen sheets until her wrist bones pained her.
+The sound from the dream remained clearest: a violent crack, like winter splitting rock.
 
-The dream lingered.
+She had seen a man standing in shadow and Pontius beside him. Water had run over her husband's hands. Faces had crowded close, each turned toward a judgment Claudia could not hear. She had awakened before the judgment came.
 
-It faded like morning mist, yet its weight remained bruised into her mind. She still heard the sound: a sharp, cracking rift, like ancient stone splitting under sudden ice. She had seen him in the dark. The Galilean preacher appeared as a silent, terrifying presence that filled her with dread, nothing like a northern peasant at all. Beside him stood Pontius, her husband, stepping toward a boundary no Roman law could protect him from.
+The man might have been the Galilean whose name had crossed three different reports in the past two days. One called him a teacher. Another called him a danger to the Temple. A third, copied by a clerk who had omitted both witness names and place, called him a disturber of public order.
 
-Outside her chamber, a low murmur shattered the quiet. A tide of voices rose from the cobblestones beyond the palace walls.
+The dream proved none of it.
 
-Passover had arrived, filling the city with thousands of restless pilgrims. The terror she had suffered through in the dark was about to play out in the light.
+Outside, voices rose from the court below.
+
+Claudia pushed aside the coverlet. Her feet found the cool mosaic, then the heat beyond it. Passover had swollen Jerusalem until every lane seemed to carry an argument. Pontius had slept little. The priests had sent messages after midnight. The Antonia watch had doubled before dawn. Marcus had reported that the governor's legal scribe had been summoned to the tribunal before the household lamps were trimmed.
+
+Those facts frightened her more than the dream.
 
 ## The View from the Balcony
 
-Claudia threw a silk palla over her linen tunic, leaving her hairpins and gold behind. Her bare soles slapped against the mosaic floor as she hurried across the chamber, pulling back the heavy woolen tapestries that sealed the terrace doors.
+She threw a silk palla over her linen tunic and crossed the reception room barefoot. The terrace doors resisted before the warped wood gave way.
 
-The morning sun struck her like a flat blade. Stepping onto the terrace, she gripped the stone balustrade and looked down at the vast, paved courtyard below: the space the Greeks called Lithostrotos.
+Morning struck hard against the palace stone.
 
-The court churned. Roman legionaries, their leather cuirasses dark with sweat, formed a wall against the crowd. Opposite them stood the accusers: temple officials and their gathered clients, gathering their fine wool robes as they pressed their charges.
+Below lay the paved court chosen for the hearing, the place some in the household called the Lithostrotos. Claudia had heard other men place the governor's judgment seat elsewhere in the city. No one agreed, and Pontius had selected this court because it could be secured quickly and seen from the palace rooms.
 
-In the center of the pavement stood the man from the dream.
+Soldiers held a line at the gates. Temple officials and their attendants pressed toward the dais, their voices breaking over one another. At the center stood a bound prisoner in a torn tunic.
 
-Jesus of Nazareth stood bound with coarse rope, his simple tunic torn at the collar. He stood flanked by armed men, yet his posture remained unnaturally still. He did not cower. Amidst the political panic, he possessed a quiet authority that made the imperial iron around him look fragile.
+Jesus of Nazareth.
 
-At the far end of the court, ascending the carved stone steps of the tribunal, stood Pontius.
+Claudia knew him only through distance, rumor, and the fragments carried into Roman rooms by frightened men. He stood with rope at his wrists and blood darkening one side of his face. He did not plead. He did not offer the crowd the response it seemed to demand.
 
-Claudia watched her husband's back. She knew the tension in his neck, the way his fingers twitched near his belt. He walked with the carriage of a conqueror, yet she knew him better than any officer in the province. In the hard angle of his chin, she recognized the political fear he tried to disguise as imperial duty. He stood trapped between the threat of a street riot that would ruin his standing with Caesar and the realization that his prisoner was no ordinary agitator.
+Pontius climbed the tribunal steps.
 
-*He thinks this is a simple hearing,* she realized, a cold wave washing through her chest. *He cannot see the trap.*
+She knew the set of his shoulders when he entered a room already angry. She knew the small turn of his head when he listened for the one accusation that could travel farther than the rest. Yet she could not know which fear governed him now. Riot. Complaint. Humiliation. A charge of disloyalty repeated in Rome by men who understood how to make repetition resemble proof.
 
-## The Summons and the Message
+A priest raised both hands. The crowd answered.
 
-Claudia turned from the ledge and rushed into the shade of the reception room.
+Pontius looked toward the prisoner, then toward the outer gate where a centurion waited with a tablet.
 
-"Marcus!" she called out, her voice cracking.
+The hearing had already changed shape.
 
-Her secretary stepped quickly from the shadows. The Greek boy carried a small ink-stain on his thumb, his jaw tight as he took in her disheveled state. "Mistress, what is wrong?"
+Claudia left the terrace.
 
-"There is no time," Claudia gasped, striding to her writing desk. She snatched a scrap of coarse parchment and a reed pen. Her hand shook so violently that ink bloomed across the grain.
+In the reception room she forced herself to stop beside Marcus's schedule. Four messengers had entered since midnight. One came from the high priest's household, one from the Antonia, one from Herod Antipas's lodging, and one from the prefectural archive. The order of their arrival mattered. The archive messenger came last, after the hearing had already been arranged. Someone had asked for a legal form after the political decision was moving.
 
-"Write," she commanded, her voice dropping to a fierce whisper. "Write every word, exactly as I say it."
+She pressed a finger to the wax beside each name. A dream could make a frightened woman see design in accident. The schedule gave her something firmer. Priestly accusation, military custody, Herodian jurisdiction, Roman procedure. Each office had passed the prisoner onward while preserving its own freedom to deny responsibility. No single hand controlled the morning. That made the danger harder to stop.
 
-Marcus dipped his pen, his knuckles stiff.
+## The Message
 
-"Tell the Governor," she began, closing her eyes as the weight of the nightmare returned. "Have nothing to do with that innocent man."
+"Marcus."
 
-Marcus paused, the nib hovering over the leaf.
+He came from the passage at once, carrying the wax schedule he had been using to track the morning's messengers. He was older than the boy who had crossed the sea with them, though men in Roman houses still called him boy when they wished to remind him what he was.
 
-"Write it!" Claudia ordered, stepping into his space. "Have nothing to do with that innocent man, for I have suffered much today because of a dream."
+His eyes went to her bare feet, then to the open terrace doors. "Mistress?"
 
-Before the ink dried, she rolled the small sheet tight.
+"Which scribe is below?"
 
-"Take it to him. Do not give it to a captain, nor to a guard. Find his private scribe at the foot of the dais and make him put it directly into his hands."
+"The governor's legal scribe. The same man who took the priests' written charge before dawn."
 
-Marcus took the scroll, swallowed hard, and ran from the room.
+"And the west stair?"
 
-## The Knife-Edge Moment
+"Guarded at the court gate. Household servants may pass if they carry the prefect's seal or a written summons."
 
-Claudia returned to the terrace, gripping the stone until her palms went numb.
+Claudia moved to the writing desk. Her hand shook when she lifted the reed pen, so she set it down.
 
-Below, the shouting swelled. The accusers pressed forward, and Pontius stood near the judgment seat, raising his right hand to demand order.
+"You will write."
 
-Then she spotted Marcus. The slender boy wove through the wooden gates of the court, slipping past sweat-darkened leather armor and keeping his eyes fixed on the dais.
+Marcus opened a fresh leaf. "What shall I say?"
 
-Claudia watched without breathing. Every Roman instinct warned her she was breaking decorum, exposing the private vulnerability of the governor's house to the mob below. Yet the dread of the dream outweighed the empire.
+The dream returned in broken images. Water. Stone. Pontius surrounded by men offering him only dangerous choices. None of it told her what Jesus had done. None of it established innocence under Roman law.
 
-Marcus reached the platform steps. Knowing a slave interrupting a capital tribunal risked the lash, he shoved the scroll directly against the chest of Pontius's legal scribe, whispering fiercely.
+But the reports did not agree. The witnesses had shifted. The priests had moved the case through the night. Pontius's scribe had been called before sunrise. A man could be guilty and still be carried toward judgment by dishonest means. A governor could know that and still decide that disorder cost more than truth.
 
-The scribe glanced up at Claudia standing exposed in the morning light, then spun and mounted the stone steps.
+Claudia chose the only words strong enough to interrupt him.
 
-He handed the scroll to Pontius.
+"Tell the Governor: Have nothing to do with that innocent man, for I have suffered much today because of a dream."
 
-Her husband paused mid-sentence. Displeasure lined his forehead as he took the parchment. He unrolled it slowly, his thumbs pressing against the curling edges, his dark eyes tracing the hasty Greek letters.
+Marcus's pen stopped.
 
-Claudia saw the exact second the words sank in.
+"Exactly those words?"
 
-The sharp line of his jaw slackened. His breath caught in his chest, making the bronze clasp at his collar quiver. The irritation on his face turned into something raw and hollow. He stared at the parchment as if it had scorched his fingers, his eyes darting back over her frantic script.
+"Exactly."
 
-As the shouting continued below, Pontius slowly lifted his head.
+He wrote them in Greek, his hand quick and controlled. Claudia watched the ink form the claim she could not prove. Innocent. The word committed her beyond the evidence in her possession. It was also the word Pontius could not dismiss as a wife's unease.
 
-He turned toward the upper palace terrace. Across forty yards of open air, through the heat and dust, his gaze locked onto hers.
+Before the ink dried, Marcus rolled the leaf tight.
 
-He held her warning in his hands. The prisoner stood between them. The full weight of his Roman authority, and the quiet, terrible consequence of what he would do with it, hung on the choice he was about to make.
+"Take it to the legal scribe at the foot of the dais," she said. "No captain. No gate officer. The scribe has authority to approach him during the hearing. Make him place it in Pontius's hand."
+
+Marcus closed his fingers around the message. "If the guard asks whose order?"
+
+Claudia removed the small seal ring she used for household instructions and pressed it into his palm. It did not carry the prefect's official device. It carried hers, enough to identify the message as coming from the governor's wife and enough to expose them both if Pontius chose anger.
+
+"Mine."
+
+Marcus looked at the ring once. Then he ran.
+
+## The Knife Edge
+
+Claudia returned to the terrace.
+
+The shouting had grown. Pontius stood beside the judgment seat with one hand raised. The prisoner remained below him, still beyond reach, still unreadable.
+
+Marcus appeared at the wooden gate. A soldier caught his shoulder and turned him aside. Marcus showed the seal ring, spoke, and pointed toward the legal scribe. The soldier hesitated long enough for Claudia to feel every beat of blood in her throat.
+
+Then he released him.
+
+Marcus crossed behind the line of soldiers. He did not climb the dais. He went directly to the scribe and pressed the message into his hand. The scribe looked toward the terrace, saw Claudia standing in the morning light, and understood the risk before he accepted it.
+
+He mounted the steps.
+
+Pontius broke off in the middle of a sentence. The scribe spoke close to his ear and gave him the rolled leaf.
+
+Her husband unrolled it.
+
+From forty yards away Claudia could not read his thoughts. She saw only the pause, the tightening of his mouth, and the way his thumb returned to the first line before he reached the last. The crowd kept shouting. A centurion waited. The accusers watched him read a private message in public.
+
+Pontius lifted his head.
+
+His gaze found hers across the court.
+
+The warning had reached him. The prisoner stood between them. Around Pontius, every institution in the city pressed for movement.
+
+A soldier at the outer gate turned toward Marcus and pointed back toward the household passage. The errand had been completed, but the risk had not vanished. Claudia saw the scribe fold the message and place it beside the charge tablet where every official eye could mark its existence. Her intervention had entered the proceeding. Pontius could ignore her words. He could not erase the fact that they had reached him before judgment.
+
+A horn sounded from the gate. The soldiers shifted, opening a narrow path for another messenger. Pontius glanced from the new tablet to Claudia's warning. The morning continued to produce demands faster than any man could examine them. Claudia remained at the rail. Leaving now would spare her the sight, but it might also let him believe her courage ended with sending the note.
+
+He had not yet chosen.
