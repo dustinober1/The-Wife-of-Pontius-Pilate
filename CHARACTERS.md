@@ -1,76 +1,68 @@
-# Characters
+# Characters and Agency Bible
 
-Cast sheet for continuity. Facts marked **(on page)** are already locked by drafted prose (Prologue, Ch1, Ch2) and cannot be contradicted; everything else is a working decision that can still be adjusted — but once a chapter drafts it, move it to **(on page)**.
+Facts labeled **on page** are fixed by the Prologue and Chapters 1–17. Historical claims must be checked against `editorial/historical-uncertainty-register.md`.
 
-## Principals
+## Claudia
 
-### Claudia
+- **Role:** protagonist and default POV; wife of Pontius, called Claudia by the novel although her historical name is unattested.
+- **Age:** born c. A.D. 1–2 as a working invention; about twenty-four at appointment, thirty-one or thirty-two at trial, mid-thirties at recall.
+- **Background, on page:** Roman ward raised to be useful; ink-stained-hands lesson; married about A.D. 19; deliberate physical appearance remains undescribed.
+- **Core gifts:** reads omissions, titles, motive, household behavior, and the political meaning of apparently domestic decisions.
+- **Sustained objective:** keep Pontius from mistaking administrative neatness for political truth, preserve their household and his position where possible, and prevent preventable harm without surrendering conscience.
+- **Operational progression:** (1) interpret formal conversation; (2) compare household rumor with official dispatch; (3) request access to petitions, schedules, accounts, and selected correspondence; (4) use Marcus for discreet administrative movement; (5) use Tamar for ordinary local perception; (6) direct limited relief money and learn informal networks; (7) compare Roman, Temple, Herodian, and marketplace versions; (8) pass selected intelligence to Pontius; (9) conceal or delay material when disclosure would endanger a source; (10) accept marital and personal risk; (11) intervene during Passion Week.
+- **Limits:** no office, command authority, unrestricted male-space access, universal trust, perfect inference, or responsibility for major historical events. Her network is household-scale. She must misread some motives and incur consequences.
+- **Required pre-Passion outcome changes:** preserve Tamar’s employment or safety; prevent at least one punitive household decision; direct aid after the aqueduct riot; cause Pontius to modify at least one administrative response; protect a source or messenger at real cost. None may erase the historical crises.
+- **Dream arc:** ambiguous disturbance in Ch14, sharper recurrence in Ch20, full Passion Week nightmare in Ch22/Prologue. The dream creates urgency, never proof.
 
-- **Role:** Protagonist; default POV. Wife of Pontius Pilate.
-- **Born:** ~A.D. 1–2 (derived: age 9 in the tablinum scene, betrothal talk 8 years later, married ~A.D. 19 — Ch1 states "seven years of marriage" in A.D. 26).
-- **Ages at key points:** ~24–25 at the appointment (Ch1) · ~31–32 at the trial (Prologue/Ch23) · ~35 at the recall (Ch29) · ~36 in the Epilogue.
-- **Background (on page):** Ward of an unnamed noble house in Rome; her blood "claimed, tolerated, but never quite plain." Staff called her "the ward of the house." Raised to be useful rather than beloved — the ink-stained-hands lesson (Ch2). An uncle once passed through Jerusalem serving under the governor of Syria (her source for Judaea knowledge in Ch1). Nursed as a child by Sulpicia.
-- **Appearance:** Deliberately undescribed. The book renders Claudia only through action, sensation, and interior perception, never physical description — keep it that way through Ch29; do not introduce a mirror/appearance scene as a shortcut to characterization.
-- **Habits/tells (on page):** Presses her thumb against the seam of her palm; checks the old ink-stain crescent under her thumbnail even when her hands are clean. Measures a summons for danger before anything else (childhood instinct, named in Ch2). Reads men's motives behind their titles — Pontius explicitly recruits this skill (Ch1).
-- **Voice:** Even, precise, watchful. Argues by image (the fountain, the unmapped pride, the cliff beside the road) rather than by escalation. Interior register runs to water metaphors.
-- **Arc:** Usefulness → conscience → grief → an earned turn toward belief that reads equally as faith or moral awakening (see CLAUDE.md faith arc — never doctrinal, never overtly supernatural).
+## Pontius Pilate
 
-### Pontius Pilate
+- **Role:** prefect of Judaea; POV only in Chapters 4, 6, 9, 15, 16, 19, 25, 28.
+- **Status:** equestrian Roman official. The novel may infer patronal ties to Sejanus but must not state that Sejanus’s personal appointment is documented.
+- **Core creed, on page:** “an even hand and an unbending spine”; trusts roads, ledgers, ranks, force, and uniform method.
+- **Buried honesty:** in his first meeting he admits fear that Rome will forget him. Preserve this vulnerability as the human core beneath ambition.
+- **Causal tragic arc:** standards expose identity stronger than fear; retreat becomes humiliation; aqueduct appears technically solvable; riot violence becomes procedure; Sejanus rewards the rationalization; John’s death models fear renamed necessity; Sejanus’s fall removes protection; Caiaphas gains leverage; complaint prevention becomes governing priority; Passover combines crowd, priestly, Herodian, and imperial danger; tribunal options all carry political cost; he chooses survival through moral evasion; Gerizim completes the corruption of his theory.
+- **Complexity lock:** he loves Claudia, recognizes much of her intelligence, sometimes changes course, and is neither monster nor secret believer.
 
-- **Role:** Prefect of Judaea. POV chapters 4, 6, 9, 15, 16, 19, 25, 28 (per OUTLINE.md table).
-- **Born:** ~10 B.C. (working; must satisfy: gray already threading his temples at the first meeting ~A.D. 18 "despite looking younger," and his Ch1 ambition of a praetorship "before I am forty" reached by ~A.D. 29). Ages: ~mid-30s at appointment, ~early 40s at the trial, ~mid-40s at recall.
-- **Rank/politics (on page):** Equestrian, not senatorial — the old families' condescension drives him. Rose "on borrowed favor" by attaching himself to powerful men in the Praetorian Guard; Sejanus personally secured the Judaea commission. Succeeds Valerius Gratus (11 years in post).
-- **Appearance (on page):** Broad; dark hair with gray threading the temples since his late 20s; dark eyes; calloused thumb; bronze clasp at his collar at the trial; crimson wool mantle and iron-studded caligae for travel.
-- **Theory of rule (on page):** "An even hand and an unbending spine." "Rome governs by discovering how [provinces] are alike." Trusts everything that can be counted — roads, revenues, ranks, force. Plans from maps and ledgers; frames politics as engineering. The book erodes this theory one crisis at a time.
-- **Tells (on page):** Tension in the neck, fingers twitching near his belt when trapped; sets his goblet down with a deliberate click when challenged; public formality vs. rare private tenderness (thumb along Claudia's cheekbone). His fear is not of Judaea but of the men in Rome who staked their names on him.
-- **First-meeting note (on page):** Bowed a half-beat too quickly, voice cracked, admitted he'd thought of nothing clever, then: "I am afraid of Rome forgetting me." Honesty under nerves is the buried good in him — worth one late echo when everything else is stripped away.
+## Marcus
 
-### Marcus
+- **Role:** enslaved Greek household secretary/steward, administrative observer, recorder, scheduler, messenger, and document handler.
+- **Age/status lock:** born about A.D. 10 as a working date; mid-teens at Ostia and about twenty-three at the trial. “Boy” can be slave-address and must not be used to make him a child at the tribunal.
+- **What he can know:** household accounts, correspondence movement, appointments, copied directives, visitor schedules, messenger routes, and what he directly overhears while serving.
+- **How he knows it:** assigned labor and literacy, not covert penetration.
+- **Risks:** beating, sale, reassignment, accusation of theft or forgery, and punishment for interrupting official procedure. Claudia cannot treat his danger as abstract.
+- **What he cannot credibly know:** secret Temple deliberations, Herodian private councils, Roman intelligence beyond documents passing through the household, or the motives of senior officials.
+- **Function:** makes Claudia’s practice operational and exposes the moral cost of using access owned by a slaveholder household.
 
-- **Role:** Household secretary/steward. The witness-figure: present at nearly every major public moment; his small reactions are how the reader sees Claudia's conscience forming (see CLAUDE.md threads).
-- **Status (on page):** Greek; a slave (the Prologue notes "a slave interrupting a capital tribunal risked the lash"). Called "boy" in the Prologue — keep in mind this is also period address for a male slave regardless of age, which gives flexibility.
-- **Born:** ~A.D. 10 (working) — mid-teens at the Ostia crossing where he's already managing the baggage inventory against a wax tablet, ~23 at the trial. "Slender," quick, careful.
-- **On page:** Ink-stain on his thumb (mirror of Claudia's motif — deliberate; use sparingly). Jaw tightens rather than speaks. At the trial he delivers the note through the legal scribe at the foot of the dais, not to a guard.
-- **Open decisions:** His literacy history (did Claudia teach him? natural fit with the ink motif but not yet on page); his fate in the Epilogue.
+## Tamar
 
-### Tamar
+- **Role:** free local Jewish household worker, cultural and moral interlocutor, and source for ordinary provincial perception.
+- **On-page continuity:** local Caesarean family; aunt Rivkah; cousin Yaakov in standards protest and injured in aqueduct riot; secondhand awareness of John; no direct tie to Jesus.
+- **What she can know:** household labor networks, market talk, family and synagogue perception, mourning customs, local fear, and reports carried by relatives or travelers.
+- **How she knows it:** relationships and ordinary circulation, not espionage.
+- **Risks:** loss of livelihood, Roman suspicion, communal distrust, harm to relatives, and the compromised trust inherent in friendship with the prefect’s wife.
+- **What she cannot credibly know:** exact Sanhedrin strategy, sealed Roman dispatches, Antipas’s private intent, Jesus’s interior meaning, or a complete account of distant events.
+- **Accuracy rule:** some reports are partial, late, shaped by grief, or wrong. Claudia must cross-check rather than treating Tamar as an oracle.
 
-- **Role:** Jewish household confidante in Caesarea; Claudia's window into Jewish law and hope "on human terms, not political ones" (Ch7, on page). Later the household's channel for news of John and of Jesus (Ch8, 18, 20).
-- **Name:** Confirmed as Tamar (no longer provisional).
-- **Position:** Free hired servant, not enslaved — chosen deliberately so the friendship with Claudia can read as between near-equals rather than mistress/property, and because it's historically plausible in a coastal household with a mixed local staff.
-- **Family (on page, Ch7):** Local to Caesarea, not Galilee or Jerusalem. Mother died of a fever when Tamar was small; raised afterward by her aunt Rivkah in a house two streets from the harbor. Rivkah dies of a lung ailment in Ch7, giving Claudia her first close look at Jewish mourning customs (the seven days, torn collar, round mourners' bread, no thanks offered for it). A cousin, Yaakov, stood in the standards protest (Ch5, gray shawl, three rows back from the gate) and appears again bruised but unharmed in Ch7. Injured in the aqueduct riot (Ch10): a club across the shoulder, ribs uncertain under the physician's care; survives, keeps the arm.
-- **Relation to the Jesus movement:** None directly — she relays what ordinary people hear and hope, secondhand. Keeps the faith arc unforced and consistent with CLAUDE.md's rule against a doctrinal conversion scene. Ch7 gives her the clearest statement yet of the book's "human terms" version of hope: not fear of Roman punishment, but a belief that "what is broken is not broken forever," offered to Claudia as something to carry back to Pontius without letting him mistake it for strategy.
+## Institutional figures
 
-## Household
+- **Caiaphas:** serving high priest A.D. 18–36, skilled institutional survivor. He operates through office, precedent, complaint leverage, and controlled cooperation. No explicit master-conspiracy role.
+- **Annas:** former high priest, father-in-law to Caiaphas, influential elder and family power. Keep his authority distinct from Caiaphas’s office.
+- **Antipas:** tetrarch of Galilee and Perea; rival and counterpart to Pontius. His handling of John demonstrates fear converted into necessity.
+- **Herodias:** politically intelligent defender of household legitimacy; pressure on Antipas may follow Gospel tradition but must remain a shaped account.
+- **Salome:** Josephus supplies the name; the dance-and-oath synthesis is later narrative tradition and must not make her a simple villain.
+- **John:** offstage. Competing political and banquet accounts remain unresolved.
+- **Jesus:** offstage except distant external observation. No POV, interiority, devotional exposition, or certainty granted to Claudia before evidence and choice earn her intervention.
+- **Joseph of Arimathea:** receives the body in the adopted biblical sequence; motives remain unknown.
+- **Vitellius:** Syrian legate who orders recall and later removes Caiaphas.
+- **Marcellus:** caretaker/temporary successor in Josephus; title and exact administrative status should remain modest.
 
-- **Sulpicia (on page):** Claudia's old nurse; refused to let her cross the sea unattended. Elderly in A.D. 26 — decide whether she survives to Part IV or dies in Judaea (a quiet early grief could seed Claudia's larger ones).
-- **Two enslaved women (on page):** From the Roman household, unnamed at Ostia. Name them if they recur.
-- **Ennius (on page):** The guardian's steward in Rome, Ch2 childhood scenes only. Never raised his voice above a murmur.
-- **The guardian (on page):** Unnamed. Flat voice of a man "accustomed to being obeyed rather than loved"; cold hands; "Do you know what it means to be useful to this house?" Keep him unnamed — he works as a force, not a person. If Ch27/Epilogue needs word of his death, that's available as a beat.
-- **Pontius's legal scribe (on page):** At the foot of the dais at the trial; the link in the note's chain of custody. Unnamed; could be given a face in the Pontius POV chapters.
-- **Simon (on page, Ch8):** The cook's boy; quiet, previously unremarked in the household. Walks to the Jordan with his uncle and is baptized by John; gives Claudia her only near-firsthand account of the preacher (John offstage per the style rule, reported through Simon rather than shown directly). Open thread: whether he recurs.
+## Locked trial continuity
 
-## Historical figures (as the book needs them)
+- Claudia’s note remains the Matthew-derived paraphrase already on page.
+- Marcus carries it to Pontius’s legal scribe, who carries it to Pontius.
+- Claudia’s terrace, sightline, Lithostrotos language, and distance are dramatic geography, not established fact.
+- Jesus remains bound, seen from outside, and never interpreted through omniscient narration.
 
-- **Tiberius:** Emperor throughout; withdrawn to Capri from ~A.D. 26–27 — all imperial contact is by letter, which the book should exploit (distance, delay, dread). Dies 16 March A.D. 37, before Pontius can answer for Gerizim.
-- **Sejanus:** Praetorian prefect; Pontius's patron and the marriage's political ceiling. Falls 18 October A.D. 31 (Ch16). His letters in Ch11/15 should read, in retrospect, like a man overreaching. **First letter on page in Ch11**: reaches Caesarea three weeks after the aqueduct riot; calls the suppression "competence," absolves Pontius of the deaths as the cost of compelling order, and instructs him to continue the works and keep the treasury accounts beyond a priest's later complaint. Read by Claudia as arithmetic dressed in a patron's confident hand — no acknowledgment of the dead by name or number. **Ch15 (Pontius POV, not yet fallen)**: Senate dispatch announces Sejanus's joint consulship with Tiberius for the coming year, statues in the theater of Pompey, his birthday added to the public calendar, and his name added to the provincial new year's oath alongside the Emperor's — the oath Pontius administers at Caesarea's forum. Pontius reads it as confirmation of a four-year bet on borrowed favor and writes north angling for eventual recall to duties "closer to the center of things." Philotas warns, unheeded, that binding the province's oaths to a name other than the Emperor's hands critics "a new thread to pull" if that name ever comes loose — direct setup for Ch16-17. **Falls on page in Ch16**: news reaches Caesarea five weeks late (18 October execution; dispatch from Macro's office arrives via an out-of-season ship). Pontius's Ch15 letter angling for advancement is already unrecallable, sent into the same weeks as the unmasking. He orders the oath and coinage timing scrubbed from the record, holds a corrective public sacrifice for Tiberius alone in the same forum, and learns from Rufus that the purge's reach is still unknown — no news naming him either way. Sejanus is not named as a character again after this chapter except in retrospect.
-- **Caiaphas:** High priest A.D. 18–36; survivor; his working arrangement with the prefecture is the unspoken machinery behind Ch4, 9, 17, 23. Deposed by Vitellius shortly after Pontius's recall — a quiet irony available to the Epilogue. **First on-page appearance in Ch9**: receives Pontius in a chamber off the Temple's outer court (a deliberately neutral location neither man names as a concession); authorizes korbanas funds for the aqueduct on the condition his own overseers watch the spending alongside Pontius's engineers. Reads to Pontius as a man who calculates rather than believes, which Pontius finds easier to negotiate with than conviction. Names Corban for him: an offering "set apart," no longer available to ordinary use, which is the vocabulary the priesthood will later use against the spending even though Caiaphas himself authorized it. **Ch17, post-Sejanus**: reverses the visiting custom by coming to Pontius's own hall in Caesarea with a minimal retinue, announces the aqueduct's clean completion, and states plainly that "good faith has become a scarcer currency" this season — a recalibration of leverage delivered without any direct threat, understood by both men and by Claudia (watching from the gallery) as the unspoken groundwork for what Rome would hear about Pontius if the priesthood ever chose to write.
-- **Eleazar:** Younger Temple-appointed priest, the priesthood's senior representative on the Ch17 joint Roman/Temple cistern-maintenance commission (Pontius's own concession, a first). Confident, procedurally sharp, invokes Pontius's own authority against a Roman overseer mid-session as a small demonstration of the new balance of power — a first on-page sign of the recalibration reaching below Caiaphas to junior priesthood figures. Open thread: whether he recurs.
-- **Annas:** Former high priest, Caiaphas's father-in-law; real power behind the house.
-- **Herod Antipas:** Tetrarch of Galilee and Perea. Executes John at Machaerus. Rivalry with Pontius (Luke 23:12 — "became friends that day") available for Ch23 if wanted; Ch12 plants the rivalry as wary, performed cordiality, not yet friendship. **First appearance in person in Ch12**, at Tiberias: receives Pontius and Claudia to settle a border grazing dispute; reads to Claudia as a man who survives Roman counterparts by conceding small points and concealing what he actually wants until he already has it. Holds John confined (not yet executed) at Machaerus; visits the prisoner at night and comes away, per Salome, looking questioned rather than the questioner.
-- **Herodias:** Formerly married to Antipas's half-brother; the scandal John denounced. **On page in Ch12**, at her court in Tiberias: composed, watchful, reads as reconnaissance disguised as hospitality. Names John to Claudia as the one danger worth naming aloud; pushes Antipas to either execute or release him, unable to bear a prisoner "unsilenced." Her fear of losing the argument to a man who "wants nothing" and so can't be bribed or frightened is the clearest statement yet of what will end John's life in Ch13.
-- **Salome:** Herodias's daughter (name from Josephus, not the Gospels). **On page in Ch12**, ~16–17, composure not yet fully mastered like her mother's. Speaks to Claudia in the colonnade at Tiberias more candidly than anyone else in the household; relays secondhand household gossip about John's manner in confinement (silent, waiting, not raging or begging) and reads her mother's naming-him-aloud habit as Herodias's only weapon against an opponent she can't otherwise defeat.
-- **John the Baptist:** Never on page directly (rumor in Ch8, confined at Machaerus per Ch12 secondhand report, news of death in Ch13) — keep him offstage; his offstage-ness is the model for how the book handles Jesus too. **Death reported in Ch13**, roughly a year after Ch12: news reaches Caesarea already shaped into the birthday-feast/dancing-daughter/oath version (Gospel-flavored rumor, reported secondhand and explicitly held uncertain — Tamar notes both the oath story and a preemption motive circulate in the market, "and neither reason makes the man any less dead than the other would"). Simon (Ch8) grieves him directly, having been baptized by him; Claudia declines to simplify Salome into villain or victim when Simon asks about her.
-- **Jesus of Nazareth (on page, Prologue):** Bound with coarse rope, simple tunic torn at the collar, unnaturally still, "a quiet authority that made the imperial iron around him look fragile." Seen only at distance and through others — preserve this remove everywhere except Ch23's extension past the Prologue.
-- **Joseph of Arimathea:** Receives the body (Ch25).
-- **Vitellius:** Legate of Syria; removes Pontius after Gerizim (Ch29); sends Marcellus as caretaker.
+## Character acceptance test
 
-## Locked continuity facts (from drafted prose — cross-check before touching Ch21–23)
-
-- The note's exact wording: *"Have nothing to do with that innocent man, for I have suffered much today because of a dream."* Dictated to Marcus, written in Greek, rolled tight before the ink dried.
-- Chain of custody: Marcus → Pontius's legal scribe at the foot of the dais → Pontius, mid-sentence.
-- Geography: Claudia's terrace is ~forty yards from the tribunal, above the paved courtyard "the Greeks called Lithostrotos." The locked gaze across that distance ends the Prologue.
-- Claudia at the trial: barefoot, silk palla over linen tunic, hairpins and gold left behind.
-- The brass key to the Roman garden gate came with her to Ostia (Ch1) — available as a late object callback if wanted.
-- Pontius's marker on the map: a wooden imperial eagle placed on Jerusalem; the iron compass Claudia set into his hand (Ch1). **Second map scene used in Ch16**: the night the Sejanus news lands, Pontius sets the compass down beside the map rather than on it and tells Claudia he no longer trusts what the map shows him — the theory that every problem reduces to measurement has just failed on the one variable (a patron's favor) he never thought to measure. He says he won't unroll the map again "not soon." Per CLAUDE.md's thread plan, no map appears again before the Epilogue, where its absence is the point.
-- **The dream, first seeding (Ch14):** a sharp cracking sound like stone splitting under ice; a height with no fixed shape (terrace, hillside, or neither); Pontius moving toward an edge no law can protect him from crossing; a faceless, unnamed presence standing at the edge, its stillness a waiting rather than a threat, turning toward Claudia just before the sound wakes her. Recurs once, thinner, eleven nights later, then goes quiet for the rest of the year. Claudia tells no one but Tamar (obliquely) and a private letter she burns unread by anyone else. Deliberately unidentified with "the Galilean" — Jesus is not named in the household until Ch18, so the figure in this dream must stay faceless and unlabeled. Ch20 ("The Second Dream") is where it sharpens next.
+A revision fails if Claudia only observes, Marcus becomes a modern intelligence operative, Tamar delivers perfect exposition, Pontius becomes a one-note villain, Caiaphas becomes controller of every event, or Jesus’s mystery is replaced by authorial certainty.
