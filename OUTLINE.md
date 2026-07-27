@@ -1,99 +1,66 @@
-# The Wife of Pontius Pilate — Full Book Outline
+# The Wife of Pontius Pilate — Master Political-Thriller Outline
 
-**Target length:** ~85,000 words total (currently 19,600 drafted)
-**POV:** Close third, mostly Claudia; occasional Pontius chapters at key turning points (marked below)
-**Faith arc:** Claudia's turn toward belief is real and lands on the page by the end, but it is earned through conscience, grief, and doubt rather than a doctrinal or overtly supernatural conversion scene — a human transformation the reader can read as either faith or moral awakening, without the book insisting on one reading over the other.
+**Drafted state:** Prologue and Chapters 1–17. Chapters 18–29 and Epilogue remain outline-only stubs.  
+**Drafted prose baseline:** **39,200 words**, counted by `python scripts/word_count.py`.  
+**Finished target:** **80,000–85,000 words**, with 65,000 as an absolute floor.  
+**Primary POV:** Claudia, close third. Pontius POV only in Chapters 4, 6, 9, 15, 16, 19, 25, and 28.
 
-## Recurring threads to track across every part
+## Governing objectives
 
-- **Water / the fractured reflection** — fountain (Ch1) → deep black water at Ostia (Ch1) → return once at the trial (a basin, hands washed) → final image in the Epilogue.
-- **Ink-stained hands** — Claudia's childhood lesson that she is loved for being useful → the warning note to Pontius in the Prologue → one late, conscious callback near the end.
-- **The map** — "you have not mapped their pride" (Ch1) → a second map scene after Sejanus falls, when the lines stop protecting him → no map at all by the Epilogue.
-- **Marcus** — secretary/steward, present at nearly every major public moment; a witness-figure whose small reactions let the reader see Claudia's conscience forming without narration stating it.
-- **The dream** — must be seeded twice, lightly, before Part IV, so its arrival in the Prologue doesn't feel unearned.
+**Claudia:** learn how power moves through households, accounts, rumor, correspondence, and formal access; use that knowledge to restrain preventable harm and protect Pontius from fatal political misreadings; decide what truth to pass, conceal, or act upon as the cost to her marriage and sources rises.
 
-## PART I — Rome to Judaea
+**Pontius:** prove that uniform Roman method can produce order, preserve his standing with Rome, and avoid complaints that could destroy his career. Each crisis narrows “order” into self-protection until Gerizim completes the tragedy.
 
-Establishes marriage, ambition, and the crossing. Mostly drafted.
+## Escalation rule
 
-| Ch | Title | POV | Time/Place | Key Beats | Target |
-|---|---|---|---|---|---|
-| — | Prologue: The Shadow of the Bema | Claudia | Jerusalem, A.D. 33 | Dream, the balcony, the note, the locked gaze — drafted | ~1,500 |
-| 1 | The Red Seal | Claudia | Rome / Ostia, A.D. 26 | Appointment as Prefect, the map scene, departure — drafted | ~2,700 |
-| 2 | The Roman Bride | Claudia | Rome, flashback | Childhood as ward, ink-stained hands, arranged marriage, first meeting — drafted | ~1,500 |
-| 3 | Landfall | Claudia | Caesarea Maritima | First sight of Judaea; Herod's old palace as praetorium; introduce Tamar (working name — Jewish household confidante); first friction with local customs — drafted | ~2,900 |
-| 4 | The Prefect's House | Pontius | Caesarea | Pontius's early administrative choices; first meeting with Temple/Sanhedrin representatives; establishes his theory of rule before it's tested — drafted | ~2,100 |
+Every chapter must identify a political question, alter the information or leverage state, and cause a later problem. Atmosphere supports pressure but does not count as escalation by itself.
 
-**Part I subtotal (new): drafted, ~2,100**
+## Chapter blueprint
 
-## PART II — The Governor's Wife (26–29 A.D.)
+| Ch | POV | Immediate objective | Opposing force / political question | Information and reversal | Causal consequence / agency | Target |
+|---|---|---|---|---|---|---|
+| Prologue | Claudia | Get a warning into the tribunal before judgment | Procedure, distance, Pontius’s fear; can private intelligence penetrate public power? | Dream and observed prisoner create urgent but incomplete inference | Uses Marcus and the scribe; establishes final intervention mechanics while withholding certainty | 1,500–1,900 |
+| 1 Red Seal | Claudia | Secure a meaningful advisory role before departure | Pontius’s ambition and Roman universalism | Appointment and patronage premise; Claudia sees cultural risk | Negotiate access to petitions, accounts, selected correspondence, and household diplomacy | 2,700–3,100 |
+| 2 Roman Bride | Claudia | Understand and shape an arranged marriage | Guardian power and usefulness conditioning | Pontius admits fear of being forgotten | Give Claudia an early information task that proves usefulness can become judgment | 1,700–2,100 |
+| 3 Landfall | Claudia | Establish household footing without provoking local staff | Roman assumptions versus local custom | Tamar reveals practical custom and mistrust | Claudia reverses a punitive household decision and earns conditional trust | 2,800–3,200 |
+| 4 Prefect’s House | Pontius | Establish administrative control | Temple custom and inherited political arrangements | Delegation warns standards will become a loyalty crisis | Pontius chooses formal uniformity; identify Caiaphas/Annas roles and report consequences | 2,200–2,600 |
+| 5 Standards at Night | Claudia | Discover and reverse the concealed provocation | Fait accompli, gates, military procedure | Protesters’ endurance and household ties expose the true stakes | Claudia compares official report with Tamar/Marcus channels and forces confrontation | 2,200–2,600 |
+| 6 What the Crowd Taught Him | Pontius | End protest without losing authority | People willing to die; humiliation | Threat of massacre fails as coercion | He retreats, resents Claudia’s accuracy, and learns the wrong lesson about delay and force | 1,900–2,300 |
+| 7 A Woman Named Tamar | Claudia | Repair household trust after the crisis | Grief, rank, and Roman complicity | Mourning reveals how policy enters homes | Claudia protects Tamar/Yaakov and begins a limited relief practice; trust gains conditions | 2,800–3,200 |
+| 8 River Prophet | Claudia | Determine whether John’s movement is political danger | Conflicting reports, distance, religious unfamiliarity | Simon, Tamar, and administrative notices disagree | Claudia creates a source-comparison method; John becomes model for later Jesus reports | 2,700–3,100 |
+| 9 Corban | Pontius | Build the aqueduct without surrendering authority | Sacred funds, Caiaphas’s leverage, engineering urgency | Conditional Temple cooperation looks like consent | Pontius chooses a technically lawful path that creates shared blame and future complaint leverage | 2,900–3,300 |
+| 10 Blood in the Colonnade | Claudia | Understand and limit the suppression as it unfolds | Concealed soldiers, crowd panic, blocked access | Household and official accounts diverge immediately | Claudia moves aid, protects a witness, and fails to stop the violence; cost becomes personal | 3,000–3,500 |
+| 11 Cost of Order | Claudia | Keep deaths from being erased by procedure | Sejanus’s praise, Pontius’s rationalization, source danger | Accounts omit names and reshape causality | Claudia keeps a private casualty ledger and wins one limited administrative concession | 2,800–3,200 |
+| 12 Herodias’s Court | Claudia | Read Antipas’s household and the John problem | Hospitality as reconnaissance; rival jurisdictions | Herodias, Salome, servants, and Roman briefing produce incompatible motives | Claudia learns elite households also weaponize partial information | 2,700–3,100 |
+| 13 Baptist’s Head | Claudia | Establish what actually happened and protect affected people | Shaped banquet story versus political-preemption account | No source resolves date or motive | Claudia refuses simplification, aids Simon/Tamar’s circle, and warns Pontius about precedent | 2,600–3,000 |
+| 14 Dream Begins | Claudia | Test whether the dream is omen, stress, or accumulated evidence | Shame, uncertainty, self-doubt | Fragments echo prior crises without naming Jesus | She records rather than believes, creating a disciplined error-prone practice | 1,900–2,300 |
+| 15 News from Palatine | Pontius | Convert Sejanus’s rise into advancement | Imperial distance and hidden instability | Dispatches look triumphant; warnings are dismissed | Pontius binds himself more visibly to patronal favor | 2,300–2,700 |
+| 16 Fall of Sejanus | Pontius | Contain exposure after patron’s destruction | Purge uncertainty, unrecallable letters, record trail | Protection vanishes; no assurance of safety arrives | He scrubs associations and begins governing for complaint avoidance | 2,500–2,900 |
+| 17 No Friend of Caesar | Claudia | Learn how the balance changed and preserve influence with Pontius | Caiaphas’s quiet leverage and marital defensiveness | Temple cooperation becomes implicit political credit | Claudia identifies the complaint channel and chooses to build an independent comparison network | 2,500–2,900 |
+| 18 Whispers of Galilean | Claudia | Determine why Jesus reports differ and whether Pontius must know | Roman, Temple, Herodian, and household framing | At least two sources disagree on threat, following, and intent | She decides what to tell Pontius and commits to further inquiry; see dedicated lock | 3,000–3,400 |
+| 19 Prophet in Fields | Pontius | Classify Jesus before Passover | Incomplete intelligence and John precedent | Reports do not fit standard rebel categories | Pontius marks him low immediate military threat but politically monitorable | 2,700–3,100 |
+| 20 Second Dream | Claudia | Test the sharper dream against evidence | Fear of self-deception and source risk | Dream aligns with some details but contradicts others | Claudia refuses proof, protects a source, and escalates monitoring | 2,700–3,100 |
+| 21 Into Jerusalem | Claudia | Map the Passover pressure system before it closes | Crowd density, Temple concern, Herodian rivalry, Roman readiness | Arrest risk becomes concrete; channels narrow | Claudia positions Marcus/Tamar-linked contacts and chooses what Pontius must hear | 3,100–3,600 |
+| 22 Night Before | Claudia | Reconstruct the arrest/hearing sequence from fragments | Delay, secrecy, shaped reports | Conflicting accounts show the case is being converted for Roman jurisdiction | Full nightmare creates urgency; she acts without certainty | 2,300–2,800 |
+| 23 Bema | Claudia | Stop condemnation or force Pontius to confront innocence | Priesthood pressure, crowd risk, Caesar leverage, procedural momentum | Her warning enters; Herod referral/release options fail or narrow | Pontius chooses survival through evasion; extend beyond Prologue into verdict | 4,000–4,800 |
+| 24 What City Heard | Claudia | Learn what happened and preserve witnesses | Rumor, fear, household removal from execution | Accounts of crucifixion diverge; political silence descends | Claudia recognizes the limits of access and protects records/people rather than claiming certainty | 2,900–3,300 |
+| 25 Empty Report | Pontius | Close the case administratively | Joseph’s request, burial timing, lingering crowd risk | Paperwork cannot settle what happened | He releases the body and hardens through procedural denial | 2,700–3,100 |
+| 26 Empty Tomb Rumors | Claudia | Test resurrection reports without devotional certainty | Fear, grief, official dismissal, unreliable chains | Reports remain multiple and incomplete | She preserves testimony and chooses openness rather than certainty | 2,700–3,100 |
+| 27 Three Years Silence | Claudia | Live with the consequences and decide whether to remain silent | Marriage distance, Pontius’s paranoia, historical silence | Her network changes; some channels disappear | She accepts a private moral identity independent of Pontius’s office | 3,000–3,500 |
+| 28 Gerizim | Pontius | Crush a gathering before it becomes complaint-worthy | Samaritan claims, armed movement, fear of hesitation | He reads uncertainty as the standards crisis repeating | Overreaction triggers the complaint he sought to prevent | 3,000–3,500 |
+| 29 Recall | Claudia | Manage removal, records, people, and marriage | Vitellius’s order, household collapse, uncertain future | Marcellus arrives; Caiaphas’s own removal follows | Claudia chooses what and whom to carry west; Pontius loses institutional identity | 2,900–3,400 |
+| Epilogue | Claudia | Choose how to live beyond historical silence | Tiberius dead, Pontius’s fate unknowable, old usefulness reflex | No imperial judgment resolves the moral account | Claudia makes a personal choice; water and ink close without doctrinal declaration | 2,000–2,500 |
 
-Judaea resists being mapped. Two real historical crises planted here will detonate later.
+## Causal chain lock
 
-| Ch | Title | POV | Beats | Target |
-|---|---|---|---|---|
-| 5 | The Standards at Night | Claudia | Pontius marches military standards bearing Tiberius's image into Jerusalem after dark; five-day sit-in protest in Caesarea — drafted | ~1,900 |
-| 6 | What the Crowd Taught Him | Pontius | He backs down rather than massacre unarmed protesters; private humiliation; first crack in his "even hand" theory — drafted | ~1,600 |
-| 7 | A Woman Named Tamar | Claudia | Deepens the household friendship; Claudia learns Jewish law and hope on human terms, not political ones — drafted | ~2,900 |
-| 8 | The River Prophet | Claudia | Rumors of John baptizing at the Jordan reach the household; Herod Antipas named for the first time — drafted | ~2,800 |
-| 9 | Corban | Pontius | The aqueduct funded from Temple treasury; Pontius frames it as engineering, the priesthood as sacrilege — drafted | ~2,900 |
-| 10 | Blood in the Colonnade | Claudia | Riot suppression — soldiers with hidden clubs among the crowd; deaths; Claudia's first real moral crisis — drafted | ~2,900 |
-| 11 | The Cost of Order | Claudia | Aftermath; letters to/from Sejanus; marriage strain; Claudia's private grief kept from Pontius — drafted | ~2,700 |
+Standards create humiliation and mistrust. The aqueduct offers Pontius a technical recovery and creates deaths plus shared Temple responsibility. John’s movement teaches Claudia source comparison; John’s death teaches both spouses how fear becomes necessity. Herodian contact exposes jurisdictional rivalry. Sejanus’s rise rewards Pontius’s procedural violence; his fall makes complaints existential. Caiaphas’s leverage converts cooperation into constraint. Jesus enters the same information system but resists its categories. Passover compresses all pressures into one tribunal. Gerizim proves Pontius has learned to preempt complaint with force, thereby causing recall.
 
-**Part II subtotal: ~20,400** (Ch 5–11 drafted at ~15,400)
+## Count projection
 
-## PART III — The Widening Crack (29–31 A.D.)
+- Drafted baseline: 39,200
+- Planned revision expansion for Prologue–17: approximately 5,500–7,500
+- Revised drafted section projection: 44,700–46,700
+- Remaining Chapters 18–29 plus Epilogue: approximately 36,500–38,000
+- Projected final: approximately 81,200–84,700
 
-Sejanus falls. Pontius loses his cover, and the ground shifts under everything he's built.
-
-| Ch | Title | POV | Beats | Target |
-|---|---|---|---|---|
-| 12 | Herodias's Court | Claudia | Embassy or visit touching Herod Antipas's household; introduces the political undercurrent around John — drafted | ~2,600 |
-| 13 | The Baptist's Head | Claudia | News of John's execution reaches Caesarea; Claudia's reaction; Pontius reads it purely as politics — drafted | ~2,500 |
-| 14 | The Dream Begins | Claudia | First, unplaced version of the recurring dream — brief, disturbing, dismissed as heat and fatigue — drafted | ~1,900 |
-| 15 | News from the Palatine | Pontius | Political dispatches from Rome; Sejanus's power appears absolute; dramatic irony for the reader — drafted | ~2,300 |
-| 16 | The Fall of Sejanus | Pontius | October, A.D. 31 — the letter arrives; Sejanus executed for conspiracy; Pontius's protection is gone overnight — drafted | ~2,400 |
-| 17 | No Friend of Caesar | Claudia | Immediate aftermath; the Jewish leadership quietly recalibrates what leverage they now hold over him; Claudia watches her husband recalculate his own survival for the first time — drafted | ~2,300 |
-
-**Part III subtotal: ~16,200** (Ch 12–17 drafted at ~13,500)
-
-## PART IV — Passover, A.D. 33
-
-The Prologue's morning, now built from the ground up. Chapters 22–23 should rejoin the Prologue's actual text almost seamlessly.
-
-| Ch | Title | POV | Beats | Target |
-|---|---|---|---|---|
-| 18 | Whispers of the Galilean | Claudia | Reports of Jesus and his following reach the household through Tamar and others | ~2,800 |
-| 19 | The Prophet in the Fields | Pontius | His political assessment — not yet judged a threat; comparison to John | ~2,700 |
-| 20 | The Second Dream | Claudia | The dream returns, sharper; a scene with Tamar discussing the teacher directly | ~2,600 |
-| 21 | Into Jerusalem | Claudia | Passover travel to Jerusalem; the city filling with pilgrims; the arrest happens overnight, offstage | ~2,900 |
-| 22 | The Night Before | Claudia | The full nightmare — this chapter can absorb/expand the Prologue's "Waking Nightmare" section | ~2,000 |
-| 23 | The Bema | Claudia | Rejoins the Prologue's "View from the Balcony" through "Knife-Edge Moment" — now the reader knows everything both of them carry into it; extend past the Prologue's ending into the verdict itself | ~3,200 |
-| 24 | What the City Heard | Claudia | The crucifixion, kept at the household's remove — sky, rumor, Marcus at the edge of the crowd | ~2,600 |
-
-**Part IV subtotal: ~18,800**
-
-## PART V — After
-
-Grief, drift, catastrophe, and Claudia's quiet turn — treated as human and earned, not proclaimed.
-
-| Ch | Title | POV | Beats | Target |
-|---|---|---|---|---|
-| 25 | The Empty Report | Pontius | Official aftermath; the body released to Joseph of Arimathea; paperwork as a way of not feeling anything | ~2,700 |
-| 26 | Rumors of an Empty Tomb | Claudia | Reports reach the household; Pontius dismisses them outright; Claudia can't | ~2,600 |
-| 27 | Three Years of Silence | Claudia | Time skip to ~36 A.D.; the marriage grown distant; Pontius harsher and more paranoid; Claudia's private transformation, mostly interior | ~2,900 |
-| 28 | Gerizim | Pontius | The Samaritan massacre at Mount Gerizim — his final, fatal miscalculation | ~2,800 |
-| 29 | The Recall | Claudia | Vitellius removes him from office; the journey back toward Rome begins under a cloud | ~2,700 |
-| — | Epilogue: The Far Shore | Claudia | Mirrors the Prologue's structure — a gaze across distance, a choice, this time hers; Tiberius dies before Pontius can answer for Gerizim, his fate left where history actually leaves it; final callback to the water and the ink-stained hands | ~1,800 |
-
-**Part V subtotal: ~15,500**
-
-## Running total
-
-- Drafted: ~39,200
-- New material (Ch 18–29 + Epilogue): ~41,400
-- Projected finished length: ~81,300–85,000 words
-
-## Suggested drafting order
-
-Write in chapter order — the historical hinge points (Ch 6, 16, 23, 28) work better when the chapters that set them up are fresh. If you want a change of pace, the eight Pontius-POV chapters (4, 6, 9, 15, 16, 19, 25, 28) can be drafted as a mini-arc on their own and then interleaved, since they share a throughline: a man whose entire theory of rule is "an even hand and an unbending spine," tested and eroded one crisis at a time.
+Draft and revise in manuscript order unless `editorial/revision-execution-sequence.md` specifies a dependency check.
