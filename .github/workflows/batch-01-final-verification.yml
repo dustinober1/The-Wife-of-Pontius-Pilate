@@ -1,0 +1,146 @@
+name: Batch 1 Final Verification
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - ready_for_review
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  verify:
+    if: github.event.pull_request.number == 9 && github.event.pull_request.head.ref == 'agent/revise-batch-01-foundation'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Apply acceptance corrections
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          replacements = {
+              Path('manuscript/01-the-red-seal.md'): [
+                  (
+                      "That made him smile. He valued her ability to read people. He imagined it serving his ascent, smoothing rooms before he entered and warning him which vanity required praise. He did not yet see that access to records would also let her measure what his orders cost after he issued them.",
+                      "That made him smile. His expression suggested the uses he already saw for her: smoothing rooms before he entered, warning him which vanity required praise, keeping household friction from reaching his desk. Access to records might serve those purposes. It would also let her measure what his orders cost after he issued them, a use he had not granted aloud.",
+                  ),
+                  (
+                      "The proposal appealed to the part of him that preferred trials to trust. Claudia had expected that.",
+                      "Claudia had framed the proposal as a test because Pontius preferred trials to trust. His silence suggested she had chosen well.",
+                  ),
+                  (
+                      "He heard loyalty. She meant a boundary.",
+                      "He smiled as though he heard loyalty. Claudia meant a boundary.",
+                  ),
+              ],
+              Path('manuscript/03-landfall.md'): [
+                  (
+                      "He respected structures that resisted failure. Claudia watched the breakwater and wondered which reports had recorded the men lost building it.",
+                      "He had always praised structures that resisted failure. Claudia watched the breakwater and wondered which reports had recorded the men lost building it.",
+                  ),
+                  (
+                      "Then keep the two systems separate",
+                      "Then keep the household and prefectural records separate",
+                  ),
+              ],
+              Path('manuscript/04-the-prefects-house.md'): [
+                  (
+                      "## The Order\n\nClaudia waited in the eastern courtyard with two tablets.",
+                      "## The Order\n\nNearly three months after the delegation, Claudia waited in the eastern courtyard with two tablets.",
+                  ),
+                  (
+                      "\"Then at least order the standards covered until the unit reaches the fortress.\"\n\n\"Covered standards suggest shame.\"\n\n\"They suggest you understand what the city will see.\"\n\nPontius returned the tablet to her. \"I offered the relevant concession. No images enter the Temple courts. I will not create a second army for Jerusalem.\"",
+                      "\"Then at least order the standards covered until the unit reaches the fortress.\"\n\n\"Covered standards suggest shame.\"\n\n\"They suggest you understand what the city will see.\"\n\nPontius returned the tablet to her. \"They may remain covered during the night march. They will be raised at the Antonia after entry. I offered the relevant concession: no images enter the Temple courts. I will not create a second army for Jerusalem.\"",
+                  ),
+                  (
+                      "Equipment would remain with the unit. The movement required no further civil notice.",
+                      "Equipment would remain with the unit. The standards would stay covered during the approach and be raised after arrival. The movement required no further civil notice.",
+                  ),
+                  (
+                      "That was prudence, not fear. A clear record protected a clear decision.",
+                      "He called the precaution prudence. A clear record protected a clear decision.",
+                  ),
+              ],
+          }
+
+          for path, edits in replacements.items():
+              text = path.read_text(encoding='utf-8')
+              for old, new in edits:
+                  count = text.count(old)
+                  if count != 1:
+                      raise SystemExit(f'{path}: expected one match, found {count}: {old[:80]!r}')
+                  text = text.replace(old, new)
+              path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Run repository-native word counts
+        shell: bash
+        run: |
+          git fetch origin main
+          echo '=== BRANCH TEXT ==='
+          python scripts/word_count.py
+          echo '=== BRANCH JSON ==='
+          python scripts/word_count.py --json
+          git worktree add /tmp/pilate-main origin/main
+          echo '=== MAIN TEXT ==='
+          (cd /tmp/pilate-main && python scripts/word_count.py)
+          echo '=== MAIN JSON ==='
+          (cd /tmp/pilate-main && python scripts/word_count.py --json)
+
+      - name: Verify scope and prose controls
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          revised = [
+              Path('manuscript/00-prologue-the-shadow-of-the-bema.md'),
+              Path('manuscript/01-the-red-seal.md'),
+              Path('manuscript/02-the-roman-bride.md'),
+              Path('manuscript/03-landfall.md'),
+              Path('manuscript/04-the-prefects-house.md'),
+          ]
+          for path in revised:
+              text = path.read_text(encoding='utf-8')
+              if '—' in text:
+                  raise SystemExit(f'em dash remains in {path}')
+
+          prologue = revised[0].read_text(encoding='utf-8')
+          warning = 'Tell the Governor: Have nothing to do with that innocent man, for I have suffered much today because of a dream.'
+          if prologue.count(warning) != 1:
+              raise SystemExit('warning wording changed or duplicated')
+          if 'Marcus crossed behind the line of soldiers' not in prologue or 'He went directly to the scribe' not in prologue:
+              raise SystemExit('warning delivery chain changed')
+
+          stub = Path('manuscript/18-whispers-of-the-galilean.md').read_text(encoding='utf-8')
+          if 'Status: outline only' not in stub:
+              raise SystemExit('Chapter 18 is no longer an outline stub')
+          PY
+
+          git rm .github/workflows/batch-01-final-verification.yml
+          echo '=== FINAL DIFF FILES AGAINST MAIN ==='
+          git diff --name-only origin/main | sort
+          test "$(git diff --name-only origin/main | grep '^manuscript/' | grep -Ev '^manuscript/(00-prologue-the-shadow-of-the-bema|01-the-red-seal|02-the-roman-bride|03-landfall|04-the-prefects-house)\.md$' | wc -l)" -eq 0
+
+      - name: Commit acceptance corrections
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manuscript/01-the-red-seal.md manuscript/03-landfall.md manuscript/04-the-prefects-house.md .github/workflows/batch-01-final-verification.yml
+          git commit -m 'Correct Batch 1 acceptance issues'
+          git push origin HEAD:agent/revise-batch-01-foundation
