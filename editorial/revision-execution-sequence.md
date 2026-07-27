@@ -75,4 +75,4 @@ For each batch:
 
 ## Projection control
 
-Current drafted baseline is 39,200 words. Planned revision expansion is approximately 5,500–7,500 words, yielding 44,700–46,700 before Chapter 18. Remaining planned material is approximately 36,500–38,000 words, for a projected final length of 81,200–84,700 words.
+Current drafted baseline is 38,200 words, established by the repository-native counter during Batch 1 final verification. Planned revision expansion is approximately 5,500–7,500 words, yielding 43,700–45,700 before Chapter 18. Remaining planned material is approximately 36,500–38,000 words, for a projected final length of 80,200–83,700 words.
