@@ -4,136 +4,272 @@
 
 Seven years before Jerusalem, the summons arrived sealed in red wax.
 
-The late afternoon sun warmed the white marble colonnade of the peristyle garden, casting geometric shadows across frescoes of laurel trees and grazing deer. Far beyond the high boundary walls of the domus, Rome hummed, a low, incessant rush of iron-rimmed wheels over basalt and the acrid scent of woodsmoke drifting from the tenements of the Subura. Inside, the garden remained an island of cool, measured symmetry. Water trickled from a bronze dolphin's mouth into the central stone basin, its cadence measuring out the quiet hours.
+Late sun warmed the colonnade of the peristyle garden. Beyond the domus walls, wheels struck basalt and smoke drifted from the Subura. Inside, water fell from a bronze dolphin's mouth into a stone basin with the steady patience of a household that expected tomorrow to resemble today.
 
-Claudia sat on a low travertine bench, smoothing the hem of her stola as she savored the brief calm before the evening's obligations.
+Claudia was reviewing the guest list for a dinner promised to a senator's widow when Pontius entered.
 
-The quiet vanished the moment Pontius entered.
+He had dismissed his clients at the vestibule. Wind had disturbed his hair, and the imperial ribbon around the parchment in his hand hung loose beneath a broken seal.
 
-He crossed the archway in rapid, heavy strides, his leather sandals slapping against mosaic tiles. He had dismissed his secretary and clients at the outer vestibule, a rare breach of his usual formal discipline. Wind had mussed his dark hair, and he carried a thick roll of parchment bound tightly in imperial ribbon, the red wax seal already cracked where his thumb had pried it open.
+"It is signed," he said.
 
-He had already chosen before he reached the garden. Claudia saw it in the hard, exultant set of his shoulders and the quickened pulse at the base of his throat.
+She set the guest list aside. "The Emperor approved it?"
 
-"It is signed," he said, stopping beside the fountain. He held the document as though it were already an insignia of office, his knuckles pale against the vellum.
+"The commission came from the Palatine before the ninth hour. Prefect of Judaea."
 
-"Tiberius has approved it?" she asked, rising from the bench.
+Triumph altered him more than wine did. His shoulders widened. The room seemed briefly too small for the future he had already built inside it.
 
-"Sejanus secured the authorization," Pontius replied, a sharp, triumphant smile breaking through his customary restraint. "Prefect of Judaea. The commission came through from the Palatine Hill before the ninth hour."
+"And Sejanus?" she asked.
 
-Her breath hitched in her throat, leaving her hollow. For two years, Pontius had called upon every military patron and political debt he possessed. He wanted a province, but as she watched him run a thumb over the cracked wax, she knew it was not for comfort; he hungered for authority, for a command that would force Rome's old senatorial families to acknowledge his rising equestrian rank when they returned.
+"He put my name where it had to be put. No other man in the Guard could have moved it so quickly."
 
-"Judaea," she said softly, letting the syllables rest on her tongue. They sounded dry and distant. "The province across the sea."
+Pontius believed that. Perhaps he was right. Patronage rarely left a clean record, and powerful men encouraged dependents to credit them for doors that might have opened through several hands.
 
-"A crucial posting," he insisted, closing the remaining space between them. The formal reserve he maintained in public dissolved, leaving only the fierce, focused ambition that had drawn her to him years ago. "Valerius Gratus spent eleven years there and accomplished little beyond managing tax receipts and angering the priesthood. Sejanus needs a man who understands military discipline, not a senator playing at diplomacy."
+"You have the appointment," Claudia said. "That is what can be known."
 
-"Pontius," she said, reaching out to touch his arm. Beneath the fine wool of his tunic, his muscle was rigid. "It is an unyielding land. My uncle passed through Jerusalem once, serving under the governor of Syria. He said the road out of the city chokes with dust in the dry months, thick enough to cake a man's throat, and still, on the feast days, tens of thousands walk it barefoot rather than ride, singing psalms until their voices give out. Men who will do that cannot be ruled as though they merely object to a tax."
+His smile thinned. "You think I flatter my patron."
 
-Pontius gave a dry laugh, though it came slower than usual, as if some small part of the image had lodged in him before he could dismiss it. "Every province believes its grievances are unique, Claudia. Rome governs by discovering how they are alike. They are subjects of the Empire. They will respect the law when it is administered with an even hand and an unbending spine."
+"I think a man who believes one patron made him will fear losing that patron more than he fears making an enemy in a distant province."
 
-"Their law is not a grievance, Pontius. It is their identity," she pressed, stepping into his path before he could turn toward the study. "If you treat their God like a mere political faction, you will be governing people who would rather die than watch you succeed."
+The pulse at his throat quickened. She had touched the hidden part of the victory.
 
-He paused. For a moment his certainty seemed to lose its footing, and something crossed his face that he smoothed over too quickly for her to name, not quite doubt, but close enough to it. "Then the lines must be drawn early, and drawn plainly," he said, though his tone had lost its sharp edge. "A man can still govern what he does not love."
+For two years he had called on officers, creditors, and men who remembered favors from Germania. He wanted a province because command could convert borrowed standing into his own. Judaea was neither rich enough nor quiet enough to be a reward. It was a test.
 
-He reached out, his calloused thumb brushing the line of her cheekbone, a rare, private tenderness he permitted only within their walls. Claudia closed her eyes briefly against the warmth of his hand, grounding herself in the familiarity of his touch before he spoke again.
+"Gratus held the post eleven years," Pontius said. "He kept the taxes moving and left the rest to priests. Rome remembers men who change what they inherit."
 
-"Then help me keep it contained," he murmured, leaning in close. "You know how to read the nobility. You see the motives men hide behind their titles. I can command the garrisons, but I need your counsel if we are to turn this posting into a triumph that Sejanus cannot ignore."
+"Rome also remembers complaints."
 
-Claudia opened her eyes and looked past him toward the fountain. Ripples moved through her reflection, fracturing her face against the pale stone, breaking a single, whole image into jagged pieces that refused to align. She thought, not for the first time, that she was afraid, not of Judaea's distance, but of what she might become useful for once they arrived. Pontius saw the water as something to be channeled by aqueducts and stone; she saw how easily a current could swallow a man who believed he commanded it.
+"Then I will give them no cause to send one."
 
-Refusal had never been among the choices he brought home. His ambition had shaped their marriage from its beginning, and she had loved him partly for the strength that drove it. Yet the broken wax in his hand felt more like a warning than an opening.
+Claudia rose and touched the cracked wax with one finger. "My uncle passed through Jerusalem under the Syrian governor. He wrote that men walked barefoot for days to reach the Temple, carrying offerings they could scarcely afford. That tells me their law reaches farther into ordinary life than our reports admit."
 
-Pontius understood roads, revenues, ranks, and force. He trusted everything that could be counted.
+"A province is still a province."
 
-She closed her hand over his.
+"Yes. Which means it will punish the governor who mistakes custom for defiance."
 
-"Then we will give them Roman law," she said softly.
+Pontius turned toward the study. The movement ended the discussion in the manner of a man accustomed to carrying decisions out of rooms before opposition could gather weight.
 
-Pontius smiled, hearing agreement where she had intended a promise to restrain him.
+Claudia stepped into his path.
+
+"You asked me last winter why Senator Piso's wife stopped inviting the prefect of the grain supply to dinner."
+
+He frowned at the change of subject. "You said the quarrel was not with the prefect. It was with his freedman, who had altered the order of introductions."
+
+"And you avoided asking Piso for support until the insult had been repaired."
+
+"You were right."
+
+"Because the formal account said nothing about the person who had been humiliated. Judaea will be full of such omissions. You will receive petitions written for Roman ears and reports prepared by men defending their own decisions. Let me see enough to compare them."
+
+His expression sharpened. "Enough of what?"
+
+"Household accounts that touch official hospitality. Guest lists. The schedule of delegations. Petitions you have already decided do not require legal judgment. Selected correspondence where the danger lies in motive or omission rather than military fact."
+
+"You want my files."
+
+"I want the edges of them. You keep command. I tell you when the account on the page does not match the people entering the room."
+
+He studied her with the wary pleasure he took in a useful proposal. "And diplomatic dinners?"
+
+"I choose the seating with you. I hear what wives, clients, freedmen, and secretaries say when they believe the prefect is listening elsewhere."
+
+"You make provincial government sound like a household dispute."
+
+"Most disputes reach government after passing through a household."
+
+That made him smile. He valued her ability to read people. He imagined it serving his ascent, smoothing rooms before he entered and warning him which vanity required praise. He did not yet see that access to records would also let her measure what his orders cost after he issued them.
+
+Pontius walked to the basin and looked down into the moving water. "My secretary will say you have no training in provincial law."
+
+"He will be correct."
+
+"The officers will say a governor who consults his wife invites ridicule."
+
+"Then do not announce it in the forum. Give me work whose value can be tested."
+
+"And when your reading contradicts a centurion?"
+
+"Ask which of us can show the better chain from fact to conclusion."
+
+He turned back. The proposal appealed to the part of him that preferred trials to trust. Claudia had expected that.
+
+"Very well," he said. "Petitions after my secretary marks them. Guest lists and household accounts without restriction. Correspondence when I judge it suitable. Marcus may carry material between your rooms and mine, but he answers to the prefectural secretary on official business."
+
+"And I may tell you when the secretary's mark is the most revealing thing on the petition."
+
+Pontius laughed once. "That sounds like you."
+
+He touched her cheek with his calloused thumb, tenderness surviving beneath the excitement. "Help me make this posting a triumph."
+
+Claudia closed her hand over his wrist. "I will help you understand what reaches you. What you do with it remains yours."
+
+He heard loyalty. She meant a boundary.
 
 ## Lines on a Map
 
-Three days of preparation followed. Agents were summoned, the domus shuttered room by room, farewells exchanged with a haste that left little room for reflection. On the last evening before they were to leave for Ostia, the oil in the small bronze lamp burned low in the study, filling the room with the sharp, heavy smell of olive pressings and warm brass.
+Three days later, the study was crowded with ledgers left by Valerius Gratus. Rolls of papyrus covered the table. Pontius stood over a map of the eastern Mediterranean with his sleeves pinned back and a cup of Falernian near his hand.
 
-Tax ledgers left behind by Valerius Gratus leaned against the stone walls in bound stacks. Rolls of coarse Egyptian papyrus covered the heavy oak table, weighted at the corners by bronze inkwells and iron compasses. Pontius stood over them, his tunic sleeves pinned back to his elbows, a half-empty goblet of dark Falernian wine resting near a sprawling parchment of the Levant.
+Marcus waited at the side table with two inventories: baggage for Ostia and records selected for the crossing.
 
-"Gratus governed from the coast," Pontius said, tracing a thick thumb along the inked coastline. "Caesarea Maritima. Clean air, Roman theater, easy access to the fleet. He treated Jerusalem like a pestilence to be visited only when the feast days demanded it."
+"Gratus governed from Caesarea," Pontius said. "Fleet access, theater, clean streets. Jerusalem only for festivals and disturbances."
 
-Claudia leaned over the edge of the table, avoiding the wet ring left by his goblet. The map was meticulous, a Roman triumph of geometry over wilderness. Straight brown lines of paved roads pierced through mountain ranges; neat red squares marked auxiliary garrisons at Sebaste, Jericho, and Ascalon; fine black script cataloged tax yields in silver denarii.
+He placed a wooden eagle over the city.
 
-"And you intend to govern differently?" she asked.
+"I will spend more time there. The Antonia already overlooks the Temple. A commander who is visible before trouble begins has less trouble to answer afterward."
 
-"I intend to take the city." He reached for a wooden marker shaped like an imperial eagle and set it squarely over the small, dense cluster of ink that marked Jerusalem. "Gratus left the inner courts to the High Priest and the Sanhedrin, thinking it bought peace. It bought defiance. I will quarter an auxiliary cohort inside the Antonia Fortress overlooking their Temple precinct, a permanent reminder of who holds the authority."
+Claudia examined the map. Roads appeared as confident lines. Garrisons had numbers. Tax yields occupied neat columns. No mark showed which gate closed on a holy day, which village supplied a priestly family, or which insult could travel faster than a mounted courier.
 
-Claudia stared at the wooden eagle resting on the parchment. "You mean to put Roman shields in sight of their altar."
+"What did Gratus refuse to put in his final report?" she asked.
 
-"I mean to put Roman discipline where it is needed most." Pontius poured a splash of wine into her cup, his tone brisk, filled with the satisfaction of a soldier who had solved a tactical puzzle. "Three years, Claudia. Three years of efficient collection, clear roads, and immediate justice. When Sejanus looks at the eastern ledgers, he will see a governor who tamed what senatorial elites called ungovernable. It will buy us a praetorship in Rome before I am forty."
+"How should I know?"
 
-She looked away from the wooden marker, her gaze tracing the blank, unwritten spaces on the map. The cartographer had drawn every road and garrison with surgical precision, but the parchment was entirely blind to the land it claimed to depict.
+"Compare his last three petitions from Jerusalem with the quartermaster accounts."
 
-"Where are the sacred boundaries?" she asked quietly.
+Pontius looked to Marcus. "Do we have them?"
 
-Pontius paused, his hand hovering over a ledger. "What?"
+Marcus checked the inventory. "The petitions are in chest four. Quartermaster abstracts in chest seven, unless Philotas's Roman list uses a different numbering."
 
-"The lines your cartographer left out." She tapped the parchment near the jagged ink representing the Judean hills. "My uncle said the road from Jericho to Jerusalem is not merely a transport route for grain. It is a pilgrim path. On their holy days, thousands march it carrying blood for sacrifice. Where do you map a belief that makes a man welcome a blade?"
+"Bring both aboard," Claudia said.
 
-Pontius let out a breath, a faint smile touching his lips, though it did not quite reach the confidence it once had. "Belief does not stop an iron pilum, Claudia. They may pray to whatever god pleases them in private, but in public, they will obey imperial decrees."
+Pontius glanced at her. "You have had your access for three days and already command my baggage?"
 
-"You are mapping roads and revenues, Pontius," she said, raising her eyes to meet his. "You have not mapped their pride. If you march eagles into Jerusalem, they will not see an administrative reminder. They will see a desecration."
+"I am testing whether it exists."
 
-His breathing shifted, short and shallow, as the smooth rhythm of his presentation broke against her words. He set his wine goblet down with a heavy, deliberate click against the wood.
+Marcus lowered his eyes, though Claudia saw the hint of relief in his face. The record chests had been assigned to separate transports. Her instruction would keep related material together and place Marcus in charge of the cross-reference she had proposed.
 
-"You look at these ledgers as though they are an executioner's tally," he said, his voice dropping into a low, rasping register. "Do you truly think I am marching us into a trap?"
+Pontius moved the eagle from Jerusalem to Caesarea. "What do you expect to find?"
 
-He did not wait for her answer before adding, quieter, almost to himself: "Sejanus will not tolerate a governor who arrives already flinching." It was the nearest he had come, in seven years of marriage, to admitting he might be afraid of the same things she named, not of Judaea, but of the men in Rome who had staked their names on his success, and whose own footing was less certain than he let himself believe.
+"Perhaps nothing. Perhaps a petition called religious offense followed by an expense for doubled watch rotations. The cost may show what the words conceal."
 
-"I think you have drawn a road without looking at the cliff it runs beside," she replied evenly, remaining rooted beside the table rather than retreating from his posture. "You see a province as an equation to be solved. They see it as holy ground. If you calculate only in iron and taxes, you will misjudge the moment when force ceases to intimidate them, and find the ground gone from under you, the way the water in the garden fountain breaks a whole face into pieces the moment you disturb it."
+He considered the two chests, then nodded to Marcus. "Put them on the same ship. Make a list of every petition that led to an unusual expenditure."
 
-For a long moment, the only sound in the small study was the crackle of the oil lamp and the distant, dull murmur of Rome beyond the walls. Pontius held her gaze, the color high in his throat, his pride bristling against the doubt she had laid bare.
+"Yes, Prefect."
 
-He reached out, his hand closing around the wooden eagle on the map. He picked it up, rolling the polished block of wood between his fingers.
+Marcus returned an hour later with the first comparison. Three petitions from Jerusalem complained of insults to worship, each dismissed in Gratus's margin as priestly sensitivity. In the same weeks the quartermaster had paid for extra patrols at two gates, replacement shutters at the governor's lodging, and emergency fodder for cavalry sent from Caesarea.
 
-"Order requires a firm hand," he said, though the sharp edge in his voice had smoothed into something quieter, almost guarded.
+"He called them ceremonial disputes," Marcus said, keeping his voice low. "The expense account treated them as disturbances."
 
-"Order requires knowing when to strike and when to hold," she said. Instead of stepping toward him, she simply lifted the heavy iron compass from the corner of the map and set it squarely between his fingers and the parchment. "You have the firm hand, Pontius. Let me help you see when to hold it."
+Claudia laid the tablets side by side. "Copy the dates only. Do not write a conclusion into the record."
 
-Pontius looked down at the cold iron resting beside his palm, his shoulders slowly lowering as the tension drained. He turned his wrist, his fingers brushing hers.
+"Why not?"
 
-"We leave for Ostia at dawn," he said softly, looking up at her with a quiet, unyielding intent. "Whatever lies across the sea, we face it together."
+"Because a conclusion can be attacked. Let Pontius see the pattern and claim the judgment himself."
 
-"Together," she echoed.
+Marcus looked toward the study door. "And if he does not see it?"
 
-He rolled the map tight, trapping the dry ink of Judaea inside the vellum, and slipped a leather strap around the cylinder. He believed he had mastered the land before setting foot on its shore, and Claudia let him believe it, turning her eyes to the dark window, where the quiet of Rome was already slipping away.
+"Then I will ask why Gratus spent soldiers on matters he called harmless."
+
+That was the first consequence of Claudia's bargain. A small one. A record altered before departure, a young enslaved secretary made responsible for a comparison no prefect had requested before.
+
+Pontius poured wine into a second cup. "You see? We are already governing."
+
+"We are already learning what Gratus thought worth hiding."
+
+His mouth tightened, but he did not withdraw the order.
+
+He traced the road from Caesarea toward Jerusalem. "Three years of steady collection, repaired roads, and immediate justice. If Sejanus sees clean ledgers, we return before I am forty with a stronger claim than any old family can dismiss."
+
+"Then let the ledgers be clean because the province is well governed, not because the costs were entered elsewhere."
+
+"You expect deceit before we have landed."
+
+"I expect men to describe their own conduct generously. Rome trained them to do it."
+
+The buried honesty in him surfaced. "Sejanus will not protect a governor who arrives timid."
+
+"Caution and timidity are different errors."
+
+"And who decides which is which?"
+
+Claudia touched the road on the map. "The consequence usually decides. Too late for the man who chose."
+
+Pontius set down the cup with a measured click. Then he drew the quartermaster abstracts toward the petition chest list.
+
+"You will review these on the crossing," he said. "Mark only what you can support. I will not carry suspicions into my first council."
+
+"Agreed."
+
+"And the dinners?"
+
+"I want the names of the chief priest's household, the council elders who deal with Rome, the principal merchants at Caesarea, and the officers' wives."
+
+"You intend to feed the province into obedience."
+
+"I intend to learn who refuses to sit beside whom before you make them do it in public."
+
+He smiled again. This time respect tempered the amusement.
+
+"An even hand and an unbending spine," he said.
+
+"An informed hand," Claudia replied. "The spine may remain your concern."
 
 ## The Mouth of the Tiber
 
-Dawn at Ostia broke not in gold, but in a heavy, salt-damp gray.
+Dawn at Ostia came salt-damp and gray.
 
-High-prowed grain freighters from Alexandria rode low in the swell alongside military transports, their tall masts swaying against a sky thick with mist. The scent of burning pitch and brine hung heavy in the damp morning air.
+Grain ships rode low beside military transports. Porters shouted over the creak of rigging. Pitch smoke clung to the mist.
 
-Claudia stood on the timber boarding quay, wrapped tightly in a dark woolen palla against the ocean spray. Below her, the dark water of the harbor sloshed against the barnacled pilings, thick, murky, and churning with black silt.
+Marcus stood beside two cedar record chests, checking their seals against a wax tablet. The quartermaster abstracts and Jerusalem petitions now traveled together. Two enslaved women waited with Sulpicia near the gangway.
 
-A short distance away, Marcus, their young household steward, stood over two dock porters who were hefting a heavy cedar trunk bound with iron straps.
+"Chest four and chest seven are under the same cargo mark," Marcus told Claudia. "I copied the petition dates onto a separate tablet."
 
-"Mind the brass corner," Marcus called out, his voice straining against the din of shouting stevedores and creaking rigging. "That chest holds the mistress's record scrolls."
+"Keep that tablet with you."
 
-He checked off the inventory against a small wax tablet. Beside him waited two enslaved women from their Roman household, shivering under linen shawls, and old Sulpicia, who had nursed Claudia as a child and now refused to let her cross the sea unattended.
+A dock clerk approached and demanded the record chests be transferred to the rear transport to balance weight. Marcus looked toward Pontius, who was speaking with the captain.
 
-Pontius stood at the gangway of the imperial transport in his heavy iron-studded military caligae and a mantle of deep crimson wool. He was deep in conversation with the ship's captain, gesturing toward the open water where the Tiber met the sea, his voice cutting clearly through the harbor noise.
+Claudia read the clerk's impatience, the porter's glance at a waiting merchant, and the fresh wax on a cargo order supposedly issued before dawn.
 
-Claudia stepped carefully over coils of heavy hemp rope toward the water's edge. Reaching into the folds of her palla, she withdrew a small, cold object: the brass key to the garden gate of their Roman domus. It was useless now, the house shuttered and entrusted to an agent until their return. She ran a thumb across the smooth metal teeth, then let the key slip back into her cloak pocket.
+"Show me the harbor seal," she said.
 
-"The wind is holding from the north," Pontius said, coming up behind her, his boots thudding against the deck planks. "We will make good time to Messana before taking the open water east."
+The clerk hesitated.
 
-"It is a vast sea," Claudia said, watching the dark waves chop against the hull.
+The order bore a private warehouse mark, not the harbor office's device. Someone had paid to move a merchant's amphorae forward and push official cargo back.
 
-"The navy keeps the sea lanes clear, Claudia," he replied, placing a warm hand over her shoulder, his gaze fixed on the horizon. "In three weeks, we will be in Caesarea."
+Claudia handed it to Marcus. "Record the name. The chests remain."
 
-A sailor blew a sharp signal on a ram's horn, calling the final passengers aboard. Pontius offered his arm, and together they walked up the narrow gangway onto the deck of the vessel.
+The clerk protested until Pontius turned from the gangway. Claudia gave him the false order. He read it, looked once at the merchant, and called for the harbor master.
 
-The crew cast off the thick hawsers. With a low groan of timber, the heavy ship pulled away from the stone quays of Ostia. The oars dipped in rhythm, churning the harbor into white foam as the transport glided past the harbor mouth and out into the current.
+The harbor master arrived furious at having his seal imitated. Under questioning, the clerk admitted the merchant had promised him two amphorae of Spanish oil. Pontius ordered the clerk removed from the quay pending inquiry, then stopped before demanding the merchant's arrest. A delayed departure would cost the transport convoy a tide.
 
-On the stern rail, cold sea spray hit Claudia's face, stinging her eyes and tasting sharply of salt. She rested her hands on the damp wood, feeling the deep, shuddering vibration of the ship's timbers beneath her palms as the hull rose and fell against the first heavy ocean swell.
+"Record the false order and the witnesses," Claudia said quietly. "Let the port court take him after we sail."
 
-Behind them, Italy dissolved into a flat gray line. Beneath the ship's stern, the water ran deep, unreflective, and black, no ripple left to break, no face left to fracture against it, only the current itself, patient and indifferent to the man who believed he could chart it.
+Pontius weighed punishment against schedule, then adopted her solution. The convoy departed on time, and the accusation remained attached to named evidence rather than anger.
 
-Claudia tightened her grip on the cold rail, bracing herself against the rolling sea.
+The merchant's cargo moved instead.
+
+It was a limited victory, affecting no law and saving no life. Yet the records remained together because Claudia had looked beyond the formal instruction to the men benefiting from it.
+
+During the first hours beyond the harbor, Claudia opened the paired chests with Marcus. They began with the three petitions whose dates matched unusual expenses. One concerned a quarrel over a shield hung near a meeting place. Gratus's margin called it needless agitation. The quartermaster account recorded two injured soldiers, a damaged gate, and payment to local masons.
+
+"The petition names no injured men," Marcus said.
+
+"The expense names no cause," Claudia replied. "Separate, each protects the writer. Together, they show the event."
+
+She directed him to make a third tablet listing only links that could be demonstrated: date, place, petition, expenditure, messenger. No speculation about motive. No accusation. The method would be slow, and it would depend on access Pontius could withdraw at any time. It was still more reliable than trusting the loudest person in a room.
+
+Pontius joined them before noon. He read the first linked entry, then the second.
+
+"Gratus concealed disorder," he said.
+
+"Or he divided it among records because each office described only its part."
+
+"You defend him?"
+
+"I am refusing certainty we have not earned."
+
+Pontius ordered Marcus to continue the index. He also required every marked item to be shown first to the prefectural secretary. The condition protected his authority and created the vulnerability Claudia had accepted: the same channel that gave her information also revealed what she was looking for.
+
+Pontius placed his hand over hers on the damp rail. "You have your accounts, petitions, schedules, and dinners. Do not make me regret it."
+
+Claudia watched Marcus secure the tablet beneath his cloak as spray crossed the deck.
+
+"Then do not ask me to see only what is convenient."
+
+Italy flattened behind them. Ahead lay a province neither of them understood.
+
+Claudia accepted the journey and the role she had claimed within it. Information would reach Pontius through clerks, soldiers, priests, merchants, servants, and his wife. She had secured a place in that passage.
+
+Before sunset she and Marcus agreed on rules for the work. He would never remove an official document without its place marked. He would copy names exactly, even when a Roman clerk had misspelled them. He would distinguish what he witnessed from what another servant reported. Claudia would never promise protection she could not provide. If Pontius closed a file, Marcus would not steal it for her.
+
+The limits frustrated her before they had been tested. They also kept the arrangement within the household authority Pontius had granted. A secret system would have made Marcus bear the greatest danger. Claudia intended to use his access, but she would not pretend his risk matched hers. Her punishment would be marital anger and lost influence. His could be the lash.
+
+She had also made herself responsible for what she learned there.
