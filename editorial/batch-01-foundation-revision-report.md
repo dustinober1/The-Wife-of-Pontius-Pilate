@@ -7,10 +7,13 @@
 - Branch: `agent/revise-batch-01-foundation`
 - Original reported branch head: `ecaffc5e0b7541957eec33ff1657186e8878bf4d`
 - Native-verification input head: `2c6cc7f2b11541381e10d69e399e46994760b0be`
+- Accepted manuscript-and-report commit produced by native verification: `1cdb3f089587becbb93ff947519b4b6209c52cd0`
+- Temporary workflow cleanup commit: `03ac109795a1321cf952d31d6c0c8837cfdeb4d6`
+- Native-baseline control corrections were completed through `21afcb07078311c7f25ec6058a7d4db75087c02a` before this report annotation.
+- The exact final pre-merge branch head is recorded in PR #9 because a tracked report cannot contain the SHA of the commit that contains itself.
 - PR #8 was confirmed merged before revision began.
 - All governing documents were read before acceptance: `CLAUDE.md`, `OUTLINE.md`, `CHARACTERS.md`, `TIMELINE.md`, `STYLE.md`, the full structural review, historical uncertainty register, Chapters 0–17 mission locks, revision sequence, and the prior Batch 1 report.
 - Revised Prologue and Chapters 1–4 were read in full. Chapters 5–7 were inspected for handoff continuity.
-- The exact accepted pre-merge head is recorded in PR #9 because a tracked report cannot contain the SHA of the commit that contains itself.
 
 ## Scope
 
@@ -21,6 +24,13 @@ Authorized manuscript changes are limited to:
 - `manuscript/02-the-roman-bride.md`
 - `manuscript/03-landfall.md`
 - `manuscript/04-the-prefects-house.md`
+
+Control records updated:
+
+- `CLAUDE.md`
+- `OUTLINE.md`
+- `editorial/revision-execution-sequence.md`
+- `editorial/batch-01-foundation-revision-report.md`
 
 Chapters 5–17 remain unchanged from current `main`. Chapter 18 remains an undrafted outline stub. No Chapters 19–30 prose was drafted on this branch.
 
@@ -42,6 +52,8 @@ python scripts/word_count.py --json
 | Chapter 4 | 2,097 | 2,082 | -15 | 2,200–2,600 | 118 below range; no padding authorized because the mission lock passes | ACCEPTED |
 | **Batch total** | **9,591** | **10,340** | **+749** |  |  |  |
 | **Drafted manuscript total** | **38,200** | **38,949** | **+749** |  |  |  |
+
+The previously recorded 39,200-word baseline was stale by exactly 1,000 words. The native utility established 38,200 as the exact authoritative-main total. `CLAUDE.md`, `OUTLINE.md`, and `editorial/revision-execution-sequence.md` were corrected to the native baseline, and their projections were reduced by 1,000 words accordingly.
 
 Below-range chapters were not padded. Each was tested for unmet action, information-flow, opposition, consequence, political-pressure, or historically grounded character-development requirements. No unmet gate justified expansion.
 
@@ -72,7 +84,8 @@ The chapter remains in Pontius POV and preserves “an even hand and an unbendin
 1. **Chapter 1 POV discipline:** replaced three statements of Pontius's interior response with Claudia-grounded inference.
 2. **Chapter 3 diction and POV:** recast one Pontius inference as established marital knowledge and replaced the abstract phrase “two systems” with concrete household and prefectural records.
 3. **Chapter 4 continuity:** inserted the nearly-three-month bridge required by Chapters 5 and 7, made Pontius authorize covered night transport followed by raising at the Antonia, and removed a negative-parallel self-justification.
-4. **Later prose:** no correction was made to Chapters 5–17.
+4. **Control baselines:** replaced the stale 39,200 total with the exact native total of 38,200 and corrected the affected projections.
+5. **Later prose:** no correction was made to Chapters 5–17.
 
 ## Claudia agency gains
 
@@ -129,6 +142,11 @@ All cross-batch gates pass. Every chapter changes the information or tactical st
 - Historical uncertainty and systemic causation: PASS by full-text review.
 - PR comments, reviews, and blocking threads: none present at verification start.
 - Required repository checks: none configured.
+- Temporary verification workflow: native counts, prose controls, warning route, Chapter 18 status, and changed-manuscript scope all passed. Its visible failure occurred only in the obsolete self-cleanup commit step after the accepted state had already been pushed; the temporary workflow was then removed from the branch.
+
+## Competing-work check
+
+No competing open pull request exists. Two discovered `claude/*` branches are fully behind current `main`. One divergent stale branch, `claude/continue-previous-gyg244`, predates PR #8's governing-control integration and contains unauthorized draft material for Chapters 18–30, but it has no open pull request and was not merged or used.
 
 ## Issues deferred to later batches
 
