@@ -114,7 +114,7 @@ The silence following it did not feel like agreement.
 
 ## The Order
 
-Claudia waited in the eastern courtyard with two tablets. One carried Philotas's summary of the audience. The other carried Marcus's schedule of troop movements requested by the prefectural secretary.
+Nearly three months after the delegation, Claudia waited in the eastern courtyard with two tablets. One carried Philotas's summary of the audience. The other carried Marcus's schedule of troop movements requested by the prefectural secretary.
 
 "The Jerusalem rotation leaves in six days," she said. "After sunset."
 
@@ -150,17 +150,17 @@ Claudia's face tightened. "Then at least order the standards covered until the u
 
 "They suggest you understand what the city will see."
 
-Pontius returned the tablet to her. "I offered the relevant concession. No images enter the Temple courts. I will not create a second army for Jerusalem."
+Pontius returned the tablet to her. "They may remain covered during the night march. They will be raised at the Antonia after entry. I offered the relevant concession: no images enter the Temple courts. I will not create a second army for Jerusalem."
 
 He went directly to the records room and summoned the prefectural secretary.
 
-The written order was brief. The Caesarea detachment would depart after sunset on the sixth day, enter Jerusalem before dawn, and assume its Antonia post according to the existing rotation. Equipment would remain with the unit. The movement required no further civil notice.
+The written order was brief. The Caesarea detachment would depart after sunset on the sixth day, enter Jerusalem before dawn, and assume its Antonia post according to the existing rotation. Equipment would remain with the unit. The standards would stay covered during the approach and be raised after arrival. The movement required no further civil notice.
 
 Pontius added one line after recalling Hanan's promise to report his words exactly:
 
 *Prepare a memorandum of the delegation's request and my answer for the Syrian governor's file, should complaint later arise.*
 
-That was prudence, not fear. A clear record protected a clear decision.
+He called the precaution prudence. A clear record protected a clear decision.
 
 The prefectural secretary asked whether the new Temple liaison should receive a copy. Pontius looked at the line classifying the movement as ordinary. Sending it would contradict his own category. Withholding it would ensure the liaison learned of the standards from the city rather than the office established to answer him.
 

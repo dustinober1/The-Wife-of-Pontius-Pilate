@@ -2,15 +2,19 @@
 
 ## Authority
 
-- Starting authoritative main: `6d6ada1127e1da0da0da1fff88bf6d257b80699e`
+- Current authoritative `main` SHA: `6d6ada1127e1da0da0da1fff88bf6d257b80699e`
+- Original Batch 1 starting SHA: `6d6ada1127e1da0da0da1fff88bf6d257b80699e`
 - Branch: `agent/revise-batch-01-foundation`
+- Original reported branch head: `ecaffc5e0b7541957eec33ff1657186e8878bf4d`
+- Native-verification input head: `2c6cc7f2b11541381e10d69e399e46994760b0be`
 - PR #8 was confirmed merged before revision began.
-- Governing review, uncertainty register, mission locks, execution sequence, and Chapters 0–7 were inspected before prose changes.
-- Main baseline recorded by the repository controls: 39,200 drafted prose words.
+- All governing documents were read before acceptance: `CLAUDE.md`, `OUTLINE.md`, `CHARACTERS.md`, `TIMELINE.md`, `STYLE.md`, the full structural review, historical uncertainty register, Chapters 0–17 mission locks, revision sequence, and the prior Batch 1 report.
+- Revised Prologue and Chapters 1–4 were read in full. Chapters 5–7 were inspected for handoff continuity.
+- The exact accepted pre-merge head is recorded in PR #9 because a tracked report cannot contain the SHA of the commit that contains itself.
 
 ## Scope
 
-Revised manuscript files:
+Authorized manuscript changes are limited to:
 
 - `manuscript/00-prologue-the-shadow-of-the-bema.md`
 - `manuscript/01-the-red-seal.md`
@@ -18,137 +22,118 @@ Revised manuscript files:
 - `manuscript/03-landfall.md`
 - `manuscript/04-the-prefects-house.md`
 
-No prose in Chapters 5–17 was revised. Chapter 18 remains an undrafted outline stub. No Chapter 19–30 prose was drafted.
+Chapters 5–17 remain unchanged from current `main`. Chapter 18 remains an undrafted outline stub. No Chapters 19–30 prose was drafted on this branch.
 
-## Word counts
+## Exact repository-native word counts
 
-The connected GitHub environment did not expose an executable checkout or GitHub CLI, so `python scripts/word_count.py` could not be executed against the branch from this session. The repository's authoritative starting total remains 39,200. A local utility-equivalent count of the revised files, excluding Markdown headings, produced:
+Both required commands ran successfully on current `main` and the corrected PR worktree:
 
-| File | Revised count |
-|---|---:|
-| Prologue | 1,473 |
-| Chapter 1 | 2,606 |
-| Chapter 2 | 1,659 |
-| Chapter 3 | 2,528 |
-| Chapter 4 | 2,065 |
-| Revised batch total | 10,331 |
+```bash
+python scripts/word_count.py
+python scripts/word_count.py --json
+```
 
-Exact starting per-file counts, exact net changes, and the exact post-revision drafted total must be filled from the repository utility when CI or a checked-out review environment runs the branch. This is the only outstanding mechanical verification item.
+| Chapter | Starting main | Ending branch | Net | Target | Target comparison | Verdict |
+|---|---:|---:|---:|---:|---|---|
+| Prologue | 1,022 | 1,473 | +451 | 1,500–1,900 | 27 below range; no padding authorized because the mission lock passes | ACCEPTED |
+| Chapter 1 | 2,680 | 2,584 | -96 | 2,700–3,100 | 116 below range; no padding authorized because the mission lock passes | ACCEPTED |
+| Chapter 2 | 1,126 | 1,707 | +581 | 1,700–2,100 | within range | ACCEPTED |
+| Chapter 3 | 2,666 | 2,494 | -172 | 2,800–3,200 | 306 below range; no padding authorized because the mission lock passes | ACCEPTED |
+| Chapter 4 | 2,097 | 2,082 | -15 | 2,200–2,600 | 118 below range; no padding authorized because the mission lock passes | ACCEPTED |
+| **Batch total** | **9,591** | **10,340** | **+749** |  |  |  |
+| **Drafted manuscript total** | **38,200** | **38,949** | **+749** |  |  |  |
 
-## Chapter changes
+Below-range chapters were not padded. Each was tested for unmet action, information-flow, opposition, consequence, political-pressure, or historically grounded character-development requirements. No unmet gate justified expansion.
 
-### Prologue
+## Final chapter verdicts
 
-- Preserved the dream, balcony, warning wording, Marcus-to-scribe chain, legal scribe, locked gaze, and open decision.
-- Replaced supernatural certainty with converging but incomplete evidence from schedules, messengers, shifting reports, and the rushed legal form.
-- Qualified the tribunal location as the court chosen for the hearing rather than settled historical geography.
-- Kept Jesus external, distant, and unreadable.
-- Made Claudia's seal ring and Marcus's route carry explicit household risk.
+### Prologue: The Shadow of the Bema — ACCEPTED
 
-**Verdict:** accepted with minor follow-up for final target-range expansion and repository word-count confirmation.
+The dream, balcony, exact warning wording, Marcus route, legal scribe, locked gaze, and open decision are preserved. The Marcus-to-scribe-to-Pontius chain remains intact. The dream is alarm rather than proof; Claudia's certainty about Jesus and Pontius is reduced; Jesus remains external and distant; tribunal geography is framed as a dramatic choice; and Pontius has not chosen when the chapter ends.
 
-### Chapter 1
+### Chapter 1: The Red Seal — ACCEPTED
 
-- Qualified Sejanus's role as Pontius's patronal belief rather than established fact.
-- Gave Claudia a sustained objective: negotiate access to petitions, household accounts, guest lists, schedules, selected correspondence, and diplomatic hospitality.
-- Established a concrete source-comparison method linking petitions, expenditures, dates, witnesses, and messenger routes.
-- Gave Marcus a bounded administrative role with explicit risk and handling rules.
-- Added the Ostia false-order test, allowing Claudia's analysis to improve a limited outcome before departure.
-- Ended with Claudia accepting both the journey and responsibility for the information channel.
+The appointment, fountain, map, Ostia departure, intimacy, buried honesty, and governing creed are preserved. Sejanus's role is Pontius's belief and patronal inference. Claudia secures household-scale access to marked petitions, accounts, guest lists, schedules, selected correspondence, and diplomatic seating. Pontius values her perception while limiting its use through the prefectural secretary and selective access. The chapter ends with Claudia accepting the journey and the information role she negotiated.
 
-**Verdict:** accepted with minor follow-up for final target-range expansion and repository word-count confirmation.
+### Chapter 2: The Roman Bride — ACCEPTED
 
-### Chapter 2
+Wardship, ink-stained hands, the arranged marriage, first-meeting honesty, and Pontius's fear of being forgotten are preserved. Claudia's political skill develops causally through paired letters, a patronal warning, supplier fraud, and the shared obligation ledger. The former five-year cliffhanger becomes a concrete information task. Her usefulness becomes both influence and vulnerability because Pontius selects which letters reach her. The marriage ends the chapter with a new information habit.
 
-- Turned the ink-stained-hands lesson into a dramatized childhood comparison between a formal theft complaint and the social insult beneath it.
-- Added an early joint task with Pontius involving false supply accounts and behavior that contradicts formal records.
-- Redirected the unresolved five-year scene into the concrete origin of their shared letter-and-obligation ledger.
-- Preserved Pontius's fear that Rome will forget him.
-- Made usefulness both Claudia's influence and her vulnerability, because Pontius selects which questions and letters reach her.
+### Chapter 3: Landfall — ACCEPTED
 
-**Verdict:** accepted with minor follow-up for final target-range expansion and repository word-count confirmation.
+Caesarea, the harbor, Herod's palace, Philotas, Tamar's introduction, and religious friction are preserved. Tamar is free, local, partial, relational, and capable of error. The false-mark purchase dispute and Sabbath rota carry real household and political consequences. Claudia's protection costs money, staff support, supplier cooperation, and ease in her marriage. Marcus preserves the administrative trail while Tamar supplies local practice and lived consequence. The chapter ends with conditional access and an exposed vulnerability.
 
-### Chapter 3
+### Chapter 4: The Prefect's House — ACCEPTED
 
-- Established Tamar as a free local worker with partial, lived knowledge and the ability to correct Claudia.
-- Created a politically meaningful household dispute involving a false purchase mark, missing goods, threatened dismissal, and Roman-local hierarchy.
-- Made Claudia's protection of Tamar costly by recording the suspension under her own authority and angering Roman staff and suppliers.
-- Distinguished Marcus as recorder, scheduler, witness-chain handler, and administrative messenger; Tamar supplies local practice, market knowledge, and human consequence.
-- Added the Sabbath rota decision, a corrected error, and a limited improved outcome that keeps workers employed and the household functioning.
-- Ended with conditional access and an exposed vulnerability.
+The chapter remains in Pontius POV and preserves “an even hand and an unbending spine,” competence, and complexity. Caiaphas is the serving high priest, Annas the influential former high priest, and Hanan an authorized elder. Claudia's advice affects record analysis, the liaison concession, and reporting distinctions. The final correction places the order nearly three months after the delegation and aligns covered night transport followed by raising the standards at the Antonia with Chapter 5. The sealed order, withheld notice, Syrian memorandum, courier schedule, and first-report strategy cause the standards crisis.
 
-**Verdict:** accepted with minor follow-up for final target-range expansion and repository word-count confirmation.
+## Corrections made during final verification
 
-### Chapter 4
-
-- Preserved Pontius POV, competence, and his creed of an even hand and an unbending spine.
-- Clarified Caiaphas as serving high priest, Annas as influential former high priest, and Hanan as an authorized elder rather than an undefined Temple spokesman.
-- Gave Claudia's earlier advice measurable presence in Pontius's reading of records and delegation behavior.
-- Made Pontius grant a narrow liaison channel while refusing the military calendar.
-- Converted the standards decision into a documented order, a withheld notice decision, a Syrian memorandum, and a courier schedule leading directly into Chapter 5.
-- Preserved his complexity: he recognizes distinctions and prepares competent reporting, but treats paperwork as a substitute for changing the dangerous decision.
-
-**Verdict:** accepted with minor follow-up for final target-range expansion and repository word-count confirmation.
+1. **Chapter 1 POV discipline:** replaced three statements of Pontius's interior response with Claudia-grounded inference.
+2. **Chapter 3 diction and POV:** recast one Pontius inference as established marital knowledge and replaced the abstract phrase “two systems” with concrete household and prefectural records.
+3. **Chapter 4 continuity:** inserted the nearly-three-month bridge required by Chapters 5 and 7, made Pontius authorize covered night transport followed by raising at the Antonia, and removed a negative-parallel self-justification.
+4. **Later prose:** no correction was made to Chapters 5–17.
 
 ## Claudia agency gains
 
-1. She negotiates defined access rather than receiving vague permission to advise.
-2. She compares formal explanations with behavior, expenses, schedules, witness marks, and messenger order.
-3. She acts through household authority to reverse a dismissal, repair a rota, preserve evidence, and change limited outcomes.
-4. She decides what to show Pontius, what conclusions to withhold, and how to protect source credibility.
-5. Her actions create costs: staff resentment, supplier resistance, visibility to prefectural secretaries, marital boundaries, and danger to Marcus.
+- Claudia negotiates defined access rather than receiving vague permission to advise.
+- She compares formal explanations with behavior, expenses, schedules, witness marks, messenger order, and documentary omission.
+- She preserves related records, exposes a false harbor order, reverses a wrongful dismissal, repairs a Sabbath rota, and improves limited outcomes.
+- She decides what to show Pontius, what to withhold, and how to protect source credibility.
+- Her choices create vulnerabilities through staff resentment, supplier leverage, visible spending, prefectural oversight, and danger to Marcus.
 
-## Marcus and Tamar channel distinction
+## Marcus and Tamar distinctions
 
-- Marcus: enslaved, literate, administratively trained, handles schedules, records, seals, copies, witness marks, and messenger routes. His access is dangerous and bounded by official hierarchy.
-- Tamar: free, locally rooted, relational, and knowledgeable about lived custom, market practice, household consequences, and the limits of her own knowledge. She corrects Claudia and does not function as an encyclopedic interpreter.
+- **Marcus:** enslaved, literate, administratively useful, limited, and vulnerable. He handles schedules, records, seals, copies, witness marks, linked entries, and messenger routes. He cannot penetrate Temple or Herodian deliberations or steal closed files for Claudia.
+- **Tamar:** free, local, relational, partial, and capable of being wrong. She supplies market practice, household consequence, religious custom, and family-linked perception. She corrects both Claudia and her own first account.
 
 ## Pontius arc gains
 
-- Pontius values Claudia's accuracy and adopts parts of her method.
-- He preserves a clear boundary between household access and command.
-- He recognizes procedural and cultural distinctions yet concludes that uniformity protects Roman authority.
-- He responds to a moral and political warning by improving documentation around the decision, planting the tragic pattern that later crises deepen.
+- Pontius recognizes Claudia's accuracy and adopts parts of her method.
+- He maintains command boundaries and limits her access.
+- He distinguishes office, household, delegation, and report channels with administrative competence.
+- He understands the warning, grants a narrow channel, then treats documentation and first-report advantage as substitutes for changing the dangerous decision.
 
-## Political-thriller gains
+## Historical qualifications
 
-- Every revised chapter changes the information or tactical state.
-- Information travels through letters, petitions, ledgers, schedules, seals, witnesses, messengers, household accounts, and formal memoranda.
-- Claudia makes multiple consequential choices before Chapter 5.
-- At least two choices improve limited outcomes: preserving the paired record chests and preventing wrongful dismissal and worker departures.
-- Her access bargain and public protection of local workers create later vulnerabilities.
-- Chapter 4 now ends with the standards order in motion and competing report channels prepared.
+Pontius remains prefect; Sejanus's direct appointment role remains a plausible inference and Pontius's belief; Claudia's biography remains invented; Caiaphas and Annas retain distinct roles; Caesarea remains the normal base; tribunal geography is explicitly a dramatic choice; the dream remains alarm rather than proof; Jesus remains outside POV; and the standards episode remains a Josephus-derived crisis placed by the novel in winter A.D. 26/27.
 
-## Historical decisions and qualifications
+## Continuity facts fixed by this batch
 
-- Pontius remains prefect, appointed around A.D. 26.
-- Sejanus's direct role remains an inference and Pontius's belief.
-- Claudia's biography remains invented and internally governed.
-- Tamar remains free and local; Marcus remains enslaved and vulnerable.
-- Caiaphas and Annas retain distinct offices and influence.
-- Caesarea remains the normal administrative base.
-- Tribunal geography is explicitly treated as a dramatic choice.
-- The dream remains evidence of alarm rather than proof.
-- Jesus remains outside POV.
-
-## Continuity facts newly fixed
-
-- Claudia's access includes marked petitions, household accounts, guest lists, delegation schedules, selected correspondence, and diplomatic seating.
-- Marcus maintains a linked index by date, place, petition, expenditure, and messenger, while never removing official records without marking their place.
-- Claudia uses a household seal ring for the Passion Week warning route.
-- Tamar assists with local market accounts but does not control administrative records.
-- Pontius establishes a limited high-priestly liaison channel before the standards crisis.
-- The standards movement is classified as routine, withheld from the liaison, scheduled after sunset, and followed by separate Roman and Temple report channels.
+- Claudia's defined access covers marked petitions, household accounts, guest lists, delegation schedules, selected correspondence, and diplomatic seating.
+- Marcus maintains a linked index by date, place, petition, expenditure, and messenger, with removed documents marked.
+- Claudia's household seal ring supports the Passion Week warning route.
+- Tamar assists with local market accounts without controlling administrative records.
+- Pontius creates a limited high-priestly liaison before the standards crisis.
+- The standards movement is classified as routine, withheld from the liaison, moved under cover after sunset, raised at the Antonia after entry, and followed by separate reports.
+- The landing-to-standards interval now matches the three-month continuity in Chapters 5 and 7.
 
 ## Prose risks reduced
 
-- Reduced retrospective foretelling, explained water symbolism, prophetic dialogue, polished thematic speeches, and certainty about motives.
-- Avoided em dashes in revised prose.
-- Reduced negative-parallel constructions and rule-of-three inflation.
-- Replaced atmospheric repetition with choices, documents, costs, and consequences.
+Retrospective foretelling, prophetic certainty, explained symbolism, polished thematic speech, negative parallelism, abstract administrative diction, and certainty about another character's interior state were reduced. No em dashes remain in the five revised files. Action, records, costs, timetables, and consequences now carry the thriller movement.
 
-## Deferred issues
+## Cross-batch acceptance
 
-- Run the repository word-count utility in an executable checkout and update this report and PR body with exact starting counts, exact net changes, and exact final drafted total.
-- During Batch 2, ensure Chapter 5 explicitly uses the liaison, rotation classification, Marcus's schedule access, Tamar's household ties, and Claudia's linked-record method.
-- During later revision, preserve the seal-ring route and public existence of the warning note.
+All cross-batch gates pass. Every chapter changes the information or tactical state and contains objective, opposition, and decision or reversal. Claudia makes multiple consequential choices; limited outcomes improve; later vulnerabilities are created; information travels through credible channels; her access remains household-scale; Marcus and Tamar remain distinct and limited; Pontius remains rational and complex; Jesus remains outside POV; the catastrophe remains systemic; historical uncertainty is visible; and Chapter 5 can begin without retroactive explanation of Claudia's capabilities.
+
+## Verification results
+
+- Native text count: PASS on current `main` and corrected branch.
+- Native JSON count: PASS on current `main` and corrected branch.
+- Authorized manuscript scope: PASS.
+- Chapters 5–17 unchanged: PASS.
+- Chapter 18 outline-only status: PASS.
+- Exact warning wording and delivery chain: PASS.
+- No em dashes in revised prose: PASS.
+- Jesus outside POV: PASS by full-text review.
+- Historical uncertainty and systemic causation: PASS by full-text review.
+- PR comments, reviews, and blocking threads: none present at verification start.
+- Required repository checks: none configured.
+
+## Issues deferred to later batches
+
+Batch 2 must use the liaison, routine-rotation classification, Marcus's schedule access, Tamar's household ties, and Claudia's linked-record method rather than re-explaining them. Existing broader prose risks in Chapters 5–7 belong to Batch 2. No future expansion is authorized merely to meet a number.
+
+## Final batch verdict
+
+**ACCEPTED**

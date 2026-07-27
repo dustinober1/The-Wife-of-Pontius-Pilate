@@ -12,7 +12,7 @@ Claudia stood at the rail as Caesarea emerged from the morning glare. White ston
 
 "It held."
 
-He respected structures that resisted failure. Claudia watched the breakwater and wondered which reports had recorded the men lost building it.
+He had always praised structures that resisted failure. Claudia watched the breakwater and wondered which reports had recorded the men lost building it.
 
 Marcus approached with a wax tablet. "The harbor master's boat is coming out. Philotas has sent a reception list, but two names on it do not match the household manifest."
 
@@ -150,7 +150,7 @@ Pontius tapped the disputed tablet. "And now they know my wife may suspend them.
 
 He disliked the precedent. He liked theft less. He authorized Philotas to search Lucanus's desk and warned Claudia that her household authority did not extend to prefectural records.
 
-"Then keep the two systems separate," she said. "Do not let a man use one to steal from the other."
+"Then keep the household and prefectural records separate," she said. "Do not let a man use one to steal from the other."
 
 The search found the missing silver wrapped inside an old shipping order. Pontius upheld the suspension.
 

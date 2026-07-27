@@ -10,7 +10,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import os
 import re
 from pathlib import Path
 
@@ -60,11 +59,6 @@ def collect() -> tuple[list[dict[str, object]], int]:
 
 
 def main() -> None:
-    if os.environ.get("GITHUB_ACTIONS") == "true":
-        from batch01_capture import capture
-
-        capture(count_words=count_words, is_drafted=is_drafted)
-
     parser = argparse.ArgumentParser()
     parser.add_argument("--json", action="store_true")
     args = parser.parse_args()

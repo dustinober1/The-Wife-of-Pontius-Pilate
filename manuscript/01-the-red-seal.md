@@ -76,7 +76,7 @@ He studied her with the wary pleasure he took in a useful proposal. "And diploma
 
 "Most disputes reach government after passing through a household."
 
-That made him smile. He valued her ability to read people. He imagined it serving his ascent, smoothing rooms before he entered and warning him which vanity required praise. He did not yet see that access to records would also let her measure what his orders cost after he issued them.
+That made him smile. His expression suggested the uses he already saw for her: smoothing rooms before he entered, warning him which vanity required praise, keeping household friction from reaching his desk. Access to records might serve those purposes. It would also let her measure what his orders cost after he issued them, a use he had not granted aloud.
 
 Pontius walked to the basin and looked down into the moving water. "My secretary will say you have no training in provincial law."
 
@@ -90,7 +90,7 @@ Pontius walked to the basin and looked down into the moving water. "My secretary
 
 "Ask which of us can show the better chain from fact to conclusion."
 
-He turned back. The proposal appealed to the part of him that preferred trials to trust. Claudia had expected that.
+He turned back. Claudia had framed the proposal as a test because Pontius preferred trials to trust. His silence suggested she had chosen well.
 
 "Very well," he said. "Petitions after my secretary marks them. Guest lists and household accounts without restriction. Correspondence when I judge it suitable. Marcus may carry material between your rooms and mine, but he answers to the prefectural secretary on official business."
 
@@ -102,7 +102,7 @@ He touched her cheek with his calloused thumb, tenderness surviving beneath the 
 
 Claudia closed her hand over his wrist. "I will help you understand what reaches you. What you do with it remains yours."
 
-He heard loyalty. She meant a boundary.
+He smiled as though he heard loyalty. Claudia meant a boundary.
 
 ## Lines on a Map
 
