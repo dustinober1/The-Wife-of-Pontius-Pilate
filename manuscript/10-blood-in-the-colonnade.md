@@ -18,31 +18,89 @@ Claudia thought of the survey Pontius had brought home from Caesarea a season ag
 
 "I know what it is. I would rather know it from my own eyes than from Marcus's report after, or yours."
 
-It was not entirely true, and both of them knew it was not entirely true, but Tamar fetched a plain woolen mantle without further argument, the kind that turned a Roman lady into any other woman come to watch a spectacle in a city that produced them with tiresome regularity, and sent word for Marcus, who arrived already dressed for the street and did not ask why, only walked a half pace behind her the whole way down through the narrowing streets with his hand never far from the fold of his tunic where he had, she noticed and did not remark on, tucked a short knife he had no business carrying and every reason to.
+Tamar fetched a plain woolen mantle without further argument and sent word for Marcus. He arrived already dressed for the street and carried only the household tablet and Claudia's seal.
 
 ## Clubs Beneath Cloaks
 
-The crowd filled the open ground before the colonnade in numbers that made the standards protest, in memory, look almost modest, thousands packed shoulder to shoulder in the space where the porticoes threw their long morning shadows across worn paving stones, and Claudia understood within the first few minutes what Tamar had meant about the quiet. There was no chanting, no massed voice raised in grievance the way there had been at the palace gate in Caesarea. There was only a low continuous murmur, thousands of private conversations running together into something that sounded, from where she stood pressed into the shade of a column at the colonnade's edge, less like protest than like mourning conducted early, before anyone had yet died to mourn.
+The crowd filled the open ground and extended into approaches Claudia could not see. The porticoes threw long morning shadows across the paving stones. There was no chanting and no massed voice like the one at the palace gate in Caesarea. Private conversations ran together beneath the colonnade.
 
-She saw Pontius's tribunal set up at the colonnade's far end, a raised wooden platform hastily built and hung with the plain unadorned banners the standards crisis had left him with, and she saw him mount it in the white toga he wore for public hearings, flanked by Rufus and a dozen lictors, his voice pitched to carry the way it had carried across the stadium three years before, offering the same patient, reasonable arithmetic he had offered Caiaphas in the Temple chamber: the water served every basin in the city, Roman and Jewish revenue alike had paid what the treasury had not covered, the channel would still be running water long after every man in this crowd had gone to his grave. He believed it. She could hear, even at this distance, that he believed every word of it, the way he believed every figure he had ever set down in a ledger, and it was that belief, more than anything the crowd did next, that frightened her, because a man who believed his own arithmetic that completely had stopped, somewhere along the way, asking what the arithmetic left out.
+The exact number escaped her. More people filled the approaches beyond what she could see, and any figure would describe only one moment in a moving crowd.
 
-The crowd did not kneel this time. That was the thing she understood only afterward, turning the morning over and over in the weeks that followed: they had learned from the standards too, learned that bared throats had worked once and might not work twice against a man who had already paid once for mercy and resented, however he had buried the resentment, what the mercy had cost him with Rome. They pressed instead, forward, toward the tribunal, a slow surging mass of bodies that had no weapon in it Claudia could see, only outrage and numbers, and she was still telling herself that outrage and numbers were not, by themselves, a thing that killed anyone, when the men scattered through the crowd in plain Jewish dress threw back their cloaks and the clubs came out from underneath them.
+Marcus noticed the shoes first.
+
+"Those men bought their cloaks here," he said. "The sandals are garrison issue."
+
+Claudia followed his glance. Men in plain garments stood at intervals too regular to be families or trading companions. One carried himself like Rufus's drillmaster. Another kept touching the weight beneath his cloak.
+
+Pontius had closed Marcus's access to military issues after the standards. The household had not seen the deployment. Claudia had no order proving what she saw.
+
+"Take my seal to the legal scribe," she said. "Tell him plain-clothed soldiers are already inside the crowd. Ask Pontius to delay the hearing until Rufus clears the exits."
+
+"And you?"
+
+"I will take Tamar back."
+
+Tamar refused. Yaakov was somewhere nearer the tribunal.
+
+Claudia could order a household worker home. She could not make a free woman abandon her cousin. She told Tamar where the eastern passage remained open and made her repeat it.
+
+Marcus disappeared along the rear colonnade. Claudia stayed because the warning might return with an answer and because leaving Tamar alone inside the gathering felt like another use of rank disguised as caution.
+
+At the colonnade's far end Pontius mounted a raised tribunal hung with plain banners, flanked by Rufus and the lictors. His voice carried as it had in the stadium. He stated that the channel served the whole city, that provincial revenue covered the guards, and that Temple custodians had witnessed each release. He offered the paired accounts as proof that the work was lawful. Claudia heard no acknowledgment that those same records preserved the Temple's refusal to endorse his claim.
+
+The crowd did not kneel. Some people pressed toward the tribunal while others tried to hold their places. Claudia could see no weapon among them. The movement passed backward through bodies that may not have known what began it.
+
+Marcus returned before he reached her. A cordon had closed the passage to the tribunal. The scribe had taken the message through a lictor, but no answer had come.
+
+Then the men scattered through the crowd threw back their cloaks and the clubs came out.
 
 She had not seen the soldiers walk in. That was what she would return to afterward, lying awake in the dark of the palace with Pontius asleep or pretending to be asleep beside her: that they must have entered hours before, dressed as pilgrims, carrying nothing that marked them as what they were, and had stood among the very people they meant to kill for the length of a whole morning's grievance, listening to it, before the signal came and they began swinging.
 
-The clubs were not swords. She understood dimly, even as the screaming started, that this was meant as a mercy of some kind, an order given by a man who still believed himself capable of proportion even in the middle of a massacre, and understood at the same moment that it made almost no difference at all to the men and women being beaten to the ground in a space too crowded for any of them to run, crushed as much by the panic of the thousands trying to flee as by the clubs themselves, bodies going down in the colonnade's shade and not rising, the paving stones she had walked across not an hour before now dark with something she made herself, standing frozen at the column's edge with Marcus's hand closing hard around her arm, look at directly rather than look away from.
+The clubs were not swords. Pontius had chosen a weapon he could call proportionate. In the packed space, people fell beneath blows and under those trying to escape. Claudia saw bodies go down in the colonnade's shade and fail to rise.
 
-"Domina." Marcus's voice, close to her ear, urgent in a register she had never heard from him before. "We have to go."
+"Domina." Marcus closed a hand around her arm. "The eastern passage."
 
-She did not go, not yet. She stood long enough to see an old man, not unlike the one who had called out at the stadium three years before, go down beneath a club and not get up, and long enough to see a woman near him drop to her knees over him screaming a name Claudia did not know and would never learn, and long enough to understand, with a clarity that arrived all at once rather than gradually, that her husband stood on a platform forty yards away giving an order whose actual weight he could not see from where he stood, exactly as she could not see it from where she had chosen to stand either, both of them at a distance that let the thing remain, for as long as they kept their distance, an idea rather than a body in the dust.
+Claudia saw an old man go down beneath a club. A woman dropped over him shouting a name. Then the crowd separated her from Tamar.
+
+"Find the house," Claudia told Marcus. "Open the outer store. Send Mattan for every physician who has taken our payment before. Use the injury account."
+
+"I cannot leave you here."
+
+"You can reach the passage faster alone. Go."
+
+Marcus obeyed because the order lay within the household authority that bound him. Claudia hated the usefulness of that fact even as she used it.
+
+She moved toward the place Tamar had stood and found instead a boy bleeding from the scalp. Claudia dragged him behind a column with the help of a potter who gave no name. The potter had seen a disguised soldier strike a man already turning away.
+
+A lictor came through asking witnesses who had thrown the first blows. The potter froze.
+
+"He is my household carrier," Claudia said before the man could answer. "He is taking this child to the eastern store."
+
+The lie used her rank as shelter. It also made the potter traceable if the lictor remembered his face.
+
+The three of them reached the passage while the clubs continued behind them. Claudia sent the potter and child with a kitchen servant toward the store and returned only far enough to call Tamar's name. No answer came. A shield line drove her back.
 
 ## What the Stones Kept
 
-Marcus got her back through the emptying streets by a route that avoided the worst of the crowd fleeing the colonnade, his grip on her arm not loosening until they were three streets clear and the sound behind them had thinned from screaming into the lower, more terrible sound of people searching for each other among bodies that would not answer. He did not speak until they reached the palace gate, and even then he said only what the moment required and nothing more, which she understood, watching his jaw work over words he had decided not to say, as its own kind of report.
+Marcus found her at the eastern store. Mattan had cleared grain sacks from the floor. Two physicians worked among people carried in by relatives and strangers. The household injury record had become a list of bandages, splints, oil, and coin leaving the chest faster than Marcus could enter them.
+
+Claudia ordered treatment without names. Marcus recorded place found, visible injury, witness if offered, and whether the patient left, stayed, or died. A name entered only at the person's request. The rule protected people from the prefectural inquiry and made the account easier to challenge.
+
+The potter returned after delivering the bleeding boy. He gave his name to Claudia under her seal and refused to give it to the Roman clerk who arrived asking how many injured had passed through the store.
+
+"Household expenses will be reported by total," Claudia said. "Witness names remain with me."
+
+"By whose order?"
+
+"Mine."
+
+The clerk left to seek Pontius's answer. Claudia moved the potter into the palace delivery yard and gave him a supplier's tablet to carry. If officers returned, his presence would have a household purpose. The protection cost her a false entry and placed Marcus's hand beside it.
+
+They could not treat everyone. One physician left when his brother was reported missing. Bandages ran short. The eastern passage closed twice under pressure from fleeing people. Claudia sent coin through Mattan to two nearby houses willing to receive the injured. She could move aid through doors she controlled. She could not reopen the colonnade or stop the clubs.
 
 "How many," she asked him that evening, when he came to light the lamps in her chamber and she could no longer bear not asking someone who had been there.
 
-"No one is counting yet, Domina. When they count, it will be a number the household is not meant to repeat outside these walls."
+"No one is counting the same thing, Domina. Rufus will count men struck by soldiers. The physicians count those who reached them. Families count those who have not come home."
 
 "You were there. You saw it as clearly as I did."
 
@@ -60,7 +118,7 @@ Tamar came to her before the second lamp had burned down, still in the plain man
 
 "What did you tell him?"
 
-"I told him to sleep." Tamar's eyes went, briefly, to Claudia's hands, folded in her lap the way they folded when she was working to keep them still, and something passed over her face that was not quite accusation and not quite forgiveness either, a household intimacy stretched thin enough that Claudia could feel, for the first time since Ostia, the actual weight of everything that stood between them and would go on standing there no matter how plainly either of them spoke. "He is your husband's subject before he is anything else to you, Domina. I do not forget that, even when I am glad of your company. Tonight I find I cannot quite forget it."
+"I told him to sleep." Tamar looked at Claudia's folded hands. "He is your husband's subject. Tonight I cannot set that aside."
 
 She left before Claudia could answer, and Claudia did not try to call her back, understanding that whatever needed saying between them would keep until the ribs had mended and the number of the dead had stopped growing, if it ever stopped growing, and that nothing she said tonight would do anything but sound like the arithmetic she had just finished telling her husband was not enough.
 
@@ -68,7 +126,7 @@ Pontius came to her rooms past the hour when she had stopped expecting him, stil
 
 "They pressed the tribunal," he said, before she had asked him anything. "Rufus's men used clubs rather than blades, exactly as I ordered. It was meant to disperse them, not to kill them. The deaths came from the crush, mostly. Panic in a crowd that size kills more than any weapon does."
 
-"I was there, Pontius." She said it quietly, watching it land on him the way she had watched the crowd's outrage land on the men in the colonnade, a blow he had not braced for. "I saw the clubs come out from under the cloaks. I saw an old man go down and not get up. I do not need the report you are giving Rome. I was standing forty yards from the men who gave it to me firsthand."
+"I was there, Pontius." She said it quietly. "I saw the clubs come out from under the cloaks. I saw an old man go down and not get up. I do not need the report you are giving Rome. I stood among the men who received the order."
 
 He was silent long enough that she understood he was deciding, in real time, which version of himself to bring into the silence: the Prefect who defended the order, or the husband who had not known his wife stood close enough to watch it executed. What came, when he finally spoke, was neither, quite. "I did not ask them to die," he said, and his voice had lost, for the first time since she had known him, the flat carrying register he used for figures and reports. "I asked them to go home. I gave them the chance to go home, the same chance I gave the men at the standards, and they chose to press the tribunal instead, and I do not know, Claudia, standing here now, what order I could have given differently that would have ended any other way."
 
@@ -76,6 +134,22 @@ He was silent long enough that she understood he was deciding, in real time, whi
 
 She watched that reach him too, and watched him have no figure ready to answer it with, which frightened her nearly as much as the colonnade had, because a man who always had a figure ready was a man she had learned, across seven years of marriage, how to read and how to counter. A man standing empty-handed in her doorway, his toga clean of whatever it had been marked with and his account already rehearsed twice for men who would judge him on it, was someone she was only beginning to learn how to see.
 
-She did not sleep that night, and lay instead turning over the morning's arithmetic her own way: the old man who had not risen, the woman screaming a name into the dust, Yaakov's ribs and the physician's uncertain draught, the forty yards of open ground between herself and the thing she had let herself watch rather than stop, though she could not have stopped it and knew she could not have stopped it and found the knowledge no comfort at all. She understood, lying awake beside a husband who had also, by his own account, not slept, that something had changed in her that would not change back, a line crossed the way the standards crowd had once crossed a line by kneeling, except that no one on the far side of this one had thought to offer her the choice of turning back before she crossed it. She had chosen to go and see. She could not now choose to have not seen it.
+Before dawn Marcus brought the first official summary. It stated that troops had dispersed men assaulting the tribunal, that force ceased when the approaches cleared, and that deaths arose principally from the crowd's flight. It gave no names and no number.
 
-In the morning the household would count what it could of the dead, a number that would reach Caesarea before it reached Rome and reach Rome in a form neither city would recognize as the same event, and the colonnade's paving stones would be scrubbed by hands too low in the Temple's hierarchy to refuse the work, until by the next festival no pilgrim walking through would know to look down. Claudia thought, watching the ceiling in the dark, that she would go on knowing to look down for the rest of her life, whatever the stones themselves forgot.
+The household tablet recorded people struck while turning away, injuries treated beyond the tribunal approach, and one witness who saw a soldier hit a retreating man. It could not establish how the first pressure began or how many died elsewhere.
+
+Pontius asked for the total treated at the eastern store.
+
+Claudia gave him the total and withheld the witness list.
+
+"The report must distinguish rioters from bystanders," he said.
+
+"Our record cannot do that."
+
+"Then it cannot enter the official account."
+
+"It remains in the household account."
+
+He understood the refusal. "Do not circulate it."
+
+Claudia agreed to no such promise. She sealed the names separately and ordered Marcus to preserve every version of the totals. By morning the clubs had stopped. The struggle over who had been struck, why they had died, and which account would travel first had only begun.
