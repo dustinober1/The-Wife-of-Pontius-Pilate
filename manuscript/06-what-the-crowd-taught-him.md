@@ -70,7 +70,7 @@ Pontius watched for the break.
 
 A man near an exit pulled his son up by the arm and began toward the open passage. Two women followed. Several others shifted, uncertain whether to rise or make room. The plan had found the ordinary human wish to live.
 
-Then the elders at the front knelt.
+Then the elders at the front knelt and bared their necks.
 
 The movement spread unevenly. Some men knelt at once. Some argued before joining them. A few remained seated. Others drew back their collars and bent their necks toward the soldiers. Yaakov struggled down with one useful arm and exposed his throat.
 
