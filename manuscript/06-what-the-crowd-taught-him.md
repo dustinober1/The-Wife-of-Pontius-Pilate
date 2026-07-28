@@ -2,44 +2,182 @@
 
 ## The Sixth Day
 
-By the sixth morning Pontius had stopped sleeping in any way that deserved the name, and had begun instead a kind of standing rest, an hour here and there taken sitting upright at his desk with his eyes closed, waking each time to the same report from the same officer: the crowd had not moved, had not thinned by any number worth counting, and showed no sign of intending to.
+Pontius read the corrected reports before dawn.
 
-He had commanded men before. He understood mutiny, understood desertion, understood the particular fear that ran through a cohort when supply lines failed and morale went with them. He had never commanded against a crowd that simply sat, and the strangeness of it gnawed at him in a way open violence never had. A soldier who charged a shield wall knew what he was buying with his life. These people knew nothing of the kind. They knew only that they intended to remain until the standards came down, or until something happened to them that made remaining impossible, and the second possibility was the one Pontius found himself, toward dawn on the sixth day, finally willing to consider.
+The gate officer had counted those nearest the praetorium. Rufus had found the gathering extending along the north wall. Household receipts showed more bread sold each day. An injured man named Yaakov had stayed. The elders did not agree on what Pontius would do, yet they still accepted the summons to the stadium.
 
-"Summon them to the stadium," he told his tribune, a broad, competent man named Rufus who had served with him in Germania and had the particular gift of asking no questions he did not need the answer to before executing an order. "Tell them the Prefect will hear their grievance formally, in the place built for public assembly, as a matter fitting the dignity of both sides."
+Claudia had placed those facts before him without claiming to know the crowd's mind. He resented the accuracy of the arrangement. He also used it.
 
-"And when they've gathered, Prefect?"
+The protest had become dangerous through duration. Each day carried the story farther from Caesarea while leaving the standards above Jerusalem. If he continued waiting, more people might come and the garrison would appear contained by unarmed petitioners. If he removed the images after five days at his gate, every future demand would begin with the memory that endurance had mastered him.
 
-"Surround them. Three ranks deep, swords drawn but sheathed until my signal. I will give them one chance to disperse peaceably, in front of their own numbers, where the ones at the back cannot claim afterward that they never heard the offer made. If they refuse it there, in the open, with the whole crowd as witness to the choice they've made, I will not be the one who bears the weight of what follows."
+The stadium offered a controlled end. Stone entrances could be held by small units. The tiers separated groups that had reinforced one another on open ground. A single proclamation would reach everyone. Swords shown at close distance would make the cost personal before rumor could make courage easy.
 
-Rufus saluted and went, and Pontius sat alone for a moment longer in the gray light before dawn, running the plan once more through the part of his mind that had never yet failed to find the flaw in an order before executing it. It was, he told himself, no different from any siege he had studied as a younger officer: apply pressure until the defenders calculate, correctly, that the cost of holding exceeds the cost of yielding. Men yielded when the alternative was death. He had never known it to fail, and saw no reason, sitting in the half dark with the sea working at the rocks below the palace wall, why it should fail now.
+He had three objectives and disliked that they pulled against one another. The crowd must leave. The soldiers must remain under command. The conclusion must survive the first complaint sent to Syria or Rome.
 
-He did not examine too closely why the plan required so much rehearsal in his own mind before he trusted himself to believe it would work.
+Rufus stood over the stadium plan.
 
-## Bared Necks
+"Three companies," Pontius said. "One at each entrance, the rest around the tiers. Draw on my signal. No man strikes without the second signal."
 
-They came to the stadium in the numbers they had held at the palace gate, filling the tiered stone seats built for chariot races and public games with a silence that unsettled the soldiers more than shouting would have. Pontius took his place on the raised tribunal at the stadium's center, Rufus's men already arranged in their three ranks around the crowd's edges, close enough that the polished iron of their sword hilts caught the early light and could be seen from every seat.
+"If they rush the exits?"
 
-He gave the offer exactly as he had rehearsed it, his voice carrying across the stone bowl of the stadium with the flat, carrying discipline of a man accustomed to being heard over a battlefield. The standards would remain in the Antonia. Any man who wished to return home in peace might do so now, unmolested, and the matter would be considered closed, a disagreement settled by Roman patience rather than Roman force. Any man who remained after this offer had been made would be understood to have chosen defiance over reason, and would answer for that choice as Roman law required.
+"Open one passage and let them go. We want dispersal."
 
-He gave the signal. Three ranks of soldiers drew their swords as one motion, a single long ring of iron that should, by every calculation he had ever trusted, have broken the crowd into a scattering rout within the space of a few heartbeats.
+"If they rush the tribunal?"
 
-Instead, the men nearest him knelt, and then the men beside them, spreading outward through the tiered seats like water finding its own level, until whole sections of the stadium had gone to their knees together, and every one of them, kneeling, bared his own throat to the soldiers ringed around him, tilting his chin back and pulling aside the collar of his tunic with hands that did not shake as much as Pontius, standing on his tribunal with a hundred throats offered up to him at once, found that his own hands had begun to.
+"Shields first. Swords only if the line fails."
 
-"We would rather die," an old man near the front called out, his voice thin but perfectly steady, "than see the law transgressed. Strike, if that is the Prefect's justice. We will not rise, and we will not go home, and we will not pretend that what has been done to our city was not done."
+Rufus waited.
 
-Pontius stood on the tribunal and understood, in the long silence that followed, that he had built his entire theory of governance on the assumption that every calculation, run far enough, resolved eventually into fear. He had believed it in Germania, watching tribes weigh the cost of resistance against the weight of the legions and choose, in the end, submission. He had believed it in Rome, in his own career, in every ledger he had ever balanced by measuring what a man stood to lose against what he might be made to fear losing. He had not accounted for men who had already decided, before ever kneeling in the dust, that there was nothing left the sword could take from them worth more than the thing they were refusing to surrender.
+"Ask it," Pontius said.
 
-He held the signal to strike in his raised hand for what felt, standing there, like the length of the whole crossing from Ostia, and did not give it.
+"What do we do if they kneel?"
 
-## What Remained
+The question irritated him because Claudia's reports had made it imaginable.
 
-He gave the order to withdraw the standards that same afternoon, before the crowd had risen from its knees, dictating the dispatch to Rufus in a voice he kept level through long practice, though the words themselves cost him more than any report he had sent in fifteen years of service. The garrison would return to its winter posture. The standards, plain unadorned cohort banners without the Emperor's image, would fly from the Antonia in their place. The matter, he wrote, using the same brittle formal language he had used to threaten the crowd only hours before, was considered closed.
+"They came to force a Roman order. They will choose life when the choice is placed before them."
 
-He did not go to find Claudia that evening, though he knew she would already have heard the outcome from Marcus or from Philotas or from the household staff, who seemed, in this country, to know the shape of a thing before the man who had ordered it could finish writing the report. He sat instead in the study, the map of the city still unrolled where he had left it four nights before, and found himself unable, for the first time since receiving the red-sealed commission in the garden in Rome, to look at the ruled lines and the neat wooden marker without also seeing a hundred bared throats tilted back toward a sword he had not, in the end, been willing to use.
+Rufus saluted. The answer had been given, though Pontius heard the absence inside it.
 
-It was not mercy. He was careful, turning the thought over alone in the lamplight, to name it honestly to himself rather than let it soften into something more flattering. He had not spared them because their cause moved him, or because some late scruple had arrived to trouble a conscience he had always considered adequately governed. He had spared them because he had understood, standing on the tribunal with his hand still raised, that killing a thousand kneeling men who had not lifted a single weapon against him would reach Rome long before his own account of it could, and that Sejanus's patronage, however secure it seemed from this distance, would not survive a massacre that made his patron's judgment look as reckless as the act itself.
+The petitioners entered without resistance. Officers searched those nearest the entrances and found knives used for food, staffs, and one stone wrapped in cloth. The stone's owner said it supported an old man's stool. Rufus confiscated all of it.
 
-He had calculated correctly, and the crowd had gone home, and the standards flew now without the Emperor's image on them, and by any measure he had ever trusted, the outcome was a victory: no riot, no massacre, no report to Rome that could be used against him. And yet he sat alone with the lamp guttering low and found the victory sat wrong in him, the way a joint sits wrong after a fall, set but never quite set true, a soreness that would announce itself again on some future day when he least expected the weight to fall on it.
+Pontius took the tribunal at the stadium's center. The sea wind reached over the upper wall and moved the hems of the soldiers' cloaks. Beyond them sat men from Jerusalem and towns whose names appeared in tax rolls, road petitions, and quartermaster accounts. Some had women with them. A few children sat against the higher wall. The numbers could not be fixed from where he stood, and he would not invent one for his report.
 
-An even hand, he had told Claudia, once, in a garden in Rome that already felt like another man's memory. And an unbending spine. He looked down at his own hand, resting flat and empty on the unrolled map, and admitted to the silent room what he was not yet prepared to admit to his wife: that a spine, tested far enough, did not break cleanly either. It only learned, for the first time, that it could bend, and having learned it once, would carry the knowledge of it forward into every test that came after, whether the man attached to it wished to remember or not.
+He saw Yaakov only because Claudia had described the gray shawl and bound shoulder. The man sat near an aisle with his injured arm held against his chest. He looked neither inspired nor fearless. He looked tired.
+
+That should have made him easier to move.
+
+## The Offer
+
+Pontius raised his hand for silence that already existed.
+
+"You have been heard. The standards remain within a Roman fortress and outside the Temple courts. Any person who departs now may return home unmolested. The road will remain open. Those who stay after this warning refuse a lawful order to disperse."
+
+The words carried cleanly. An elder near the front asked leave to answer.
+
+"Remove the images, Prefect, and we will leave."
+
+"The condition is refused."
+
+Murmurs passed through the tiers. Pontius let them run out. He wanted the crowd to understand that no further terms waited behind the first.
+
+"Disperse."
+
+No one stood.
+
+He gave the signal. Soldiers moved from the entrances and lower passages, forming a ring around the occupied tiers. At the second motion, they drew. The sound of blades leaving scabbards passed around the stadium in one long scrape.
+
+Pontius watched for the break.
+
+A man near an exit pulled his son up by the arm and began toward the open passage. Two women followed. Several others shifted, uncertain whether to rise or make room. The plan had found the ordinary human wish to live.
+
+Then the elders at the front knelt.
+
+The movement spread unevenly. Some men knelt at once. Some argued before joining them. A few remained seated. Others drew back their collars and bent their necks toward the soldiers. Yaakov struggled down with one useful arm and exposed his throat.
+
+No single impulse governed them. Pontius could see fear in some faces and anger in others. One man sobbed while baring his neck. Another stared at the blade nearest him with an attention that looked almost curious. A father kept one hand on his daughter's head.
+
+An old man called from the front, "We would sooner receive the blow than consent to the images."
+
+Other voices took up parts of the sentence. They did not speak as one body. They made the same refusal.
+
+Pontius had expected spectacle to isolate courage. Instead it made each person witness the cost accepted by the next.
+
+He raised his hand for the final signal.
+
+Rufus looked at him and waited. The soldiers held their ring. A young auxiliary near the west passage had gone pale. Another adjusted his grip twice. If the order came, the first killings might be controlled. What followed was less certain. Men who offered their necks could still strike when a child screamed. Soldiers stepping over bodies could mistake movement for attack. The open exit might become a crush.
+
+Even perfect discipline would leave the other consequence.
+
+The first written account could say Pontius had suppressed defiance after repeated warning. The gate report, liaison protest, household market record, and five days of witnesses would travel beside it. Survivors would name unarmed people killed in a stadium after accepting a formal summons. Caiaphas could condemn the images and the blood while claiming he had sought orderly petition. The Syrian governor would ask why a routine rotation required a public slaughter.
+
+Sejanus's favor might help. Pontius had no assurance that it would bear the weight of a province made harder to govern for the sake of images he could remove without weakening the fortress itself. Patronage was an advantage, not a wall against every complaint.
+
+He considered giving the order and found no political end beyond the killing. The standards would remain above a city with fresh martyrs. The garrison would need reinforcements. Festival crowds would arrive already carrying the story. Authority would have become an obligation to repeat the same violence wherever mourning gathered.
+
+The crowd had defeated the choice he offered by accepting its stated cost.
+
+Pontius lowered his hand.
+
+"Sheathe."
+
+Rufus repeated the order. The ring of iron vanished by degrees.
+
+The petitioners remained kneeling. Their stillness now belonged to them, and Pontius felt the tribunal beneath his feet become a platform on which his threat had been displayed and withdrawn.
+
+He addressed the elder.
+
+"The images will be removed from Jerusalem. The standards will return to Caesarea under military escort. You will clear the stadium and the praetorium road before nightfall."
+
+The elder bowed his head. Relief moved through the tiers with the force of noise held back. Some people wept. Others remained wary, waiting for the order to become action.
+
+Pontius left Rufus to organize the departure and returned to the palace to write it.
+
+## The Order
+
+The removal order was brief. The images would come down from the Antonia before sunset. The detachment would retain plain cohort standards within the fortress, and the disputed emblems would travel to Caesarea under guard.
+
+Pontius wrote the crucial sentence himself:
+
+*The prefect judges continued display injurious to provincial order and unnecessary to the military use of the post.*
+
+It made the retreat his decision. He would not attribute it to Claudia, Rufus, Hanan, or a crowd whose refusal had narrowed his options. A prefect who accepted office also accepted the authorship of its reversals.
+
+He dictated separate instructions for the reports. Rufus would record the soldiers' formation, the absence of a strike order, and the peaceful clearing of the stadium. The prefectural secretary would attach the prior liaison protest and corrected perimeter count. Pontius refused a suggested line stating that the petitioners had submitted.
+
+"They did not," he said.
+
+The secretary looked down.
+
+"Write what occurred."
+
+The words tasted like defeat, though accuracy served him better than a claim every witness could disprove.
+
+By evening the images were on the road. The petitioners left in groups, supporting the old and those injured during the week. Yaakov walked with his bound arm and did not look toward the palace.
+
+Rufus reported no disturbance. He also reported that several soldiers believed the prefect had exposed them to humiliation by drawing swords he would not use.
+
+"Do you believe that?" Pontius asked.
+
+"I believe a drawn sword should have a purpose before it leaves the sheath."
+
+Pontius dismissed him without rebuke.
+
+Before Rufus reached the door, Pontius called him back.
+
+"Future crowd orders will state the end intended for every unit before deployment. No drawn blade as warning alone. If men must be placed among a gathering, they will carry no mark that makes their presence a public challenge until the signal is given."
+
+Rufus studied him. "Men among a crowd can be surrounded before they form."
+
+"Then they do not form until the exit is held."
+
+"And if the crowd discovers them?"
+
+"That risk belongs in the plan before the order, not in the report afterward."
+
+Rufus accepted the instruction. Pontius had taken the stadium's lesson and turned it into command practice. The next force would be harder to see, faster to close, and committed before spectacle gave either side time to test the other.
+
+Claudia waited in the study. She did not ask whether she had been right.
+
+"The gate sellers are closing their stalls," she said. "Philotas will restore the fees tomorrow."
+
+"Your household account will show a loss."
+
+"Yes."
+
+"And your secretary will show how you found my armory issue."
+
+There it was. The cost she had accepted had also shown him a weakness in the movement of command records.
+
+"Marcus handled schedules already within his duties," she said.
+
+"He will continue to handle household schedules. Military issues will go directly from Rufus to the prefectural secretary."
+
+Pontius expected an argument. Claudia only inclined her head. She had changed his information before the stadium. She had preserved provisions and one servant's leave. She had not given the order that lowered his hand.
+
+After she left, he reviewed the day without granting it meaning it had not earned. He had prevented a massacre and preserved a usable garrison. He had also summoned a crowd to witness that Rome's threat could fail.
+
+The error began earlier than the stadium. He had allowed objection time to gather bodies, households to carry provisions, elders to agree on a single demand, and separate witnesses to preserve the sequence. Delay had enlarged the price of every choice.
+
+In the next dispute, he would keep the interval shorter. He would act before opposition settled into ranks. Soldiers would not display force until their purpose could be completed, and the first account would leave with the order instead of following days behind it. Technical authority would be established before any public hearing turned retreat into spectacle.
+
+He did not yet know what problem would call for those habits. He knew only that he would never again stand for five days at his own gate while a crowd learned how long he could be made to wait.
