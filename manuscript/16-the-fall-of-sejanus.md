@@ -2,52 +2,248 @@
 
 ## A Ship Out of Season
 
-The ship came into Caesarea's harbor on a morning too rough for ordinary trade, driven in ahead of a squall that had chased it the length of the Cilician coast, its sail torn along one seam and its crew moving with the particular haste of men who had bet their lives on outrunning a storm and meant to be done with the bet as quickly as the harbor allowed. Pontius had come down to the mole himself at the first watchman's report of a ship running for shelter out of season, more from a governor's habit of inspecting anything irregular than from any expectation that the irregularity concerned him personally, and he knew before the captain had finished tying off that a vessel willing to run that risk was not carrying grain manifests or the quarter's ordinary post. He received the dispatch standing on the mole itself, salt still drying on the courier's cloak, the wind driving spray up over the stone in intervals that soaked the parchment's edge before he had finished breaking the seal, and read it there rather than wait for the walk back to the praetorium, a departure from his own custom that told him, before he had read a single line, how thoroughly the custom no longer applied.
+The ship entered Caesarea's harbor ahead of a squall, its sail torn along one seam. A watchman reported an imperial courier aboard. Pontius went to the mole and broke the Syrian seal before returning to the praetorium.
 
-*To all governors and commanders of provinces, from the office of the Praetorian prefect Naevius Sutorius Macro, greeting. Let it be known to every man holding authority in the Emperor's name that Lucius Aelius Sejanus, lately honored beyond his deserving, stood revealed before the Senate as a conspirator against the person and house of Tiberius Caesar, and was condemned and executed on the day of his unmasking, the eighteenth of October, by the Senate's own hand and the Emperor's plain will. His household is dissolved. His honors are revoked in every particular, his statues to be removed from every city that raised them, his name struck from every oath, calendar, and public record in which it was entered. Any correspondence, gift, or favor received from him in the months preceding his fall is to be reported to this office without concealment or delay, as a matter of the Emperor's continuing trust in those who serve him honestly.*
+The dispatch stated that Sejanus had been denounced, condemned, and executed at Rome on the eighteenth of October. It ordered provincial authorities to remove honors and await further instructions concerning correspondence and associates. Its account of conspiracy reflected the victorious imperial position. It supplied no evidence Pontius could examine.
 
-Pontius read it twice on the mole, the wind off the water working at the parchment's edges, and found that his first coherent thought, arriving well before fear or grief or any of the responses the news might reasonably have summoned, was an accounting: the date. The eighteenth of October. Five weeks gone, by the time this dispatch had outrun the storms and the ordinary slowness of the sea lanes to reach him, five weeks in which he had gone on governing a province in the confident belief that the ground beneath his career was the most solid it had ever been, five weeks in which he had, among his other ordinary business, sent north a letter angling for exactly the kind of advancement a man secures through a patron's continued favor.
+Pontius read the date twice. In the book's chosen sea delay, five weeks had passed. During those weeks he had sent north an advancement request, an aqueduct summary, and a copy of the Caesarea oath.
 
-He thought of that letter now with a clarity that turned his stomach in a way the sea crossing from Ostia, years before, had never managed. It would have reached Rome, if it reached Rome at all, somewhere in the same weeks Sejanus was being unmasked, denounced, and put to death within the span of a single day's session, a letter praising the man's ascent and requesting to be remembered by it, arriving perhaps at the exact hour that being remembered by Sejanus had become the single most dangerous thing a provincial governor could be.
+He could not know whether the letter had reached Rome before the fall, after it, or at all. Every possibility carried a different danger. Praise delivered early might sit in a seized household archive. Praise delivered late would look like loyalty maintained after Rome had turned. A lost letter might remain only in the records Pontius had kept himself.
 
 ## What Had to Be Undone
 
-He gave the order within the hour, standing in the praetorium's outer court with the dispatch still in his hand and Rufus and Philotas both summoned before he had fully decided what he meant to tell them.
+Within the hour he summoned Rufus, Philotas, Marcus, the town clerk, and the keeper of provincial correspondence. His objective was to obey the revocation order, identify exposure, and answer Rome without creating evidence of concealment.
 
-"The oath," he said. "The new year's oath, the one I had the whole province swear not four months past. Sejanus's name is in it, alongside the Emperor's, exactly as the Senate itself instructed me to include it." He heard his own voice come out flatter than he intended, the register he used for orders rather than for anything that admitted feeling, and found he could not, standing there, manage anything else. "It is to be struck. Every copy in the town clerk's keeping, every record of the ceremony itself. I want no document in this province that shows this administration bound its people to a dead traitor's name."
+"Remove Sejanus's name from every form still in use," he said. "Inventory the superseded copies. Seal them."
 
-"And the coinage, Prefect." Philotas said it carefully, the same careful register he had used months before, warning of a thread the priesthood might someday find worth pulling, and Pontius understood, hearing it now, exactly which thread Philotas had meant, though the coinage had never carried Sejanus's name or image at all. "Nothing in the new bronze bears his likeness. But the timing of the mint, and the timing of the oath, will not go unnoticed by men who have learned to read a Roman administration's confidence by what it dares to do in a given season. There were those who watched you swear this province to his name in the forum, Prefect. They will remember that you did, whatever you now strike from the record."
+The town clerk looked relieved that he had not been ordered to destroy them. Philotas did not.
 
-"Then let them remember it. I cannot undo having sworn it. I can only ensure Rome finds no evidence, arriving here, that this administration mourns the striking." He turned to Rufus. "Any correspondence in this house bearing Sejanus's seal, or referencing him by name in terms that could be read as more than official courtesy, is to be gathered and set aside. I will decide myself what is reported to Macro's office and what is destroyed."
+"You intended to burn them," he said after the others had gone.
 
-He did not say, standing in the courtyard giving these orders in a voice he kept level through the same long practice that had once carried him through a stadium full of bared throats, that the letter he most wanted destroyed was the one he could no longer reach, already at sea or already delivered, already read by whatever hand now sorted a dead man's correspondence for evidence of who among the provinces had bet too openly on his continuing favor.
+"For the length of one breath."
+
+"Macro's office may ask for the old wording."
+
+"And Caiaphas may already possess it."
+
+Destruction could remove a provincial copy while leaving the Syrian and Temple copies intact. It would turn an act of public loyalty into an act of private concealment. Pontius ordered the scrape marks, replacement forms, and sealed originals entered under the same inventory number.
+
+"The coinage?" Philotas asked.
+
+"It bears no name or likeness of Sejanus. The type continues."
+
+"Then the record should say why."
+
+Pontius dictated that the lituus and simpulum issue predated the fall, carried no proscribed honor, and remained legal bronze. The explanation separated numismatic evidence from his patronal act without claiming that the designs had caused no offense.
+
+"Gather correspondence bearing his seal or name," Pontius told Marcus. "List sender, date, subject, and present location. Destroy nothing."
+
+Marcus's inventory would expose the praise after the aqueduct and the retained advancement draft. Leaving either off would make Marcus a participant in concealment. Pontius included both.
 
 ## Names Named
 
-The dispatches that followed over the next weeks arrived at a pace no ordinary provincial correspondence had ever kept, each one carrying further names, further particulars, the purge widening outward from Sejanus himself to his children, to officers who had served closely under him in the Guard, to senators and governors whose only crime, as far as Pontius could determine from the careful official language, was having once accepted an invitation to a dinner the wrong man had also attended. He read each dispatch with the same close attention he had once given a survey of an aqueduct's grade, searching not for what it said outright but for what it implied about the boundaries of the danger, and found, dispatch after dispatch, that the boundaries would not hold still long enough to be measured.
+Dispatches and merchant reports brought further names over the next weeks. Some removals were confirmed by official notices. Others came through harbor talk and could not be distinguished from private vengeance or fear. Pontius kept the two classes apart.
 
-Rufus brought him, toward the end of the second week, a report that a legate two provinces distant, a man Pontius had met twice at official functions and exchanged perhaps a dozen words with in his life, had been recalled to Rome under guard and had not been heard from since. He brought it without comment, setting it on the desk the way he set every report, and Pontius understood the silence as its own form of tact, a soldier declining to ask a question his commander could not yet answer for himself.
+Rufus brought an unconfirmed report that an eastern official Pontius had met twice had been ordered home. A second source said the man had requested leave because of illness. No official list named Pontius.
 
-"Am I named anywhere in what reaches you," Pontius asked him plainly, one evening when the silence had stretched long enough that asking it directly felt less dangerous than continuing to guess. "You would tell me, if you had heard it."
+"Am I named anywhere in what reaches you?" Pontius asked when continued guessing became intolerable. "You would tell me if you had heard it."
 
-"I would tell you, Prefect. I have heard nothing that names you, in either direction. I have heard a great deal that names other men, which I take to be the more instructive fact. A purge this wide either reaches every corner of the empire eventually, or it exhausts itself in Rome and never troubles the provinces at all. I do not yet know which kind of purge this one intends to be, and I do not think Macro's office knows either, this early."
+"I would tell you, Prefect. I have heard nothing that names you in accusation or assurance."
 
-Pontius ordered a public sacrifice for the Emperor's health that same week, a gesture he would not have thought to make a season before and made now with a deliberateness that felt, performing it, uncomfortably close to the kind of vivid public story he had once told Claudia a crowd preferred to a plain accurate one. He stood before the assembled garrison and the town's magistrates in the same forum where he had sworn them all to Sejanus's name four months earlier, and offered, in his place, an unadorned prayer for Tiberius alone, and watched the same careful faces that had watched the oath-taking now watch this correction with an attention he understood, without needing Philotas to explain it to him again, as men adding a second entry to an account they had already opened.
+Absence could mean safety, distance, delay, or an unopened file.
+
+## The Letter's Route
+
+Pontius sent an inquiry to the harbor clerk who had received his westbound packet. The vessel had reached Rhodes. From there the pouch had joined a convoy for Puteoli. No receipt had returned from Italy.
+
+He asked the Syrian legate's office whether provincial packets to Sejanus's household were being intercepted. The answer instructed him to report his own correspondence and await imperial direction. It did not say who held the letters.
+
+Pontius prepared the report with the retained draft attached. Philotas advised a short covering statement: sent before notice of the fall; ordinary request for future service; no conspiracy known or intended.
+
+"Ordinary requests do not praise a man beside an oath form," Pontius said.
+
+"Then do not claim the packet was ordinary."
+
+Rufus proposed emphasizing the aqueduct report and omitting the request for advancement from the summary because the draft itself revealed it.
+
+"An omission in the description will look chosen," Pontius said.
+
+He wrote that the packet contained congratulations, provincial results, the local new-year form, and a request to be considered for later service nearer Rome. He dated dispatch and receipt. He added that his belief in Sejanus's patronal role rested on prior intermediaries and inference, not a surviving appointment order.
+
+The admission weakened the grandeur he had attached to his rise. It also denied Rome a false claim it could disprove from its own records.
+
+Marcus copied the report. Pontius saw his hand pause over the phrase *request for later service*.
+
+"Write it exactly."
+
+"Yes, Prefect."
+
+The completed packet went to Macro's office through Syria. Pontius kept one sealed copy and sent another route notice to the legate. He could no longer erase the advancement request. He could only ensure that his own disclosure reached Rome before an enemy's version.
+
+Pontius ordered a public sacrifice for the Emperor's health. He used the same forum where the local oath had been spoken and limited the new formula to Tiberius. The garrison and magistrates watched the correction. Jewish officials were again not required to participate.
+
+The ceremony proved present obedience. It could not prove what Pontius had believed five weeks earlier.
 
 ## The Accounting
 
-Claudia found him that evening in the study, the map still unrolled on the table where it had lain, in one arrangement or another, since the week of his arrival, the wooden eagle he had set on Jerusalem four years before still marking the city in the same place he had left it, the iron compass she had pressed into his hand in a garden in Rome lying beside it where he had set it down some hour before and apparently not picked up again.
+Claudia found him with three lists. One named correspondence disclosed to Macro. One named honors removed. The third contained complaints that could still reach Rome: the standards, the aqueduct treasury, deaths in the colonnade, coinage, and the local oath.
 
-"I have heard," she said, and did not need to say more than that, the whole of the household having absorbed the news by whatever channel household news traveled by, faster than any official dispatch. "How bad is it."
+"How bad is it?" she asked.
 
-"I do not yet know. That is the honest answer, and I find I dislike it more than any bad answer I could give you instead." He did not look up from the map, tracing, without quite meaning to, the line of the aqueduct's channel where he had marked its progress in his own hand across two years of surveys. "I bet four years of this administration on a man's continuing favor, and the man is dead, executed in a single afternoon for a conspiracy I know nothing of beyond the bare fact the dispatch names it, and I do not know yet whether I am considered, in Rome, one of his clients worth purging or simply one more provincial governor too far from the center of things to be worth the Emperor's trouble to reach."
+"No accusation names me. No assurance clears me."
 
-"Which do you believe."
+"What can you do before Rome answers?"
 
-"I do not know what I believe. I know what I fear, which is a different question entirely, and I find the fear considerably more honest than anything I have managed to believe about myself since that dispatch reached the harbor this morning." He picked up the compass at last, turning it in his hand the way he had turned it, once, standing in a garden with the whole of this posting still ahead of him as an abstraction rather than a four-year account he would now have to answer for in full. "You gave me this and told me I had not mapped their pride. I did not understand you then. I am not certain I fully understand you now. But I understand, looking at this map, that I built an entire theory of governing this province on the belief that every problem here could eventually be reduced to measurement, applied evenly, and I understand tonight that the ground I actually stood on the whole time was never the ground I was measuring. It was a man in Rome I never troubled myself to measure at all, because I mistook his favor for something as fixed as a road or a revenue column, and it was never that. It was only ever a man, and men fall."
+"Prevent a complaint from becoming the first account of my government that Macro reads."
 
-She crossed the room and stood beside him at the table, looking down at the map with him, the eagle still fixed on Jerusalem, the ink lines of the aqueduct's channel running from Bethlehem's springs toward a city that had never once, in four years, behaved the way his surveys predicted it would. "What will you do."
+He gave her the complaint list. The standards line named the withdrawal and no casualties. The aqueduct line named Temple participation, contested funds, suppressed unrest, and unresolved totals. The coinage line named lawful devices and recorded objections. Pontius had reduced each danger to the defense he would send if challenged.
 
-"What I have always done. I will govern as though the ground is solid, because a governor who governs as though it is not invites exactly the collapse he fears, and I will wait to learn, from whatever direction the news eventually comes, whether the ground actually held." He set the compass down, not on the map this time but beside it, apart from the ruled lines and the careful markers, as though some part of him understood, setting it there, that it no longer belonged to the same order of things it had once measured. "I do not think I will roll this map again the way I once did, Claudia. Not soon. I find I no longer trust what it shows me."
+"The defenses differ from the records," she said.
 
-She did not answer that directly, only rested her hand briefly on his where it still lay flat against the table's edge, a gesture with none of the practiced distance the last year's silences had settled between them, and for a moment neither of them spoke, the lamp burning low over a chart of a province that had never, for either of them, been quite as legible as the lines drawn across it promised. Outside, beyond the study window, the storm that had driven the ship in ahead of its season was still working itself out over the water, and Pontius found himself listening to it a long while, waiting, without fully admitting to himself that he was waiting, for some sound in it that would tell him whether the province he had spent four years learning to read had already decided, in its own silence, what it now intended to make of a Roman governor whose patron was dead and whose protection, for the first time since he had crossed the sea to take up this office, was entirely and only his own.
+"A defense is a selection."
+
+"A complainant will call it concealment."
+
+Pontius took back the tablet. "Then I need the full records close enough to answer and the complainants far enough from Rome that I answer first."
+
+Claudia saw the new rule forming. He had once acted before opposition organized because visible retreat humiliated him. He now meant to act before complaint traveled because imperial silence frightened him.
+
+"You cannot govern every petition as an accusation against you."
+
+"Every petition can become one."
+
+"That makes relief dangerous, disagreement disloyal, and delay evidence."
+
+"It makes resolution urgent."
+
+She pointed to the aqueduct line. "The casualty record remains divided. Urgency will not make one total true."
+
+"Then no order based on it will wait for certainty we will never have."
+
+The answer preserved his capacity to decide. It also widened the grounds for decision whenever evidence remained incomplete.
+
+## The First New Rule
+
+The next morning supplied a test. A delegation from Jerusalem requested postponement of a toll change until after a festival. The old Pontius would have judged revenue and road capacity. The frightened Pontius first asked who had signed and whether any copy had been sent outside Judaea.
+
+The petition bore two guild marks and the witness sign of a Temple clerk. No Roman addressee appeared.
+
+Rufus recommended denial. The rate had been announced and the collectors were ready. Philotas advised a thirty-day postponement because the increase would concentrate arguments at the gates during the festival.
+
+Pontius asked Claudia for the household channels. Tamar had heard that merchants objected to the timing, not the amount. Marcus found that the formal notice had reached two gates six days later than the others. The administration could not prove equal warning.
+
+Pontius delayed the increase at every gate until thirty days after the latest verified notice. He required the guilds to acknowledge the new date in writing and the collectors to record refusal individually.
+
+The decision was defensible on notice. It also purchased signatures showing that the complainants had accepted a remedy.
+
+"You corrected an unequal notice," Claudia said afterward.
+
+"And closed the complaint."
+
+"Those are different purposes."
+
+"Today they produced the same order."
+
+He was right about the result. The danger lay in what he would do when the purposes divided.
+
+Pontius ordered every future petition log to show whether a copy had gone to Syria, Rome, Antipas, the Temple, or a civic council. Marcus's linked-record method, built to compare claims, now also mapped routes of possible complaint.
+
+Marcus objected that many petitioners could not know where a scribe had copied their words.
+
+"Then mark the route unknown," Pontius said.
+
+"Unknown will become suspicion attached to the petitioner."
+
+"Unknown is risk attached to me."
+
+Pontius required the column.
+
+Claudia secured one limit. Household relief requests would remain outside the provincial petition log unless they asked for an official order or alleged official misconduct. Pontius accepted because adding private grain and physician payments would multiply irrelevant names. The separation protected Tamar's channel for the moment.
+
+## The Records Others Held
+
+Pontius ordered an inventory of documents outside Roman custody. The liaison confirmed that the high priest's household retained the aqueduct agreement, the joint account summaries, the coinage objection, and the toll petition. It would neither confirm nor deny that older clerks had preserved an account of the standards protest.
+
+Antipas's secretary held correspondence about John, displaced followers, and the grazing survey. The Syrian legate held routine copies of nearly every major Roman decision, including the expanded oath.
+
+The inventory showed why destroying records at Caesarea would have failed. It also showed how many institutions could assemble a hostile sequence without inventing a single document.
+
+Pontius considered sending Macro a full defense of his administration before any charge arrived. He drafted headings for the standards, aqueduct, coinage, and relations with the priesthood.
+
+Philotas read the headings and set the tablet down.
+
+"This tells Rome which accusations to request."
+
+"Rome can request them already."
+
+"Rome has thousands of provincial grievances. You propose selecting yours for them."
+
+Pontius asked Rufus to read it. The officer agreed with Philotas. A voluntary defense could look like panic or confession.
+
+Claudia advised him to answer the disclosure order exactly and repair matters still capable of repair.
+
+"A repair after Sejanus falls will be read as fear," Pontius said.
+
+"Some will be. A false defense before accusation will also be read as fear."
+
+He destroyed the draft headings but preserved a note that no unsolicited provincial defense had been sent. Even restraint acquired a record.
+
+The review found a petition from the family of a Temple copyist held for questioning after the aqueduct riot. The military log said the man had copied route notices for protest leaders. No charge had been entered. Rufus believed a centurion had kept him because two names in his tablets remained unidentified.
+
+Pontius ordered the prisoner brought to Caesarea.
+
+The copyist admitted reproducing notices that named gathering places. He said the work came through his trade and that he had not attended the protest. One witness placed him near the colonnade before the violence. Another identified a different man with the same patronymic.
+
+"Why was this never resolved?" Pontius asked.
+
+Rufus answered with the honesty of an officer who knew uncertainty had once favored detention. "After the riot, release offered no advantage. Continued questioning might have."
+
+That had been true while Sejanus's praise protected decisive force. It was dangerous now. An uncharged Temple copyist held through changing seasons could become a simple complaint in Rome.
+
+Pontius released him on a written undertaking to appear if summoned. He returned the trade tablets except two bearing names still under inquiry. The copyist refused to sign a statement that his confinement had been lawful.
+
+"Then record release without settlement," Pontius said.
+
+The refusal left the complaint alive. Pontius offered compensation for lost copying tools, framed as replacement of property held by the garrison. The family accepted the tools and no coin.
+
+Claudia's household channel later reported that the man had returned to work and still intended to petition the high priest about his detention.
+
+"The remedy failed," Pontius said.
+
+"It freed him."
+
+"It did not close the route to complaint."
+
+"Then perhaps closing the route was never a remedy he owed you."
+
+Pontius sent the release order, witness conflict, and property receipt to the Syrian file. If the petition traveled, his account would be waiting. He had improved the man's condition and protected himself in the same act. He could no longer tell which purpose had moved first.
+
+The next case involved a veteran's unpaid transport claim. No priesthood stood behind it and no sacred dispute could magnify it. Pontius found himself applying the same urgency. He ordered the quartermaster to answer within ten days because a Roman citizen could petition the legate directly.
+
+The cases taught him that complaint did not belong to one people or institution. Every subordinate with access to a scribe possessed some fragment of the power Sejanus's fall had exposed.
+
+## No Answer
+
+A packet from Syria arrived near the end of the month. It acknowledged Pontius's disclosure to Macro and required him to preserve all related records. It contained no accusation, approval, or promise of continued office.
+
+The seal belonged to the legate's correspondence office, not Macro's. Pontius could prove that Syria had forwarded his disclosure only because the covering tablet said so. He could not prove that anyone in Rome had opened it. Rufus urged patience; a second inquiry might arrive before the first. Pontius entered the route and waited.
+
+Pontius obeyed. He sealed the oath originals, Sejanus correspondence, aqueduct praise, advancement draft, harbor receipt, and his disclosure under a joint inventory witnessed by the town clerk and Rufus. Too many copies existed elsewhere for destruction to protect him. Preservation became his evidence of candor.
+
+He then ordered the current complaint list reviewed before every major festival and every report to Syria. Problems capable of resolution would be settled early. Problems that could not be settled would receive a Roman account before another channel defined them.
+
+Claudia asked who would decide which problems belonged on the list.
+
+"I will."
+
+"From whose reports?"
+
+Pontius looked at the military, civic, Temple, Herodian, and household headings she had helped create across four years. "Whichever reach me before the complaint."
+
+The answer made speed part of truth.
+
+Pontius survived the month in office. No summons came. He had lost the freedom to treat silence as ordinary. From then on, every unresolved grievance carried an imagined route to Rome, and every delay threatened to let another hand write first.
+
+He ordered the complaint inventory placed beside the daily petitions rather than in the sealed Sejanus file. The fall in Rome had become a standing procedure in Judaea before Rome had spoken his name.
+
+Every morning the open list reminded his clerks that an unresolved provincial grievance might become an imperial document.

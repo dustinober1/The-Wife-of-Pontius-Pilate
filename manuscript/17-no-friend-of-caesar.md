@@ -2,52 +2,222 @@
 
 ## What Changed in the Audience Hall
 
-Caiaphas came to Caesarea himself that winter, rather than summoning Pontius to the neutral chamber off the Temple's outer court where their business had always been conducted before, a reversal of custom so plain that Claudia understood its meaning before Marcus had finished reporting the delegation's arrival at the praetorium gate. A high priest who came to a Roman governor's own hall, rather than requiring the governor to come to him, was not making a courtesy call. He was demonstrating something, in the oldest language either of their offices knew, about which of them now had the greater room to spend on gestures.
+Caiaphas came to Caesarea that winter with two aides and the closing aqueduct accounts. Pontius asked Claudia to sit behind the provincial clerks because her household ledger held payments and names absent from both the military and Temple summaries.
 
-She watched the audience from the gallery above the hall, a vantage she had used seldom in four years and used now because she found she could not stay away from it, the household's tension having settled into her own chest as a weight she wanted to see the shape of rather than only feel. Caiaphas came with two aides, no more, and none of the careful theater of the delegation Hanan ben Nahor had led in Pontius's first week in office, and Claudia understood, watching the smaller retinue, that this too was a message: a man who no longer needed numbers behind him to be heard.
+Her objective was to close the remaining wage and relief discrepancies without surrendering the protected names. Caiaphas's objective was less visible. He had made the journey instead of requiring another meeting near the Temple. The courtesy could signal confidence, reconciliation, or a desire to observe Pontius after Sejanus's fall.
 
-"The aqueduct nears completion," Caiaphas said, after the formalities had been observed at a length noticeably shorter than any previous audience Claudia had witnessed between them. "The treasury's overseers report the work sound, the accounting clean, exactly as we agreed it would be kept. I have come to tell you so myself, Prefect, rather than send the report by a lesser hand, because I thought the courtesy owed to a partnership that has, on the whole, served this city well."
+"The aqueduct carries water," Caiaphas said. "Our overseers accept the construction total. Three household payments in your parallel account remain unnamed."
 
-"I am glad to hear it received so plainly," Pontius said, and Claudia, watching from above, heard in his voice the same flat register he used for every exchange he had not yet decided how to read.
+"The names were withheld by consent," Claudia said.
 
-She studied Caiaphas himself as he spoke, the same unhurried figure she remembered Pontius describing after that first meeting in the Temple chamber years before, a man who calculated rather than believed, and found she could locate no single outward change in him to account for the different weight his words now carried in this hall. His robes were the same. His voice held the same measured register. It was, she understood, watching him, the room around him that had changed rather than the man, the way a stone does not alter when the water that once pressed against it recedes, and yet sits, afterward, exposed in a manner it had never had to be exposed before.
+"Then the Temple account cannot certify them."
 
-"Plainly is how I intend everything I say to you from this season forward, Prefect." Caiaphas said it without emphasis, in the same unhurried cadence he had used on every previous visit, and it was precisely the absence of any new weight in his tone that made the words land as heavily as they did. "We have both, I think, learned something this year about how quickly the ground a man stands on can shift beneath him, however solid it appeared the season before. I do not say this to wound you. I say it because a partnership conducted honestly is more durable than one conducted on the old terms, where one party mistook the other's patience for weakness and the other mistook a patron's favor for permanence. I would rather we understood each other now, plainly, than continue pretending an arrangement that neither of us, I think, still quite believes in."
+"Certify the provincial and Temple totals. Mark those three as household relief outside the sacred treasury."
 
-Pontius did not answer for a long moment, and Claudia, watching the line of his shoulders from the gallery, understood that he was doing the thing she had watched him do across every crisis of his four years in this province: running the exchange through the part of his mind that searched, first and always, for the flaw in an opponent's position before conceding anything to it. He found, this time, apparently, nothing to concede against.
+Caiaphas asked whether the recipients could later allege that Temple money had been withheld from them.
 
-"Then let us understand each other plainly," he said. "What do you want, that you did not already have the standing to ask for before today."
+"The payment came from my allowance," Claudia said. "Marcus can show the source without showing the names."
 
-"Nothing today, Prefect. I have told you the aqueduct is finished and the accounts are clean, and that is the whole of my business this morning." Caiaphas rose, the audience concluding itself with the same unhurried economy it had opened with. "I only wished you to hear it from me directly, so that whatever else this season asks of either of us, you would know the priesthood has kept faith with an agreement made honestly, even in a year when good faith has become, I understand, a scarcer currency than it once was in Rome."
+Marcus produced the separated account. Caiaphas's clerk confirmed the sums had never entered the Temple ledger. The three entries remained outside the joint certification and kept their seals.
+
+Caiaphas accepted the distinction. "A divided record can protect people. It can also protect a governor."
+
+The sentence named no threat. It reminded Pontius that the priesthood possessed the joint agreement, casualty disputes, and evidence of his post-Sejanus corrections.
+
+"The governor's record is available to the legate," Pontius said.
+
+"As ours is available to those entitled to ask us."
+
+Caiaphas did not name Rome, accusation, or price. He certified the clean construction total while preserving every disagreement that might matter later.
+
+Annas had sent no aide. A separate note from his household requested a copy of the completed maintenance agreement for family elders who advised on Temple property. Caiaphas held the office; Annas exercised influence through kin and memory. Claudia marked the channels separately.
 
 ## Small Concessions
 
-The change showed itself less in what was said in any single audience than in the accumulation of smaller decisions Claudia watched her husband make over the following weeks, decisions that would not, individually, have struck anyone unfamiliar with his previous habits as remarkable, but which she recognized, one by one, as departures from a pattern four years old.
+The next decisions showed how Pontius read the visit.
 
-A dispute reached him in early winter between a Roman tax farmer and a guild of Jerusalem wool merchants over an assessment the merchants claimed had been calculated on the previous year's figures rather than the current, harder season's, and Pontius, who eighteen months earlier had told her plainly that a governor who adjusted every assessment a petitioner disliked taught the whole province that petitioning worked better than paying, ruled for the merchants without requiring the extended argument such disputes had always required of him before. A minor case of ritual purity touching the Antonia garrison's use of a cistern the priesthood considered defiled by Roman soldiers washing their gear in it, a complaint he would once have dismissed within the hour as a matter beneath a governor's attention, he instead referred to a joint commission of Roman and Temple overseers, a compromise structure he had never once, in four years, agreed to share authority through.
+A guild of Jerusalem wool merchants challenged an assessment calculated from the previous year's trade. The tax farmer claimed the petition understated current inventories. Pontius ordered a new count and suspended collection for ten days.
 
-"You would not have ruled that way a year ago," Claudia said to him, the evening the wool merchants' decision reached the household, choosing the observation over any softer approach because she had learned, across their marriage, that he answered directness more honestly than he answered a question dressed as concern.
+The count supported part of the merchants' claim. Pontius reduced the assessment and required the guild to acknowledge the revised sum. The order corrected an error and closed a complaint route.
 
-"A year ago I could afford to be measured by a standard of consistency alone. I am measured now by a different standard, whether I acknowledge it aloud or not." He did not look up from the dispatch he was reading, though she noticed his hand had gone still over it. "Every decision I make this season will be read in Rome, if it is read at all, for evidence of whether I govern a stable province or a resentful one, and a governor whose province writes complaints to Rome is a governor Rome remembers for the wrong reasons at exactly the moment I most need to be remembered for the right ones."
+"You would once have collected first," Claudia said.
 
-"That is not the reasoning of a man ruling on the merits of a wool assessment. That is the reasoning of a man managing his own survival."
+"The petition named the Syrian customs office among its intended recipients."
 
-"I did not say it was not." He set the dispatch down and looked at her directly for the first time since she had entered the room, and she saw in his face something she had not seen there before, not in the standards crisis, not even in the colonnade's aftermath: a plain, unguarded acknowledgment of what he was doing, offered without the defense he usually mounted before she had even finished the accusation. "I have spent four years telling myself I governed by measurement, evenly applied, because a fixed standard did not require me to ask, each time, what a decision cost me personally. I no longer have that luxury, Claudia. Every ruling I make now is also, whether I wish it to be or not, a calculation about what keeps this province quiet enough that no one in it ever has occasion to write my name to Rome in a complaint that reaches a desk already primed, after this year, to read complaints about men who once stood too close to a dead man's favor."
+"The figures also favored them."
+
+"Both facts can matter."
+
+Pontius had become more willing to grant a limited remedy and more interested in obtaining proof that the remedy had been accepted. Claudia could influence outcomes through that fear. She could also lose access the moment her advice seemed likely to create complaint instead of preventing it.
+
+A second dispute concerned a cistern used by the Antonia garrison. Temple officers said soldiers had washed equipment in water used by nearby households under purity rules. The Roman commander denied that the cistern served any sacred function.
+
+Pontius created a six-member commission, divided between Roman and Temple appointees, and sent Claudia as an observer with no vote. Her objective was to discover what each side could establish before Pontius received two polished summaries.
 
 ## The Cistern Commission
 
-She attended the first sitting of the joint commission herself, at Pontius's own suggestion, an invitation that surprised her until she understood, watching him extend it, that he wanted a second pair of eyes in the room he trusted to report back to him plainly what his own presence might color or obscure. The commission met in a plain chamber near the Antonia, three Roman overseers and three of the priesthood's own appointees seated at a single table Pontius had ordered built without a head, a small architectural concession Claudia recognized, once she saw it, as another of the small departures she had begun cataloguing without meaning to.
+The commission met near the Antonia. A younger priest named Eleazar produced maintenance tablets showing household contributions to the cistern. The Roman overseer produced a garrison plan marking it as a reserve water point.
 
-The Temple's senior appointee, a younger priest named Eleazar whom Claudia had not met before, conducted himself through the session with a confidence that struck her as belonging to a different order than mere competence. He corrected the Roman overseers twice on points of procedure, both times accurately, both times in a tone that assumed correction rather than requested it, and when one of the Romans pushed back on a proposed division of the cistern's future maintenance costs, Eleazar answered him with an ease that carried, beneath its surface courtesy, something close to amusement.
+Both records could be genuine. The disagreement concerned use, not ownership alone.
 
-"The Prefect himself agreed to this commission's structure," Eleazar said, when the Roman pressed a third time. "I am certain he did not intend for his own overseers to unmake, in a single afternoon, an arrangement he thought worth the trouble of establishing. Shall we send to ask him directly, or shall we trust that he meant what his own commission's charter says?"
+Eleazar proposed reserving the cistern for households and assigning the garrison another source. The Roman overseer rejected any Temple limit on military water.
 
-The Roman overseer had no answer for that beyond a stiff concession, and Claudia, watching from her seat at the table's foot, understood that Eleazar had not raised the Prefect's name as a courtesy. He had raised it as a small demonstration, offered casually enough that no one in the room could object to it directly, that even the Prefect's own authority was now something the priesthood felt entitled to invoke in its own favor rather than merely defer to. She reported the exchange to Pontius that evening in full, watching his face for some sign of the anger such a demonstration might once have provoked in him, and found instead only the same weary, calculating stillness she had come to recognize as his current answer to nearly everything.
+"The prefect agreed to a joint finding," Eleazar said. "A Roman refusal to consider ours can be entered as the commission's result."
 
-"He is not wrong," Pontius said. "I did agree to the charter. I would rather a young priest use my own agreements against me in a chamber over a cistern than have his elders use anything larger against me in a letter to Rome. It costs me almost nothing to let him have that small satisfaction. I have learned, this year, to notice the difference between what costs me nothing and what costs me everything, and to spend my objections only where the difference is not so plain."
+He invoked the charter rather than threatening complaint. The Roman heard the route behind the words.
 
-## What She Saw in Him
+Claudia asked who had seen soldiers wash equipment. The household tablets proved payments but no recent use. A gate porter named two women who had protested. The garrison duty log placed a washing detail in the lane on the same morning.
 
-She understood, hearing him say it so plainly, that something in her husband had crossed a threshold she could not yet fully name, and that the crossing frightened her considerably more than his earlier certainty ever had, because a man convinced of his own arithmetic could at least be argued with on the arithmetic's own terms. A man ruling from fear reasoned by a logic that had no fixed terms at all, only the shifting question of what any given moment's silence might cost him if it went the wrong way, and Claudia found herself, watching him return to the dispatch with the same care he gave every document that crossed his desk, unable to shake the sense that she had just watched the last of the man from the garden in Rome, the one who had admitted, on their first meeting, to being afraid of Rome forgetting him, finally arrive at the full weight of what that fear had always been preparing him to become.
+One woman agreed to speak through Tamar and said she had seen leather shields rinsed beside the opening. She could not see whether runoff entered the cistern. The other refused contact with the prefect's household.
 
-She thought of Caiaphas's audience in the hall below the gallery, the unhurried economy of a man who no longer needed to press an advantage because the advantage now pressed itself, and understood that the priesthood had not threatened her husband with anything so crude as a direct accusation. They had done something considerably more effective. They had simply let him understand, in the plainest terms either office knew, that he now governed at their sufferance in a way he had not four years before, that a word carried quietly to the right ear in Rome, a complaint about a governor's harshness or his mismanagement of sacred funds or his season of binding an entire province's oath to a dead traitor's name, would find a far more receptive audience now than it would have found under Sejanus's protection, and that they had chosen, for their own reasons, not to send that word. Not yet. The not yet did the whole of the work. It did not need to be spoken aloud to be understood as the only currency that mattered between them now, and Claudia understood, watching her husband govern through that unspoken understanding week after week, that she was watching a man who had once believed himself no friend to any faction, evenly balanced above every grievance in the province, discover that a governor with no friend left in Caesar's own house was, in the end, no true friend to anyone in this one either, only a man managing everyone's patience at once, hers included, for as long as the managing could be made to hold.
+Claudia reported the limit. Eleazar wanted her to enter the woman's statement as proof of contamination. She refused. The Roman wanted it omitted because she had not seen water enter. Claudia refused that too.
+
+The commission found that soldiers had used the site for washing and that entry into the cistern remained unproved. Pontius ordered the garrison to use another washing place and left ownership unresolved. The Temple officers received a practical protection without a Roman admission about purity.
+
+Eleazar requested a copy bearing Pontius's seal.
+
+"The commission already has its record," Claudia said.
+
+"A copy from the prefect prevents later misunderstanding."
+
+It also gave the priesthood a Roman document proving that complaint had changed military practice. Pontius supplied the copy because denying it would make the concession appear secret.
+
+## Four Routes
+
+On returning to Caesarea, Claudia asked Marcus to place four blank tablets beside the next week's incoming papers. They labeled them Roman, Temple, Herodian, and household.
+
+The first matter was a Galilean teacher whose followers were said to have crossed through villages south of the lake. A Roman gate note called the group itinerant hearers and recorded no weapons. A Temple messenger described disputed teaching and crowds. A trader from Antipas's territory said local officials watched the movement without arrest. Tamar had heard of healings, arguments over Sabbath conduct, and families feeding travelers.
+
+The reports did not agree on the man's home, following, or danger. Two might derive from the same market story.
+
+Claudia did not yet open a separate inquiry into the teacher. She used the report to test the categories and decide whether Pontius needed the disagreement at once.
+
+Marcus entered source, place, date received, claimed witness, and likely route. Temple statements from Caiaphas's office remained distinct from family inquiries associated with Annas. Herodian court notices remained distinct from Galilean market talk. Tamar's account identified the household relationship behind each claim when she knew it and marked uncertainty when she did not.
+
+Philotas objected when he saw the tablets.
+
+"You are building a second provincial archive."
+
+"A comparison before Pontius receives one finished account."
+
+"The governor decides what becomes provincial business."
+
+"He will."
+
+Philotas warned that unsanctioned collection could look like distrust of Roman officers or the high priest. Claudia asked Pontius for explicit permission to compare incoming household and diplomatic reports before advising him.
+
+He wanted access to every tablet and authority to name any source if security required it.
+
+"Then Tamar's channel closes," Claudia said. "People who speak about wages, illness, or travelers will assume every name reaches soldiers."
+
+"And if a report concerns weapons?"
+
+"The claim and its route go to you. A protected name stays protected until the danger can be tested, unless a specific life depends on disclosure."
+
+Pontius rejected her first wording as too broad. They agreed on narrower rules:
+
+- Roman orders and credible reports of weapons, blocked roads, planned violence, or threats to named persons went to Pontius at once.
+- Temple, Herodian, and household accounts could be compared without source names when names were unnecessary to test the claim.
+- Claudia would keep no military order or formal accusation from him.
+- Marcus would record who authorized each seal and when it could be opened.
+- Relief would remain separate from testimony.
+
+Pontius allowed the practice for one season. He could end it whenever he judged that Claudia had delayed a material warning.
+
+"Why do you need four routes now?" he asked.
+
+"Because Caiaphas can give you a true account shaped for his office. So can Antipas. So can a centurion. So can this household."
+
+"And you will give me an unshaped one?"
+
+"I will give you the disagreements before fear chooses among them."
+
+He heard the reference to John and Sejanus. "Quickly."
+
+Speed remained his condition. Claudia's safeguard was comparison before classification, not endless delay.
+
+## The First Comparison
+
+Marcus traced the Temple messenger's report to a synagogue elder who had questioned a traveler from Capernaum. Tamar traced the healing account to a fish seller whose brother had heard the same traveler at a lodging house. Two apparently independent routes converged on one unnamed speaker.
+
+The Roman gate note came from an officer who had counted eleven people crossing in pairs over an afternoon. His clerk had joined them into one group because they answered with the same teacher's name. The report's phrase *following of eleven* described the clerk's classification, not a procession the officer had seen.
+
+The trader from Antipas's territory had passed the crossing two days later. He saw no group and had heard that local officials were watching several villages. He did not know whether the officials watched the teacher, tax resistance, or ordinary festival travel.
+
+The four channels therefore established only that talk about a Galilean teacher had crossed into Judaea, some travelers identified themselves with him, and at least one Temple-linked source considered the teaching worth reporting. They did not establish an organized band, weapons, a march, or a fixed number of followers.
+
+Claudia brought that result to Pontius before the evening dispatch closed.
+
+"The gate report says eleven," he said.
+
+"The officer counted eleven crossings. The clerk made them one following."
+
+"Did they deny following the same man?"
+
+"They were asked his name. We do not know what they meant by giving it."
+
+Pontius wanted the gate officer questioned again. Rufus objected that recalling every minor report would teach officers to omit uncertain detail.
+
+Claudia proposed five questions for the next routine return: Did the travelers arrive together? Did they carry common provisions? Did one direct the others? Did they obstruct inspection? Did any claim a destination?
+
+The officer's answer arrived three days later. The travelers had not arrived together, carried no common stores, named different destinations, and obeyed inspection. One older man appeared to advise two younger companions. The officer had observed no leader of all eleven.
+
+Pontius changed the entry from *organized following* to *related travelers, purpose unresolved*. He ordered no detention and asked for another report only if weapons, coordinated movement, obstruction, or calls against Roman authority appeared.
+
+Claudia had changed his information before classification became an order. She had not established that the teacher was harmless.
+
+Philotas required every request to Roman officers to pass through his desk after that. He said household comparison could clarify reports but could not become a parallel chain of command. Claudia accepted the boundary. The price was that Philotas now saw which gaps attracted her attention.
+
+Marcus faced a different cost. The Roman clerk whose summary he had separated from the officer's observation accused him of questioning a free official's competence.
+
+"I copied both statements," Marcus said. "The difference was already in them."
+
+The clerk could punish insolence even when the comparison was accurate. Claudia assumed responsibility for the questions and moved Marcus from the outer record room for six days. His protection depended on her ownership and advertised that dependence to every clerk present.
+
+When Marcus returned, he kept the Roman officer's words, the clerk's classification, and Claudia's correction on separate lines. A clean final summary would have hidden the conflict that produced the restraint.
+
+## The Report She Nearly Delayed
+
+A household report soon tested Pontius's condition. Tamar heard that several men near Jericho were buying rope, oil, and dried grain for people traveling north. The speaker believed they were supplying the Galilean teacher's followers. He had seen the purchases but learned their intended use from a cousin.
+
+The quantities could provision a household, a caravan, or a gathering. No one reported weapons or blocked roads. Claudia intended to wait for Tamar to question the buyer.
+
+Marcus found a Roman patrol schedule showing that one buyer had previously supplied toll guards. If the purchase was ordinary garrison business, carrying the rumor to Pontius would attach suspicion to a contractor. If it served an organized movement, delay might violate their agreement.
+
+Claudia told Pontius before the buyer was questioned. She separated observation from hearsay and named no household source.
+
+Pontius ordered Rufus to check military purchase records without seizing goods or questioning the market publicly. The records accounted for most of the rope and oil but none of the dried grain.
+
+Tamar returned with the buyer's consent to carry his answer. The grain had gone to relatives traveling for a wedding. He produced a household tally and named the village. Claudia could verify neither the wedding nor every sack.
+
+Pontius closed the security inquiry and preserved the unresolved family claim in the household column. No raid, arrest, or warning followed.
+
+"You brought me a rumor and asked me to do nothing visible," he said.
+
+"I brought you the limit before waiting made it look concealed."
+
+"And if Rufus had found no military purchase?"
+
+"We would still have needed a second fact before taking the market apart."
+
+Pontius accepted that for this case. His fear of delayed warning remained. Claudia's comparison practice survived because it had reached him early and prevented a public mistake.
+
+## The Price of Good Faith
+
+Caiaphas's clerk returned the certified aqueduct account with one marginal note: the household relief entries were outside Temple certification by Claudia's request. The note protected the sacred treasury and placed responsibility for the unnamed payments on her.
+
+Annas's household sent back the maintenance copy with questions about older ownership customs. Claudia answered through the liaison and copied Caiaphas's office so the former high priest's family could not be mistaken for the current office.
+
+Antipas's secretary acknowledged the grazing survey and declined to share new reports about displaced followers of John. The Herodian route had narrowed after Claudia's inquiries at Tiberias.
+
+The Roman route supplied a list of gatherings expected near the next festival. It gave numbers without sources. Claudia asked Marcus to flag every total that could not be traced to a gate count, officer, civic report, or repeated estimate.
+
+The household route produced refusals as often as reports. Tamar would ask relatives and market contacts only what they were willing to have carried into the prefect's house. She would not interpret silence as safety.
+
+Each channel had a cost. Temple access increased institutional leverage. Herodian access exposed jurisdictional rivalry. Roman access carried command assumptions. Household access placed free families and enslaved staff near a governor's attention.
+
+Claudia could preserve influence with Pontius only by giving him useful distinctions before another account hardened. If she failed, he would choose speed and complaint prevention without her.
+
+She sealed the four test tablets and dated the permission. The Galilean report remained unresolved and below the threshold for immediate military action. It would be the first matter tested when the comparison practice formally began.
+
+The next crisis would reach Pontius through several hands. Claudia had committed herself to making the differences visible before any one hand became the whole story.

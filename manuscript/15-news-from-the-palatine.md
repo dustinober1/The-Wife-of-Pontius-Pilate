@@ -2,50 +2,192 @@
 
 ## The Joint Consulship
 
-The dispatch reached Caesarea in the same packet as the quarter's ordinary correspondence, wedged between a tax return from the Decapolis and a query from the quartermaster at Machaerus about grain allocations that properly belonged to Antipas's own administration and not to his, and Pontius nearly read it in the order the courier had bundled it, which would have buried the most consequential item of the year beneath two pieces of business he could have settled blindfolded. He caught the Senate's seal only because Rufus, sorting the pouch at his elbow, set it aside with the particular care of a man who had learned which documents wanted a clear desk and an unhurried hour.
+The dispatch reached Caesarea among the quarter's ordinary correspondence, between a Decapolis tax return and a misdirected grain query from Machaerus. Rufus set it apart because the outer seal belonged to the Syrian legate's office and the enclosed digest concerned the Senate.
 
-He gave it that hour. The Senate had voted Sejanus the consulship for the coming year, joint with the Emperor himself, an honor Pontius understood well enough, even at this distance, to recognize as unprecedented for a man of the equestrian order who held no ancestral claim on the office at all: Tiberius sharing the fasces with his own Praetorian prefect, a plain announcement to the whole of Rome that the man who commanded the guard now stood, in every particular that mattered, as near the throne as a subject could stand without occupying it. The dispatch went on, in the flat enumerating style official Roman correspondence reserved for matters too large to editorialize about safely: statues of Sejanus to be raised in the theater of Pompey alongside the Emperor's own image, his birthday added to the public calendar of observances, provincial governors instructed to include his name in the oaths sworn at the new year alongside Tiberius's, a formality that had, within living memory, never been extended to any man who was not himself wearing the purple.
+The digest announced that Sejanus had entered the consulship with Tiberius. It also repeated reports of statues, public observances, and honors voted or proposed in Rome. The copy did not distinguish every enacted decree from the courtiers' competing displays of loyalty.
 
-The study had gone dim around him by the time he finished the third reading, the lamp burned low and the sea outside gone the flat gray it turned in the half hour before full dark, and he became aware, setting the dispatch down at last, that he had been sitting with it long past the length of time the document itself required to absorb. Four years in this province had trained him to weigh every piece of correspondence for what it cost him to answer, and this one, he understood, cost him nothing at all. It asked nothing of him. It simply confirmed, in the Senate's own hand, an arrangement he had spent four years quietly betting his career on without ever once allowing himself to say the bet aloud, even to Claudia, even to himself in the private ledger he kept of his own ambitions.
+One attached instruction required provincial officials to acknowledge the consular names in the new year's forms. It did not prescribe the wording of every local oath. Pontius read the latitude as permission to make Judaea's loyalty conspicuous.
 
-Pontius set the dispatch down and sat a long moment with his hand flat against the desk, feeling something settle in him that he recognized, examining it honestly, as relief wearing the clothes of satisfaction. He had built his career on borrowed favor since the day Sejanus first noticed him standing correctly at attention in a review no more remarkable than a hundred others, had ridden that favor across an ocean to a province half the Senate considered beneath a man of real ambition, and had spent three years since privately calculating, in the part of his mind that never stopped calculating, how far a patron's fortunes could rise before they became, for the client attached to them, indistinguishable from his own. He had his answer now, written in the Senate's own careful hand. A man who shared the consulship with an Emperor did not lose interest in the men he had placed in provinces. He gained, if anything, the means to remember them more generously.
+He read the digest three times. Four years in Judaea had trained him to weigh every document for what an answer might cost. This one seemed to offer profit without demand. It confirmed the rise of the man Pontius believed had advanced his name, though no appointment letter in his possession said Sejanus had personally secured Judaea for him.
 
-"Rufus," he said, "have the town clerk prepare the new year's oath with Sejanus's name included, exactly as the dispatch instructs. I want no province in the empire slower to honor him than this one."
+He felt relief before satisfaction. He had acted for years on the belief that Sejanus's notice stood behind his appointment. The consulship made that belief appear safer.
+
+"Rufus," he said, "have the town clerk prepare the new year's forms. Include Sejanus with the consular honors and send me the wording before it is copied."
 
 Rufus, who had served long enough under enough patrons of his own to know which enthusiasms were worth matching and which were worth simply executing without comment, saluted and went, and Pontius sat alone afterward with the dispatch, reading the enumerated honors a second time more slowly than the first, already composing, in the part of his mind that had never stopped composing it since the red seal in the garden in Rome, the letter he intended to send north on the next ship.
 
 ## The New Coinage
 
-He approved the new bronze that same week, a small administrative matter that would ordinarily have occupied no more of his attention than the grain query he had set aside unread, but which he found himself giving a confidence he had not quite possessed a month before. The mint at Caesarea had proposed a design bearing the lituus and the simpulum, the curved augur's staff and the sacrificial ladle, standard Roman religious implements that had appeared on provincial coinage from Gaul to Syria without occasioning comment anywhere Pontius had ever served.
+He approved another issue of bronze that season. The mint continued the lituus and simpulum types, Roman religious implements already used under his authority. The decision had no documented connection to Sejanus. Pontius connected them in his own mind because the news from Rome made resistance in Judaea feel smaller.
 
-"The priesthood will object," Philotas said, laying the die samples across the desk with the same careful neutrality he had used, years before, to warn a new prefect that Gratus had risen later than the second hour. "Any image touching on cultic implements, however Roman the context, reads to them as another idol in circulation through their own markets."
+"The priesthood may object," Philotas said, laying the die samples across the desk. "The devices can be read as Roman cult in their markets."
 
-"The priesthood objects to the weather when it does not suit them," Pontius said, turning one of the samples over in his hand, the small bronze disc still warm from the die. "I did not put a face on it. No emperor, no god, nothing a devout man could mistake for an image commanding worship. A staff and a ladle are administrative tools, Philotas, no different in principle than a surveyor's rod or a scribe's stylus. If they choose to see idolatry in the furniture of Roman religious practice, that is a narrowness of reading I am not obligated to indulge."
+"There is no face on it," Pontius said. "No emperor or god."
 
 "No, Prefect. But you may be obligated to answer for it, when the objection reaches whatever ears in Jerusalem the objection is aimed at."
 
 Pontius set the coin down and looked at him with the particular patience he reserved for a subordinate who had said something worth hearing but had said it in a register too cautious for the moment. "Let them object. I have spent three years absorbing every objection this province has thought to raise against me and have lost, in that time, exactly one argument, over a set of standards that I withdrew as a courtesy I did not owe them and have not been thanked for since. I do not intend to spend the fourth year of my administration asking permission for the design on my own province's coinage. Mint it as proposed."
 
-He did not think of the exchange again that week, or the week after, absorbed instead in the aqueduct's steady progress, the channel now a third complete and running ahead of the schedule his own engineers had first proposed to Caiaphas, a fact he found more satisfying than nearly anything else the province had given him to be satisfied about since his arrival. A treasury spent well, a channel rising through the hills exactly where the surveys had promised it would rise, a patron ascending toward the consulship in Rome: it was, taken together, the clearest evidence he had yet had that a province governed by measurement, patiently and consistently applied, eventually yielded to the measurement, whatever noise it made in the meantime.
+He ordered the type continued and required objections to be copied into the provincial correspondence rather than suppressed. He expected the record to show that he had heard opposition and chosen a lawful Roman design. Philotas warned that the same record could show Rome exactly when Pontius chose confrontation.
+
+The first objection came through the limited liaison with the high priest's household. It did not accuse Pontius of idolatry. The paper stated that some money changers near the Temple refused the newest pieces and asked whether older bronze could remain acceptable for dues.
+
+Pontius summoned the mint officer and the Caesarea treasurer. Both insisted that refusing current bronze undermined provincial currency. Neither could tell him how widely the refusal had spread.
+
+"Three money changers," Philotas said after comparing the liaison note with a gate report. "Perhaps five. The officer's phrase is *reported among the tables*. He gives no count."
+
+The treasurer proposed requiring the new coins at every Roman toll. The order would prove their validity by forcing use.
+
+Pontius recognized the method. It resembled the standards carried by night: complete the administrative act, then treat objection as belated. This time he wanted the dispute contained before it acquired a crowd.
+
+He kept both issues acceptable for Roman dues and ordered the mint to continue the new type. The compromise protected the design without making every toll station a place of refusal. He sent the decision to Caiaphas through the liaison and to Syria in the ordinary quarterly account.
+
+No reply from the high priest praised the restraint. The next Temple payment arrived partly in older bronze.
+
+Pontius could classify that as compliance, warning, or habit. He entered only the amount and mixture. His new confidence did not remove the need to govern people who could answer an order without explaining what their answer meant.
 
 ## The Oath
 
-He held the new year's oath-taking in the forum at Caesarea, as custom and the Senate's own instruction required, the town's magistrates and garrison officers assembled before a dais draped in the same plain banners the standards crisis had left the province with, and read out, in his own carrying voice, the formula that bound every man present to the Emperor's name and, this year for the first time, to Sejanus's alongside it. He watched the crowd as he read it, a habit he had kept since the stadium three years before, and found the reaction, on the whole, exactly as unremarkable as he had expected: soldiers who swore what they were told to swear without troubling themselves over the theology of it, merchants and freedmen who understood an oath as a formality attached to the smooth continuation of trade, a scattering of Jewish officials near the forum's edge who observed the ceremony with a stillness Pontius read, in the moment, as simple deference to a Roman occasion that was not, strictly, theirs to participate in.
+He held the new year's ceremony in the forum at Caesarea. Magistrates and garrison officers stood before a plain dais. The surviving sources Claudia and Pontius possessed did not establish a single empire-wide oath formula honoring Sejanus, so the words used in Caesarea were the town clerk's expansion of the consular instruction, approved by Pontius.
+
+The formula bound the Roman officials first to Tiberius and named Sejanus as the Emperor's colleague in the consulship. Pontius ordered the officers to answer aloud. Merchants and freedmen followed the civic form. Jewish officials watched from the forum's edge and were not required to swear.
+
+Pontius watched them, a habit kept from the stadium. Their stillness revealed no private judgment.
 
 He mentioned the stillness to Philotas afterward, more out of habit than genuine curiosity, a man cataloguing a detail because cataloguing detail was the discipline that had kept him alive through every posting before this one. "They watched the whole of it and swore nothing themselves. I did not expect they would. I only wonder what they make of it."
 
-"They will make careful use of it, Prefect, whatever they make of it privately." Philotas said it without particular alarm, the observation of a man who had spent decades reading this province's silences for a living. "A Roman governor who binds his province's oaths to a name that is not the Emperor's gives his critics a new thread to pull, should that name ever come loose from the honors currently attached to it. I do not say it will. I say only that men who have survived by patience as long as this priesthood has learned, long before you or I arrived here, to keep every thread in reach, in case some future day makes it worth the pulling."
+"They will preserve the wording," Philotas said. "So will the town clerk. You have made your reading of the instruction public."
 
-Pontius considered this the way he considered any observation from a man whose caution had occasionally proven sounder than his own confidence, and found, turning it over, that he could not locate in it anything more than the ordinary suspicion Philotas extended to every arrangement not of his own devising. "Sejanus shares the Emperor's own fasces, Philotas. There is no thread there to pull. There is only a rope, and Rome has tied itself to the same rope I have."
+Pontius considered the warning. "Sejanus shares the consulship with Tiberius. Caution now would look like refusal."
 
-"As you say, Prefect." Philotas bowed and withdrew, and Pontius did not think of the exchange again for some months, though he would recall it later, in the particular way a man recalls an offhand remark only once it has stopped being offhand, with a clarity that felt, in retrospect, considerably sharper than anything he had actually registered at the time.
+"The required form would have been caution enough."
+
+Pontius ordered three certified copies: one for Caesarea, one for the Syrian legate, and one to accompany his letter north. The choice converted a local ceremony into a trail across jurisdictions.
+
+The Syrian legate's secretary returned the provincial copy with no praise and no correction. A covering line acknowledged receipt of Judaea's new-year observances. Pontius read the absence of rebuke as acceptance.
+
+Philotas did not.
+
+"A clerk confirmed that paper arrived."
+
+"If the form offended the legate, he could say so."
+
+"He could also preserve it until someone asks what you did."
+
+Pontius sent a second note citing the consular instruction and explaining that Jewish officials had been exempted. The explanation supplied a defense before any accusation existed. It also drew attention to the local expansion the first covering letter had ignored.
+
+Rufus advised him to stop writing.
+
+"The ceremony is complete," the officer said. "Every further account makes it appear disputed."
+
+Pontius sealed no third note. He disliked leaving interpretation to a Syrian clerk, yet he saw the danger of manufacturing the question through repeated answers.
+
+## The Favor Already Spent
+
+The same month brought the final aqueduct construction totals. The channel had exceeded the first estimate and remained within the revised sum Pontius and the Temple overseers had approved after the retaining-wall failure. Water had reached two distribution basins. The remaining dispute concerned maintenance and several wage claims.
+
+Pontius prepared a summary for Rome. He described a completed public work, a jointly examined account, injuries compensated from a contractor's bond, and unrest ended. He did not claim that the sacred treasury payment had been freely welcomed. He stated that Temple overseers had participated under an agreement.
+
+Claudia read the draft at his request.
+
+"You have omitted the men killed in the colonnade."
+
+"The violence was reported when it occurred."
+
+"You call the unrest ended. That makes the ending part of this success."
+
+"It is part of the success."
+
+"Then the cost belongs beside it."
+
+Pontius had already sent casualty estimates to Syria, each qualified by source. Repeating them in a career letter would attach deaths to the aqueduct at the moment he asked Rome to value the result.
+
+"Sejanus praised the restoration of order," he said.
+
+"A letter under his seal praised your report. You do not know how much he read or ordered."
+
+Her distinction had become familiar and remained irritating. Pontius revised the sentence: *The work survived disturbance previously reported, with losses recorded separately through military, civic, and household channels.* The phrase admitted competing accounts without choosing the household total.
+
+Claudia accepted the wording as accurate. She did not call it complete.
+
+"You think I should ask for nothing."
+
+"I think the favor you believe he spent on your appointment has become part of every choice you make."
+
+"Belief?"
+
+"You have no letter saying he placed you here."
+
+Pontius possessed remembered attention, intermediaries who invoked Sejanus's name, and the appointment itself. In Rome that had been enough to build a career. In Judaea it was not enough for Claudia to mark a fact as proved.
+
+"If I wait for proof of every patron's hand, another man takes the place while I am still comparing seals."
+
+"Then call it a wager."
+
+He did. In the private copy of his letter, beside the request for duties closer to Rome, Pontius wrote one word: *wagered*. He meant it as an acknowledgment of risk, not doubt.
 
 ## What He Wrote North
 
-He drafted the letter to Sejanus on a evening when the study window stood open to the sea air and the household had gone quiet around him, choosing his words with the same deliberate economy he brought to every dispatch that mattered, aware that a letter addressed to a man who now shared the fasces with an Emperor would be read, if it was read at all, in the spare minutes of a life that had grown considerably more crowded than the life that had first secured him the Judaea commission.
+He drafted the letter to Sejanus with the study window open to the sea. The letter would probably be screened by secretaries. He wanted every reader to see gratitude, results, and a request for advancement.
 
 *I write to offer my congratulations on an honor Rome has rarely extended to any man not born to expect it, and to say plainly what I would not trouble a busier correspondent to read if I did not believe it worth his attention: the province continues as you left it in my hands, tested this year by matters I have reported in full and resolved, I believe, as thoroughly as the circumstances allowed. The aqueduct approaches completion ahead of its schedule. The treasury accounts stand open to any scrutiny Rome cares to apply to them. I do not ask for anything beyond what you have already given me, except to say that a man who has governed four years in a province few consider worth the governing would count himself fortunate to be remembered, when the time comes for Rome to consider which of its servants have earned a return to duties closer to the center of things.*
 
-He read the letter twice before sealing it, testing the last sentence for the particular tone he wanted it to carry, ambition folded carefully enough into gratitude that no reader could mistake the one for an imposition on the other, and found, sealing it, that he felt something close to the satisfaction he had felt reading the Senate's dispatch a week before: the sense of a man whose calculations had, for once, arranged themselves into a shape he could trust without reservation.
+He read the letter twice before sealing it. The last sentence made his ambition unmistakable without demanding an answer.
 
-The courier who came to collect the outgoing post that night mentioned, almost as an afterthought while Marcus counted the sealed pouches against his tally, that ships out of Ostia had run later than usual that season, delayed by weather the sailors blamed and by something else, unspecified, that the harbor masters at Puteoli were said to be less willing to discuss than the weather alone accounted for. Pontius asked no further question. A delayed ship was a delayed ship, the kind of ordinary friction that attended every crossing between Rome and its provinces, and he had learned, across four years of governing at the edge of an empire that ran, ultimately, on the reliability of ships and roads and men who kept their word, not to read significance into every small irregularity that reached him secondhand through a courier more interested in his supper than in the politics of a capital he would never see. He sealed the pouch himself, set it in Marcus's hands, and returned to the study window to watch the last of the light go off the water, entirely satisfied, on the evening he sent that letter north, that he had never in his career stood on ground more solid than the ground Sejanus's rising fortune had built beneath him.
+Marcus entered the packet in the outgoing register. The clerk asked whether to describe it as routine provincial correspondence or personal address to the consul.
+
+"Both," Pontius said.
+
+Two classifications increased the chance that the letter reached Sejanus's household. They also ensured that a copy of its route remained in Caesarea.
+
+Philotas asked whether Pontius wanted a draft retained.
+
+"A governor does not send a career request without keeping the exact words."
+
+The copy went under Pontius's seal beside the Syrian dispatch and the oath form. He had made favor legible at every stage.
+
+Before the packet closed, a second Roman digest reached Caesarea by the coastal road. It reported further honors proposed for Sejanus and a public appearance with members of Tiberius's family. The writer had copied rumor beside decree without distinguishing them. Another enclosure warned governors against treating court reports as final until the imperial chancery confirmed them.
+
+Pontius separated the confirmed consulship from the unverified honors. The caution did not alter his letter. Sejanus held office beside Tiberius; whatever statues or feast days proved temporary, that fact was enough.
+
+He added the aqueduct summary and a copy of the local oath. The packet now showed administration, loyalty, and ambition in Pontius's own words. Removing any one enclosure would make the request less persuasive. Keeping all three made retreat impossible if Rome's reading changed.
+
+The town clerk brought the outgoing register for Pontius's mark. Beside the packet he had written: *To the household of Lucius Aelius Sejanus, consul, concerning provincial service and future appointment.*
+
+"Future appointment is too plain," Pontius said.
+
+"It is what the packet concerns."
+
+"Call it provincial service."
+
+The clerk scraped away the final words. The erased surface remained visible. A later reader would know that the description had been changed even if the first wording could no longer be recovered.
+
+Pontius could order a fresh tablet. Doing so would require the clerk and Marcus to copy every outgoing item and would create two witnesses to his concern.
+
+"Leave it," he said.
+
+The packet required signatures at the harbor office and again aboard the courier vessel. Rufus offered a military rider to ensure it reached the ship before the weather turned.
+
+"A military escort makes a private request look like state business," Philotas said.
+
+"It contains state business."
+
+"And your advancement."
+
+Pontius denied the escort. The choice risked delay but kept soldiers out of the letter's route. Marcus sent a household runner with the pouch and the ordinary courier tally.
+
+Before dusk the harbor clerk returned a receipt. The ship planned to leave on the morning tide. A wind from the west might hold it for days.
+
+Pontius could still retrieve the packet. He read the receipt, then placed it with the retained copy. Waiting would make the letter safer only by making it late, and lateness was the habit of clients who wanted a patron's favor without sharing his risk.
+
+He wrote no recall order.
+
+The courier mentioned that westbound ships had run late. Sailors blamed weather; harbor gossip supplied other causes no one could identify.
+
+Pontius considered waiting for the next packet from Rome. Delay might bring clearer news, but it would make his congratulations arrive behind every cautious client who wanted proof before loyalty.
+
+"It leaves tonight," he said.
+
+Marcus counted the pouch into the register. Once the courier crossed the gate, recall would require a faster ship and knowledge of the route. Pontius possessed neither. He watched the packet carried toward the harbor, satisfied that he had acted while Sejanus's honors were still rising.
+
+By morning the vessel was gone. The harbor receipt, Syrian copy, local oath, retained draft, and altered register entry remained behind. Pontius had sought advancement through one letter and created five records of the attempt.

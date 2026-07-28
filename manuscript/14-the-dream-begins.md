@@ -2,30 +2,178 @@
 
 ## The First Night
 
-She woke before dawn with the sound still in her ears, a sharp cracking rift like stone splitting under sudden ice, though the night outside her window was thick with the ordinary heat of a Judaean summer and held nothing that could have made a sound like that, nowhere in the house, nowhere in the sleeping city beyond it.
+She woke before dawn with a cracking sound in her ears. The night outside held the ordinary heat of a Judaean summer. Nothing in the house had broken.
 
-The dream itself had already begun to come apart the way dreams did, in the particular way this one would not, later, but did that first night, fragments sliding out of reach even as she reached for them: a height she had been standing at, though she could not afterward have said whether it was a terrace or a hillside or something with no fixed shape at all. Pontius somewhere below her or ahead of her, moving toward an edge she understood, in the dream's own strange certainty, that no law he carried with him could protect him from crossing. And a presence, not a face, not even clearly a man, standing at the place where the edge was, still in a way that unsettled her more than any violence would have, a stillness that seemed to be waiting for something rather than for someone, and that turned, in the last instant before the cracking sound woke her, toward where she stood watching.
+The dream had already begun to come apart. She had stood at a height, though she could not say whether it was a terrace or hillside. Pontius moved below her toward an edge. Someone, or something with the shape of a person, waited there. She remembered no face, clothing, words, or act of violence. Just before the sound woke her, the figure turned.
 
-She lay in the dark afterward with her heart going harder than the dream's few images seemed to warrant, her linen sheet damp beneath her though the night had not been warmer than any other that week, and pressed her thumb against the seam of her palm the way she had done since childhood when she needed to feel something ordinary and solid before she trusted herself to move. Beside her Pontius slept on, undisturbed, his breathing slow and even, and she found herself watching the line of his shoulder in the dark with an attention that had nothing rational behind it, only the dream's residue insisting, however she tried to reason it back down, that she had just watched him walk toward something she had no name for and no power to call him back from.
+Her heart ran hard. She pressed her thumb against the seam of her palm, a habit from childhood when she needed something ordinary before she moved. Pontius slept beside her.
 
-She rose before the sun fully cleared the hills and went to stand at her own chamber window rather than lie any longer beside a sleep she could not share, watching the sky lighten by degrees over the courtyard below, the household's first stirrings beginning somewhere beneath her in the kitchen quarters, a bucket set down, a door unlatched, the ordinary machinery of a house waking into a day that had nothing to do with whatever her sleeping mind had just shown her. She found she could not stop returning to the stillness in the dream, the way it had waited rather than threatened, because a threat she understood and could have named as fear plainly. A waiting was harder to dismiss, precisely because it asked nothing of her and demanded nothing and simply stood at the edge of the dream watching Pontius approach it, as though the outcome were already settled and only the arriving remained to be lived through.
+She went to the window and listened as the household woke: a bucket set down, a kitchen door unlatched, sandals in the lower court. She tested the cracking sound against each noise. None matched.
 
-By the time the household stirred at first light she had already decided, turning it over alone in the gray hour before anyone else woke, that it was nothing worth troubling him with. A dream born of a hard season, she told herself, dressing in the lamplight while he still slept: the riot's dead not yet fully settled in her, John's head on its platter forty miles away and a year past but never, she suspected, going to be entirely past for either her or Simon, the accumulated weight of three years spent learning to watch this province absorb one grief after another and call the absorbing governance. A mind carrying that much would produce strange images in the dark. It required no other explanation, and she gave it none, and did not mention it to Pontius over the morning's bread and oil, watching him read his dispatches with the unbothered ease of a man who had slept a full and dreamless night beside her.
+At first light she wrote what remained before memory could improve it: height uncertain; Pontius below; an edge; a figure without a face; a sound like breaking stone. She added what the dream had not contained. No name. No place. No command. No known prisoner or petitioner.
+
+The riot, John's execution, and months of disputed reports offered causes enough for a troubled night. She did not mention the dream while Pontius read the morning dispatches.
 
 ## Heat, She Told Herself
 
-It came again eleven nights later, thinner the second time, less a scene than a sensation, the cracking sound reduced almost to a memory of itself and the height and the edge and the waiting stillness folding into something she could recall clearly for only the length of a breath after waking before it dissolved past retrieving. She told herself, lying in the dark a second time with her pulse slowing back toward ordinary, that this was simply what happened to a troubling dream revisited: it wore thin with repetition, the way any fear wore thin once the mind had proven to itself, once, that morning still came after.
+It came again eleven nights later. This time she recalled the height and the sound, with no clear figure. She compared the new entry with the first before sunrise. Repetition had removed detail rather than confirmed it.
 
-She mentioned it to Tamar only once, obliquely, framing it as a passing curiosity rather than the thing it had actually cost her to raise at all. "Do dreams mean anything, in your people's understanding? Or are they only what the body does with a difficult season, once the season has gone on long enough?"
+She mentioned it to Tamar while reviewing the relief account. "Do people here treat every repeated dream as a message?"
 
-Tamar considered the question with more seriousness than Claudia had expected the framing to earn her. "My aunt Rivkah held that God spoke through them, when God had something to say that words alone would not carry. My mother, before she died, held that a dream was only the day's leftover worry dressed up in stranger clothes, because the mind has nothing better to do with it while the body rests. I have never had to choose between them, since neither of my dead has troubled me with a dream I could not explain by morning." She glanced at Claudia sideways, reading, correctly, that the question had not been entirely idle. "But the prophets who dreamed true dreams knew it, waking, that they had been told something. They did not have to ask a friend in a garden whether the dream had meant anything. Is that your trouble, Domina? A dream that will not tell you plainly what it wants?"
+"People here disagree about dreams as they disagree about most things," Tamar said. "Rivkah listened to them. My mother blamed late food and worry."
 
-"I do not know that it wants anything from me at all," Claudia said, which was not quite a denial and not quite an answer either, and Tamar, watching her say it, did not press further, though something in her face suggested she had heard the gap in the sentence as clearly as Claudia had felt it opening while she spoke it.
+"Which do you believe?"
 
-She wrote of it once, that same week, in the same private practice she had kept since the letter she burned after the riot, a page addressed to no one and meant for no eyes but her own, and burned this one too before the ink had fully set, though she found herself, watching the small flame take the page, wondering for the first time whether the burning was truly for privacy's sake or whether some quieter part of her did not want a written record of the dream to exist anywhere she might have to look at it again in daylight, plainly, without the mercy dreams were granted of dissolving on waking. *I do not believe in omens*, the letter had said, before the fire took it. *I believe in heat, and grief carried too long without setting it down, and a mind that has watched too much this year to be trusted with what it shows me in the dark. I will not let a bad night's sleep become a superstition I cannot afterward set aside.*
+"That a dream belongs first to the person who dreamed it. You tell me whether it brought knowledge."
 
-Marcus noticed before anyone else in the household did, in the small attentive way he noticed everything that touched the family he served without ever once remarking on it directly. He began leaving a second lamp lit in her writing room without being asked, on the nights she kept it later than usual, and brought her, one morning after the second dream, a cup of watered wine she had not requested with the mild observation that she looked as though she had slept poorly, offered in a tone that left her free to correct him if he had misread her and did not press when she only agreed, briefly, and let the subject drop. She wondered sometimes, watching him go about these small unasked corrections to her comfort, how much of the household's private weather he had learned to read this way over the years, and whether he had ever once mistaken what he was reading, or whether his quiet accuracy about the people he served was simply another version of the same usefulness that had once been asked of her, differently, in a Roman tablinum she still sometimes thought of without warning.
+"It brought fear."
 
-She held to that account of herself through the rest of that season and the one after, and mostly, in the ordinary daylight business of running a household and keeping a marriage upright through its own slower grief, she believed it. But she noticed, without ever naming the noticing to Pontius or to Tamar or to the burned page itself, that she had begun watching him more closely at certain hours, on certain kinds of days, in a way she could not have explained to anyone who asked her to account for it: on days when a delegation came from Jerusalem with some new grievance, on evenings when he stood too long at the study window with his back to the room, in any moment that carried in it even a faint echo of a height, an edge, a stillness waiting to turn. She told herself each time that it was only a wife's ordinary vigilance sharpened by a hard year, nothing more, and each time she told herself this she believed it a little less than the time before, though she could not yet have said what she believed instead, or when she would be asked to.
+"That is not the same thing."
 
-The dream itself did not return again that year, or if it did, it left nothing behind sharp enough to wake her fully, only a residue some mornings of having slept badly without a clear account of why, the kind of tiredness any household in any province might have attributed to the heat, the season, the ordinary wear of years spent governing a people who seemed determined to make every year harder than the one before it. She let herself set it down, mostly, the way she had told the burned page she would, and returned her full attention to the household's more ordinary business: the accounts she now kept in her own hand, Tamar's slow recovery of her usual steadiness, Simon's quiet return to the kitchen work he had abandoned for a single grieving evening and resumed the next morning without further comment. It was only much later, long after the dream had come back changed and sharper and impossible to mistake for heat, that she would think back to that first night and recognize, in the stillness that had waited rather than threatened, the shape of something she had not yet had the vocabulary to call a warning, because a warning required, first, believing that some part of the world beyond her own understanding might trouble itself to give her one.
+Claudia kept the pages. Burning them would leave her later memory free to make the images cleaner than they had been. She folded both entries beneath her private copies of the relief accounts, marked with their dates and the conditions of the preceding days: heat, poor sleep, a Machaerus report, an argument with Pontius over an unnamed recipient.
+
+Marcus noticed the late lamps and asked whether she wanted the household sleep rota changed. Claudia refused. She told him only that she was keeping a private record and that no one should copy or index it.
+
+"If the pages concern the governor, someone may call them household records," Marcus said.
+
+"They concern my sleep."
+
+"That may not protect them if another person decides they concern him."
+
+She moved the pages from the account chest to a sealed fold among her personal letters. Marcus witnessed the seal without reading the contents. His warning made the privacy more deliberate and the existence of the record known to one vulnerable person.
+
+## Three Explanations
+
+Claudia did not trust relief alone to explain the dream. A household physician had treated her for a fever the previous month. She asked him whether heat or the remaining draught might disturb sleep.
+
+He examined her pulse and asked what she had eaten, how many nights she had slept poorly, and whether the dream returned after wine. He could offer no conclusion.
+
+"Fever can leave the body wakeful after the fever is gone," he said. "The poppy mixture can thicken dreams in some people. Worry needs neither illness nor medicine."
+
+"How would I distinguish them?"
+
+"Stop the draught. Eat earlier. Keep the room cooler. If the disturbance ends, one of those changes may deserve credit."
+
+"One of them."
+
+"Bodies rarely submit a witness list."
+
+She recorded the advice beside the dates, then stopped the draught and moved her evening meal earlier. Tamar thought grief the stronger explanation. The physician favored no cause. Claudia suspected a remembered report she could not yet identify.
+
+Pontius learned of the physician's visit from the household expense account.
+
+"You are ill?"
+
+"I have slept badly twice."
+
+"Twice requires a physician?"
+
+"Twice with the same images."
+
+He waited. Claudia had meant to preserve the dream from his interpretation, whether mockery or concern. Withholding it now would turn an uncertain private event into a household secret Marcus and the physician already knew existed.
+
+She told him the fragments exactly as she had first written them. She did not add the dread that returned when she spoke of the edge.
+
+"A height, myself, and a person without a face," he said. "You have watched me from galleries through half the disputes of this province."
+
+"That may be the source."
+
+"And stone breaks wherever stone is badly laid. Ask my engineers."
+
+His dismissal gave her ordinary causes. It also answered a question she had not asked, as if the dream accused his works. She saw how quickly an ambiguous image recruited the listener's own concern.
+
+"I did not say it concerned the aqueduct."
+
+"You said an edge no law could protect me from."
+
+Claudia checked her first page. She had written only *edge*. The thought about law had belonged to the fear after waking and had entered her spoken account as though it were part of the dream.
+
+She corrected herself aloud.
+
+Pontius's expression changed from amusement to attention. "You are keeping a record?"
+
+"So I can see when memory adds something."
+
+"Then keep it, if it helps you sleep. Leave me out of the household auguries."
+
+"It is not an augury."
+
+"Good."
+
+His answer closed the conversation without forbidding the pages. Claudia marked the added phrase and the correction. The first test of the record had exposed her own embellishment, not a hidden meaning.
+
+The following morning Pontius asked Marcus whether Claudia's physician had ordered rest. Marcus replied that the physician's instructions belonged to Claudia. Pontius could have commanded the answer from an enslaved household secretary. He did not, though Marcus spent the rest of the day waiting to learn whether the refusal would cost him.
+
+Claudia told Pontius that Marcus had followed her instruction.
+
+"I asked if you were unwell."
+
+"He heard a request for a private report."
+
+"He is too careful."
+
+"He has to be."
+
+Pontius let the matter end. Claudia paid the physician from her own allowance so the next household account would not invite another inquiry. Her effort to keep the dream small had already altered where money was recorded and placed Marcus between two owners of the same household.
+
+## A Daylight Test
+
+The next Jerusalem packet contained a complaint about a collapsed retaining wall beside the aqueduct works. Two laborers had been injured. The engineer blamed an unauthorized household drain cut into the slope. The local petition blamed Roman haste.
+
+The words *stone split before dawn* appeared in a witness statement.
+
+Claudia felt the remembered sound before she finished the line. For several breaths the coincidence seemed to give the dream a place. Then she checked the dates. The wall had fallen three days before her first dream, and Marcus had summarized the incident at supper on the evening before she slept.
+
+She had forgotten hearing it.
+
+The discovery steadied her and humiliated her. Her sleeping mind had used a report already inside the household. She added the supper entry to her private page.
+
+The dream still contained details the retaining-wall account did not explain: Pontius, the height, the waiting figure. Those could have come from a dozen audiences, roads, and balconies. She would not search the province for objects that resembled them.
+
+She returned to the complaint. The engineer's report included no names for the injured men and no physician's expense. Tamar's channel supplied one name and said the second laborer had returned to his village. Marcus found a wage stoppage on the day after the collapse.
+
+The village elder sent a second account through the liaison. He named both men but described the first injury as a broken leg. Tamar's contact said the foot had been crushed and the leg spared. Claudia could not determine which description reflected the physician's finding.
+
+She asked for the contractor's treatment receipt instead of choosing between them. The receipt named splints for a foot and wrapping for a wrist. It supported Tamar's version while leaving the severity of the damage unknown.
+
+Claudia asked Pontius to hold the contractor's final payment until the missing wages and physician's charge were accounted for.
+
+"Because you dreamed a wall breaking?" he asked.
+
+She had told him only that poor sleep had made her examine the report twice. His jest carried no suspicion.
+
+"Because his own wage list proves two men stopped working and his damage report names none."
+
+Pontius ordered the contractor to answer. The response admitted one crushed foot, one broken wrist, and payments delayed while responsibility for the drain was disputed. Pontius released the construction payment after deducting the wages and treatment from the contractor's bond. He left the cause of the collapse for survey.
+
+The decision changed two men's compensation. The dream proved nothing about them. At most, it had made Claudia slow down over a phrase she had heard the day before sleeping.
+
+Pontius omitted the witness's phrase from the final engineering summary because it described sound rather than cause. Claudia preserved it in the petition copy with its source. His record established liability. Hers preserved how the event had reached the household.
+
+That evening she added the outcome beneath the dream entry, then drew a line separating the two. Above the line: images, memory, bodily fear. Below it: dated statement, wage roll, names, expense, order.
+
+Tamar saw the contractor's grain payment entered in the relief ledger and asked whether Claudia had decided her dream meant something after all.
+
+"I decided it made me look twice."
+
+"That is something."
+
+"It is also what poor sleep does."
+
+Tamar accepted neither explanation for her. Claudia had asked for disagreement and received it.
+
+## What She Retained
+
+The dream did not return again that season. On two mornings Claudia woke uneasy and remembered nothing. She entered nothing. Absence of detail could not become evidence merely because fear remained.
+
+She stopped watching Pontius for resemblance to the figure at the edge. That habit had begun after the first night and had already changed how she read ordinary gestures. When he stood at the study window or descended the tribunal steps, she forced herself to attend to the petition or dispatch in front of him.
+
+The private pages remained sealed. They did not enter Marcus's linked records, Pontius's official correspondence, Tamar's accounts, or any report moving through the liaison. Claudia retained them because memory could alter and because destroying an inconvenient record was a practice she had condemned in others.
+
+Her choice did not make the dream prophecy. It made it a dated claim by a frightened witness whose only witness was herself.
+
+At the end of the month Marcus brought the repaired wage account. The two laborers had received what was owed. The engineer and village elder still disputed the drain.
+
+Claudia filed that unresolved cause with the aqueduct records and returned the private pages to her letters. Then she joined Pontius in the audience room, where a delegation from the coast waited with a tariff complaint and three versions of the same damaged cargo.
+
+The daylight work offered sources she could question, dates she could compare, and remedies within reach. She gave it her full attention.
