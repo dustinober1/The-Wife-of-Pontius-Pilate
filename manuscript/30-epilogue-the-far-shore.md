@@ -4,9 +4,9 @@
 
 News of Tiberius's death reached their ship before Italy.
 
-A merchant captain carried it east from Puteoli and signaled the sailing master outside Syracuse. Tiberius had died at Misenum on the sixteenth day before the Kalends of April. By the time the date was translated through two calendars and three tellings, Claudia had Marcus check it against the ship's log.
+A merchant captain carried it east from Puteoli and signaled the sailing master outside Syracuse. Tiberius had died at Misenum on the seventeenth day before the Kalends of April. By the time the date was translated through two calendars and three tellings, Claudia had Marcus check it against the ship's log.
 
-The emperor died on the sixteenth of March in the thirty-seventh year after the birth Rome assigned to the new age. Pontius had been ordered to answer before a living judge and was still at sea when that judge ceased to exist.
+The two captains' logs agreed. By the later reckoning, the emperor died on the sixteenth of March in A.D. 37. Pontius had been ordered to answer before a living judge and was still at sea when that judge ceased to exist.
 
 The merchant knew nothing of the new court's intentions toward a recalled prefect from Judea.
 

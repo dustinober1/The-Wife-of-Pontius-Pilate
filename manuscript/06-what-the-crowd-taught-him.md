@@ -178,6 +178,6 @@ After she left, he reviewed the day without granting it meaning it had not earne
 
 The error began earlier than the stadium. He had allowed objection time to gather bodies, households to carry provisions, elders to agree on a single demand, and separate witnesses to preserve the sequence. Delay had enlarged the price of every choice.
 
-In the next dispute, he would keep the interval shorter. He would act before opposition settled into ranks. Soldiers would not display force until their purpose could be completed, and the first account would leave with the order instead of following days behind it. Technical authority would be established before any public hearing turned retreat into spectacle.
+He summoned Varro and dictated standing instructions for the next provincial disturbance. Reports would identify roads, provisions, messengers, and likely gathering places before a petition reached Caesarea. Soldiers would remain out of public view until their purpose could be completed. A written account would leave with each order instead of following days behind it. Technical authority would be established before any hearing turned retreat into spectacle.
 
-He did not yet know what problem would call for those habits. He knew only that he would never again stand for five days at his own gate while a crowd learned how long he could be made to wait.
+Varro read the instructions back. Pontius sealed them while the protesters were still departing his gate.

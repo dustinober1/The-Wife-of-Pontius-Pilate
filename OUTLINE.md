@@ -1,7 +1,7 @@
 # The Wife of Pontius Pilate — Master Political-Thriller Outline
 
-**Drafted state:** Prologue and Chapters 1–17. Chapters 18–29 and Epilogue remain outline-only stubs.  
-**Drafted prose baseline:** **38,200 words**, counted by `python scripts/word_count.py` on authoritative `main` during Batch 1 final verification.  
+**Drafted state:** Prologue and Chapters 1–30, including the Epilogue. No outline-only manuscript stubs remain.
+**Drafted prose baseline:** **80,380 words**, counted by `python3 scripts/word_count.py` during the final whole-book audit.
 **Finished target:** **80,000–85,000 words**, with 65,000 as an absolute floor.  
 **Primary POV:** Claudia, close third. Pontius POV only in Chapters 4, 6, 9, 15, 16, 19, 25, and 28.
 
