@@ -1,6 +1,6 @@
 # Chapter 18 Mission Lock — Whispers of the Galilean
 
-**Status:** outline only. This file does not authorize prose drafting.
+**Status:** drafted in Batch 6 under explicit book-completion authorization. This lock remains the chapter’s acceptance standard.
 
 ## Chapter function
 
