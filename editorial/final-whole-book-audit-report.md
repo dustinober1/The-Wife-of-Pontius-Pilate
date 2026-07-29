@@ -10,12 +10,13 @@ The Prologue, Chapters 1–29, and the Epilogue are fully drafted. The manuscrip
 
 - Authoritative starting `main`: `0d2bcca67dba32cc9bc54b8b1ec5f50673ec67cb`
 - Audit branch: `agent/final-whole-book-audit`
+- Accepted audit content head: `5fc8192bd7453a803c1a874ae4c1c1ca5a1e7483`
 - Starting drafted prose: 80,395 words
 - Ending drafted prose: 80,380 words
 - Net prose change: -15 words
 - Authorized audit corrections: Chapter 6, Epilogue, `CLAUDE.md`, `OUTLINE.md`, and this report
 - All other manuscript prose: unchanged
-- Final branch head and pull request: recorded in integration metadata after the report commit
+- Final branch head and pull request: recorded in integration metadata after the report-metadata commit
 
 ## Final repository-native word count
 
