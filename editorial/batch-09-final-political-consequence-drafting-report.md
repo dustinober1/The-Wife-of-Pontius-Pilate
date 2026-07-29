@@ -4,7 +4,8 @@
 
 - Authoritative starting `main`: `087e2fa02ae4c33ca69cda546c3a3a2bc69052f4`
 - Branch: `agent/draft-batch-09-final-political-consequence`
-- Final branch head: recorded after the verification commit
+- Accepted manuscript/content head: `d94369d4ffa0d21ce9010c0fa1b4346ba682a94f`
+- Final branch head: recorded in the pull request after the report-metadata commit (a file cannot contain the SHA of the commit that contains itself)
 - Pull request: recorded after publication
 - Authorized prose: Chapters 27–30 only
 - Control updates: this report and `CLAUDE.md`
