@@ -6,9 +6,9 @@ This repository is the sole manuscript and editorial source of truth for *The Wi
 
 ## Current manuscript state
 
-- Drafted prose: Prologue and Chapters 1–23.
-- Undrafted outline stubs: Chapters 24–29 and the Epilogue (`30`).
-- Current drafted baseline: **61,094 prose words**, counted with `python3 scripts/word_count.py` during Batch 7 verification.
+- Drafted prose: Prologue and Chapters 1–26.
+- Undrafted outline stubs: Chapters 27–29 and the Epilogue (`30`).
+- Current drafted baseline: **69,368 prose words**, counted with `python3 scripts/word_count.py` during Batch 8 verification.
 - Finished target: approximately **80,000–85,000 words**, never below 65,000.
 
 Do not replace a stub with prose unless the task explicitly authorizes that chapter. Do not create duplicate chapter files.
