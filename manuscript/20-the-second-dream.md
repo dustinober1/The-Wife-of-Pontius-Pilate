@@ -1,5 +1,7 @@
 # Chapter 20: The Second Dream
 
+*POV: Claudia*
+
 ## A Petition Without a Name
 
 The woman arrived through the relief account rather than the Temple liaison. Mattan said she belonged to a Jerusalem household that supplied linen and lamp oil to several priestly families. She requested no money. She wanted to know whether Claudia could preserve a warning without preserving the speaker's name.
@@ -104,7 +106,7 @@ Pontius's face hardened. "You used my requirements as bait and now conceal the h
 
 "I have decided the timing may matter."
 
-Pontius demanded the source name under the agreement from Chapter 17. Claudia refused because no imminent act depended on it and no allegation yet tied Mara to violence, direct kingship, or obstruction.
+Pontius demanded the source name under their standing agreement. Claudia refused because no imminent act depended on it and no allegation yet tied Mara to violence, direct kingship, or obstruction.
 
 "A charge designed for my tribunal is material."
 
@@ -242,7 +244,7 @@ A clerk held two tablets. On one, every line concerned God. On the other, the sa
 
 The stone cracked. This time Claudia saw that the break ran beneath the empty seat rather than beneath Pontius. When the bound man turned toward her, his face remained in shadow. She woke before he spoke.
 
-She lit no second lamp until she had repeated the details in darkness. Then she opened the pages from Chapter 14 and wrote the new account on a separate sheet.
+She lit no second lamp until she had repeated the details in darkness. Then she opened the first dream pages and wrote the new account on a separate sheet.
 
 Some images aligned with waking information: two lists, Pontius, a bound person, public judgment, words translated from God to Caesar. Others contradicted or exceeded it. No report said Jesus was bound. No tribunal had assembled. Her first dream contained a height and an edge, while the second supplied a paved court and empty seat. Water had not appeared before. The cracking stone changed location.
 

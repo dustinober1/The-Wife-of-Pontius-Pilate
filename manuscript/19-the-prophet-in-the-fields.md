@@ -1,5 +1,7 @@
 # Chapter 19: The Prophet in the Fields
 
+*POV: Pontius*
+
 ## Whether to Open a Record
 
 Pontius began with the underlying gate tallies because Claudia had shown him what the summary concealed. Eleven travelers over three days, different destinations, no common baggage, no weapons, no refusal of inspection. Some named a Galilean teacher after naming family or feast business.

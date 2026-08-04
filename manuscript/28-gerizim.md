@@ -158,7 +158,7 @@ Pontius refused.
 
 "Then divide what you can establish."
 
-The commander reported dead from sword, spear, trampling, and wounds whose causes had not been recorded before removal. The total was grave enough that Pontius made him repeat it. The surviving principal account describes many slain and many prisoners without preserving a neutral field count. Pontius's own imagined certainty could be no greater than the report before him.
+The commander reported dead from sword, spear, trampling, and wounds whose causes had not been recorded before removal. The total was grave enough that Pontius made him repeat it. It covered many slain and many prisoners and rested on no count taken in the field by anyone without a reason to shape it. Pontius could be no more certain than the report before him.
 
 "How many bore arms?"
 

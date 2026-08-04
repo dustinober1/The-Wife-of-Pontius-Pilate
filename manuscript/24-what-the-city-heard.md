@@ -1,5 +1,7 @@
 # Chapter 24: What the City Heard
 
+*POV: Claudia*
+
 ## After the Procession
 
 Claudia did not follow the execution party.
@@ -222,7 +224,7 @@ Claudia recorded the refusal. Her intervention had protected a witness name and 
 
 ## The Man in Good Clothing
 
-Marcus's unidentified man reached the palace after sunset. He was Joseph from Arimathea, introduced through a civic and council connection. The surviving Gospel traditions supported his request for Jesus's body; they did not give Claudia a secure account of his private motive or every office he held.
+Marcus's unidentified man reached the palace after sunset. He was Joseph from Arimathea, introduced through a civic and council connection. He came with standing enough for a request about the body to be heard. That standing told Claudia nothing secure about his private motive or every office he held.
 
 Joseph asked to see Pontius before the day ended. Varro required a written petition naming the condemned, intended burial, receiving persons, and authority to collect the body.
 

@@ -8,7 +8,7 @@ This repository is the sole manuscript and editorial source of truth for *The Wi
 
 - Drafted prose: Prologue and Chapters 1–30, including the Epilogue.
 - Undrafted outline stubs: none.
-- Current drafted baseline: **80,380 prose words**, counted with `python3 scripts/word_count.py` during the final whole-book audit.
+- Current drafted baseline: **80,847 prose words**, counted with `python3 scripts/word_count.py` during the publication preparation pass. This supersedes earlier figures near 80,380, which under-counted by 479 words because the counter treated italicised in-world documents as metadata.
 - Finished target: approximately **80,000–85,000 words**, never below 65,000.
 
 The full manuscript is drafted. Do not create duplicate chapter files or add chapters beyond the governed outline without an explicit structural revision.
@@ -61,7 +61,15 @@ python scripts/word_count.py
 python scripts/word_count.py --json
 ```
 
-The utility excludes outline-only stubs, Markdown headings, blockquoted stub metadata, and standalone italic metadata.
+The utility excludes outline-only stubs, Markdown headings, blockquoted stub metadata, and standalone italic *metadata* lines such as the `*POV:*` marker. Italicised in-world documents (letters, dispatches, written orders, Claudia's messages) are prose the reader reads and are counted.
+
+Compile submission deliverables with:
+
+```bash
+python scripts/build_manuscript.py
+```
+
+This writes `build/the-wife-of-pontius-pilate.md` and a standard-manuscript-format `.docx`. It never modifies files under `manuscript/`.
 
 ## Revision workflow
 

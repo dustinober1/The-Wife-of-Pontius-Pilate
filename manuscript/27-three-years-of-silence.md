@@ -12,7 +12,7 @@ Claudia kept three lists. One named channels still willing to receive household 
 
 Marcus copied the first two. Claudia wrote the third herself.
 
-The years between that Passover and the summons from Gerizim left little secure public record. In Claudia's household they accumulated as payments, absences, changed seals, and conversations compressed here from scattered seasons. No surviving account could make those years complete. Her pages could only show what reached her and what she chose to do with it.
+The years between that Passover and the summons from Gerizim left little secure public record. In Claudia's household they accumulated as payments, absences, changed seals, and conversations she could no longer place in their exact seasons. Her pages could only show what reached her and what she chose to do with it.
 
 Tamar returned to Caesarea before the next festival. She had asked to leave Jerusalem after strangers twice questioned Simon about the women at the tomb. Claudia approved the transfer and kept Tamar's wage unchanged. The steward objected that a free worker who abandoned an assigned residence should lose the cost of return travel.
 
@@ -42,7 +42,7 @@ That was how most protection survived now: reduced to a form Pontius could call 
 
 Pontius no longer asked what Claudia heard before asking who carried it.
 
-At supper he spoke of roads, collections, quarrels among councils, and the reliability of officers. He did not mention the execution unless a complaint from Judea forced the name of Jesus into a report. When reports of the man's followers arrived from Jerusalem, Galilee, or farther ports, Pontius classified them by public effect.
+At supper he spoke of roads, collections, quarrels among councils, and the reliability of officers. He did not mention the execution unless a complaint from Judaea forced the name of Jesus into a report. When reports of the man's followers arrived from Jerusalem, Galilee, or farther ports, Pontius classified them by public effect.
 
 Did they obstruct a street?
 

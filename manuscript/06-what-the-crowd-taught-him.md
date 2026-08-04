@@ -1,5 +1,7 @@
 # Chapter 6: What the Crowd Taught Him
 
+*POV: Pontius*
+
 ## The Sixth Day
 
 Pontius read the corrected reports before dawn.

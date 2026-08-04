@@ -1,12 +1,14 @@
 # Chapter 25: The Empty Report
 
+*POV: Pontius*
+
 ## The Body Request
 
 Pontius received Joseph of Arimathea after the death certification arrived and before the city gates closed for the approaching sacred rest.
 
 The petition named Jesus of Nazareth, the Roman sentence, a nearby unused tomb, Joseph as responsible recipient, and attendants authorized to collect the body. It did not name Joseph's private allegiance or explain why a man connected to local councils acted after those authorities had pressed for death.
 
-The Gospel-shaped burial request belonged to the novel's adopted sequence. No surviving provincial manual in Pontius's hands established one unique procedure for every crucified body. He treated release as an exercise of command over Roman custody.
+No provincial manual in Pontius's hands established one procedure for every crucified body. He treated release as an exercise of command over Roman custody.
 
 "Why do you want him?" Pontius asked.
 
@@ -124,7 +126,7 @@ Before the watch changed, Joseph sent consent for guards outside the tomb throug
 
 Pontius assigned a small detail with written limits: observe entrance, prevent unauthorized opening during the agreed period, record visitors, and avoid religious declaration. The guards received no authority to enter the tomb without a Roman order or an immediate breach.
 
-The arrangement was a dramatic synthesis of Gospel-shaped guard concern and plausible custody procedure, not a claim that surviving sources established every administrative step.
+The arrangement answered the Temple's stated fear with ordinary custody procedure. No standing rule covered a guarded tomb. Pontius wrote each term himself and could name the reason for it.
 
 ## The Custody Gap
 

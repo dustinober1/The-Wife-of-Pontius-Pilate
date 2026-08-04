@@ -8,7 +8,7 @@ A merchant captain carried it east from Puteoli and signaled the sailing master 
 
 The two captains' logs agreed. By the later reckoning, the emperor died on the sixteenth of March in A.D. 37. Pontius had been ordered to answer before a living judge and was still at sea when that judge ceased to exist.
 
-The merchant knew nothing of the new court's intentions toward a recalled prefect from Judea.
+The merchant knew nothing of the new court's intentions toward a recalled prefect from Judaea.
 
 Pontius stood at the stern after the ships separated. The far line of water held no message he could command.
 
@@ -122,7 +122,7 @@ Marcus tied the packet beneath his cloak.
 
 He left to deliver Pontius's defense.
 
-The exact later lives of Pontius, Claudia, Marcus, and Tamar would not be secured by the surviving histories. Stories could grow around such absence: exile, suicide, conversion, sanctity, punishment, long obscurity. Claudia possessed none of those endings while she stood in Puteoli. Neither does a cautious account turn later tradition into fact.
+What would become of Pontius, of herself, of Marcus and Tamar, lay beyond anything she could learn in Puteoli. Stories would grow around such absence: exile, suicide, conversion, sanctity, punishment, long obscurity. She possessed none of those endings. She would not borrow one to finish a record that had taught her to wait for evidence.
 
 She knew only that Marcus returned before sunset with an imperial receipt and no date for a hearing.
 

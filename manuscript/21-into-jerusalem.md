@@ -1,5 +1,7 @@
 # Chapter 21: Into Jerusalem
 
+*POV: Claudia*
+
 ## The Road Before the Feast
 
 The prefectural household left Caesarea before the pilgrim roads reached their fullest strain. Pontius traveled with the official party, court equipment, legal clerks, and a guard sufficient to mark Roman authority without resembling a marching army. Claudia's wagons followed with household staff and the protected records she had chosen to carry.
@@ -72,7 +74,7 @@ Varro objected that an enslaved household secretary had no place among provincia
 
 "That is why Pontius authorized comparison."
 
-Pontius approved the placement for the feast and made Varro responsible for every tablet Marcus handled. The arrangement established the chain later used in the Prologue and placed Marcus under a free legal scribe who could end his access with one complaint.
+Pontius approved the placement for the feast and made Varro responsible for every tablet Marcus handled. The arrangement established the chain by which a household message could reach the tribunal, and it placed Marcus under a free legal scribe who could end his access with one complaint.
 
 ## The Entry Reports
 

@@ -1,5 +1,7 @@
 # Chapter 17: No Friend of Caesar
 
+*POV: Claudia*
+
 ## What Changed in the Audience Hall
 
 Caiaphas came to Caesarea that winter with two aides and the closing aqueduct accounts. Pontius asked Claudia to sit behind the provincial clerks because her household ledger held payments and names absent from both the military and Temple summaries.

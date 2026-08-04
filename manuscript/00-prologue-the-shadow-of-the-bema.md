@@ -1,5 +1,7 @@
 # Prologue: The Shadow of the Bema
 
+*POV: Claudia*
+
 ## The Waking Nightmare
 
 Claudia woke with her hands clenched in the linen.

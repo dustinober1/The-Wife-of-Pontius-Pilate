@@ -1,5 +1,7 @@
 # Chapter 10: Blood in the Colonnade
 
+*POV: Claudia*
+
 ## What the Household Heard First
 
 The household had moved up to Jerusalem for the length of the festival crowds, as it did now every year the calendar required it, and the city still struck Claudia, three years into the practice, as a place built on a different scale of feeling than Caesarea's broad Roman streets: narrower, louder, thick with woodsmoke and roasting meat and the particular dust that seemed to rise from the hill itself rather than settle on it, a city that argued with itself in every doorway and considered the argument a form of prayer. She had learned to read the temper of it before Pontius's own dispatches reached his desk, simply by watching which servants came back from the markets talking and which came back silent. That morning it was silence. Tamar returned from the grain sellers near the Damascus gate with her basket only half filled and her mouth set in a line Claudia had come to recognize as the shape of news not yet decided whether it wanted telling.
@@ -132,7 +134,7 @@ He was silent long enough that she understood he was deciding, in real time, whi
 
 "Perhaps there was no order that would have ended differently," she said. "Perhaps the failure was earlier than the order. Perhaps it was in the spending, or in the arithmetic, or in whatever certainty told you the water was worth more than the asking."
 
-She watched that reach him too, and watched him have no figure ready to answer it with, which frightened her nearly as much as the colonnade had, because a man who always had a figure ready was a man she had learned, across seven years of marriage, how to read and how to counter. A man standing empty-handed in her doorway, his toga clean of whatever it had been marked with and his account already rehearsed twice for men who would judge him on it, was someone she was only beginning to learn how to see.
+She watched that reach him too, and watched him have no figure ready to answer it with, which frightened her nearly as much as the colonnade had, because a man who always had a figure ready was a man she had learned, across ten years of marriage, how to read and how to counter. A man standing empty-handed in her doorway, his toga clean of whatever it had been marked with and his account already rehearsed twice for men who would judge him on it, was someone she was only beginning to learn how to see.
 
 Before dawn Marcus brought the first official summary. It stated that troops had dispersed men assaulting the tribunal, that force ceased when the approaches cleared, and that deaths arose principally from the crowd's flight. It gave no names and no number.
 

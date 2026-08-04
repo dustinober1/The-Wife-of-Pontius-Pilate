@@ -1,5 +1,7 @@
 # Chapter 4: The Prefect's House
 
+*POV: Pontius*
+
 ## The First Morning
 
 Pontius woke before the household and listened to the sea strike the promontory below Herod's palace.

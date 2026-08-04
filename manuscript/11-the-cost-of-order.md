@@ -1,5 +1,7 @@
 # Chapter 11: The Cost of Order
 
+*POV: Claudia*
+
 ## The Silence After
 
 The household returned to Caesarea within the week, sooner than the festival calendar strictly required, and Claudia understood the early departure for what it was without either of them saying so: a city with blood still being scrubbed from its colonnade stones was not a city Pontius wished his household to go on living in while the scrubbing continued. He did not speak of the riot again after that first night in her doorway, and she did not raise it, and the silence between them settled over the sea crossing back down the coast road with the particular density of a thing both of them were carrying and neither would set down first, for fear of what the other might do with it once it was on the table between them.

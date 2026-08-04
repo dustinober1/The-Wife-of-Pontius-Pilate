@@ -1,12 +1,14 @@
 # Chapter 16: The Fall of Sejanus
 
+*POV: Pontius*
+
 ## A Ship Out of Season
 
 The ship entered Caesarea's harbor ahead of a squall, its sail torn along one seam. A watchman reported an imperial courier aboard. Pontius went to the mole and broke the Syrian seal before returning to the praetorium.
 
 The dispatch stated that Sejanus had been denounced, condemned, and executed at Rome on the eighteenth of October. It ordered provincial authorities to remove honors and await further instructions concerning correspondence and associates. Its account of conspiracy reflected the victorious imperial position. It supplied no evidence Pontius could examine.
 
-Pontius read the date twice. In the book's chosen sea delay, five weeks had passed. During those weeks he had sent north an advancement request, an aqueduct summary, and a copy of the Caesarea oath.
+Pontius read the date twice. Five weeks had passed on the water between that day and this one. During those weeks he had sent north an advancement request, an aqueduct summary, and a copy of the Caesarea oath.
 
 He could not know whether the letter had reached Rome before the fall, after it, or at all. Every possibility carried a different danger. Praise delivered early might sit in a seized household archive. Praise delivered late would look like loyalty maintained after Rome had turned. A lost letter might remain only in the records Pontius had kept himself.
 
@@ -238,7 +240,7 @@ Claudia asked who would decide which problems belonged on the list.
 
 "From whose reports?"
 
-Pontius looked at the military, civic, Temple, Herodian, and household headings she had helped create across four years. "Whichever reach me before the complaint."
+Pontius looked at the military, civic, Temple, Herodian, and household headings she had helped create across five years. "Whichever reach me before the complaint."
 
 The answer made speed part of truth.
 

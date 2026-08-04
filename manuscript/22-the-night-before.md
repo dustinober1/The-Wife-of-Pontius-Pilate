@@ -1,5 +1,7 @@
 # Chapter 22: The Night Before
 
+*POV: Claudia*
+
 ## Messenger Order
 
 Claudia reconstructed the night from wax marks, custody phrases, and people who had seen only one threshold.
@@ -12,7 +14,7 @@ The request from Caiaphas's office asked for a Roman hearing after first light a
 
 Marcus placed the messages by receipt. Varro added the seals and stated custody. Claudia added what each omitted.
 
-The adopted order combined traditions no witness available to her could see whole: night arrest, an Annas-associated inquiry, movement to the serving high priest's administration, consultation among local authorities, then Roman presentation. She treated it as the household's best reconstruction, not a settled record of every hearing or hour.
+The order she assembled combined accounts no witness available to her could see whole: night arrest, an Annas-associated inquiry, movement to the serving high priest's administration, consultation among local authorities, then Roman presentation. She treated it as the household's best reconstruction. It settled neither every hearing nor every hour.
 
 "Where is he now?" she asked Varro.
 
