@@ -84,7 +84,7 @@ Marcus did not answer with the gratitude expected from a freedman.
 
 The words could be praise or accusation. Pontius let them remain both.
 
-Claudia gave Marcus a second packet before he left for the imperial offices. It contained her private chronology stripped of source routes, the rules of the relief account, and a letter authorizing the merchant in Caesarea to continue payments from her property. Tamar and Rivkah retained the identifying records. Marcus could verify that Claudia's westward copy had not named them.
+Claudia gave Marcus a second packet before he left for the imperial offices. It contained her private chronology stripped of source routes, the rules of the relief account, and a letter authorizing the merchant in Caesarea to continue payments from her property. Tamar and Shifra retained the identifying records. Marcus could verify that Claudia's westward copy had not named them.
 
 "If the packet is seized?" he asked.
 
@@ -130,7 +130,7 @@ She knew only that Marcus returned before sunset with an imperial receipt and no
 
 Tamar's first account letter arrived months later through the Caesarean merchant.
 
-Rivkah's seal was broken in transit, though the inner tally remained intact. Payments had gone to two Gerizim households, a dock worker injured in a loading fall, burial cloth for a woman without kin nearby, and travel for a kitchen worker threatened after refusing a guest's room. The merchant had stopped one payment because the claimant would provide no witness. Tamar restored half after visiting the household and finding the injured man herself.
+Shifra's seal was broken in transit, though the inner tally remained intact. Payments had gone to two Gerizim households, a dock worker injured in a loading fall, burial cloth for a woman without kin nearby, and travel for a kitchen worker threatened after refusing a guest's room. The merchant had stopped one payment because the claimant would provide no witness. Tamar restored half after visiting the household and finding the injured man herself.
 
 At the bottom she wrote:
 
@@ -138,7 +138,7 @@ At the bottom she wrote:
 
 She did not report on followers of Jesus.
 
-A second sheet contained a line from Yaakov: his shoulder failed during winter work, and the dyer moved him to weighing finished cloth. He earned less. The account covered the difference for forty days, after which Rivkah found two households willing to send regular orders.
+A second sheet contained a line from Yaakov: his shoulder failed during winter work, and the dyer moved him to weighing finished cloth. He earned less. The account covered the difference for forty days, after which Shifra found two households willing to send regular orders.
 
 No one called the result healing.
 

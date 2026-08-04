@@ -169,7 +169,7 @@ Claudia retained the conflicting departure reports and no appearance testimony.
 
 ## A Man Who Said He Saw
 
-The first direct appearance claimant reached Tamar the following evening. He called himself Cleopas, a common enough name to protect little by itself, and said he had walked from Jerusalem with a companion after the execution.
+The first direct appearance claimant reached Tamar the following evening. He called himself Cleopas, a name common enough to identify little by itself, and said he had walked from Jerusalem with a companion after the execution.
 
 He described a traveler joining them on the road, discussing their grief and the writings they believed concerned the dead teacher. They recognized the traveler as Jesus during a meal near their destination, after which he was gone.
 
@@ -191,7 +191,7 @@ When did this occur relative to the tomb report? Cleopas counted from the same d
 
 He said they returned to Jerusalem and found other followers claiming an appearance. He had not witnessed those.
 
-The account was direct concerning Cleopas's experience and incomplete concerning identity. It supported that at least two men believed they encountered Jesus alive. It did not supply Claudia physical proof that the executed body had returned to life.
+The account was direct concerning Cleopas's experience and incomplete concerning identity. It supported that at least two men believed they encountered Jesus alive. It did not give Claudia physical proof that the executed body had returned to life.
 
 Cleopas refused to enter the palace or let his full route be recorded. He wanted the report preserved because officials were already calling the women thieves or deceivers.
 
@@ -211,7 +211,7 @@ Pontius asked whether Cleopas would speak to Varro.
 
 "It has survived the tests he accepted. He refuses yours."
 
-Pontius ordered no search for Cleopas. The appearance claim therefore entered Claudia's record and remained outside Rome's.
+Pontius ordered no search for Cleopas. The appearance claim entered Claudia's record and stayed outside Rome's.
 
 Her desire to treat the direct voice as stronger than the women's message was itself a judgment shaped by Roman habits of public male testimony. Tamar pointed out that the women had reached the tomb first in every household chain available to them.
 

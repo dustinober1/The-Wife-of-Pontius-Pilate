@@ -234,7 +234,7 @@ Claudia proposed dividing it among three households with no central keeper.
 
 Tamar said division would conceal responsibility and make theft easier.
 
-"Then two keepers," Claudia said. "You and Rivkah. Payments above a set amount require both marks. Marcus will close my household copy before we sail. You retain the living account."
+"Then two keepers," Claudia said. "You and Shifra. Payments above a set amount require both marks. Marcus will close my household copy before we sail. You retain the living account."
 
 "And when someone asks whose money it was?"
 
@@ -256,7 +256,7 @@ They set the account's purposes: injury, burial, short convalescent wages, safe 
 
 Claudia did not turn the admission into a lesson. She entered the rule.
 
-Yaakov agreed to serve as one of two carriers but refused to hold the box. His earlier protest and aqueduct injury already made his name vulnerable. Rivkah would keep one seal; Tamar the other.
+Yaakov agreed to serve as one of two carriers but refused to hold the box. His earlier protest and aqueduct injury already made his name vulnerable. Shifra would keep one seal; Tamar the other.
 
 The remaining money would last perhaps a year. Claudia transferred a modest continuing payment through a Caesarean merchant whose contracts did not depend on the prefecture. The merchant charged a fee and reserved the right to stop if Roman officials challenged the arrangement.
 
@@ -410,7 +410,7 @@ Pontius placed the notice among papers he would carry, as if another man's remov
 
 They left Caesarea under a gray morning sky.
 
-Tamar stood near the lower gate with Rivkah and Yaakov. She did not enter the official farewell line. Claudia met them beside the relief storeroom before walking to the harbor.
+Tamar stood near the lower gate with Shifra and Yaakov. She did not enter the official farewell line. Claudia met them beside the relief storeroom before walking to the harbor.
 
 The account chest remained in Caesarea. Claudia carried a closed copy containing totals, rules, and no living source routes.
 
