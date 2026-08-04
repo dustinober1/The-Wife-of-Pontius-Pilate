@@ -197,7 +197,7 @@ Pontius had demanded observed conduct at the tribunal and abandoned that discipl
 
 He justified it through changed circumstances. An executed claimant could not command. Followers under watch posed a smaller immediate danger. Rome gained nothing by making mourning itself an offense.
 
-The reasoning was competent. It could not undo why it had failed one day earlier.
+The reasoning was competent. It could not undo the day the same discipline had failed him.
 
 ## The Syrian Copy
 
@@ -263,7 +263,7 @@ Pontius revised it to *court pressure and festival-order risk*. The change narro
 
 "It will make one line accurate."
 
-The answer withheld the larger reconciliation he sought and did not erase their marriage. Claudia asked whether Marcus could return to Varro after the feast.
+The answer withheld the larger reconciliation he wanted and left the marriage where it stood. Claudia asked whether Marcus could return to Varro after the feast.
 
 "If no charge arises from the unnamed Temple drafts."
 
@@ -288,7 +288,7 @@ At the end of the day Pontius prepared the daily order notice:
 
 The notice contained no claim about signs, divine judgment, guilt, innocence, or what followers believed. Pontius wanted the case to become a completed sequence of acts that required no further Roman response.
 
-Philotas, reading a copy sent from Caesarea's continuing administration, had once told him that an archive could show when a governor chose confrontation. This archive would show that Pontius closed each custody step.
+Philotas had once told him that an archive could show when a governor chose confrontation. This archive would show that Pontius closed each custody step.
 
 It could not close the meanings people attached to them.
 
