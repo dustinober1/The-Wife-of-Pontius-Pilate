@@ -8,7 +8,7 @@ Claudia crossed the reception room barefoot and forced the terrace doors open ag
 
 Morning struck the palace stone.
 
-Below lay the paved court Pontius had chosen for the festival tribunal. Some household staff called it the Lithostrotos. Others placed that name elsewhere. The location remained a practical choice inside a disputed geography: a court at Herod's palace that soldiers could secure and Claudia could see from the rooms above.
+Below lay the paved court Pontius had chosen for the festival tribunal. Some household staff called it the Lithostrotos. Others placed that name elsewhere. The location was a practical choice inside a geography no one agreed on: a court at Herod's palace that soldiers could secure and Claudia could see from the rooms above.
 
 Rufus's categories had already broken down. Temple officials and attendants stood closest to the dais. Custody guards held Jesus below the steps. Named witnesses waited near Varro. Petitioners admitted for other matters had been pushed toward one wall. People drawn by the gathering pressed at the gate. Soldiers tracked entrances but no longer attempted a count.
 
@@ -160,7 +160,7 @@ Claudia sent that distinction to Pontius. Varro placed it beside the gate record
 
 Pontius did not dispute it. His fear concerned the account this group could send, not a vote by the city.
 
-The available exits failed political safety one by one and remained legally possible. Claudia needed her final warning to confront the choice rather than offer another procedure Pontius had already judged costly.
+One by one the exits failed as politics and stayed open as law. Claudia needed her final warning to confront the choice rather than offer another procedure Pontius had already judged costly.
 
 Pontius ordered the judgment seat positioned fully toward the court and asked Varro for the charge tablet.
 
@@ -262,7 +262,7 @@ He ordered water brought.
 
 ## Water Before the Seat
 
-A servant carried a basin to the dais. The handwashing belonged to Pontius's public theater in this court. It transferred no jurisdiction and released him from no command.
+A servant carried a basin to the dais. The handwashing belonged to the public performance of the court. It transferred no jurisdiction and released him from no command.
 
 Pontius washed his hands before the people nearest the seat and declared that responsibility for the man's blood did not belong to him.
 
@@ -270,7 +270,7 @@ Different voices answered. Claudia could not separate officials from attendants,
 
 The water ran from Pontius's fingers into the basin.
 
-The dream image had arrived through an act he chose after reading her warning. Its resemblance proved no supernatural knowledge. Pontius knew Claudia's message mentioned a dream. He may have washed his hands from custom, political instinct, scriptural theater supplied by the scene's tradition, or a desire to answer her where everyone could see. Claudia could observe the disclaimer and the decision beside it.
+The dream image had arrived through an act he chose after reading her warning. Its resemblance proved no supernatural knowledge. Pontius knew her message mentioned a dream. He may have washed his hands from Roman custom, from political instinct, from a gesture borrowed out of local practice, or from a wish to answer her where everyone could see. Claudia could observe only the disclaimer and the decision standing beside it.
 
 He returned to the seat.
 
@@ -406,6 +406,6 @@ Pontius left to supervise the execution report and the remainder of festival ord
 
 Claudia remained beside the table with the household seal in her palm. Her warning had entered before judgment, offered a moral fact Pontius understood, and failed to change the historical sentence.
 
-It had changed what neither spouse could later claim. Pontius could not say he believed the charge compelled him. Claudia could not say she had remained silent while procedure closed.
+It had changed what neither of them could later claim. Pontius could not say he believed the charge compelled him. Claudia could not say she had remained silent while procedure closed.
 
 Outside, Roman soldiers carried out the order under Pontius's seal.
