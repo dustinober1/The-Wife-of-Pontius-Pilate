@@ -216,7 +216,7 @@ The Roman route supplied a list of gatherings expected near the next festival. I
 
 The household route produced refusals as often as reports. Tamar would ask relatives and market contacts only what they were willing to have carried into the prefect's house. She would not interpret silence as safety.
 
-Each channel had a cost. Temple access increased institutional leverage. Herodian access exposed jurisdictional rivalry. Roman access carried command assumptions. Household access placed free families and enslaved staff near a governor's attention.
+Each channel had a cost. Temple access added to the priesthood's weight against Pontius. Herodian access exposed jurisdictional rivalry. Roman access carried command assumptions. Household access placed free families and enslaved staff near a governor's attention.
 
 Claudia could preserve influence with Pontius only by giving him useful distinctions before another account hardened. If she failed, he would choose speed and complaint prevention without her.
 

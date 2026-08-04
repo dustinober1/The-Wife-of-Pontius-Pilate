@@ -16,7 +16,7 @@ The first official note called the transfer orderly. It stated that the sentence
 
 It did not name the route crowd, injuries, words, followers, or who remained to watch.
 
-Claudia copied the note into her private sequence and marked its capability: soldiers could establish custody, route control, resistance, and completion of orders. They were unlikely to record grief unless grief obstructed them.
+Claudia copied the note into her private sequence and marked what it could carry: soldiers could establish custody, route control, resistance, and completion of orders. They were unlikely to record grief unless grief obstructed them.
 
 ## The Palace Gate
 
@@ -256,7 +256,7 @@ The old impulse to burn private pages returned. Fire would protect Mara, the unn
 
 She separated identity from event instead.
 
-Names and contact routes remained under individual consent seals. The event record used source descriptions, capability, corrections, and dates. Her own note appeared in full because she had made it public. The dream remained in her personal packet and was labeled as her experience, not corroboration.
+Names and contact routes remained under individual consent seals. The event record used source descriptions, what each source could establish, corrections, and dates. Her own note appeared in full because she had made it public. The dream remained in her personal packet and was labeled as her experience, not corroboration.
 
 She wrote the limits before the conclusions:
 

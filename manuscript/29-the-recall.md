@@ -202,7 +202,7 @@ He stopped.
 
 "Claudia," she said.
 
-He tried the name once. Freedom did not make ease immediate.
+He tried the name once. Freedom did not make it easy.
 
 ## Tamar's Choice
 
@@ -260,7 +260,7 @@ Yaakov agreed to serve as one of two carriers but refused to hold the box. His e
 
 The remaining money would last perhaps a year. Claudia transferred a modest continuing payment through a Caesarean merchant whose contracts did not depend on the prefecture. The merchant charged a fee and reserved the right to stop if Roman officials challenged the arrangement.
 
-It was an uncertain institution, not a rescue.
+It was an uncertain institution. It was not a rescue.
 
 Tamar sealed the local copy.
 
@@ -352,7 +352,7 @@ Claudia reduced that risk. She gave Marcus one source-limited copy under the aut
 
 "None alone."
 
-She burned the duplicates page by page, checking each against the copies that would remain beyond one person's control. The ash contained repetition, not the only surviving words.
+She burned the duplicates page by page, checking each against the copies that would remain beyond one person's control. What burned was repetition. The words themselves survived elsewhere.
 
 Her chest grew lighter because custody had been divided.
 

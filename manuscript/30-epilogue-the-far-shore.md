@@ -6,7 +6,7 @@ News of Tiberius's death reached their ship before Italy.
 
 A merchant captain carried it east from Puteoli and signaled the sailing master outside Syracuse. Tiberius had died at Misenum on the seventeenth day before the Kalends of April. By the time the date was translated through two calendars and three tellings, Claudia had Marcus check it against the ship's log.
 
-The two captains' logs agreed. By the later reckoning, the emperor died on the sixteenth of March in A.D. 37. Pontius had been ordered to answer before a living judge and was still at sea when that judge ceased to exist.
+The two captains' logs agreed on the day. Pontius had been ordered to answer before a living judge and was still at sea when that judge ceased to exist.
 
 The merchant knew nothing of the new court's intentions toward a recalled prefect from Judaea.
 
@@ -20,7 +20,7 @@ Pontius stood at the stern after the ships separated. The far line of water held
 
 "The dead at Gerizim do not."
 
-He turned toward her. Once she would have measured the danger of the sentence before speaking. The danger remained. Her dependence on the marriage had not ended because the office had. She said it anyway.
+He turned toward her. Once she would have measured the risk of that remark before making it. The risk remained. Her dependence on the marriage had not ended because the office had. She said it anyway.
 
 "You think this is judgment."
 

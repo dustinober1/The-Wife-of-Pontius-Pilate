@@ -158,7 +158,7 @@ Pontius refused.
 
 "Then divide what you can establish."
 
-The commander reported dead from sword, spear, trampling, and wounds whose causes had not been recorded before removal. The total was grave enough that Pontius made him repeat it. It covered many slain and many prisoners and rested on no count taken in the field by anyone without a reason to shape it. Pontius could be no more certain than the report before him.
+The commander reported dead from sword, spear, trampling, and wounds whose causes had not been recorded before removal. The total was grave enough that Pontius made him repeat it. Many slain, many taken. No count had been made in the field by anyone without a reason to shape it, and Pontius could be no more certain than the report in front of him.
 
 "How many bore arms?"
 
@@ -270,7 +270,7 @@ Neither knew.
 
 "Before," the commander said.
 
-Pontius asked each where he had stood. Their positions did not overlap. Both accounts could be partial and true. The first violence remained unfixed between a missile no direct witness before Pontius could identify and a trumpet signal the messenger could not distinguish.
+Pontius asked each where he had stood. Their positions did not overlap. Both accounts could be partial and true. The first violence stayed unfixed between a missile no witness before him could trace and a trumpet call the messenger could not name.
 
 At the edge of the ground, physicians worked beneath an awning. Pontius had ordered treatment without inquiry. A civil clerk had begun writing names anyway, saying families needed a record to recover the wounded.
 
@@ -338,7 +338,7 @@ Pontius denied the full list and authorized names of injured noncombatants after
 
 "Among a larger body."
 
-He felt the old tribunal pressure return: each distinction true, none capable of commanding.
+He felt the old tribunal pressure return: each distinction true, none of them able to decide anything.
 
 "I ordered the road held and withdrawal allowed. The commander faced resistance."
 
