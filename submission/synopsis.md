@@ -1,0 +1,31 @@
+# Synopsis
+
+*THE WIFE OF PONTIUS PILATE. Historical fiction. 81,000 words.*
+
+Note: a synopsis reveals the ending. This one does.
+
+---
+
+**A.D. 26.** CLAUDIA, raised as a ward in a Roman house and trained there to find the motive beneath the stated one, learns that her husband PONTIUS PILATE has been made prefect of Judaea. She does not ask for affection or influence. She asks for the household accounts, the guest lists, the schedule of delegations, and the petitions he has already decided not to judge. He grants it because it is useful to him. On the crossing she and MARCUS, the household's enslaved Greek secretary, discover that the previous governor logged three religious complaints as trivial and paid for doubled patrols in the same weeks. The method that will define her is now in place: compare what an office says against what it spends.
+
+At Caesarea she reverses a punitive dismissal and keeps TAMAR, a free local worker who challenged a false account and was correct. Tamar becomes her interlocutor and never her instrument, and corrects her repeatedly.
+
+**The standards.** Pontius sends imperial images into Jerusalem by night, classifying the movement as routine so no one can object beforehand. Claudia assembles the truth from an unsealed messenger, a delayed gate report, and Tamar's cousin YAAKOV, who is walking to Caesarea to petition. Petitioners camp outside the gate for five days. Claudia cannot change her husband's answer, so she changes what he knows and opens a household gate to food sellers so no one starves at his wall. On the sixth day Pontius offers the crowd swords or dispersal, and they kneel and bare their necks. He withdraws the images. Then he draws the wrong lesson: delay let the opposition gather. Before the protesters have left, he dictates standing instructions for keeping soldiers out of sight until force can finish its work.
+
+**The aqueduct.** Pontius funds a channel from the Temple treasury, negotiating an agreement in which the high priest CAIAPHAS permits, oversees, benefits, and signs nothing. When the protest comes, Pontius applies his new doctrine: plainclothes soldiers with clubs beneath their cloaks, already standing inside the crowd. Claudia is in the colonnade when the clubs come out. She moves aid through doors she controls, shelters a witness by lying about his employment, and cannot stop any of it. Yaakov is badly injured. Rome's reply arrives as a letter from SEJANUS calling the suppression competence, and Pontius accepts an absolution he never requested. Claudia begins a private casualty ledger with the names divided across three keepers so no single seizure can expose them.
+
+**The turn.** Reports of a preacher at the Jordan reach the household, and Claudia builds the method she will need later: separate what a source witnessed from what it heard, and mark whose interest shapes each account. When Herod ANTIPAS executes JOHN, four incompatible accounts arrive and none can be reconciled. Pontius takes from it that a ruler should act before fear becomes visible. Claudia takes the opposite lesson and says so.
+
+Sejanus is executed in Rome. Pontius, who has just sent north a letter of congratulation, an oath naming Sejanus, and a request for promotion, discovers that every unresolved grievance in his province is now a possible route to an imperial file. He begins governing to prevent complaints. He is not less competent. He is less free.
+
+**A.D. 33.** Jesus of Nazareth enters four different channels under four different descriptions. Claudia establishes what can be established: travelers use his name, followers apply royal titles he is not recorded using, a Temple office asks what Rome has counted without alleging any Roman offense, and Antipas declines responsibility the moment the man crosses south. A woman calling herself MARA, who copies accounts between priestly households, brings Claudia the decisive warning: someone is keeping two lists, one of internal religious disputes, the other of the exact words that would oblige a Roman governor to hear a case. Claudia gets Pontius to require written charges tied to acts, places, and witnesses. The requirement may also have taught an interested clerk precisely what to write.
+
+Jesus is arrested at night. By dawn the charge has become misleading the people, forbidding tribute, and claiming to be a king, and each line is an interpretation converted into an act. Claudia has the material to dismantle all three and no standing to enter the room. She sends corrections; they reach the legal scribe's writing board and stop there. Referral to Antipas fails. The Barabbas offer fails. Scourging fails. Then the accusers name Caesar, and acquittal itself becomes the dangerous act.
+
+Claudia sends her husband a claim she cannot prove: *have nothing to do with that innocent man, for I have suffered much today because of a dream.* It reaches him before judgment. It offers him no safe exit. He washes his hands, and then he signs.
+
+**After.** The tomb is found empty, the guards contradict one another, and Claudia records the accounts without resolving them, protecting the women who came at dawn even when it costs her the investigation and her husband's trust. Three years of narrowing channels follow. She buys Marcus's freedom before the household leaves the province. At Mount Gerizim, Pontius sends cavalry into a crowd whose composition nobody has established, and the Samaritan council's complaint reaches Syria before his own report does. He is recalled.
+
+Tiberius dies while their ship is still at sea, so the judge Pontius was summoned to answer no longer exists, and no hearing is ever scheduled. In a rented house near Rome, Claudia arranges her records by crisis, then removes the headings and puts the limits of each source at the front, so that a reader meets the uncertainty before the sequence can lend it false authority. Her husband asks whether she is writing an accusation. She says it is a record, and that they are both in it. She tells him she will not leave while he can call her leaving a verdict Rome denied him, and that afterward she will decide again.
+
+What became of any of them is not known, and the novel does not invent it.

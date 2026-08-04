@@ -6,7 +6,7 @@
 
 ---
 
-Approximately 80,000 words
+Approximately 81,000 words
 
 Historical fiction
 

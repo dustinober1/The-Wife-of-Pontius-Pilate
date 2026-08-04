@@ -1,6 +1,6 @@
 # Author's Note
 
-The wife of Pontius Pilate appears once in the historical record, in a single verse of Matthew's gospel. While Pilate is sitting in judgment, his wife sends him a message: have nothing to do with that innocent man, for she has suffered much in a dream because of him. Matthew does not name her. He does not say what she dreamed, how the message travelled, who carried it, whether it arrived before the sentence, or what her husband thought when he read it. He does not mention her again.
+The wife of Pontius Pilate appears once in the historical record, in a single verse of Matthew's gospel. While Pilate is sitting in judgment, his wife sends him a message: have nothing to do with that innocent man, for she has suffered much in a dream because of him. Matthew does not name her. He does not say what she dreamed, how the message traveled, who carried it, whether it arrived before the sentence, or what her husband thought when he read it. He does not mention her again.
 
 That verse is the whole of her. Everything else in this novel is built around it.
 
@@ -12,7 +12,7 @@ Pontius Pilate governed Judaea for roughly a decade beginning around A.D. 26. Hi
 
 Three episodes from his tenure survive in detail, and all three are in this book. The military standards carried into Jerusalem by night, the crowd that lay down and bared their necks rather than accept them, and Pilate's retreat. The aqueduct funded from the Temple treasury, the protest, the soldiers hidden in the crowd with clubs beneath their clothes, and the deaths. The gathering at Gerizim and the cavalry sent to stop it.
 
-We know these from Josephus and Philo. Both are indispensable. Both are also hostile to Pilate and writing to persuade. Philo in particular is quoting a letter meant to make a case. When you read that Pilate was inflexible, merciless, and given to executions without trial, you are reading advocacy, not a personnel file. I have tried to take the events seriously and the characterisations sceptically, which is a different thing from taking Pilate's side.
+We know these from Josephus and Philo. Both are indispensable. Both are also hostile to Pilate and writing to persuade. Philo in particular is quoting a letter meant to make a case. When you read that Pilate was inflexible, merciless, and given to executions without trial, you are reading advocacy, not a personnel file. I have tried to take the events seriously and the characterizations skeptically, which is a different thing from taking Pilate's side.
 
 Nobody recorded how many died at the aqueduct, or at Gerizim. Nobody recorded the year of the standards crisis. I have placed events in an order that makes causal sense and admitted, inside the story, that the counts do not exist.
 
@@ -22,11 +22,11 @@ Nobody recorded how many died at the aqueduct, or at Gerizim. Nobody recorded th
 
 **Where the tribunal stood.** The gospels give a paved place, Lithostrotos, called Gabbatha. Scholars have proposed Herod's palace complex and the Antonia fortress, and the argument is not settled. I put it at the palace, gave Claudia a terrace above it, and had her household disagree about the name, because they would have.
 
-**The release of a prisoner at the festival.** Attested in the gospels, unattested anywhere else. There is no independent evidence of a standing Roman policy of releasing a condemned man at Passover, and good reasons to doubt one existed. I kept the episode because it is in the sources and because it does necessary work, and I let it be a manoeuvre rather than a routine.
+**The release of a prisoner at the festival.** Attested in the gospels, unattested anywhere else. There is no independent evidence of a standing Roman policy of releasing a condemned man at Passover, and good reasons to doubt one existed. I kept the episode because it is in the sources and because it does necessary work, and I let it be a maneuver rather than a routine.
 
-**The handwashing.** Matthew alone. It is a gesture with meaning in Jewish scripture and very little standing in Roman law, where washing your hands transfers no jurisdiction and cancels no order. I have staged it as public theatre, which is what it would have been.
+**The handwashing.** Matthew alone. It is a gesture with meaning in Jewish scripture and very little standing in Roman law, where washing your hands transfers no jurisdiction and cancels no order. I have staged it as public theater, which is what it would have been.
 
-**John the Baptist's death.** Josephus says Antipas killed him because his influence over crowds was dangerous and it was safer to strike first. Mark and Matthew give the birthday feast, the dancing, the oath, and the head on a platter. These are not obviously the same story. I have not harmonised them. In the novel, both accounts reach Claudia, neither can be verified, and the disagreement is the point: this is what actually happens to information about a death inside a ruler's household.
+**John the Baptist's death.** Josephus says Antipas killed him because his influence over crowds was dangerous and it was safer to strike first. Mark and Matthew give the birthday feast, the dancing, the oath, and the head on a platter. These are not obviously the same story. I have not harmonized them. In the novel, both accounts reach Claudia, neither can be verified, and the disagreement is the point: this is what actually happens to information about a death inside a ruler's household.
 
 **The hearings before the arrest and the Roman trial.** The gospel sequences differ from one another. Any smooth account of that night is a reconstruction. Claudia's, in this book, is explicitly one.
 
