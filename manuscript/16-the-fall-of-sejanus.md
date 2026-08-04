@@ -48,7 +48,7 @@ Dispatches and merchant reports brought further names over the next weeks. Some 
 
 Rufus brought an unconfirmed report that an eastern official Pontius had met twice had been ordered home. A second source said the man had requested leave because of illness. No official list named Pontius.
 
-"Am I named anywhere in what reaches you?" Pontius asked when continued guessing became intolerable. "You would tell me if you had heard it."
+"Am I named anywhere in what reaches you?" Pontius asked, when the guessing had become intolerable. "You would tell me if you had heard it."
 
 "I would tell you, Prefect. I have heard nothing that names you in accusation or assurance."
 
@@ -228,9 +228,9 @@ The cases taught him that complaint did not belong to one people or institution.
 
 A packet from Syria arrived near the end of the month. It acknowledged Pontius's disclosure to Macro and required him to preserve all related records. It contained no accusation, approval, or promise of continued office.
 
-The seal belonged to the legate's correspondence office, not Macro's. Pontius could prove that Syria had forwarded his disclosure only because the covering tablet said so. He could not prove that anyone in Rome had opened it. Rufus urged patience; a second inquiry might arrive before the first. Pontius entered the route and waited.
+The seal belonged to the legate's correspondence office, not Macro's. Pontius could prove that Syria had forwarded his disclosure only because the covering tablet said so. He could not prove that anyone in Rome had opened it. Rufus urged patience. An answer might still be on the water. Pontius entered the route and waited.
 
-Pontius obeyed. He sealed the oath originals, Sejanus correspondence, aqueduct praise, advancement draft, harbor receipt, and his disclosure under a joint inventory witnessed by the town clerk and Rufus. Too many copies existed elsewhere for destruction to protect him. Preservation became his evidence of candor.
+He obeyed the instruction. He sealed the oath originals, Sejanus correspondence, aqueduct praise, advancement draft, harbor receipt, and his disclosure under a joint inventory witnessed by the town clerk and Rufus. Too many copies existed elsewhere for destruction to protect him. Preservation became his evidence of candor.
 
 He then ordered the current complaint list reviewed before every major festival and every report to Syria. Problems capable of resolution would be settled early. Problems that could not be settled would receive a Roman account before another channel defined them.
 

@@ -162,17 +162,17 @@ Tamar saw the contractor's grain payment entered in the relief ledger and asked 
 
 "It is also what poor sleep does."
 
-Tamar accepted neither explanation for her. Claudia had asked for disagreement and received it.
+Tamar accepted neither explanation. Claudia had asked for disagreement and received it.
 
 ## What She Retained
 
-The dream did not return again that season. On two mornings Claudia woke uneasy and remembered nothing. She entered nothing. Absence of detail could not become evidence merely because fear remained.
+The dream did not return again that season. On two mornings Claudia woke uneasy and remembered nothing. She entered nothing. Absence of detail could not become evidence because fear remained.
 
 She stopped watching Pontius for resemblance to the figure at the edge. That habit had begun after the first night and had already changed how she read ordinary gestures. When he stood at the study window or descended the tribunal steps, she forced herself to attend to the petition or dispatch in front of him.
 
 The private pages remained sealed. They did not enter Marcus's linked records, Pontius's official correspondence, Tamar's accounts, or any report moving through the liaison. Claudia retained them because memory could alter and because destroying an inconvenient record was a practice she had condemned in others.
 
-Her choice did not make the dream prophecy. It made it a dated claim by a frightened witness whose only witness was herself.
+Her choice did not make the dream prophecy. It made it a dated claim by a frightened woman with no one to corroborate her but herself.
 
 At the end of the month Marcus brought the repaired wage account. The two laborers had received what was owed. The engineer and village elder still disputed the drain.
 

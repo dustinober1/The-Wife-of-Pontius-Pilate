@@ -16,7 +16,7 @@ He felt relief before satisfaction. He had acted for years on the belief that Se
 
 "Rufus," he said, "have the town clerk prepare the new year's forms. Include Sejanus with the consular honors and send me the wording before it is copied."
 
-Rufus, who had served long enough under enough patrons of his own to know which enthusiasms were worth matching and which were worth simply executing without comment, saluted and went, and Pontius sat alone afterward with the dispatch, reading the enumerated honors a second time more slowly than the first, already composing, in the part of his mind that had never stopped composing it since the red seal in the garden in Rome, the letter he intended to send north on the next ship.
+Rufus had served long enough under enough patrons of his own to know which enthusiasms were worth matching and which were worth carrying out without comment. He saluted and went. Pontius sat alone afterward with the dispatch, reading the enumerated honors a second time, more slowly than the first, already composing the letter he meant to send north on the next ship. Part of his mind had been composing it since the red seal in the garden in Rome.
 
 ## The New Coinage
 
@@ -26,9 +26,9 @@ He approved another issue of bronze that season. The mint continued the lituus a
 
 "There is no face on it," Pontius said. "No emperor or god."
 
-"No, Prefect. But you may be obligated to answer for it, when the objection reaches whatever ears in Jerusalem the objection is aimed at."
+"No, Prefect. You may still have to answer for it, when the objection reaches the ears in Jerusalem it is aimed at."
 
-Pontius set the coin down and looked at him with the particular patience he reserved for a subordinate who had said something worth hearing but had said it in a register too cautious for the moment. "Let them object. I have spent four years absorbing every objection this province has thought to raise against me and have lost, in that time, exactly one argument, over a set of standards that I withdrew as a courtesy I did not owe them and have not been thanked for since. I do not intend to spend the fifth year of my administration asking permission for the design on my own province's coinage. Mint it as proposed."
+Pontius set the coin down and looked at him with the patience he kept for a subordinate who had said something worth hearing in a voice too cautious for it. "Let them object. I have spent four years absorbing every objection this province has thought to raise against me and have lost, in that time, exactly one argument, over a set of standards that I withdrew as a courtesy I did not owe them and have not been thanked for since. I do not intend to spend the fifth year of my administration asking permission for the design on my own province's coinage. Mint it as proposed."
 
 He ordered the type continued and required objections to be copied into the provincial correspondence rather than suppressed. He expected the record to show that he had heard opposition and chosen a lawful Roman design. Philotas warned that the same record could show Rome exactly when Pontius chose confrontation.
 
@@ -56,7 +56,7 @@ The formula bound the Roman officials first to Tiberius and named Sejanus as the
 
 Pontius watched them, a habit kept from the stadium. Their stillness revealed no private judgment.
 
-He mentioned the stillness to Philotas afterward, more out of habit than genuine curiosity, a man cataloguing a detail because cataloguing detail was the discipline that had kept him alive through every posting before this one. "They watched the whole of it and swore nothing themselves. I did not expect they would. I only wonder what they make of it."
+He mentioned the stillness to Philotas afterward, more from habit than curiosity. Cataloguing detail was the discipline that had kept him alive through every posting before this one. "They watched the whole of it and swore nothing themselves. I did not expect they would. I only wonder what they make of it."
 
 "They will preserve the wording," Philotas said. "So will the town clerk. You have made your reading of the instruction public."
 
@@ -120,7 +120,7 @@ Claudia accepted the wording as accurate. She did not call it complete.
 
 "You have no letter saying he placed you here."
 
-Pontius possessed remembered attention, intermediaries who invoked Sejanus's name, and the appointment itself. In Rome that had been enough to build a career. In Judaea it was not enough for Claudia to mark a fact as proved.
+What Pontius had was a remembered attention, intermediaries who had invoked Sejanus's name, and the appointment itself. In Rome that had been enough to build a career. In Judaea it was not enough for Claudia to mark a fact as proved.
 
 "If I wait for proof of every patron's hand, another man takes the place while I am still comparing seals."
 
@@ -132,7 +132,7 @@ He did. In the private copy of his letter, beside the request for duties closer 
 
 He drafted the letter to Sejanus with the study window open to the sea. The letter would probably be screened by secretaries. He wanted every reader to see gratitude, results, and a request for advancement.
 
-*I write to offer my congratulations on an honor Rome has rarely extended to any man not born to expect it, and to say plainly what I would not trouble a busier correspondent to read if I did not believe it worth his attention: the province continues as you left it in my hands, tested this year by matters I have reported in full and resolved, I believe, as thoroughly as the circumstances allowed. The aqueduct approaches completion ahead of its schedule. The treasury accounts stand open to any scrutiny Rome cares to apply to them. I do not ask for anything beyond what you have already given me, except to say that a man who has governed four years in a province few consider worth the governing would count himself fortunate to be remembered, when the time comes for Rome to consider which of its servants have earned a return to duties closer to the center of things.*
+*I write to offer my congratulations on an honor Rome has rarely extended to any man not born to expect it. I will say plainly what I would not trouble a busier correspondent to read if I did not believe it worth his attention. The province continues as you left it in my hands, tested this year by matters I have reported in full and resolved, I believe, as thoroughly as the circumstances allowed. The aqueduct approaches completion ahead of its schedule. The treasury accounts stand open to any scrutiny Rome cares to apply to them. I ask for nothing beyond what you have already given me, except to say that a man who has governed four years in a province few consider worth the governing would count himself fortunate to be remembered when the time comes for Rome to consider which of its servants have earned duties closer to the center of things.*
 
 He read the letter twice before sealing it. The last sentence made his ambition unmistakable without demanding an answer.
 
