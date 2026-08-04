@@ -92,6 +92,8 @@ Marcus warned that the total would never be exact.
 
 They preserved three totals: people treated through the eastern store and linked houses, deaths reported by consenting families, and unnamed absences whose cause could not be proved. None became the number of the riot.
 
+She added one line that belonged to none of the totals. The warning sent into the colonnade stood as Marcus had first entered it. Sent, hour uncertain, receipt unestablished. Every other entry recorded what the morning had done to someone else. That one recorded what it had done to her own reach.
+
 Philotas objected to the expense and the missing names. Pontius objected to the purpose.
 
 "You are building a second official account inside my household."
