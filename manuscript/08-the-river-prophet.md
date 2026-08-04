@@ -160,7 +160,11 @@ She raised it with Pontius that evening in the study, where the lamp burned late
 
 "I think he means what your household tells you he means." He said it without irony. It was as close as Pontius came to admitting that what moved through Tamar's kitchen reached him too, by way of his wife rather than any report his own men filed. "I have no complaint against a man who tells soldiers to take only their wages and collectors to take only what is owed. My concern is narrower. A crowd that size has gathered on a river Antipas cannot fully police. What he does about it will not happen on my side of the border."
 
-He went back to the tablet, and Claudia understood the audience was closing. Something in it stayed with her. Her husband trusted ledgers over rumor in every other matter she had watched him weigh, and he had not once suggested the preacher's numbers were exaggerated or that the crowds would thin with the season. That was how he dismissed most unrest reaching him secondhand. He had measured this one and then set it across a border. Claudia could not decide whether that was judgment or convenience.
+He went back to the tablet, and Claudia understood the audience was closing. Something in it stayed with her.
+
+Her husband trusted ledgers over rumor in every other matter she had watched him weigh, and he had not once suggested the preacher's numbers were exaggerated or that the crowds would thin with the season. That was how he dismissed most unrest reaching him secondhand.
+
+He had measured this one and then set it across a border. Claudia could not decide whether that was judgment or convenience.
 
 The next morning a letter arrived from Antipas's household secretary. It thanked Pontius for leaving order at the ford to the tetrarch's officers and stated that the gathering remained religious in character. A second paragraph requested notice if subjects of Judaea crossed the boundary in organized numbers.
 

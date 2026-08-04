@@ -4,11 +4,21 @@
 
 ## The Silence After
 
-The household returned to Caesarea within the week, sooner than the festival calendar required. Neither of them said why. A city with blood still being scrubbed from its colonnade stones was not a city Pontius wished his household to go on living in while the scrubbing continued. He did not speak of the riot again after that first night in her doorway. She did not raise it. The silence settled over the coast road with the density of a thing both of them were carrying and neither would set down first.
+The household returned to Caesarea within the week, sooner than the festival calendar required. Neither of them said why.
 
-She watched him instead, in the small ways a wife watches a husband she has decided to observe rather than confront. He took his meals at his desk more often than at the table now. The dispatches at his elbow never seemed to shrink, whatever hours he gave them. He had begun standing at the study window with his back to the room for long stretches that had nothing to do with anything he could be reading there. He had always worked long hours. This was different, and she recognized the difference the way she recognized weather changing before the sky confirmed it. A man was occupying his hours rather than spending them, filling the space where a reckoning might otherwise have found room.
+A city with blood still being scrubbed from its colonnade stones was not a city Pontius wished his household to go on living in while the scrubbing continued. He did not speak of the riot again after that first night in her doorway. She did not raise it.
 
-Tamar came to her twice that first week. Once with news of Yaakov, mending faster than the physician had promised, though the ribs still caught his breath on cold mornings. Once with nothing to report, simply to sit with her in the peristyle garden in a silence that had none of the strain the household's other silence carried. Whatever had passed between them in the doorway on the night of the riot, the word Tamar had used, subject, had not been withdrawn and was not going to be. It had been folded into the friendship as a fact the friendship would have to hold. Claudia preferred it that way. A friendship that pretended away the shape of the world between them would not have been worth the name.
+The silence settled over the coast road with the density of a thing both of them were carrying and neither would set down first.
+
+She watched him instead, in the small ways a wife watches a husband she has decided to observe rather than confront. He took his meals at his desk more often than at the table now. The dispatches at his elbow never shrank, whatever hours he gave them. He had begun standing at the study window with his back to the room for long stretches that had nothing to do with anything he could be reading there.
+
+He had always worked long hours. This was different, and she knew the difference the way she knew weather changing before the sky confirmed it. A man was occupying his hours rather than spending them, filling the space where a reckoning might otherwise have found room.
+
+Tamar came to her twice that first week. Once with news of Yaakov, mending faster than the physician had promised, though the ribs still caught his breath on cold mornings. Once with nothing to report, only to sit with her in the peristyle garden in a silence that had none of the strain the household's other silence carried.
+
+Whatever had passed between them in the doorway on the night of the riot, the word Tamar had used, subject, had not been withdrawn and was not going to be. It had been folded into the friendship as a fact the friendship would have to hold.
+
+Claudia preferred it that way. A friendship that pretended away the shape of the world between them would not have been worth the name.
 
 On the second visit Tamar brought three sealed consents from people treated through the eastern store. Mattan kept the names. Marcus's tablet held injuries, payments, places found, and witnesses. Rufus's summary counted only people his officers admitted striking. The Temple household sent burial requests without stating cause.
 
@@ -16,13 +26,25 @@ Claudia could join some entries through date and place. Others remained separate
 
 ## A Show of Unity
 
-A delegation of Caesarea's Greek magistrates had been promised a formal dinner before the riot, a courtesy planned months ahead to smooth relations with the city's non-Jewish council. Pontius would not cancel it. A governor who let one bad season in Jerusalem unsettle every other obligation, he argued over supper the night before, taught every faction in the province that unsettling him was worth the attempt. Claudia did not disagree with the reasoning. She disagreed with what the evening would ask of her, and could find no way to say so that did not sound, even to her own ear, like a wife shirking a duty she had performed a dozen times without complaint.
+A delegation of Caesarea's Greek magistrates had been promised a formal dinner before the riot, a courtesy planned months ahead to smooth relations with the city's non-Jewish council. Pontius would not cancel it. A governor who let one bad season in Jerusalem unsettle every other obligation, he argued over supper the night before, taught every faction in the province that unsettling him was worth the attempt.
 
-She wore the blue stola she kept for occasions requiring the most deliberate composure and stood beside her husband at the door of the triclinium. The guests spoke of the aqueduct works with the easy approval of men who had not stood in the colonnade's shade to see what the works cost. They praised the Prefect's foresight in securing Temple funds for a project that would serve Greek and Jew alike. Claudia smiled at each of them and said the small correct things a prefect's wife said on such evenings, and felt a distance opening in herself that had nothing to do with the guests and everything to do with the ease of her own performance. She had not known until that evening how well she had been trained to this. She had been doing it since the tablinum, before she had a name for it. Making herself useful by making a room comfortable, whatever the comfort cost her elsewhere.
+Claudia did not disagree with the reasoning. She disagreed with what the evening would ask of her. There was no way to say so that did not sound, even to her own ear, like a wife shirking a duty she had performed a dozen times without complaint.
 
-Pontius performed his own part with the same practiced competence. He laughed at the right moments and turned a magistrate's pointed question about the crowd's numbers with a figure that was accurate and told the man nothing he had asked. Once, while a servant refilled his cup, he caught Claudia's eye across the room, and something passed between them that was not performance. The same exhaustion she was carrying, acknowledged and folded back under the evening's required smoothness before either of them could decide what to do with having seen it. It was the most honest exchange they had all evening, and it took a heartbeat and no words.
+She wore the blue stola she kept for occasions requiring the most deliberate composure and stood beside her husband at the door of the triclinium. The guests spoke of the aqueduct works with the easy approval of men who had not stood in the colonnade's shade to see what the works cost. They praised the Prefect's foresight in securing Temple funds for a project that would serve Greek and Jew alike.
 
-The magistrates left satisfied by every measure the evening had been built to satisfy them by. Claudia and Pontius stood afterward in the emptied triclinium among the debris of a dinner neither of them had wanted. Neither spoke, until he said, in a voice stripped of the evening's polish, "I am tired of performing certainty I no longer entirely feel."
+Claudia smiled at each of them and said the small correct things a prefect's wife said on such evenings. A distance opened in her that had nothing to do with the guests and everything to do with the ease of her own performance.
+
+She had not known until that evening how well she had been trained to this. She had been doing it since the tablinum, before she had a name for it. Making herself useful by making a room comfortable, whatever the comfort cost her elsewhere.
+
+Pontius performed his own part with the same practiced competence. He laughed at the right moments and turned a magistrate's pointed question about the crowd's numbers with a figure that was accurate and told the man nothing he had asked.
+
+Once, while a servant refilled his cup, he caught Claudia's eye across the room, and something passed between them that was not performance. The same exhaustion she was carrying, acknowledged and folded back under the evening's required smoothness before either of them could decide what to do with having seen it.
+
+It was the most honest exchange they had all evening, and it took a heartbeat and no words.
+
+The magistrates left satisfied by every measure the evening had been built to satisfy them by. Claudia and Pontius stood afterward in the emptied triclinium among the debris of a dinner neither of them had wanted.
+
+Neither spoke, until he said, in a voice stripped of the evening's polish, "I am tired of performing certainty I no longer feel."
 
 "Then stop performing it. At least with me."
 
@@ -110,7 +132,11 @@ Only two families consented to comparison. One Temple burial entry matched the h
 
 The ledger became harder to summarize and harder to dismiss honestly. It could prove that official returns were incomplete. It could not supply a clean rival total.
 
-She wrote her own letter that same week. She showed it to no one and sent it nowhere. She had not done such a thing since the tablinum lessons of her childhood, when her guardian's Greek tutor set her copying model letters to imaginary correspondents as an exercise in a clear hand. This one she meant entirely, and she burned it in the study brazier before the ink had dried. She could think of no one alive to whom she might send an honest account of what she had watched in the colonnade's shade without endangering them or asking a grief they had no obligation to carry for her.
+She wrote her own letter that same week. She showed it to no one and sent it nowhere.
+
+She had not done such a thing since the tablinum lessons of her childhood, when her guardian's Greek tutor set her copying model letters to imaginary correspondents as an exercise in a clear hand. This one she meant, and she burned it in the study brazier before the ink had dried.
+
+She could think of no one alive to whom she might send an honest account of what she had watched in the colonnade's shade without endangering them or asking a grief they had no obligation to carry for her.
 
 *I stood among the people who received the order*, the letter had said before she fed it to the flame. *I carried one child out and left others behind. I cannot make the difference between them into virtue.*
 
@@ -118,7 +144,11 @@ She did not tell Pontius she had written it. She did tell him the relief total a
 
 Marcus carried coin only where a recipient accepted a Roman household messenger. Tamar and Mattan carried other payments. Their roles remained separate, and every route exposed someone differently.
 
-By autumn the marriage had settled into a shape neither of them named. Cordial where it had once been close. A household still run with the same competence and the same outward ease, crossed now by a silence that had nowhere left to go, having been spoken once in a doorway and answered once in a letter neither of them could unread. Claudia did not entirely mourn the change. A marriage that had lived on a shared certainty about the arithmetic of governing could not have survived intact the discovery that the arithmetic left men dead in a colonnade and was called competence afterward. What remained was harder and more honest. Two people who had each seen something in themselves that summer they had not expected, and had chosen, for reasons neither understood yet, to go on sharing a household and a bed and an uncertain province.
+By autumn the marriage had settled into a shape neither of them named. Cordial where it had once been close. A household still run with the same competence and the same outward ease, crossed now by a silence that had nowhere left to go, having been spoken once in a doorway and answered once in a letter neither of them could unread.
+
+Claudia did not mourn the change. A marriage that had lived on a shared certainty about the arithmetic of governing could not have survived intact the discovery that the arithmetic left men dead in a colonnade and was called competence afterward.
+
+What remained was harder and more honest. Two people who had each seen something in themselves that summer they had not expected, and had chosen, for reasons neither understood yet, to go on sharing a household and a bed and an uncertain province.
 
 Sejanus's letter entered Pontius's official correspondence as assurance that no inquiry was contemplated. Claudia's divided tablets remained in the household chest with the liaison's challenge tied beside them.
 

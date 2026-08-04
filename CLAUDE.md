@@ -8,7 +8,7 @@ This repository is the sole manuscript and editorial source of truth for *The Wi
 
 - Drafted prose: Prologue and Chapters 1–30, including the Epilogue.
 - Undrafted outline stubs: none.
-- Current drafted baseline: **79,970 prose words**, counted with `python3 scripts/word_count.py` after the whole-book line edit. This supersedes the 80,847 figure recorded during the publication preparation pass; the line edit removed roughly 880 words of deadwood, chiefly by breaking up the long periodic sentences in Chapters 8 through 13 and cutting narration that summarised scenes already dramatised.
+- Current drafted baseline: **79,929 prose words**, counted with `python3 scripts/word_count.py` after the whole-book line edit. This supersedes the 80,847 figure recorded during the publication preparation pass; the line edit removed roughly 880 words of deadwood, chiefly by breaking up the long periodic sentences in Chapters 8 through 13 and cutting narration that summarised scenes already dramatised.
 - Finished target: approximately **80,000–85,000 words**, never below 65,000.
 
 The full manuscript is drafted. Do not create duplicate chapter files or add chapters beyond the governed outline without an explicit structural revision.

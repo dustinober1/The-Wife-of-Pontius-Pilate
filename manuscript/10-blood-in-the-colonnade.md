@@ -4,7 +4,13 @@
 
 ## What the Household Heard First
 
-The household had moved up to Jerusalem for the length of the festival crowds, as it did every year the calendar required. Three years into the practice, the city still struck Claudia as a place built on a different scale of feeling than Caesarea's broad Roman streets. Narrower, louder, thick with woodsmoke and roasting meat and a dust that seemed to rise from the hill rather than settle on it. A city that argued with itself in every doorway and counted the argument a form of prayer. She had learned to read its temper before Pontius's dispatches reached his desk, by watching which servants came back from the markets talking and which came back silent. That morning it was silence. Tamar returned from the grain sellers near the Damascus gate with her basket half filled and her mouth set in a line Claudia had learned to recognize as news not yet decided whether it wanted telling.
+The household had moved up to Jerusalem for the length of the festival crowds, as it did every year the calendar required.
+
+Three years into the practice, the city still struck Claudia as a place built on a different scale of feeling than Caesarea's broad Roman streets. Narrower, louder, thick with woodsmoke and roasting meat and a dust that rose from the hill rather than settling on it. A city that argued with itself in every doorway and counted the argument a form of prayer.
+
+She had learned to read its temper before Pontius's dispatches reached his desk, by watching which servants came back from the markets talking and which came back silent.
+
+That morning it was silence. Tamar returned from the grain sellers near the Damascus gate with her basket half filled and her mouth set in a line Claudia had learned to recognize as news not yet decided whether it wanted telling.
 
 "They are saying the water is cursed," Tamar said finally, setting the basket down harder than the lentils in it required. "Not the water itself. The money that paid for the channel. Men are gathering near the colonnade by the outer court to say so where the Prefect's people will hear it."
 
@@ -12,7 +18,9 @@ The household had moved up to Jerusalem for the length of the festival crowds, a
 
 Tamar did not answer at once, which Claudia understood by now to be its own kind of answer. "My cousin Yaakov went down before dawn. He said there were more men than he had counted at the standards, and quieter, which he did not like. A crowd that shouts wants to be heard. A crowd that waits wants something else."
 
-Claudia thought of the survey Pontius had brought home from Caesarea a season ago, the figures he had read aloud over supper with the satisfaction he kept for a problem reduced at last to arithmetic. Twenty miles of channel. Water enough for every cistern in the city. A treasury that funded it without costing the province a denarius. He had not asked what the money had been before it was arithmetic. She had not asked either, and the omission sat in her now with a weight she recognized as guilt only after it had lodged.
+Claudia thought of the survey Pontius had brought home from Caesarea a season ago, the figures he had read aloud over supper with the satisfaction he kept for a problem reduced at last to arithmetic. Twenty miles of channel. Water enough for every cistern in the city. A treasury that funded it without costing the province a denarius.
+
+He had not asked what the money had been before it was arithmetic. She had not asked either, and the omission sat in her now with a weight she recognized as guilt only after it had lodged.
 
 "I want to see it," she said. Tamar's face answered before she did.
 
@@ -130,7 +138,11 @@ Pontius came to her rooms past the hour when she had stopped expecting him, in a
 
 "I was there, Pontius." She said it quietly. "I saw the clubs come out from under the cloaks. I saw an old man go down and not get up. I do not need the report you are giving Rome. I stood among the men who received the order."
 
-He was silent long enough that she understood he was deciding which version of himself to bring into the silence: the Prefect who defended the order, or the husband who had not known his wife stood close enough to watch it carried out. What came was neither, quite. "I did not ask them to die," he said, and his voice had lost, for the first time since she had known him, the flat carrying pitch he used for figures and reports. "I asked them to go home. I gave them the chance to go home, the same chance I gave the men at the standards, and they chose to press the tribunal instead, and I do not know, Claudia, standing here now, what order I could have given differently that would have ended any other way."
+He was silent long enough that she understood he was deciding which version of himself to bring into the silence: the Prefect who defended the order, or the husband who had not known his wife stood close enough to watch it carried out.
+
+What came was neither, quite.
+
+"I did not ask them to die," he said, and his voice had lost, for the first time since she had known him, the flat carrying pitch he used for figures and reports. "I asked them to go home. I gave them the same chance I gave the men at the standards, and they chose to press the tribunal instead. I do not know, Claudia, standing here now, what order I could have given that would have ended any other way."
 
 "Perhaps there was no order that would have ended differently," she said. "Perhaps the failure was earlier than the order. Perhaps it was in the spending, or in the arithmetic, or in whatever certainty told you the water was worth more than the asking."
 

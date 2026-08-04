@@ -28,7 +28,7 @@ He approved another issue of bronze that season. The mint continued the lituus a
 
 "No, Prefect. You may still have to answer for it, when the objection reaches the ears in Jerusalem it is aimed at."
 
-Pontius set the coin down and looked at him with the patience he kept for a subordinate who had said something worth hearing in a voice too cautious for it. "Let them object. I have spent four years absorbing every objection this province has thought to raise against me and have lost, in that time, exactly one argument, over a set of standards that I withdrew as a courtesy I did not owe them and have not been thanked for since. I do not intend to spend the fifth year of my administration asking permission for the design on my own province's coinage. Mint it as proposed."
+Pontius set the coin down and looked at him with the patience he kept for a subordinate who had said something worth hearing in a voice too cautious for it. "Let them object. Four years of objections from this province, and I have lost exactly one argument. A set of standards I withdrew as a courtesy I did not owe and have not been thanked for. I will not spend my fifth year asking permission for the design on my own coinage. Mint it as proposed."
 
 He ordered the type continued and required objections to be copied into the provincial correspondence rather than suppressed. He expected the record to show that he had heard opposition and chosen a lawful Roman design. Philotas warned that the same record could show Rome exactly when Pontius chose confrontation.
 

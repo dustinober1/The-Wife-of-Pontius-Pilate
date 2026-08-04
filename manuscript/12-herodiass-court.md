@@ -6,7 +6,9 @@
 
 Tiberias announced itself before the road did, new stone rising along the western shore of the lake. Tamar had warned that old tombs were said to have been disturbed during construction and that some observant families avoided the city. She did not know how many. The objection itself mattered because Antipas had built a capital whose splendor could be read as impurity.
 
-Pontius had called the visit a courtesy owed between neighboring authorities. A border dispute over grazing rights had survived a season of letters, and Antipas had proposed at last to close it in person, over a shared table, in the manner two men trained to Roman method understood better than any formal arbitration. Claudia had not asked to come. He had asked her, in a tone that surprised her by wanting an answer rather than assuming one, and she had understood the request as a repair attempted after the silence that followed the riot. Neither of them named it that.
+Pontius had called the visit a courtesy owed between neighboring authorities. A border dispute over grazing rights had survived a season of letters, and Antipas had proposed at last to close it in person, over a shared table, in the manner two men trained to Roman method understood better than any formal arbitration.
+
+Claudia had not asked to come. He had asked her, in a tone that surprised her by wanting an answer rather than assuming one, and she had understood the request as a repair attempted after the silence that followed the riot. Neither of them named it that.
 
 He also gave her work. Antipas's letters blamed Judaean herders for crossing a seasonal line. Petitions reaching Caesarea blamed the tetrarch's estate agents for moving boundary stones toward the west after each rain.
 
