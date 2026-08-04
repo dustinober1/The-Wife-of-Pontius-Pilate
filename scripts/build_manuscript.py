@@ -20,12 +20,12 @@ from __future__ import annotations
 
 import argparse
 import re
+import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-MANUSCRIPT = ROOT / "manuscript"
-FRONT = ROOT / "front-matter"
-BACK = ROOT / "back-matter"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from bookcompile import ROOT, FRONT, BACK, chapters, matter_files, total_words  # noqa: E402
+
 BUILD = ROOT / "build"
 
 AUTHOR = "Dustin Ober"
@@ -33,40 +33,17 @@ SURNAME = "Ober"
 TITLE = "THE WIFE OF PONTIUS PILATE"
 SCENE_BREAK = "#"
 
-POV_RE = re.compile(r"^\*POV:[^*]*\*$")
-WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
-
-
-def parse_chapter(path: Path):
-    """Return (title, blocks) where each block is (kind, text)."""
-    title = None
-    blocks: list[tuple[str, str]] = []
-    for raw in path.read_text(encoding="utf-8").splitlines():
-        line = raw.strip()
-        if not line:
-            continue
-        if line.startswith("# "):
-            title = line[2:].strip()
-            continue
-        if POV_RE.fullmatch(line):
-            continue
-        if line.startswith("## "):
-            blocks.append(("section", line[3:].strip()))
-            continue
-        blocks.append(("para", line))
-    return title, blocks
-
-
-def chapters():
-    for path in sorted(MANUSCRIPT.glob("*.md")):
-        title, blocks = parse_chapter(path)
-        yield path, title, blocks
+# Retail-only front/back matter (copyright page, dedication, discussion
+# questions, and similar apparatus) is excluded here: an agent submission
+# manuscript should carry nothing but a title page, an optional epigraph
+# or cast list, the text, and at most an author's note.
+INCLUDE_RETAIL_ONLY = False
 
 
 def build_markdown(keep_titles: bool) -> str:
     out: list[str] = []
-    for path in sorted(FRONT.glob("*.md")):
-        out.append(path.read_text(encoding="utf-8").rstrip())
+    for _path, body in matter_files(FRONT, include_retail_only=INCLUDE_RETAIL_ONLY):
+        out.append(body)
         out.append("\n---\n")
     for _, title, blocks in chapters():
         out.append(f"# {title}\n")
@@ -76,10 +53,10 @@ def build_markdown(keep_titles: bool) -> str:
             else:
                 out.append(f"{text}\n")
         out.append("\n---\n")
-    note = BACK / "author-note.md"
-    if note.exists():
-        out.append(note.read_text(encoding="utf-8").rstrip())
-    return "\n".join(out) + "\n"
+    for _path, body in matter_files(BACK, include_retail_only=INCLUDE_RETAIL_ONLY):
+        out.append(body)
+        out.append("\n---\n")
+    return "\n".join(out).rstrip() + "\n"
 
 
 def add_runs(paragraph, text: str) -> None:
@@ -159,10 +136,9 @@ def build_docx(keep_titles: bool, total_words: int) -> Path:
                 para(text, indent=0 if first else 0.5)
                 first = False
 
-    note = BACK / "author-note.md"
-    if note.exists():
+    for _path, body in matter_files(BACK, include_retail_only=INCLUDE_RETAIL_ONLY):
         doc.add_page_break()
-        for line in note.read_text(encoding="utf-8").splitlines():
+        for line in body.splitlines():
             line = line.strip()
             if not line:
                 continue
@@ -208,10 +184,7 @@ def main() -> None:
     md_path = BUILD / "the-wife-of-pontius-pilate.md"
     md_path.write_text(md, encoding="utf-8")
 
-    total = sum(
-        len(WORD_RE.findall(" ".join(t for k, t in blocks if k == "para")))
-        for _, _, blocks in chapters()
-    )
+    total = total_words()
 
     print(f"chapters compiled : {len(list(chapters()))}")
     print(f"prose words       : {total:,}")

@@ -1,3 +1,5 @@
 # Build artifacts are reproducible with scripts/build_manuscript.py
 # The .docx is committed as the submission deliverable.
 build/*.md
+__pycache__/
+*.pyc
