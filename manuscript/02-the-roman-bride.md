@@ -185,5 +185,3 @@ The key was trust and temptation together. She could enter the record because he
 Pontius did not give her every letter. She knew because wax crumbs sometimes remained on his desk after a dispatch had been read and removed. At first she asked. He answered that some matters belonged to command. Claudia accepted the boundary while remembering it. Their new habit rested on selection, and selection itself could become an omission worth reading.
 
 The habit did not remove tenderness. It gave tenderness a harder setting. Some nights Pontius closed the tablets and spoke of nothing political. Other nights he reached for them before greeting her. Claudia learned that being needed could resemble being loved closely enough to confuse the two. She kept asking, for now, which one had entered the room.
-
-So the marriage took its working shape: he brought her an official explanation, and she asked what behavior or omission stood behind it.
