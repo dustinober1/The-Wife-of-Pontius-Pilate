@@ -1,5 +1,7 @@
 # Chapter 5: The Standards at Night
 
+*POV: Claudia*
+
 ## Three Reports
 
 The Antonia report reached Caesarea before sunrise.

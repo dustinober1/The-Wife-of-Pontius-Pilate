@@ -1,5 +1,7 @@
 # Chapter 23: The Bema
 
+*POV: Claudia*
+
 ## The Court Below
 
 Claudia crossed the reception room barefoot and forced the terrace doors open against warped wood.
@@ -64,7 +66,7 @@ Her first proposed exit remained above the court.
 
 ## The Festival Prisoner
 
-A group at the gate began demanding the customary festival petition for a prisoner. The surviving traditions supplied a release episode; no independent provincial rule available to Claudia established a regular Passover custom. Pontius nevertheless recognized clemency as a political maneuver already expected by people at the court.
+A group at the gate began demanding the customary festival petition for a prisoner. Claudia had never found a provincial rule establishing such a custom, and no clerk she had asked could name one. Pontius recognized clemency as a maneuver the court already expected.
 
 Roman custody held a man called Barabbas, accused in connection with violent unrest and killing. The exact acts available in the custody summary were broader than the witnesses named in the court. He represented a familiar Roman category: violence, detention, and blood.
 
@@ -260,7 +262,7 @@ He ordered water brought.
 
 ## Water Before the Seat
 
-A servant carried a basin to the dais. The handwashing belonged to the adopted Matthean tradition and to Pontius's public theater in this court. It was no Roman transfer of jurisdiction and no release from command.
+A servant carried a basin to the dais. The handwashing belonged to Pontius's public theater in this court. It transferred no jurisdiction and released him from no command.
 
 Pontius washed his hands before the people nearest the seat and declared that responsibility for the man's blood did not belong to him.
 
@@ -316,7 +318,7 @@ Marcus remained beside Varro until the custody procession cleared the court. Tem
 
 Claudia sent Tamar no order to follow the execution party. Roman movement and festival crowds made such a request dangerous, and Tamar had never consented to become Claudia's witness at a killing.
 
-She asked Simon to keep the kitchen gate open for injured or frightened household contacts and to use the relief rules without demanding news. The next chapter's accounts would come only from people who chose to return.
+She asked Simon to keep the kitchen gate open for injured or frightened household contacts and to use the relief rules without demanding news. Whatever accounts came would come only from people who chose to return.
 
 Below, the court dispersed unevenly. Officials left with their attendants. Barabbas's petitioners crowded toward another gate. Curious people followed the soldiers. Unrelated petitioners waited to learn whether Pontius would hear ordinary cases after a death sentence.
 

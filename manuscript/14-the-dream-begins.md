@@ -1,5 +1,7 @@
 # Chapter 14: The Dream Begins
 
+*POV: Claudia*
+
 ## The First Night
 
 She woke before dawn with a cracking sound in her ears. The night outside held the ordinary heat of a Judaean summer. Nothing in the house had broken.

@@ -1,5 +1,7 @@
 # Chapter 12: Herodias's Court
 
+*POV: Claudia*
+
 ## The City on the Graves
 
 Tiberias announced itself before the road did, new stone rising along the western shore of the lake. Tamar had warned that old tombs were said to have been disturbed during construction and that some observant families avoided the city. She did not know how many. The objection itself mattered because Antipas had built a capital whose splendor could be read as impurity.
@@ -56,7 +58,7 @@ Herodias joined them for the evening banquet with every expression prepared. She
 
 "I expected someone homesick for Rome," Herodias said.
 
-"I have been here three years. Whatever homesickness I arrived with has had time to wear itself into something more useful."
+"I have been here four years. Whatever homesickness I arrived with has had time to wear itself into something more useful."
 
 "Useful," Herodias repeated. "Then you know what your husband hears before he decides."
 
@@ -68,7 +70,7 @@ It was a question presented as courtesy. "Sometimes."
 
 "My husband has confined a man who condemns our marriage," Herodias said. "Your household has heard of him."
 
-Claudia kept her face as still as she had learned, across three years in this province, to keep it. "I have heard something of him. A preacher at the river."
+Claudia kept her face as still as she had learned, across four years in this province, to keep it. "I have heard something of him. A preacher at the river."
 
 "A preacher at the river."
 
@@ -273,6 +275,6 @@ Pontius asked which account she trusted.
 
 "The formal paper proves what the secretary will defend. Herodias proves what she wants me to carry. Salome proves the household listens. None proves Antipas's purpose."
 
-He ordered Marcus's Chapter 8 comparison linked to Claudia's Tiberias notes under Machaerus and Antipas. The record would remain outside a Roman security file unless a border consequence arose.
+He ordered Marcus's river comparison linked to Claudia's Tiberias notes under Machaerus and Antipas. The record would remain outside a Roman security file unless a border consequence arose.
 
 Claudia had left with an answer about wool and no answer about the prisoner. The uncertainty itself had sharpened. In Antipas's court, fear traveled as hospitality, briefing, servant talk, and family pressure, each version ready for a different listener.

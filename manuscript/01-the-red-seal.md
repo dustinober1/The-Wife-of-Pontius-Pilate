@@ -1,5 +1,7 @@
 # Chapter 1: The Red Seal
 
+*POV: Claudia*
+
 ## Rome, Seven Years Earlier (A.D. 26)
 
 Seven years before Jerusalem, the summons arrived sealed in red wax.

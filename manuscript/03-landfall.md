@@ -1,5 +1,7 @@
 # Chapter 3: Landfall
 
+*POV: Claudia*
+
 ## The Shore of Judaea
 
 Land announced itself first by smell, dry resin carried across the last miles of water.

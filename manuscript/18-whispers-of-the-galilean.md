@@ -1,5 +1,7 @@
 # Chapter 18: Whispers of the Galilean
 
+*POV: Claudia*
+
 ## Four Names for One Man
 
 The first formal paper called him Jesus son of Joseph, a Galilean teacher associated with Capernaum and villages along the lake. A gate clerk had placed the note among expected Passover movements because several travelers used his name when asked why they were going south.
@@ -10,7 +12,7 @@ Antipas's secretary referred only to *the teacher lately active in Galilee*. He 
 
 Tamar brought a fourth name from a family near Caesarea: healer.
 
-Claudia placed the reports on separate tablets in the writing room where Chapter 17's test had begun. Passover remained weeks away, but the coastal and Jordan roads were already carrying pilgrims. Her immediate task was to decide whether Pontius needed another uncertain religious report before the movement acquired a Roman charge.
+Claudia placed the reports on separate tablets in the writing room where the four-channel test had begun. Passover remained weeks away, but the coastal and Jordan roads were already carrying pilgrims. Her immediate task was to decide whether Pontius needed another uncertain religious report before the movement acquired a Roman charge.
 
 "Who in the family saw him?" she asked Tamar.
 

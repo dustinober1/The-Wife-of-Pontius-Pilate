@@ -12,7 +12,7 @@ Claudia kept three lists. One named channels still willing to receive household 
 
 Marcus copied the first two. Claudia wrote the third herself.
 
-The years between that Passover and the summons from Gerizim left little secure public record. In Claudia's household they accumulated as payments, absences, changed seals, and conversations compressed here from scattered seasons. No surviving account could make those years complete. Her pages could only show what reached her and what she chose to do with it.
+The years between that Passover and the summons from Gerizim left little secure public record. In Claudia's household they accumulated as payments, absences, changed seals, and conversations she could no longer place in their exact seasons. Her pages could only show what reached her and what she chose to do with it.
 
 Tamar returned to Caesarea before the next festival. She had asked to leave Jerusalem after strangers twice questioned Simon about the women at the tomb. Claudia approved the transfer and kept Tamar's wage unchanged. The steward objected that a free worker who abandoned an assigned residence should lose the cost of return travel.
 

@@ -18,7 +18,7 @@ The legal scribe lowered his eyes. The military secretary stopped arranging the 
 
 "Marcellus has been sent to take charge of affairs."
 
-The surviving account would leave Marcellus's exact rank uncertain. He came as a caretaker or temporary administrator, sufficient to receive the province while Pontius went west. The modest title did nothing to soften the transfer of power.
+The order did not fix Marcellus's exact rank. He came as a caretaker or temporary administrator, sufficient to receive the province while Pontius went west. The modest title did nothing to soften the transfer of power.
 
 "Does Vitellius request my report?" Pontius asked.
 

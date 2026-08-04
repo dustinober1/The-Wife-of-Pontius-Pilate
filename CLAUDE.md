@@ -8,7 +8,7 @@ This repository is the sole manuscript and editorial source of truth for *The Wi
 
 - Drafted prose: Prologue and Chapters 1–30, including the Epilogue.
 - Undrafted outline stubs: none.
-- Current drafted baseline: **80,380 prose words**, counted with `python3 scripts/word_count.py` during the final whole-book audit.
+- Current drafted baseline: **80,363 prose words**, counted with `python3 scripts/word_count.py` during the whole-book consistency pass.
 - Finished target: approximately **80,000–85,000 words**, never below 65,000.
 
 The full manuscript is drafted. Do not create duplicate chapter files or add chapters beyond the governed outline without an explicit structural revision.

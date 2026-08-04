@@ -1,5 +1,7 @@
 # Chapter 2: The Roman Bride
 
+*POV: Claudia*
+
 ## The Garden at the Palatine
 
 Rome smelled of crushed laurel and river damp that morning, though nine-year-old Claudia watched ants carry a dead beetle along the garden wall.

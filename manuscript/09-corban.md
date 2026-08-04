@@ -1,5 +1,7 @@
 # Chapter 9: Corban
 
+*POV: Pontius*
+
 ## The Problem of Water
 
 Jerusalem's problem, reduced to its essentials, was one Pontius understood better than any problem the priesthood had yet brought him: the city held too many people for the water that reached it. He had the figures from his own engineers before the pilgrims' complaints ever reached his desk, laid out in the flat, undeniable language he trusted above every other kind. At Passover the population within the walls swelled to some three or four times its ordinary count, and the existing channel from the pools at Solomon ran dry by the festival's second week in a bad year, leaving cisterns to be rationed by household and the Temple's own ablution basins refilled by hand-carried jars from wells the priesthood guarded jealously against the crowds.

@@ -1,5 +1,7 @@
 # Chapter 13: The Baptist's Head
 
+*POV: Claudia*
+
 ## What Came from Machaerus
 
 Months passed after Tiberias. No report reaching Claudia fixed the exact interval between John's confinement and execution. The grazing markers were restored under paired witnesses. News from Machaerus remained fragmentary: a provision order, a changed watch, followers turned from the road, and claims that Antipas visited the fortress.

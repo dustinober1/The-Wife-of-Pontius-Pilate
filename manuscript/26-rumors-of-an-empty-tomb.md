@@ -1,5 +1,7 @@
 # Chapter 26: Rumors of an Empty Tomb
 
+*POV: Claudia*
+
 ## Before the First Report
 
 The first tomb-watch tablet after the sacred rest did not arrive at its expected hour.

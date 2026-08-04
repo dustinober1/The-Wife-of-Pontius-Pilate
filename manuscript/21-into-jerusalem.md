@@ -1,5 +1,7 @@
 # Chapter 21: Into Jerusalem
 
+*POV: Claudia*
+
 ## The Road Before the Feast
 
 The prefectural household left Caesarea before the pilgrim roads reached their fullest strain. Pontius traveled with the official party, court equipment, legal clerks, and a guard sufficient to mark Roman authority without resembling a marching army. Claudia's wagons followed with household staff and the protected records she had chosen to carry.

@@ -1,5 +1,7 @@
 # Chapter 7: A Woman Named Tamar
 
+*POV: Claudia*
+
 ## The Return
 
 The petitioners had gone home, but the household did not return with them.

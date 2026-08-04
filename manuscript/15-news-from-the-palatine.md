@@ -1,5 +1,7 @@
 # Chapter 15: News from the Palatine
 
+*POV: Pontius*
+
 ## The Joint Consulship
 
 The dispatch reached Caesarea among the quarter's ordinary correspondence, between a Decapolis tax return and a misdirected grain query from Machaerus. Rufus set it apart because the outer seal belonged to the Syrian legate's office and the enclosed digest concerned the Senate.
@@ -26,7 +28,7 @@ He approved another issue of bronze that season. The mint continued the lituus a
 
 "No, Prefect. But you may be obligated to answer for it, when the objection reaches whatever ears in Jerusalem the objection is aimed at."
 
-Pontius set the coin down and looked at him with the particular patience he reserved for a subordinate who had said something worth hearing but had said it in a register too cautious for the moment. "Let them object. I have spent three years absorbing every objection this province has thought to raise against me and have lost, in that time, exactly one argument, over a set of standards that I withdrew as a courtesy I did not owe them and have not been thanked for since. I do not intend to spend the fourth year of my administration asking permission for the design on my own province's coinage. Mint it as proposed."
+Pontius set the coin down and looked at him with the particular patience he reserved for a subordinate who had said something worth hearing but had said it in a register too cautious for the moment. "Let them object. I have spent four years absorbing every objection this province has thought to raise against me and have lost, in that time, exactly one argument, over a set of standards that I withdrew as a courtesy I did not owe them and have not been thanked for since. I do not intend to spend the fifth year of my administration asking permission for the design on my own province's coinage. Mint it as proposed."
 
 He ordered the type continued and required objections to be copied into the provincial correspondence rather than suppressed. He expected the record to show that he had heard opposition and chosen a lawful Roman design. Philotas warned that the same record could show Rome exactly when Pontius chose confrontation.
 
@@ -48,7 +50,7 @@ Pontius could classify that as compliance, warning, or habit. He entered only th
 
 ## The Oath
 
-He held the new year's ceremony in the forum at Caesarea. Magistrates and garrison officers stood before a plain dais. The surviving sources Claudia and Pontius possessed did not establish a single empire-wide oath formula honoring Sejanus, so the words used in Caesarea were the town clerk's expansion of the consular instruction, approved by Pontius.
+He held the new year's ceremony in the forum at Caesarea. Magistrates and garrison officers stood before a plain dais. No instruction in Pontius's possession fixed one formula for honoring Sejanus across the empire, so the words used in Caesarea were the town clerk's expansion of the consular order, approved by Pontius.
 
 The formula bound the Roman officials first to Tiberius and named Sejanus as the Emperor's colleague in the consulship. Pontius ordered the officers to answer aloud. Merchants and freedmen followed the civic form. Jewish officials watched from the forum's edge and were not required to swear.
 

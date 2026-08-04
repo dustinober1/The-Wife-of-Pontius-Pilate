@@ -1,5 +1,7 @@
 # Chapter 8: The River Prophet
 
+*POV: Claudia*
+
 ## News Carried Overland
 
 Two years had worn the household into a shape Claudia no longer thought of as foreign. She knew which market stalls sold fish honestly weighed, knew the trumpet calls that divided the garrison watch, and knew enough of Tamar's calendar to expect the kitchen quiet on the seventh day. Caesarea had become a place whose disagreements reached her by several doors.
