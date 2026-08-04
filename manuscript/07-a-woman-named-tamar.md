@@ -4,7 +4,7 @@
 
 ## The Return
 
-The petitioners had gone home, but the household did not return with them.
+The petitioners had gone home. The household did not go back to what it had been.
 
 Soldiers drilled in the lower court under Rufus's harder eye. Roman servants complained that local workers had carried bread to people who shamed the prefect. Two kitchen hands failed to appear on the morning after the images left Jerusalem. Philotas marked them absent and asked whether Tamar's leave should be entered the same way.
 
@@ -100,7 +100,7 @@ The objection was crude, though the administrative problem beneath it was real. 
 
 Philotas wrote slowly enough to display disapproval.
 
-Claudia went to the mourning house on the third day with Marcus and no palace guard. Roman decorum objected to the visit. Household prudence objected more strongly after the standards crisis. She went before the objection could harden into Pontius's order.
+Claudia went to the mourning house on the third day with Marcus and no palace guard. Roman decorum was against the visit. Household prudence was more strongly against it after the standards crisis. She went before either could harden into an order from Pontius.
 
 The house stood two streets from the harbor. Neighbors filled the small courtyard and two rooms beyond it. Tamar sat low among them with a tear at the collar of her tunic. When she saw Claudia, gratitude did not appear. Alarm did.
 
@@ -116,7 +116,7 @@ Claudia heard the mistake. She had entered mourning carrying an answer before as
 
 Tamar pointed to an empty place near the wall.
 
-No one explained the torn garments. No one arranged the mourners for her understanding. A neighbor set bread and lentils on a cloth. The loaves were round, though Claudia did not ask why. Rivkah's absence occupied the room without needing an interpreter.
+No one explained the torn garments. No one arranged the mourners for her understanding. A neighbor set bread and lentils on a cloth. The loaves were round. Claudia did not ask why. Rivkah's absence occupied the room without needing an interpreter.
 
 Marcus remained by the doorway. A man asked whether he was Claudia's freedman. Marcus answered, "I belong to the prefect's household." The man's face changed. Free Tamar could refuse the palace gate. Marcus had followed Claudia into a house where her rank protected her and marked him.
 
@@ -170,7 +170,7 @@ Claudia looked at him. "And by you."
 
 "Yes, Domina."
 
-The danger belonged to the method, not to the reader's virtue.
+The danger belonged to the method. No reader's virtue would remove it.
 
 They drafted a narrow rule. A free household worker could name one dependent or the person on whom the worker depended. After a death, serious illness, or injury, Claudia could authorize up to seven days of held wages and a fixed payment for food, burial, or physician's fees. The central tablet would record only the worker, sum, and category. A separate folded list of names would remain under Claudia's household seal. Marcus would record the payments. Philotas would witness the coin leaving the chest. Neither man could add a beneficiary.
 
@@ -274,7 +274,7 @@ Claudia revised the rule. Absence and held wages required two household witnesse
 
 "I say it exposes fewer people. That is not the same thing."
 
-Conditional trust sounded like that: an offered use followed by the description of its danger.
+Conditional trust sounded like that. A use offered, and then the danger in it named.
 
 Mattan found work for Yaakov carrying tablets and checking deliveries at the outer store. Yaakov accepted because the wage matched the task and because Mattan, not Claudia, made the offer. His shoulder kept him from lifting jars. His knowledge of the harbor sellers let him catch a delivery entered twice in the first week.
 
@@ -332,7 +332,7 @@ She asked Marcus to begin a second monthly line for injuries reported by househo
 
 That answer carried its own danger. A later prefectural inquiry might use the pattern to find people the divided record tried to protect. Claudia required her seal before any total left the household office. The practice could support relief after another public injury. It could also become a guide to the injured if she lost control of it.
 
-She sealed the folded payment notes and gave Mattan his separate list. From then on, anyone who accepted the household's help would create a trace, even divided between hands. The trace might later protect a wage, prove an injury, or draw official attention to a family.
+She sealed the folded payment notes and gave Mattan his separate list. From then on, anyone who accepted the household's help would leave a trace, however the hands were divided. The trace might later protect a wage, prove an injury, or draw official attention to a family.
 
 Tamar watched her close the chest.
 

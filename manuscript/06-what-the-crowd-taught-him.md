@@ -70,7 +70,7 @@ He gave the signal. Soldiers moved from the entrances and lower passages, formin
 
 Pontius watched for the break.
 
-A man near an exit pulled his son up by the arm and began toward the open passage. Two women followed. Several others shifted, uncertain whether to rise or make room. The plan had found the ordinary human wish to live.
+A man near an exit pulled his son up by the arm and began toward the open passage. Two women followed. Several others shifted, uncertain whether to rise or make room. The plan had found the ordinary wish to live.
 
 Then the elders at the front knelt and bared their necks.
 
@@ -92,7 +92,7 @@ Even perfect discipline would leave the other consequence.
 
 The first written account could say Pontius had suppressed defiance after repeated warning. The gate report, liaison protest, household market record, and five days of witnesses would travel beside it. Survivors would name unarmed people killed in a stadium after accepting a formal summons. Caiaphas could condemn the images and the blood while claiming he had sought orderly petition. The Syrian governor would ask why a routine rotation required a public slaughter.
 
-Sejanus's favor might help. Pontius had no assurance that it would bear the weight of a province made harder to govern for the sake of images he could remove without weakening the fortress itself. Patronage was an advantage, not a wall against every complaint.
+Sejanus's favor might help. It might also fail to bear the weight of a province made harder to govern for the sake of images he could remove without weakening the fortress. Patronage was an advantage, and it was no wall against every complaint.
 
 He considered giving the order and found no political end beyond the killing. The standards would remain above a city with fresh martyrs. The garrison would need reinforcements. Festival crowds would arrive already carrying the story. Authority would have become an obligation to repeat the same violence wherever mourning gathered.
 
@@ -104,7 +104,7 @@ Pontius lowered his hand.
 
 Rufus repeated the order. The ring of iron vanished by degrees.
 
-The petitioners remained kneeling. Their stillness now belonged to them, and Pontius felt the tribunal beneath his feet become a platform on which his threat had been displayed and withdrawn.
+The petitioners remained kneeling. Their stillness belonged to them now. The tribunal under his feet had become a platform where his threat had been shown and taken back.
 
 He addressed the elder.
 
@@ -176,7 +176,7 @@ There it was. The cost she had accepted had also shown him a weakness in the mov
 
 Pontius expected an argument. Claudia only inclined her head. She had changed his information before the stadium. She had preserved provisions and one servant's leave. She had not given the order that lowered his hand.
 
-After she left, he reviewed the day without granting it meaning it had not earned. He had prevented a massacre and preserved a usable garrison. He had also summoned a crowd to witness that Rome's threat could fail.
+After she left, he went over the day and refused it any meaning it had not earned. He had prevented a massacre and preserved a usable garrison. He had also summoned a crowd to witness that Rome's threat could fail.
 
 The error began earlier than the stadium. He had allowed objection time to gather bodies, households to carry provisions, elders to agree on a single demand, and separate witnesses to preserve the sequence. Delay had enlarged the price of every choice.
 
