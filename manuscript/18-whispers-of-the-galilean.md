@@ -254,7 +254,7 @@ She gave him the gate tally before its summary. Pontius counted the entries.
 
 "Eleven is still eleven more bodies in Jerusalem."
 
-"Yes. It is evidence of attachment, not coordination."
+"Yes. It is evidence of attachment. It is not evidence of coordination."
 
 She gave him the Temple paper and her questions. Pontius noticed the absence of tax or weapons before she pointed to it.
 
@@ -302,6 +302,6 @@ A gate note did. Three pilgrims from Perea said they expected the Galilean to be
 
 The clerk had written both statements under *royal expectation*.
 
-Claudia preserved the contradiction and sent it to Pontius before the daily report closed. The measurable risk was no army and no proven claim. It was a growing pilgrim current carrying political titles toward Jerusalem while the man at its center remained outside every account Claudia could verify.
+Claudia preserved the contradiction and sent it to Pontius before the daily report closed. There was no army and no proven claim. There was a rising pilgrim current carrying political titles toward Jerusalem, and a man at its center who stood outside every account she could verify.
 
-She committed the next inquiry to the distinction that could decide everything: what Jesus said, what followers wanted, what opponents feared, and which part an institution would place before Rome.
+She set the next inquiry on the distinction that would matter most: what Jesus said, what followers wanted, what opponents feared, and which part an institution would place before Rome.

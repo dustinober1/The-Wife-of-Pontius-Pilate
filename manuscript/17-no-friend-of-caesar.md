@@ -136,7 +136,7 @@ Pontius allowed the practice for one season. He could end it whenever he judged 
 
 He heard the reference to John and Sejanus. "Quickly."
 
-Speed remained his condition. Claudia's safeguard was comparison before classification, not endless delay.
+Speed remained his condition. Claudia's safeguard was comparison before classification. It had never been meant as delay.
 
 ## The First Comparison
 
@@ -146,7 +146,7 @@ The Roman gate note came from an officer who had counted eleven people crossing 
 
 The trader from Antipas's territory had passed the crossing two days later. He saw no group and had heard that local officials were watching several villages. He did not know whether the officials watched the teacher, tax resistance, or ordinary festival travel.
 
-The four channels therefore established only that talk about a Galilean teacher had crossed into Judaea, some travelers identified themselves with him, and at least one Temple-linked source considered the teaching worth reporting. They did not establish an organized band, weapons, a march, or a fixed number of followers.
+The four channels established only that talk about a Galilean teacher had crossed into Judaea, some travelers identified themselves with him, and at least one Temple-linked source considered the teaching worth reporting. They did not establish an organized band, weapons, a march, or a fixed number of followers.
 
 Claudia brought that result to Pontius before the evening dispatch closed.
 
