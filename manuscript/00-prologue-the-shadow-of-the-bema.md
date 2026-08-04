@@ -48,7 +48,7 @@ The hearing had already changed shape.
 
 Claudia left the terrace.
 
-In the reception room she forced herself to stop beside Marcus's schedule. Four messengers had entered since midnight. One came from the high priest's household, one from the Antonia, one from Herod Antipas's lodging, and one from the prefectural archive. The order of their arrival mattered. The archive messenger came last, after the hearing had already been arranged. Someone had asked for a legal form after the political decision was moving.
+In the reception room she forced herself to stop beside Marcus's schedule. Messages had come by four routes since midnight. One route ran from the high priestly households, one from the Antonia, one from Herod Antipas's lodging, and one from the prefectural archive. The order of their arrival mattered. The archive messenger came last, after the hearing had already been arranged. Someone had asked for a legal form after the political decision was moving.
 
 She pressed a finger to the wax beside each name. A dream could make a frightened woman see design in accident. The schedule gave her something firmer. Priestly accusation, military custody, Herodian jurisdiction, Roman procedure. Each office had passed the prisoner along and kept its own ability to disown him. No single hand controlled the morning, and that was worse.
 
