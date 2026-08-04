@@ -54,7 +54,7 @@ Philotas looked at Marcus, then at Claudia. "I added them this morning. Lucanus 
 
 Pontius had already turned toward the records room. "Keep whoever is useful. Dismiss whoever is not."
 
-The instruction seemed simple. Claudia watched Philotas relax and Marcus mark the names. The decision had been delegated without a standard for usefulness, which meant the old hierarchy would decide whom the new household needed.
+The instruction seemed simple. Claudia watched Philotas relax and Marcus mark the names. The decision had been delegated without a standard for usefulness, which left the old hierarchy to decide who was needed.
 
 Claudia spent the afternoon walking the service rooms with Philotas. Roman servants occupied the positions closest to the prefect's person. Greek freedmen controlled records and purchasing. Local hired workers carried water, cleaned courtyards, prepared foods the Roman cooks did not understand, and absorbed blame when schedules failed.
 
@@ -66,9 +66,9 @@ She asked for wage rolls and duty lists. Philotas produced one but not the other
 
 "The consequences are not. A free worker can leave. An enslaved servant can be punished or sold. I need to know which threat a steward is using when he calls someone disobedient."
 
-Philotas's expression suggested the distinction would create inconvenience. That was precisely why it had been erased.
+Philotas's expression suggested the distinction would create inconvenience. That was why it had been erased.
 
-By sunset, that ambiguity produced its first victim.
+By sunset the ambiguity had put someone out of work.
 
 ## The Kitchen Account
 
@@ -118,7 +118,7 @@ The steward stared at her. "On whose authority?"
 
 "Mine over the household accounts. Marcus, record that I suspended the dismissal and the reason. Send a copy to Philotas and one to the prefect's secretary."
 
-That made the choice costly. It placed Claudia's name in the record before she knew whether Pontius would support her.
+The choice was costly. It placed her name in the record before she knew whether Pontius would support her.
 
 Lucanus was escorted away. The Roman kitchen servants watched in silence. Tamar knelt to gather the coins.
 
@@ -132,11 +132,11 @@ The kitchen staff objected to Marcus entering the market account because he belo
 
 Claudia solved the dispute by dividing the authority. Tamar would name the rate, seller, and expected quantity. Marcus would record the testimony, count the coins, and preserve both marks. Neither could establish the whole account alone.
 
-Together Tamar and Marcus counted the silver. Marcus recorded amount, source, and witness. Tamar identified the market rate and named two sellers who could confirm it. Their functions did not overlap. Marcus preserved the administrative trail. Tamar supplied local knowledge of the transaction.
+Together they counted the silver. Tamar named the market rate and two sellers who could confirm it. Marcus wrote down amount, source, and witness, and kept both marks where they could be compared.
 
 The missing money equaled twelve fish at the listed rate.
 
-Pontius summoned Claudia before the evening meal. Lucanus had served the previous administration's secretary and knew where several unindexed files had been stored. Removing him immediately would slow the prefect's review.
+Lucanus had served the previous administration's secretary and knew where several unindexed files had been stored. Removing him immediately would slow the prefect's review. Pontius summoned Claudia before the evening meal.
 
 "You have made a household theft into an official question," Pontius said.
 
@@ -172,7 +172,7 @@ Claudia called the affected workers into the service court in pairs, with Tamar 
 
 The solution required Roman staff to cover two late watches and required the kitchens to bake bread earlier. Sulpicia complained that the Roman women were being made to carry provincial customs on their backs. Claudia answered by taking responsibility for the schedule and adding a small wage supplement from her household allowance for the two additional watches.
 
-That choice kept the kitchens operating and prevented six workers from being marked absent. It also taught Philotas that Claudia would spend money to preserve a local practice, a fact he could use later when arguing against her decisions.
+That choice kept the kitchens operating and prevented six workers from being marked absent. It also taught Philotas that Claudia would spend money to preserve a local practice, which he could use against her later.
 
 ## A Woman Named Tamar
 
@@ -186,7 +186,7 @@ Tamar looked surprised by the speed of the answer.
 
 "I am free to leave this house," she said after a moment. "Lucanus spoke as if dismissal meant sale. It does not. But work under the prefect protects my aunt's household from hunger. A Roman accusation follows a person farther than a Roman apology."
 
-The correction landed cleanly. Claudia had understood the risk, though incompletely. Tamar possessed freedom Marcus did not. She also lived under an occupying household's power to damage reputation, wages, and family security.
+The correction landed. Claudia had understood the risk only in part. Tamar possessed freedom Marcus did not. She also lived under an occupying household's power to damage reputation, wages, and family security.
 
 "Then the record will state that the dismissal was withdrawn because the count supported your objection," Claudia said. "It will not call the matter a misunderstanding."
 
@@ -232,7 +232,7 @@ Claudia could have concealed the complication and preserved a cleaner victory. I
 
 "Against part of it. A true charge does not become stronger by keeping a false detail."
 
-That answer earned no friendship. It earned a longer look and, later, the first warning Tamar offered without being asked: several local workers planned to leave before the coming Sabbath rather than risk punishment for refusing duties. Claudia revised the rota before the resignations occurred. The household remained staffed, a limited outcome improved by information that would otherwise have arrived as disruption.
+That answer earned no friendship. It earned a longer look and, later, the first warning Tamar offered without being asked: several local workers planned to leave before the coming Sabbath rather than risk punishment for refusing duties. Claudia revised the rota before the resignations came. The household remained staffed. The news had reached her as information rather than as damage already done.
 
 At supper, Philotas warned her quietly that Roman servants would now bring every quarrel to her.
 

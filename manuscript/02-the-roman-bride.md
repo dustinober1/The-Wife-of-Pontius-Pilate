@@ -4,9 +4,9 @@
 
 ## The Garden at the Palatine
 
-Rome smelled of crushed laurel and river damp that morning, though nine-year-old Claudia watched ants carry a dead beetle along the garden wall.
+Rome smelled of crushed laurel and river damp that morning. Claudia, nine years old, was watching ants carry a dead beetle along the garden wall.
 
-Ennius called her twice before she looked up. The old steward never raised his voice, even for the girl the staff named the ward of the house when they believed she could not hear.
+Ennius called her twice before she looked up. The old steward never raised his voice, even for the girl the staff called the ward of the house when they believed she could not hear.
 
 "Your guardian asks for you in the tablinum. Bring the copy you made yesterday."
 
@@ -118,7 +118,7 @@ Five years into the marriage, Pontius came home before autumn.
 
 The steward found Claudia in the garden. "He rode ahead of his clients. He has asked for you and ordered the accounts from the Germania command brought to the study."
 
-The old childhood instinct measured the summons for danger.
+The instinct trained into her as a child measured the summons for danger.
 
 She found him standing over three tablets, travel dust still on his boots. A sealed letter lay unopened beside them.
 
@@ -128,7 +128,7 @@ She found him standing over three tablets, travel dust still on his boots. A sea
 
 "I believe men blame rivers because rivers cannot be questioned."
 
-He handed her the quartermaster account. The formal entries aligned. Dates, quantities, witnesses. Claudia read twice, then examined the supplier's letter.
+He handed her the quartermaster account. The formal entries aligned. Dates, quantities, witnesses. Claudia read it twice, then examined the supplier's letter.
 
 "Who inspected the cloaks when they arrived?"
 
@@ -184,6 +184,6 @@ The key was trust and temptation together. She could enter the record because he
 
 Pontius did not give her every letter. She knew because wax crumbs sometimes remained on his desk after a dispatch had been read and removed. At first she asked. He answered that some matters belonged to command. Claudia accepted the boundary while remembering it. Their new habit rested on selection, and selection itself could become an omission worth reading.
 
-The habit did not remove tenderness. It gave tenderness a harder setting. Some nights Pontius closed the tablets and spoke of nothing political. Other nights he reached for them before greeting her. Claudia learned that being needed could resemble being loved closely enough to confuse the two. She chose, for then, to keep asking which one had entered the room.
+The habit did not remove tenderness. It gave tenderness a harder setting. Some nights Pontius closed the tablets and spoke of nothing political. Other nights he reached for them before greeting her. Claudia learned that being needed could resemble being loved closely enough to confuse the two. She kept asking, for now, which one had entered the room.
 
-Their marriage gained a new habit: he brought her an official explanation, and she asked what behavior or omission stood behind it.
+So the marriage took its working shape: he brought her an official explanation, and she asked what behavior or omission stood behind it.

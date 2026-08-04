@@ -24,7 +24,7 @@ Triumph altered him more than wine did. His shoulders widened. The room seemed b
 
 "He put my name where it had to be put. No other man in the Guard could have moved it so quickly."
 
-Pontius believed that. Perhaps he was right. Patronage rarely left a clean record, and powerful men encouraged dependents to credit them for doors that might have opened through several hands.
+Pontius believed that. Perhaps he was right. Patronage rarely left a clean record, and a powerful man liked his dependents to credit him with doors that several hands had opened.
 
 "You have the appointment," Claudia said. "That is what can be known."
 
@@ -48,7 +48,7 @@ Claudia rose and touched the cracked wax with one finger. "My uncle passed throu
 
 "Yes. Which means it will punish the governor who mistakes custom for defiance."
 
-Pontius turned toward the study. The movement ended the discussion in the manner of a man accustomed to carrying decisions out of rooms before opposition could gather weight.
+Pontius turned toward the study. He ended discussions that way, carrying decisions out of rooms before opposition could gather.
 
 Claudia stepped into his path.
 
@@ -78,7 +78,7 @@ He studied her with the wary pleasure he took in a useful proposal. "And diploma
 
 "Most disputes reach government after passing through a household."
 
-That made him smile. His expression suggested the uses he already saw for her: smoothing rooms before he entered, warning him which vanity required praise, keeping household friction from reaching his desk. Access to records might serve those purposes. It would also let her measure what his orders cost after he issued them, a use he had not granted aloud.
+That made him smile. She could see the uses he had already found for her: smoothing rooms before he entered, warning him which vanity wanted praise, keeping household friction off his desk. Access to records would serve all of that. It would also let her measure what his orders cost after he gave them, which he had not granted aloud.
 
 Pontius walked to the basin and looked down into the moving water. "My secretary will say you have no training in provincial law."
 
@@ -136,7 +136,7 @@ Pontius glanced at her. "You have had your access for three days and already com
 
 "I am testing whether it exists."
 
-Marcus lowered his eyes, though Claudia saw the hint of relief in his face. The record chests had been assigned to separate transports. Her instruction would keep related material together and place Marcus in charge of the cross-reference she had proposed.
+Marcus lowered his eyes, though Claudia saw the relief in his face. The record chests had been assigned to separate transports. Her instruction would keep related material together and place Marcus in charge of the cross-reference she had proposed.
 
 Pontius moved the eagle from Jerusalem to Caesarea. "What do you expect to find?"
 
@@ -160,7 +160,7 @@ Marcus looked toward the study door. "And if he does not see it?"
 
 "Then I will ask why Gratus spent soldiers on matters he called harmless."
 
-That was the first consequence of Claudia's bargain. A small one. A record altered before departure, a young enslaved secretary made responsible for a comparison no prefect had requested before.
+That was the first consequence of her bargain. A record altered before departure, and a young enslaved secretary made responsible for a comparison no prefect had asked for.
 
 Pontius poured wine into a second cup. "You see? We are already governing."
 
@@ -176,7 +176,7 @@ He traced the road from Caesarea toward Jerusalem. "Three years of steady collec
 
 "I expect men to describe their own conduct generously. Rome trained them to do it."
 
-The buried honesty in him surfaced. "Sejanus will not protect a governor who arrives timid."
+He answered without dressing it. "Sejanus will not protect a governor who arrives timid."
 
 "Caution and timidity are different errors."
 
@@ -238,7 +238,7 @@ Pontius weighed punishment against schedule, then adopted her solution. The conv
 
 The merchant's cargo moved instead.
 
-It was a limited victory, affecting no law and saving no life. Yet the records remained together because Claudia had looked beyond the formal instruction to the men benefiting from it.
+It was a small victory. No law changed and no life was saved. The records stayed together because Claudia had looked past the instruction to the men who profited by it.
 
 During the first hours beyond the harbor, Claudia opened the paired chests with Marcus. They began with the three petitions whose dates matched unusual expenses. One concerned a quarrel over a shield hung near a meeting place. Gratus's margin called it needless agitation. The quartermaster account recorded two injured soldiers, a damaged gate, and payment to local masons.
 
@@ -268,7 +268,7 @@ Claudia watched Marcus secure the tablet beneath his cloak as spray crossed the 
 
 Italy flattened behind them. Ahead lay a province neither of them understood.
 
-Claudia accepted the journey and the role she had claimed within it. Information would reach Pontius through clerks, soldiers, priests, merchants, servants, and his wife. She had secured a place in that passage.
+Information would reach Pontius through clerks, soldiers, priests, merchants, servants, and his wife. She had secured a place in that passage.
 
 Before sunset she and Marcus agreed on rules for the work. He would never remove an official document without its place marked. He would copy names exactly, even when a Roman clerk had misspelled them. He would distinguish what he witnessed from what another servant reported. Claudia would never promise protection she could not provide. If Pontius closed a file, Marcus would not steal it for her.
 
