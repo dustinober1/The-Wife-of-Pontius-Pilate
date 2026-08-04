@@ -132,6 +132,14 @@ Tamar came to her before the second lamp had burned down, still in the plain man
 
 She left before Claudia could answer. Claudia did not call her back. Whatever needed saying would keep until the ribs mended and the dead stopped being counted, and nothing said tonight would sound like anything but arithmetic.
 
+Marcus had traced the message by the time the lamps were lit. The legal scribe remembered passing a household tablet to a lictor at the cordon. The lictor remembered a tablet and could not say whose seal it carried or at what hour he had given it on. No one at the tribunal admitted receiving it. No one denied it either.
+
+Claudia entered the line exactly as she had it. Warning sent. Hour uncertain. Receipt unestablished.
+
+Then she sat with what the entry meant. If the message had reached Pontius before the signal, he had let the clubs come out with her words in his hand. If it had not, then a warning under the prefect's wife's own seal had died somewhere between a scribe and a lictor while men were being beaten forty paces away, and no procedure existed that would have carried it faster.
+
+She could not tell which. She was not certain which she would have preferred.
+
 Pontius came to her rooms past the hour when she had stopped expecting him, in a clean toga. The hem no longer carried whatever it had carried in the colonnade. He looked like a man rehearsing an account he had already given twice that day to men who outranked him, and would have to give again, in writing, to a man in Rome who outranked them both.
 
 "They pressed the tribunal," he said, before she had asked him anything. "Rufus's men used clubs rather than blades, exactly as I ordered. The order was dispersal. The deaths came from the crush, mostly. Panic in a crowd that size kills more than any weapon does."
@@ -147,6 +155,22 @@ What came was neither, quite.
 "Perhaps there was no order that would have ended differently," she said. "Perhaps the failure was earlier than the order. Perhaps it was in the spending, or in the arithmetic, or in whatever certainty told you the water was worth more than the asking."
 
 She watched it reach him. He had no figure ready to answer it, and that frightened her nearly as much as the colonnade had. A man who always had a figure ready was a man she had learned across ten years how to read and how to counter. The man standing empty-handed in her doorway, his account already rehearsed twice for men who would judge him on it, was one she was only beginning to see.
+
+She could have stopped there. The harder thing was more particular than the arithmetic, and it was hers.
+
+"There was one order," she said. "You could have delayed. I asked you to."
+
+He looked up.
+
+"I sent a warning before the signal. Marcus carried it to your legal scribe under my seal. It said your soldiers were already standing inside the crowd, and it asked you to hold the hearing until Rufus cleared the exits."
+
+"No such message reached me."
+
+"I cannot prove that it did. I cannot prove that it did not." She kept her voice level, because the alternative was to raise it. "Your scribe passed it to a lictor at the cordon. The lictor cannot remember the seal or the hour. That is the whole of the chain, and it ends in a man who does not remember."
+
+"If it had reached me, I would have read it."
+
+"I believe you. That is the part I cannot set down." She watched him take it. "If it reached you, you chose. If it did not, then this house can put a warning into your own court on a morning like this one and never learn where it stopped. I do not know which is true. You may keep whichever one lets you sleep."
 
 Before dawn Marcus brought the first official summary. It stated that troops had dispersed men assaulting the tribunal, that force ceased when the approaches cleared, and that deaths arose principally from the crowd's flight. It gave no names and no number.
 

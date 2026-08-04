@@ -92,7 +92,7 @@ He wrote them in Greek, his hand quick and controlled. Claudia watched the ink f
 
 Before the ink dried, Marcus rolled the leaf tight.
 
-"Take it to the legal scribe at the foot of the dais," she said. "No captain. No gate officer. The scribe has authority to approach him during the hearing. Make him place it in Pontius's hand."
+"Take it to the legal scribe at the foot of the dais," she said. "No captain. No lictor. No gate officer. The scribe has authority to approach him during the hearing. Make him place it in Pontius's hand."
 
 Marcus closed his fingers around the message. "If the guard asks whose order?"
 

@@ -200,7 +200,7 @@ He wrote in Greek. The word *innocent* entered the proceeding as Claudia's judgm
 
 Before the ink dried, Marcus rolled the leaf.
 
-"Take it to Varro at the foot of the dais. No captain. He can approach Pontius during the hearing. Make him place it in Pontius's hand."
+"Take it to Varro at the foot of the dais. No captain. No lictor. He can approach Pontius during the hearing. Make him place it in Pontius's hand."
 
 Marcus closed his fingers around the message. "If the guard asks whose order?"
 
