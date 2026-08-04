@@ -42,7 +42,7 @@ That was how most protection survived now: reduced to a form Pontius could call 
 
 Pontius no longer asked what Claudia heard before asking who carried it.
 
-At supper he spoke of roads, collections, quarrels among councils, and the reliability of officers. He did not mention the execution unless a complaint from Judea forced the name of Jesus into a report. When reports of the man's followers arrived from Jerusalem, Galilee, or farther ports, Pontius classified them by public effect.
+At supper he spoke of roads, collections, quarrels among councils, and the reliability of officers. He did not mention the execution unless a complaint from Judaea forced the name of Jesus into a report. When reports of the man's followers arrived from Jerusalem, Galilee, or farther ports, Pontius classified them by public effect.
 
 Did they obstruct a street?
 

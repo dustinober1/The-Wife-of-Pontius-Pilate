@@ -74,7 +74,7 @@ Varro objected that an enslaved household secretary had no place among provincia
 
 "That is why Pontius authorized comparison."
 
-Pontius approved the placement for the feast and made Varro responsible for every tablet Marcus handled. The arrangement established the chain later used in the Prologue and placed Marcus under a free legal scribe who could end his access with one complaint.
+Pontius approved the placement for the feast and made Varro responsible for every tablet Marcus handled. The arrangement established the chain by which a household message could reach the tribunal, and it placed Marcus under a free legal scribe who could end his access with one complaint.
 
 ## The Entry Reports
 

@@ -132,7 +132,7 @@ He handed her the quartermaster account. The formal entries aligned. Dates, quan
 
 "Who inspected the cloaks when they arrived?"
 
-"A centurion named Varro."
+"A centurion named Priscus."
 
 "He signed for dry goods on the third day. The quartermaster records river damage on the fifth."
 
@@ -146,7 +146,7 @@ Pontius leaned closer.
 
 Pontius called for his secretary. By evening they had the answer. The supplier's freedman had moved undamaged cloaks out through a side gate and replaced them with spoiled stock purchased cheaply from another unit.
 
-Pontius recovered part of the money and dismissed the quartermaster. Varro kept his post after admitting he had signed to avoid delaying the column.
+Pontius recovered part of the money and dismissed the quartermaster. Priscus kept his post after admitting he had signed to avoid delaying the column.
 
 "Why spare him?" Claudia asked.
 

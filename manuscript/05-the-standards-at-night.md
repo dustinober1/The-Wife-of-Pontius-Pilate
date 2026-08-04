@@ -62,7 +62,7 @@ Marcus showed her the courier order in the records passage. The Syrian packet wa
 
 Claudia sent Marcus to tell Philotas that the messenger had household business with her. It was true only because she had made it true. Marcus could move the name between lists; he could not admit the man against a guard's order, and neither of them could give the message formal standing.
 
-The messenger was a gray-bearded steward Claudia had seen beside Hanan during the delegation. He gave his name as Mattithiah and refused wine.
+The messenger was a gray-bearded steward Claudia had seen beside Hanan during the delegation. He gave his name as Yoezer and refused wine.
 
 "The liaison was told after dawn," he said. "He went to the high priest's house. By then men were already gathering below the fortress."
 
@@ -74,7 +74,7 @@ He could not know what the council would decide. He did know the order in which 
 
 Claudia wrote four lines and made him mark them before Marcus carried a copy to the prefectural secretary: the liaison received no prior notice; the standards were visible after dawn; gatherings had formed; no armed action was witnessed by the messenger. She did not call it the liaison's report.
 
-Pontius read the note before the Syrian packet closed. He ordered Mattithiah's statement attached beneath the commander's report and changed nothing else.
+Pontius read the note before the Syrian packet closed. He ordered Yoezer's statement attached beneath the commander's report and changed nothing else.
 
 "An unsealed household witness," he said. "Useful as warning, insufficient as policy."
 
@@ -108,7 +108,7 @@ Claudia remembered the gray shawl Tamar's cousin wore on market days. "How do yo
 
 "He speaks for himself. He knows some men from his quarter. That is all."
 
-The limit mattered. Mattithiah knew a priestly household. Tamar knew one cousin and the preparations around him. The gate officer knew what passed under his wall. None could name the whole city.
+The limit mattered. Yoezer knew a priestly household. Tamar knew one cousin and the preparations around him. The gate officer knew what passed under his wall. None could name the whole city.
 
 Claudia asked what Yaakov expected to find at Caesarea.
 
@@ -118,7 +118,7 @@ Claudia asked what Yaakov expected to find at Caesarea.
 
 Tamar's hands stopped over the folded linen. "Yaakov believes men beside him will stay. He may be wrong about some of them. He has been wrong before."
 
-Claudia went to Pontius with the gate report, Hanan's sealed protest, and her own short account of Tamar's warning. She left Mattithiah's conjectures out and named Yaakov as a single household connection rather than a spokesman.
+Claudia went to Pontius with the gate report, Hanan's sealed protest, and her own short account of Tamar's warning. She left Yoezer's conjectures out and named Yaakov as a single household connection rather than a spokesman.
 
 "They are organizing for the road," she said. "You can hear a delegation before a crowd forms here."
 

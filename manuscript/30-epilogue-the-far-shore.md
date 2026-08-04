@@ -8,7 +8,7 @@ A merchant captain carried it east from Puteoli and signaled the sailing master 
 
 The two captains' logs agreed. By the later reckoning, the emperor died on the sixteenth of March in A.D. 37. Pontius had been ordered to answer before a living judge and was still at sea when that judge ceased to exist.
 
-The merchant knew nothing of the new court's intentions toward a recalled prefect from Judea.
+The merchant knew nothing of the new court's intentions toward a recalled prefect from Judaea.
 
 Pontius stood at the stern after the ships separated. The far line of water held no message he could command.
 

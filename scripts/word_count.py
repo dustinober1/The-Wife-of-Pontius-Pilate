@@ -17,6 +17,12 @@ MANUSCRIPT_DIR = Path(__file__).resolve().parents[1] / "manuscript"
 STUB_MARKER = "Status: outline only"
 WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
 
+# Standalone italic lines are excluded only when they are working metadata
+# (the POV marker, stub status lines). Italicised in-world documents such as
+# letters, dispatches, and written orders are prose the reader reads and are
+# counted.
+METADATA_ITALIC_RE = re.compile(r"\*\s*(POV|Status|Target|Word count)\b[^*]*\*", re.IGNORECASE)
+
 
 def is_drafted(text: str) -> bool:
     return STUB_MARKER not in text
@@ -36,7 +42,7 @@ def prose_text(text: str) -> str:
             continue
         if line.startswith(">"):
             continue
-        if re.fullmatch(r"\*[^*]+\*", line):
+        if re.fullmatch(r"\*[^*]+\*", line) and METADATA_ITALIC_RE.fullmatch(line):
             continue
         lines.append(raw)
     return "\n".join(lines)
