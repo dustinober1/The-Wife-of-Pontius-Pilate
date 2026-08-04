@@ -148,9 +148,9 @@ His reply to Antipas denied a political register. It did not mention the protect
 
 ## Simon
 
-She found Simon in the kitchen court that evening, alone at the hour when the rest of the staff had already gone to their meal, sitting on an overturned crate with a knife and a basket of unpeeled roots in front of him that he had not touched in what looked, from the small drift of peelings beside the untouched basket, like a considerable while.
+She found Simon in the kitchen court that evening, alone at the hour when the rest of the staff had gone to their meal. He sat on an overturned crate with a knife and a basket of unpeeled roots he had not touched. The small drift of peelings beside the basket said he had been there a while.
 
-"You have heard," she said, and it was not a question, and he did not treat it as one.
+"You have heard," she said. It was not a question, and he did not treat it as one.
 
 "My uncle heard it from a man claiming a soldier at Machaerus told him." Simon set down the knife. "I remember the river. I do not know whether I remember John's words or what my uncle repeated afterward."
 
@@ -174,7 +174,7 @@ The promise protected Simon and exposed Claudia's choice. She also sent burial c
 
 ## Pontius's Accounting
 
-She told Pontius that night, over a supper neither of them ate much of, and watched him receive the news the way he received every report that reached his desk from beyond his own province's borders: with interest, with a certain professional attention to the mechanics of it, and with no discernible weight attached to the fact that a man was dead who had, three years earlier, drawn half of Galilee to a river to hear him speak.
+She told Pontius that night, over a supper neither of them ate much of, and watched him take the news the way he took every report reaching his desk from beyond his own borders. With interest. With a professional attention to the mechanics of it. With no weight attached to the fact that a man was dead who had drawn half of Galilee to a river three years earlier to hear him speak.
 
 "Antipas has ended the confinement," Pontius said. "He has also created a dead prophet whose followers may travel."
 
@@ -182,7 +182,7 @@ She told Pontius that night, over a supper neither of them ate much of, and watc
 
 "An event near your border. Which account will you use?"
 
-Pontius read Antipas's notice and Tamar's report. "The formal cause explains what his court will defend. The feast explains why the story will spread."
+He read Antipas's notice again, and Tamar's report beside it. "The formal cause explains what his court will defend. The feast explains why the story will spread."
 
 "Herodias wanted delay ended. The secretary says agitation continued. Neither tells us when fear became necessity."
 

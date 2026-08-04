@@ -6,7 +6,7 @@
 
 Tiberias announced itself before the road did, new stone rising along the western shore of the lake. Tamar had warned that old tombs were said to have been disturbed during construction and that some observant families avoided the city. She did not know how many. The objection itself mattered because Antipas had built a capital whose splendor could be read as impurity.
 
-Pontius had called the visit a courtesy owed between neighboring authorities, prompted by a border dispute over grazing rights that a season of letters had failed to settle and that Antipas himself had finally proposed to close in person, over a shared table, in the manner two men trained to Roman method understood better than any formal arbitration. Claudia had not asked to come. He had asked her to, in a tone that surprised her with how much it wanted an answer rather than assumed one, and she had understood, accepting, that the request was itself a kind of repair attempted after the silence that had followed the riot, a small offered normalcy neither of them was prepared to name as such.
+Pontius had called the visit a courtesy owed between neighboring authorities. A border dispute over grazing rights had survived a season of letters, and Antipas had proposed at last to close it in person, over a shared table, in the manner two men trained to Roman method understood better than any formal arbitration. Claudia had not asked to come. He had asked her, in a tone that surprised her by wanting an answer rather than assuming one, and she had understood the request as a repair attempted after the silence that followed the riot. Neither of them named it that.
 
 He also gave her work. Antipas's letters blamed Judaean herders for crossing a seasonal line. Petitions reaching Caesarea blamed the tetrarch's estate agents for moving boundary stones toward the west after each rain.
 
@@ -70,7 +70,7 @@ It was a question presented as courtesy. "Sometimes."
 
 "My husband has confined a man who condemns our marriage," Herodias said. "Your household has heard of him."
 
-Claudia kept her face as still as she had learned, across four years in this province, to keep it. "I have heard something of him. A preacher at the river."
+Claudia kept her face as still as four years in the province had taught her to keep it. "I have heard something of him. A preacher at the river."
 
 "A preacher at the river."
 
@@ -84,7 +84,7 @@ Herodias asked next about the grazing petitions. She knew one claimant's village
 
 ## Salome
 
-Herodias's daughter found Claudia later that evening, in the colonnade beyond the hall where the lake's night air offered some relief from the banquet's heat and noise, a young woman perhaps sixteen or seventeen with her mother's composure not yet fully learned, still showing the seams where the performance had to be consciously assembled rather than worn like skin.
+Herodias's daughter found Claudia later that evening in the colonnade beyond the hall, where the lake air gave some relief from the banquet's heat and noise. She was perhaps sixteen or seventeen, with her mother's composure not yet fully learned, still showing the seams where the performance had to be assembled rather than worn like skin.
 
 "My mother told you about the prisoner," Salome said.
 
