@@ -36,7 +36,7 @@ Facts labeled **on page** are fixed by the Prologue and Chapters 1–17. Histori
 ## Tamar
 
 - **Role:** free local Jewish household worker, cultural and moral interlocutor, and source for ordinary provincial perception.
-- **On-page continuity:** local Caesarean family; aunt Rivkah; cousin Yaakov in standards protest and injured in aqueduct riot; secondhand awareness of John; no direct tie to Jesus.
+- **On-page continuity:** local Caesarean family; aunt Rivkah, who raised her and **dies in Chapter 7** (she must not appear alive after that point); cousin by marriage Shifra, living, who from Chapter 27 supplies the dyer's customers and from Chapter 29 holds one of the two relief-account seals; cousin Yaakov in standards protest and injured in aqueduct riot; secondhand awareness of John; no direct tie to Jesus.
 - **What she can know:** household labor networks, market talk, family and synagogue perception, mourning customs, local fear, and reports carried by relatives or travelers.
 - **How she knows it:** relationships and ordinary circulation, not espionage.
 - **Risks:** loss of livelihood, Roman suspicion, communal distrust, harm to relatives, and the compromised trust inherent in friendship with the prefect’s wife.

@@ -12,7 +12,7 @@ Claudia knew because Marcus crossed the eastern court carrying a sealed tablet t
 
 "The Antonia commander, Domina. The gate officer's rider is due after midday. No message has come through the high priest's liaison."
 
-Pontius had ordered three accounts. One had arrived, and the silence of another already said something.
+Pontius had ordered three accounts. One had arrived. The silence of another was already information.
 
 Philotas brought the public news an hour later. The winter detachment had entered Jerusalem after dark with its standards covered. At dawn the images were raised from the fortress overlooking the Temple.
 
@@ -86,7 +86,7 @@ Pontius read the note before the Syrian packet closed. He ordered Yoezer's state
 
 That reached him. He delayed the Syrian rider until midday.
 
-He gave her one hour. Claudia had wanted more. He had first refused to give any.
+He gave her one hour. She had wanted more. He had begun by refusing any.
 
 ## The Road from Jerusalem
 
@@ -146,7 +146,7 @@ Yaakov sat three rows behind the gate in the gray shawl Tamar had described.
 
 "He told his wife five days of bread would be enough. She told him pride eats more than bread. I do not know which of them is right."
 
-That answer was more useful than Tamar's old certainty would have been. Claudia asked whether Yaakov would carry a question to the elders: if Pontius allowed water and bread through the side court, would the crowd accept it without treating the provision as a promise of surrender?
+That answer was more useful than confidence would have been. Claudia asked whether Yaakov would carry a question to the elders: if Pontius allowed water and bread through the side court, would the crowd accept it without treating the provision as a promise of surrender?
 
 Tamar looked at her sharply. "You want them fed so they can petition your husband longer."
 

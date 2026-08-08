@@ -4,17 +4,23 @@
 
 ## The Problem of Water
 
-Jerusalem's problem, reduced to its essentials, was one Pontius understood better than any problem the priesthood had yet brought him: the city held too many people for the water that reached it. He had the figures from his own engineers before the pilgrims' complaints ever reached his desk, laid out in the flat, undeniable language he trusted above every other kind. At Passover the population within the walls swelled to some three or four times its ordinary count, and the existing channel from the pools at Solomon ran dry by the festival's second week in a bad year, leaving cisterns to be rationed by household and the Temple's own ablution basins refilled by hand-carried jars from wells the priesthood guarded jealously against the crowds.
+Jerusalem's problem was one Pontius understood better than anything the priesthood had yet brought him. The city held too many people for the water that reached it.
 
-He had walked the old channel himself the previous summer, in the plain traveling cloak he preferred for inspections that did not require the weight of office, and had come away from it with the particular satisfaction of a man who had found, at last, a problem shaped like the ones he actually knew how to solve. Judaea's people could not be measured, weighed, or made to yield to a ledger. Water could. A channel run from the springs near Bethlehem, cut through twenty miles of hill country by the same engineering that had watered every city Rome had ever bothered to keep, would solve in a single season what eleven years of Gratus's caution had left to fester.
+He had the figures from his own engineers before the pilgrims' complaints reached his desk, laid out in the flat language he trusted above every other kind. At Passover the population within the walls swelled to three or four times its ordinary count. In a bad year the channel from the pools at Solomon ran dry by the festival's second week. Cisterns were rationed by household. The Temple's own basins were refilled from hand-carried jars drawn at wells the priesthood guarded against the crowds.
 
-The only question was where the money came from, and Pontius had turned that question over for the better part of a month before arriving at an answer so obvious he was surprised no prefect before him had reached for it. The Temple treasury held vast sums, offerings gathered from Jews across the empire and left largely idle between festivals, guarded with a zeal that struck him, examining the account, as a kind of hoarding dressed up in piety. A portion of it, spent on water that would serve the Temple's own basins along with every household in the city, was not confiscation. It was the treasury doing, at last, something useful with money that otherwise sat locked against a use no one could quite name.
+He had walked the old channel himself the previous summer in the plain traveling cloak he preferred for inspections that did not require the weight of office. He came away satisfied. Here at last was a problem shaped like the ones he knew how to solve.
 
-"It is their money spent on their water," he said to Rufus, who had accompanied the inspection and understood engineering well enough to follow the reasoning even where he plainly did not share Pontius's confidence in how it would be received. "I fail to see the objection they will find in it."
+Judaea's people could not be measured, weighed, or made to yield to a ledger. Water could. A channel run from the springs near Bethlehem, cut through twenty miles of hill country by the same engineering that had watered every city Rome bothered to keep, would settle in a single season what eleven years of Gratus's caution had left to fester.
+
+The only question was where the money came from. Pontius turned it over for most of a month and arrived at an answer so obvious he wondered why no prefect before him had reached for it.
+
+The Temple treasury held vast sums, offerings gathered from Jews across the empire and left largely idle between festivals. Examining the account, the zeal that guarded them struck him as hoarding dressed up in piety. A portion of it, spent on water that would serve the Temple's own basins along with every household in the city, hardly counted as confiscation. It was the treasury doing something useful at last with money otherwise locked against a use no one could name.
+
+"It is their money spent on their water," he said to Rufus, who had come on the inspection and understood engineering well enough to follow the reasoning without sharing his confidence in how it would be received. "I fail to see the objection they will find in it."
 
 "They will find one, Prefect. They generally do."
 
-"Then they will find one to an aqueduct that fills their own basins, which will at least have the virtue of being a foolish objection rather than a reasonable one." Pontius said it lightly, but the figures stayed with him on the ride back to Caesarea, arranging and rearranging themselves into the shape of a proposal he was already certain, by the time he reached his own study, he would put to Caiaphas within the week.
+"Then they will find one to an aqueduct that fills their own basins, which will at least have the virtue of being a foolish objection rather than a reasonable one." Pontius said it lightly. The figures stayed with him on the ride back to Caesarea, arranging themselves into a proposal. By the time he reached his study he knew he would put it to Caiaphas within the week.
 
 He did not intend to repeat the standards. There would be no order completed at night and defended after discovery, no five days in which opposition could settle into ranks. The legal use of the money would be established before work began. The first public notice would travel with the first surveyors. If objection came, it would meet a project already authorized by both institutions and divided into contracts too numerous to reverse through one demand.
 
@@ -40,9 +46,11 @@ He ordered the prefectural secretary to prepare three instruments. The first sta
 
 ## The High Priest's Account
 
-Caiaphas received him in a chamber off the Temple's outer court, a compromise location neither man had stated aloud but both had understood, since a prefect summoned to the inner precincts would have read as submission and a high priest summoned to the Antonia would have read as the same thing reversed. Pontius had met him twice before, at the handover of the sacred vestments each festival required, and had formed of him the impression of a man who survived by calculation rather than conviction, which Pontius, whatever his other reservations about the office, found almost restful to deal with. A man who calculated could be reasoned with in the language of calculation. A zealot could not.
+Caiaphas received him in a chamber off the Temple's outer court. Neither man named the compromise aloud. A prefect summoned to the inner precincts would have read as submission, and a high priest summoned to the Antonia as the same thing reversed.
 
-"The Prefect brings an engineering matter to a Temple audience," Caiaphas said, after the formalities had been observed at whatever length custom required. "I confess I had expected a different kind of visit."
+Pontius had met him twice before, at the handover of the sacred vestments each festival required, and had come away with the impression of a man who survived by calculation. Whatever his reservations about the office, he found that almost restful. A man who calculated could be reasoned with in the language of calculation. A zealot could not.
+
+"The Prefect brings an engineering matter to a Temple audience," Caiaphas said, after the formalities. "I confess I had expected a different kind of visit."
 
 "I bring you a solution to a problem your own priesthood has complained of at every festival I've presided over. Insufficient water for the crowds, insufficient water for the basins, cisterns rationed by households who came a hundred miles to make an offering and found the city too dry to receive them properly." Pontius laid the survey before him, the figures rendered as plainly as he could make them without insulting the man's intelligence. "A channel from the springs near Bethlehem, engineered to Roman standard, would end the shortage within two years of construction. I ask the treasury to fund the portion my own provincial revenues cannot cover, since the water will serve the Temple's own courts as fully as it serves any Roman garrison."
 
@@ -50,11 +58,11 @@ Caiaphas studied the figures with the unhurried attention of a man who had learn
 
 "I am not asking you to spend it on a fortress or a garrison road. I am asking you to spend it on water that will fill your own basins at every festival from now until the channel silts up centuries from now. If the offering is dedicated to God's house, I fail to see how water for God's house lies outside its purpose."
 
-"You fail to see it because you are not the one who will answer for the spending, in this life or whatever the priesthood believes comes after it." Caiaphas said this without heat, in the same measured register he had used throughout, and Pontius understood, hearing it, that he was watching a man weigh political cost against political cost rather than sacrilege against use, whatever the vocabulary he had reached for to describe the weighing. "There will be those among the people who call it theft dressed as engineering, however sound your figures. There will be those among the priesthood who call it worse. I must decide whether the water is worth the accusation that will follow the spending of it."
+"You fail to see it because you are not the one who will answer for the spending, in this life or whatever the priesthood believes comes after it." Caiaphas said it without heat, in the same measured voice he had used throughout. Pontius understood that he was watching a man weigh one political cost against another, whichever vocabulary he chose for the weighing. "There will be those among the people who call it theft dressed as engineering, however sound your figures. There will be those among the priesthood who call it worse. I must decide whether the water is worth the accusation that will follow the spending of it."
 
 "And what do you decide."
 
-Caiaphas was silent long enough that Pontius began composing, in the back of his mind, the alternate proposal he would need if this one failed: provincial revenues alone, a longer channel, a slower schedule, a solution half as good arrived at twice as expensively. Then the high priest set the survey down and folded his hands over it, a gesture Pontius read, correctly as it turned out, as assent already reached and merely being delayed for the appearance of deliberation.
+Caiaphas was silent long enough that Pontius began composing the alternate proposal he would need if this one failed: provincial revenues alone, a longer channel, a slower schedule, a solution half as good at twice the cost. Then the high priest set the survey down and folded his hands over it. Pontius read the gesture as assent already reached and held back for the look of deliberation.
 
 "I decide that the work may proceed if the officers responsible for the dedicated gifts judge the use lawful," Caiaphas said. "My overseers will examine each release beside yours. They will attest the sum and its destination."
 
@@ -82,9 +90,7 @@ Pontius required the liaison created after Hanan's delegation to carry copies be
 
 "Then we are settled on the money," Pontius said.
 
-"We are settled on a procedure by which money may be released," Caiaphas answered.
-
-"We will learn whether the procedure survives its first public reading," Caiaphas said.
+"We are settled on a procedure by which money may be released," Caiaphas answered. "We will learn whether it survives its first public reading."
 
 Pontius left with access to the treasury and without the clean authorization he had meant to obtain.
 
@@ -156,7 +162,11 @@ This was what he had learned: time favored the gathering, visible preparation in
 
 Pontius rode back to Caesarea turning the agreement over as he did every successful negotiation. The habit had kept him alive through worse bargains. He found ordinary friction, divided signatures, and a useful channel. He could not make himself believe that clean water running into a city's basins would remain forever defined by the treasury from which the first coin came.
 
-He knew, of course, that it would be read otherwise by someone. It always was. There would be men in the markets and the colonnades who called it theft the moment the first shovel broke ground, regardless of whose hand had authorized the spending or whose basins the water would eventually fill, because a crowd rarely troubled itself with the difference between an act and the story told about the act afterward, and a Roman prefect spending sacred money, however lawfully obtained, made a better story than a high priest agreeing to the same expense out of plain civic sense. He had learned this much from the standards, if he had learned nothing else from that long week on the stadium's stone benches: that a crowd assembled around a grievance did not require the grievance to be accurate, only vivid, and a treasury emptied by foreign hands to build a foreign engineer's channel was, whatever the truth of who benefited and how, a story vivid enough to outlast any correction he might issue afterward.
+He knew someone would read it otherwise. Someone always did. There would be men in the markets and the colonnades who called it theft the moment the first shovel broke ground, whatever hand had authorized the spending and whosever basins the water filled.
+
+A crowd rarely troubled itself with the difference between an act and the story told about it afterward. A Roman prefect spending sacred money made a better story than a high priest agreeing to the same expense out of plain civic sense.
+
+He had learned that much on the stadium benches. A grievance did not have to be accurate to gather men around it. It had to be vivid. A treasury emptied by foreign hands for a foreign engineer's channel would outlast any correction he could issue.
 
 He decided, riding the last mile into Caesarea with the sea below the road, that opposition must meet completed segments and separated accounts rather than a single public choice. The channel itself would become the argument. If the water reached the city before complaint hardened, reversal would cost more than continuation.
 

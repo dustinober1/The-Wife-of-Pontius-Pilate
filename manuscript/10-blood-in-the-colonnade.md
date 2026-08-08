@@ -4,7 +4,13 @@
 
 ## What the Household Heard First
 
-The household had moved up to Jerusalem for the length of the festival crowds, as it did now every year the calendar required it, and the city still struck Claudia, three years into the practice, as a place built on a different scale of feeling than Caesarea's broad Roman streets: narrower, louder, thick with woodsmoke and roasting meat and the particular dust that seemed to rise from the hill itself rather than settle on it, a city that argued with itself in every doorway and considered the argument a form of prayer. She had learned to read the temper of it before Pontius's own dispatches reached his desk, simply by watching which servants came back from the markets talking and which came back silent. That morning it was silence. Tamar returned from the grain sellers near the Damascus gate with her basket only half filled and her mouth set in a line Claudia had come to recognize as the shape of news not yet decided whether it wanted telling.
+The household had moved up to Jerusalem for the length of the festival crowds, as it did every year the calendar required.
+
+Three years into the practice, the city still struck Claudia as a place built on a different scale of feeling than Caesarea's broad Roman streets. Narrower, louder, thick with woodsmoke and roasting meat and a dust that rose from the hill rather than settling on it. A city that argued with itself in every doorway and counted the argument a form of prayer.
+
+She had learned to read its temper before Pontius's dispatches reached his desk, by watching which servants came back from the markets talking and which came back silent.
+
+That morning it was silence. Tamar returned from the grain sellers near the Damascus gate with her basket half filled and her mouth set in a line Claudia had learned to recognize as news not yet decided whether it wanted telling.
 
 "They are saying the water is cursed," Tamar said finally, setting the basket down harder than the lentils in it required. "Not the water itself. The money that paid for the channel. Men are gathering near the colonnade by the outer court to say so where the Prefect's people will hear it."
 
@@ -12,9 +18,11 @@ The household had moved up to Jerusalem for the length of the festival crowds, a
 
 Tamar did not answer at once, which Claudia understood by now to be its own kind of answer. "My cousin Yaakov went down before dawn. He said there were more men than he had counted at the standards, and quieter, which he did not like. A crowd that shouts wants to be heard. A crowd that waits wants something else."
 
-Claudia thought of the survey Pontius had brought home from Caesarea a season ago, the figures he had read aloud to her over supper with the particular satisfaction he reserved for a problem reduced at last to its arithmetic: twenty miles of channel, water enough for every cistern in the city, a treasury that funded it without costing the province a single denarius it did not already have. He had not asked what the money had been before it was arithmetic. She had not asked either, and the omission sat in her now with a weight she recognized as guilt only once it had already lodged there, uninvited and impossible to set back down.
+Claudia thought of the survey Pontius had brought home from Caesarea a season ago, the figures he had read aloud over supper with the satisfaction he kept for a problem reduced at last to arithmetic. Twenty miles of channel. Water enough for every cistern in the city. A treasury that funded it without costing the province a denarius.
 
-"I want to see it," she said, and Tamar's face told her, before either of them spoke again, exactly what she thought of the wish.
+He had not asked what the money had been before it was arithmetic. She had not asked either, and the omission sat in her now with a weight she recognized as guilt only after it had lodged.
+
+"I want to see it," she said. Tamar's face answered before she did.
 
 "It is not a market day crowd, Domina."
 
@@ -56,7 +64,7 @@ Marcus returned before he reached her. A cordon had closed the passage to the tr
 
 Then the men scattered through the crowd threw back their cloaks and the clubs came out.
 
-She had not seen the soldiers walk in. That was what she would return to afterward, lying awake in the dark of the palace with Pontius asleep or pretending to be asleep beside her: that they must have entered hours before, dressed as pilgrims, carrying nothing that marked them as what they were, and had stood among the very people they meant to kill for the length of a whole morning's grievance, listening to it, before the signal came and they began swinging.
+She had not seen the soldiers walk in. That was what she would return to afterward, lying awake with Pontius asleep or pretending to sleep beside her. They must have entered hours before, dressed as pilgrims, carrying nothing that marked them. They had stood among the people they were sent to break for the length of a whole morning's grievance, listening to it, and then the signal came and they began swinging.
 
 The clubs were not swords. Pontius had chosen a weapon he could call proportionate. In the packed space, people fell beneath blows and under those trying to escape. Claudia saw bodies go down in the colonnade's shade and fail to rise.
 
@@ -100,7 +108,7 @@ The clerk left to seek Pontius's answer. Claudia moved the potter into the palac
 
 They could not treat everyone. One physician left when his brother was reported missing. Bandages ran short. The eastern passage closed twice under pressure from fleeing people. Claudia sent coin through Mattan to two nearby houses willing to receive the injured. She could move aid through doors she controlled. She could not reopen the colonnade or stop the clubs.
 
-"How many," she asked him that evening, when he came to light the lamps in her chamber and she could no longer bear not asking someone who had been there.
+"How many," she asked him that evening, when he came to light the lamps in her chamber and she could no longer keep from asking someone who had been there.
 
 "No one is counting the same thing, Domina. Rufus will count men struck by soldiers. The physicians count those who reached them. Families count those who have not come home."
 
@@ -108,7 +116,7 @@ They could not treat everyone. One physician left when his brother was reported 
 
 "I saw it," Marcus said, and set the taper down before it had finished its work, so that half the room stayed dark. "I am not certain the Prefect did. From where he stood."
 
-It was the closest she had ever heard him come to a judgment of his master, and she let it stand unanswered because she had no answer for it that did not indict her in the same breath, she who had also stood at a distance and told herself the distance was a kind of caution rather than a kind of cowardice.
+It was the closest she had heard him come to judging his master. She let it stand. Any answer would have indicted her in the same breath. She had also watched from a distance and called the distance caution.
 
 Tamar came to her before the second lamp had burned down, still in the plain mantle she had worn to the grain sellers that morning, her hands raw from wringing the hem of it. She had gone back out after leaving Claudia at the palace gate, back through the streets everyone else had been fleeing, because Yaakov had not come home and their aunt's house had no one else to send looking.
 
@@ -116,25 +124,53 @@ Tamar came to her before the second lamp had burned down, still in the plain man
 
 "He is alive."
 
-"He is alive." Tamar said it without the relief the words should have carried, and Claudia understood, watching her, that the sentence was not finished, only paused at the place where finishing it required more than either of them wanted to spend that night. "He asked me, before the physician's draught put him under, whether I thought the water was worth what it had cost. I did not have an answer for him. I still do not."
+"He is alive." Tamar said it without the relief the words should have carried. The sentence was not finished. It had only stopped where finishing it would cost more than either of them could spend that night. "He asked me, before the physician's draught put him under, whether I thought the water was worth what it had cost. I did not have an answer for him. I still do not."
 
 "What did you tell him?"
 
 "I told him to sleep." Tamar looked at Claudia's folded hands. "He is your husband's subject. Tonight I cannot set that aside."
 
-She left before Claudia could answer, and Claudia did not try to call her back, understanding that whatever needed saying between them would keep until the ribs had mended and the number of the dead had stopped growing, if it ever stopped growing, and that nothing she said tonight would do anything but sound like the arithmetic she had just finished telling her husband was not enough.
+She left before Claudia could answer. Claudia did not call her back. Whatever needed saying would keep until the ribs mended and the dead stopped being counted, and nothing said tonight would sound like anything but arithmetic.
 
-Pontius came to her rooms past the hour when she had stopped expecting him, still in the white toga though it had been changed somewhere along the way, the hem no longer marked with whatever it had been marked with in the colonnade. He looked, standing in her doorway, like a man rehearsing an account he had already given twice that day to men who outranked him and would have to give again, in writing, to a man in Rome who outranked them both.
+Marcus had traced the message by the time the lamps were lit. The legal scribe remembered passing a household tablet to a lictor at the cordon. The lictor remembered a tablet and could not say whose seal it carried or at what hour he had given it on. No one at the tribunal admitted receiving it. No one denied it either.
 
-"They pressed the tribunal," he said, before she had asked him anything. "Rufus's men used clubs rather than blades, exactly as I ordered. It was meant to disperse them, not to kill them. The deaths came from the crush, mostly. Panic in a crowd that size kills more than any weapon does."
+Claudia entered the line exactly as she had it. Warning sent. Hour uncertain. Receipt unestablished.
+
+Then she sat with what the entry meant. If the message had reached Pontius before the signal, he had let the clubs come out with her words in his hand. If it had not, then a warning under the prefect's wife's own seal had died somewhere between a scribe and a lictor while men were being beaten forty paces away, and no procedure existed that would have carried it faster.
+
+She could not tell which. She was not certain which she would have preferred.
+
+Pontius came to her rooms past the hour when she had stopped expecting him, in a clean toga. The hem no longer carried whatever it had carried in the colonnade. He looked like a man rehearsing an account he had already given twice that day to men who outranked him, and would have to give again, in writing, to a man in Rome who outranked them both.
+
+"They pressed the tribunal," he said, before she had asked him anything. "Rufus's men used clubs rather than blades, exactly as I ordered. The order was dispersal. The deaths came from the crush, mostly. Panic in a crowd that size kills more than any weapon does."
 
 "I was there, Pontius." She said it quietly. "I saw the clubs come out from under the cloaks. I saw an old man go down and not get up. I do not need the report you are giving Rome. I stood among the men who received the order."
 
-He was silent long enough that she understood he was deciding, in real time, which version of himself to bring into the silence: the Prefect who defended the order, or the husband who had not known his wife stood close enough to watch it executed. What came, when he finally spoke, was neither, quite. "I did not ask them to die," he said, and his voice had lost, for the first time since she had known him, the flat carrying register he used for figures and reports. "I asked them to go home. I gave them the chance to go home, the same chance I gave the men at the standards, and they chose to press the tribunal instead, and I do not know, Claudia, standing here now, what order I could have given differently that would have ended any other way."
+He was silent long enough that she understood he was deciding which version of himself to bring into the silence: the Prefect who defended the order, or the husband who had not known his wife stood close enough to watch it carried out.
+
+What came was neither, quite.
+
+"I did not ask them to die," he said, and his voice had lost, for the first time since she had known him, the flat carrying pitch he used for figures and reports. "I asked them to go home. I gave them the same chance I gave the men at the standards, and they chose to press the tribunal instead. I do not know, Claudia, standing here now, what order I could have given that would have ended any other way."
 
 "Perhaps there was no order that would have ended differently," she said. "Perhaps the failure was earlier than the order. Perhaps it was in the spending, or in the arithmetic, or in whatever certainty told you the water was worth more than the asking."
 
-She watched that reach him too, and watched him have no figure ready to answer it with, which frightened her nearly as much as the colonnade had, because a man who always had a figure ready was a man she had learned, across ten years of marriage, how to read and how to counter. A man standing empty-handed in her doorway, his toga clean of whatever it had been marked with and his account already rehearsed twice for men who would judge him on it, was someone she was only beginning to learn how to see.
+She watched it reach him. He had no figure ready to answer it, and that frightened her nearly as much as the colonnade had. A man who always had a figure ready was a man she had learned across ten years how to read and how to counter. The man standing empty-handed in her doorway, his account already rehearsed twice for men who would judge him on it, was one she was only beginning to see.
+
+She could have stopped there. The harder thing was more particular than the arithmetic, and it was hers.
+
+"There was one order," she said. "You could have delayed. I asked you to."
+
+He looked up.
+
+"I sent a warning before the signal. Marcus carried it to your legal scribe under my seal. It said your soldiers were already standing inside the crowd, and it asked you to hold the hearing until Rufus cleared the exits."
+
+"No such message reached me."
+
+"I cannot prove that it did. I cannot prove that it did not." She kept her voice level, because the alternative was to raise it. "Your scribe passed it to a lictor at the cordon. The lictor cannot remember the seal or the hour. That is the whole of the chain, and it ends in a man who does not remember."
+
+"If it had reached me, I would have read it."
+
+"I believe you. That is the part I cannot set down." She watched him take it. "If it reached you, you chose. If it did not, then this house can put a warning into your own court on a morning like this one and never learn where it stopped. I do not know which is true. You may keep whichever one lets you sleep."
 
 Before dawn Marcus brought the first official summary. It stated that troops had dispersed men assaulting the tribunal, that force ceased when the approaches cleared, and that deaths arose principally from the crowd's flight. It gave no names and no number.
 

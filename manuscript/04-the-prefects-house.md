@@ -22,7 +22,7 @@ Marcus arranged scrolls along the wall, working from Claudia's revised household
 
 Before midmorning Claudia sent him a memorandum of the Lucanus inquiry. She had written no accusation beyond the evidence: false mark, missing silver, conflicting delivery custom, recovered funds. Beneath it Marcus had attached the amended witness statement after Tamar corrected the fish count.
 
-Pontius disliked receiving a household matter in a form suitable for an official archive. He also recognized the discipline of it. Claudia had resisted a cleaner story when the facts complicated her success. That gave her warnings weight, though he would never allow that weight to become jurisdiction.
+Pontius disliked receiving a household matter in a form suitable for an official archive. He also recognized the discipline of it. Claudia had resisted a cleaner story when the facts complicated her success. That gave her warnings their weight, though he would never allow that weight to become jurisdiction.
 
 He ordered the memorandum kept with household accounts, not prefectural cases. The boundary mattered.
 
@@ -64,7 +64,7 @@ Pontius asked why Caiaphas had sent an elder instead of appearing himself.
 
 "The high priest receives his authority through an office Rome has confirmed," Hanan said. "If he leaves Jerusalem for every new prefect's question, the office begins to look like a client's errand. He sends us so the request reaches you without making either office smaller."
 
-The answer was courteous and exact. Pontius understood the calculation. Caiaphas avoided appearing subordinate while preserving the ability to say his warning had been delivered through authorized men. Annas's support widened the delegation's influence without confusing former office with present title.
+The answer was courteous and complete. Pontius understood the calculation. Caiaphas avoided appearing subordinate while preserving the ability to say his warning had been delivered through authorized men. Annas's support widened the delegation's influence without confusing former office with present title.
 
 Pontius had read three files on the matter. Gratus's official explanation described the practice as courtesy. A quartermaster abstract showed additional transport costs whenever standards were separated from their units. A private memorandum warned that images near the Temple could bring large crowds into the streets before the garrison understood the cause.
 
@@ -80,7 +80,7 @@ Pontius called it evidence of a weakness allowed to harden into expectation.
 
 Hanan inclined his head. "An even measure applied to unlike things can produce an uneven burden."
 
-Pontius felt Claudia's phrasing within the argument and resented the recognition. She had used different words in Rome, warning that identical treatment could conceal different costs.
+Pontius heard Claudia's argument inside the elder's and resented recognizing it. She had used different words in Rome, warning that identical treatment could conceal unequal costs.
 
 "The standards will remain outside the Temple courts," he said. "I will not permit images within the sacred enclosure. I will also not order Roman units to hide the Emperor's devices before entering a city Rome governs."
 
@@ -188,18 +188,18 @@ Marcus accepted it. His jaw tightened in the small way Pontius had begun to asso
 
 Marcus left.
 
-The prefectural secretary returned with a question about wording. Should the memorandum describe Hanan's delegation as representing the council, the high priest, or the priestly houses? Pontius required all three distinctions: Hanan was an elder of the council, authorized by Caiaphas, and supported by Annas. Compressing them into a single "Temple party" would make the file easier to read and less useful when responsibility was disputed.
+The prefectural secretary returned with a question about wording. Should the memorandum describe Hanan's delegation as representing the council, the high priest, or the priestly houses? Pontius kept all three distinctions: Hanan was an elder of the council, authorized by Caiaphas, and supported by Annas. Compressing them into a single "Temple party" would make the file easier to read and less useful when responsibility was disputed.
 
-That precision was Claudia's influence in him, though he would have called it administration. He understood that offices and households carried different forms of power. He simply believed those distinctions could be mastered once entered correctly into a record.
+That precision was Claudia's influence in him, though he would have called it administration. He understood that offices and households carried different forms of power. He believed those distinctions could be mastered once they were entered correctly into a record.
 
 Outside, the courier bell sounded. Hanan's party had departed for Jerusalem. The liaison channel existed on paper. The military order that would test it was already moving through another office.
 
-Through the open door Pontius saw Claudia waiting at the end of the passage. Marcus would pass her. She would know an order had been issued before she knew its terms. Household access had reached the edge of command and stopped where Pontius intended it to stop.
+Through the open door Pontius saw Claudia waiting at the end of the passage. Marcus would pass her. She would know an order had been issued before she knew its terms. Household access had reached the edge of command and gone no further. That was where he intended it to end.
 
 He told himself the boundary was necessary.
 
 Before dismissing the secretary, Pontius ordered a courier schedule prepared for the morning after entry. One report would come from the Antonia commander, another from the city gate officer, and a third from the prefectural liaison if the high priest's office sent protest. Pontius wanted separate accounts before rumor combined them.
 
-It was competent preparation. It also assumed the event would remain an event to be reported rather than a decision that could still be changed. Claudia had put the consequence before him. He had answered by improving the paperwork around it.
+It was competent preparation. It also assumed the thing was already an event to be reported rather than a decision he could still change. Claudia had put the consequence before him. He had answered by improving the paperwork around it.
 
 Six days later, the standards would enter Jerusalem in darkness. By dawn, the city would understand the order more clearly than any memorandum could explain it.

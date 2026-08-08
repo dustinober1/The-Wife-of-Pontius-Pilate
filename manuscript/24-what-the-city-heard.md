@@ -12,11 +12,11 @@ Her objective was to learn what could be established, preserve the process she h
 
 Rufus closed the palace route after the soldiers departed. Passover movement continued around the execution as if the city had split into currents that did not all know what the court had done. Petitioners still waited. Temple service continued. Traders asked which gates remained open.
 
-The first official note called the transfer orderly. It stated that the condemned man carried the sentence party outside the walls with two other prisoners and that no attempt at rescue occurred.
+The first official note called the transfer orderly. It stated that the sentence party had taken the condemned man outside the walls with two other prisoners and that no attempt at rescue occurred.
 
 It did not name the route crowd, injuries, words, followers, or who remained to watch.
 
-Claudia copied the note into her private sequence and marked its capability: soldiers could establish custody, route control, resistance, and completion of orders. They were unlikely to record grief unless grief obstructed them.
+Claudia copied the note into her private sequence and marked what it could carry: soldiers could establish custody, route control, resistance, and completion of orders. They were unlikely to record grief unless grief obstructed them.
 
 ## The Palace Gate
 
@@ -256,7 +256,7 @@ The old impulse to burn private pages returned. Fire would protect Mara, the unn
 
 She separated identity from event instead.
 
-Names and contact routes remained under individual consent seals. The event record used source descriptions, capability, corrections, and dates. Her own note appeared in full because she had made it public. The dream remained in her personal packet and was labeled as her experience, not corroboration.
+Names and contact routes remained under individual consent seals. The event record used source descriptions, what each source could establish, corrections, and dates. Her own note appeared in full because she had made it public. The dream remained in her personal packet and was labeled as her experience, not corroboration.
 
 She wrote the limits before the conclusions:
 
@@ -267,7 +267,7 @@ She wrote the limits before the conclusions:
 - observers remained at the execution ground despite an early summary suggesting dispersal;
 - reports of darkness, earth movement, Temple damage, and final words remained multiple and incomplete.
 
-The bullet form belonged to her working account, not to published history. It prevented grief from smoothing uncertainty into a single scene.
+The listing belonged to her working account and to nothing anyone would read as a history. It prevented grief from smoothing uncertainty into a single scene.
 
 Marcus entered with the returned execution token. Varro had amended Rufus's summary. The final official line now said: *No organized resistance occurred; unidentified observers remained beyond the military cordon.*
 

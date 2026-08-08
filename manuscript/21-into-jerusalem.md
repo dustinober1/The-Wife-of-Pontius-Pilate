@@ -164,7 +164,7 @@ The Herodian residence sent a guest list to the palace for official festival cal
 
 The Temple liaison remained open and slower. Mattathias delivered formal answers while declining unfinished questions. Mara sent nothing. Her supplier household had moved its records or closed access after the inquiry into the two lists.
 
-Claudia's four-channel practice had become four narrowing apertures. More information moved through Jerusalem, while reliable provenance required more time than the feast allowed.
+Claudia's four-channel practice had become four narrowing doorways. More information moved through Jerusalem, and establishing where any of it came from took more time than the feast allowed.
 
 She changed the assignments rather than demanding greater access. Marcus would remain with Varro and the household schedule. Tamar would protect consent and report arrest, injury, or overnight movement before rumor about teaching. Simon would carry kitchen and supplier changes affecting palace access, not seek followers. Claudia herself would compare the formal Roman, Temple, and Herodian papers.
 
@@ -246,7 +246,7 @@ Rufus planned separate entries for prisoner, accusers, witnesses, petitioners, a
 
 "Temple officials identify their attendants. Varro identifies parties to the case. Soldiers admit petitioners as space allows."
 
-A court crowd could therefore form from institutional access rather than the city's spontaneous judgment. Claudia asked that gate records distinguish officials, servants, named witnesses, custody guards, petitioners, and people drawn by noise.
+A court crowd could form from institutional access rather than from the city's own judgment. Claudia asked that gate records distinguish officials, servants, named witnesses, custody guards, petitioners, and people drawn by noise.
 
 Rufus agreed to categories and refused any attempt at exact counting once the court filled. His soldiers would guard entrances, not conduct a census during a hearing.
 

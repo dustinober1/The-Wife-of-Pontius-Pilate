@@ -12,7 +12,7 @@ Claudia kept three lists. One named channels still willing to receive household 
 
 Marcus copied the first two. Claudia wrote the third herself.
 
-The years between that Passover and the summons from Gerizim left little secure public record. In Claudia's household they accumulated as payments, absences, changed seals, and conversations she could no longer place in their exact seasons. Her pages could only show what reached her and what she chose to do with it.
+The years between that Passover and Gerizim left little secure public record. In Claudia's household they accumulated as payments, absences, changed seals, and conversations she could no longer place in their exact seasons. Her pages could only show what reached her and what she chose to do with it.
 
 Tamar returned to Caesarea before the next festival. She had asked to leave Jerusalem after strangers twice questioned Simon about the women at the tomb. Claudia approved the transfer and kept Tamar's wage unchanged. The steward objected that a free worker who abandoned an assigned residence should lose the cost of return travel.
 
@@ -80,7 +80,7 @@ The account no longer served only riot injuries. It paid burial shortfalls, thre
 
 "Yaakov carried the mark."
 
-His shoulder still weakened after hard work. He had found employment with a dyer who tolerated the lost strength because Tamar's aunt Rivkah supplied women from three households as customers. The arrangement made Yaakov safer and kept him dependent on goodwill that could end with one quarrel.
+His shoulder still weakened after hard work. He had found employment with a dyer who tolerated the lost strength because Shifra, Tamar's cousin by marriage, brought him women from three households as customers. The arrangement made Yaakov safer and kept him dependent on goodwill that could end with one quarrel.
 
 Claudia offered to guarantee part of his wage.
 
@@ -204,7 +204,7 @@ It was the first time he had named the prefecture as temporary in her presence.
 
 Claudia opened a separate account under her dowry income. The heading named no beneficiary. Marcus witnessed the deposits without controlling them. If Pontius discovered the purpose early, refusal could harden. If Claudia waited until recall or death, the price might no longer matter.
 
-The account was preparation, not freedom.
+The account was preparation. It was not freedom.
 
 ## The Chest Inspection
 
@@ -238,7 +238,7 @@ Claudia asked Tamar and Marcus to review the volume in her presence. Tamar ident
 
 "An auditor who sees removed pages may seize every private chest."
 
-Claudia had created the mixed book by treating concealment as convenience. Now the people whose trust filled it would pay for her poor separation.
+Claudia had created the mixed book by letting convenience stand in for separation. Now the people whose trust filled it would pay for that.
 
 She copied the seven official entries onto a new reconciliation tablet, included references to the original page numbers, and took both the tablet and bound volume to Pontius.
 

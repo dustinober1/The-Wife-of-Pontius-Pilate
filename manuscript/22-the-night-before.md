@@ -216,7 +216,7 @@ Claudia drafted a final procedural message asking him to state the proven Roman 
 
 ## The Full Nightmare
 
-Claudia had slept in fragments across the night, if the periods with her eyes closed counted as sleep. After Antipas's return she went to her chamber to retrieve the first and second dream pages. She intended to compare them once more before deciding whether any warning based on the dream could be spoken honestly.
+Claudia had slept in fragments across the night, if closed eyes counted as sleep. After Antipas's return she went to her chamber to retrieve the first and second dream pages. She intended to compare them once more before deciding whether any warning based on the dream could be spoken honestly.
 
 She sat beside the bed and lost the room.
 
@@ -252,6 +252,6 @@ The private interval had ended. The public tribunal was assembling while the dre
 
 She took up the first two dream pages and the new blank leaf. Then she set all three aside.
 
-The next action could not wait for her to understand the dream. She needed to get the verified weakness of the charge into Pontius's hand before judgment.
+The next action could not wait for her to understand the dream. She needed the tested weakness of the charge in Pontius's hand before judgment.
 
 The blank leaf would carry evidence first and the dream only if evidence no longer reached him.

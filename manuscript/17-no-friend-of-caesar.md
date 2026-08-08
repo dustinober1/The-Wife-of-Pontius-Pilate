@@ -136,7 +136,7 @@ Pontius allowed the practice for one season. He could end it whenever he judged 
 
 He heard the reference to John and Sejanus. "Quickly."
 
-Speed remained his condition. Claudia's safeguard was comparison before classification, not endless delay.
+Speed remained his condition. Claudia's safeguard was comparison before classification. It had never been meant as delay.
 
 ## The First Comparison
 
@@ -146,7 +146,7 @@ The Roman gate note came from an officer who had counted eleven people crossing 
 
 The trader from Antipas's territory had passed the crossing two days later. He saw no group and had heard that local officials were watching several villages. He did not know whether the officials watched the teacher, tax resistance, or ordinary festival travel.
 
-The four channels therefore established only that talk about a Galilean teacher had crossed into Judaea, some travelers identified themselves with him, and at least one Temple-linked source considered the teaching worth reporting. They did not establish an organized band, weapons, a march, or a fixed number of followers.
+The four channels established only that talk about a Galilean teacher had crossed into Judaea, some travelers identified themselves with him, and at least one Temple-linked source considered the teaching worth reporting. They did not establish an organized band, weapons, a march, or a fixed number of followers.
 
 Claudia brought that result to Pontius before the evening dispatch closed.
 
@@ -216,7 +216,7 @@ The Roman route supplied a list of gatherings expected near the next festival. I
 
 The household route produced refusals as often as reports. Tamar would ask relatives and market contacts only what they were willing to have carried into the prefect's house. She would not interpret silence as safety.
 
-Each channel had a cost. Temple access increased institutional leverage. Herodian access exposed jurisdictional rivalry. Roman access carried command assumptions. Household access placed free families and enslaved staff near a governor's attention.
+Each channel had a cost. Temple access added to the priesthood's weight against Pontius. Herodian access exposed jurisdictional rivalry. Roman access carried command assumptions. Household access placed free families and enslaved staff near a governor's attention.
 
 Claudia could preserve influence with Pontius only by giving him useful distinctions before another account hardened. If she failed, he would choose speed and complaint prevention without her.
 

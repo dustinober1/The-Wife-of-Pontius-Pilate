@@ -6,7 +6,7 @@
 
 Two years had worn the household into a shape Claudia no longer thought of as foreign. She knew which market stalls sold fish honestly weighed, knew the trumpet calls that divided the garrison watch, and knew enough of Tamar's calendar to expect the kitchen quiet on the seventh day. Caesarea had become a place whose disagreements reached her by several doors.
 
-It was Philotas who brought the first word of the preacher, delivered with the same flat competence he brought to reports of grain prices and road repairs, so that Claudia almost let it pass her by unremarked.
+Philotas brought the first word of the preacher with the same flat competence he brought to grain prices and road repairs. Claudia almost let it pass.
 
 "There is a man at the Jordan drawing crowds, Domina. Out past Jericho, where the river narrows enough to wade. The garrison at the border post sends word because the numbers have grown large enough to concern them, though nothing has happened beyond the numbers themselves."
 
@@ -14,7 +14,7 @@ It was Philotas who brought the first word of the preacher, delivered with the s
 
 "To be washed, Domina. Some say it concerns forgiveness. The officer wrote only that they enter the river one at a time." Philotas delivered this with the faint discomfort of a man reporting something he did not personally credit. "He is called John. Soldiers on the bank describe skins rather than wool."
 
-The skins could wait. Claudia needed to understand the numbers. Rome had seen prophets before, wandering men with a handful of followers and a grievance against the world's arrangement of itself, and none of them had troubled a border garrison enough to be reported up the chain to a prefect's steward. "How large a crowd."
+The skins could wait. Claudia needed the numbers. Rome had seen prophets before, wandering men with a handful of followers and a grievance against the way the world was arranged. None of them had troubled a border garrison enough to reach a prefect's steward. "How large a crowd."
 
 "Large enough that the centurion posted there asked whether he should disperse it. The report gives no count. Pontius said not yet."
 
@@ -36,9 +36,9 @@ The authority was narrow and visible. Claudia preferred that to pretending the c
 
 ## What the Water Was Doing
 
-Tamar had already heard of him by the time Claudia raised it with her, which did not surprise her; Tamar's news of the province arrived by a current Claudia had learned not to question, faster than any dispatch Philotas carried and considerably more candid.
+Tamar had already heard of him. Her news of the province arrived faster than any dispatch Philotas carried, and more candidly.
 
-"He is not the first to preach at the river," Tamar said, working oil into a cloth for the lamps with the unhurried attention she brought to every task, however small. "There have been others, over the years. Most gather a season's following and are forgotten by the next. This one is different."
+"He is not the first to preach at the river," Tamar said, working oil into a cloth for the lamps. "There have been others, over the years. Most gather a season's following and are forgotten by the next. This one is different."
 
 "Different how?"
 
@@ -52,7 +52,7 @@ Tamar had already heard of him by the time Claudia raised it with her, which did
 
 "That people in the market argue over whether to go. Two workers asked for leave. Neither could tell me how many were there."
 
-Claudia thought of the mourning house nine days into her friendship with Tamar, the round loaf with no corners to catch on, the plain report of Rivkah's death delivered without performance. "You make it sound like the same hope you spoke of after your aunt died."
+Claudia thought of the mourning house, the round loaves, the plain report of Rivkah's death given without performance. "You make it sound like the same hope you spoke of after your aunt died."
 
 "Perhaps. I have not heard him."
 
@@ -120,11 +120,11 @@ Claudia had protected a source by making the information weaker. She had also im
 
 ## Those Who Went and Came Back
 
-The cook's boy, a quiet child named Simon whom Claudia had exchanged perhaps a dozen words with in two years, went to the Jordan himself the following month, walking the distance with his uncle over four days and returning with a sunburn across his neck and a manner about him that Tamar noticed before Claudia did.
+The cook's boy went to the Jordan the following month. Simon was a quiet child Claudia had exchanged perhaps a dozen words with in two years. He walked the distance with his uncle over four days and came back with a sunburn across his neck and a manner Tamar noticed before Claudia did.
 
-"He is different," Tamar said, watching the boy carry water across the courtyard with none of his usual slouching haste. "Ask him what he saw, if you want the account plainly, rather than filtered through soldiers who stood at a safe distance counting heads."
+"He is different," Tamar said, watching the boy carry water across the courtyard with none of his usual slouching haste. "Ask him what he saw. It will come plainer than from soldiers counting heads at a distance."
 
-Claudia found him at the woodpile the next morning and asked, and he answered without the shyness she expected, as though the question were one he had been waiting several days for someone to put to him properly.
+Claudia found him at the woodpile the next morning. He answered without the shyness she expected, as though he had been waiting for someone to ask.
 
 "I heard him speak of trees cut down for bearing nothing," Simon said. "My uncle says he spoke against collectors. I remember him answering one, though I could not hear every word."
 
@@ -148,19 +148,23 @@ Claudia could not separate the preacher's words from Simon's expectation by list
 
 ## The Tetrarch's Border
 
-She raised it with Pontius that evening, in the study where the lamp burned later now that the aqueduct survey occupied so many of his hours. Philotas's flat delivery had concealed how closely Pontius was attending.
+She raised it with Pontius that evening in the study, where the lamp burned later now that the aqueduct survey took so many of his hours.
 
-"It is not my border to police, which is the only mercy in it," he said, without looking up from the wax tablet he was correcting. "The Jordan crossing where the man preaches falls inside Herod Antipas's tetrarchy, not mine. Galilee and Perea. My garrison post there watches the river because Rome likes a watcher on every river, not because the man himself is my concern."
+"It is not my border to police," he said, without looking up from the wax tablet he was correcting. "The Jordan crossing where the man preaches falls inside Herod Antipas's tetrarchy. Galilee and Perea. My post there watches the river because Rome likes a watcher on every river. The man himself is no concern of mine."
 
-"Antipas." Claudia turned the name over; she had heard it before, folded into other names in other reports, but never attached to anything she had troubled to remember. "I don't believe I've heard you speak of him directly."
+"Antipas." Claudia turned the name over. She had heard it before, folded into other names in other reports, never attached to anything worth remembering. "You have not spoken of him."
 
-"There is little to say that flatters him. Herod's son, one of several, given Galilee and Perea when the old king's kingdom was carved up among his heirs, and given nothing of the father's competence along with it. He builds cities and names them for the Emperor and for himself in the same breath, and spends a great deal of effort convincing Rome he is more useful than he actually is." Pontius set the stylus down, which he did only when a thing had earned more of his attention than he had originally intended to give it. "He will not enjoy a prophet drawing thousands to a riverbank inside his own territory, preaching that the world wants mending regardless of who currently rules it. A tetrarch's whole claim to his title rests on Rome believing he keeps his corner of the world quiet. A man who can call up a crowd that size without lifting a finger for it is not a comfortable neighbor for someone whose entire position depends on being the only one who commands numbers like that."
+"There is little to say that flatters him. Herod's son, one of several, given Galilee and Perea when the old king's territory was divided among his heirs, and given none of the father's competence with it. He builds cities and names them for the Emperor and for himself in the same breath." Pontius set the stylus down, which he did only when a thing had taken more attention than he meant to give it. "A tetrarch keeps his title by convincing Rome he keeps his corner quiet. A man who can call up a crowd that size without lifting a finger makes an uncomfortable neighbor for him."
 
 "Do you think he means harm. The preacher."
 
-"I think he means exactly what your household tells you he means, whatever that is." It was said without irony, and it was, Claudia understood, as close as Pontius came to admitting that the currents running through Tamar's kitchen reached him eventually too, filtered through his wife rather than through any report his own men filed. "I have no complaint against a man who tells soldiers to take only their wages and tax collectors to take only what is owed. Rome could use a hundred more men saying exactly that in every province it holds. My concern is narrower than his message. My concern is what a tetrarch does when a crowd that size gathers on his side of a river he cannot fully police, and I do not think, whatever comes of it, that the answer will be found on my side of the border."
+"I think he means what your household tells you he means." He said it without irony. It was as close as Pontius came to admitting that what moved through Tamar's kitchen reached him too, by way of his wife rather than any report his own men filed. "I have no complaint against a man who tells soldiers to take only their wages and collectors to take only what is owed. My concern is narrower. A crowd that size has gathered on a river Antipas cannot fully police. What he does about it will not happen on my side of the border."
 
-He returned to the tablet, and Claudia understood the audience was closing, though something in the exchange stayed with her longer than the conversation itself had lasted: her husband, who trusted ledgers over rumor in every other matter she had watched him weigh, had not once suggested the preacher's numbers were exaggerated, or that the crowds would thin with the season, the way he dismissed most unrest that arrived to him secondhand. He had simply moved the danger across a border and called it someone else's to carry, and Claudia, watching him bend back over the wax with the lamp guttering between them, found she could not decide whether that was wisdom or only the oldest trick a governing man knew: to measure a threat correctly, and then locate it, by whatever means available, on a map that was no longer his to hold.
+He went back to the tablet, and Claudia understood the audience was closing. Something in it stayed with her.
+
+Her husband trusted ledgers over rumor in every other matter she had watched him weigh, and he had not once suggested the preacher's numbers were exaggerated or that the crowds would thin with the season. That was how he dismissed most unrest reaching him secondhand.
+
+He had measured this one and then set it across a border. Claudia could not decide whether that was judgment or convenience.
 
 The next morning a letter arrived from Antipas's household secretary. It thanked Pontius for leaving order at the ford to the tetrarch's officers and stated that the gathering remained religious in character. A second paragraph requested notice if subjects of Judaea crossed the boundary in organized numbers.
 
@@ -194,4 +198,4 @@ Claudia took the comparison to Pontius without Simon's name.
 
 Pontius allowed the household copy to remain outside the prefectural file. He required Claudia to bring him any report of weapons, refused taxes, blocked roads, or a named claim to kingship. The arrangement protected Simon and made Claudia responsible for deciding when uncertainty crossed that threshold.
 
-Marcus tied the tablets with the location slip visible. The matter remained unresolved. It also remained open, preserved in a form Claudia could use when another distant figure arrived through contradictory reports.
+Marcus tied the tablets with the location slip visible. The matter stayed unresolved and stayed open, kept in a form Claudia could use when the next distant figure arrived through contradictory reports.

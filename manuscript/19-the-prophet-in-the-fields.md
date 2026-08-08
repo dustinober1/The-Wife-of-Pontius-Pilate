@@ -92,7 +92,7 @@ Her rule preserved candor while still allowing selection. Pontius could accept i
 
 "Marcus serves us."
 
-"So does the weakness run through every household record."
+"That weakness runs through every household record."
 
 Pontius heard the accusation in the fact. An enslaved secretary could authenticate a seal and could be compelled to open it. The protection existed because Pontius agreed to honor it, not because law placed the name beyond him.
 
@@ -240,7 +240,7 @@ Pontius amended the line: *No available Roman, Herodian, or household report exa
 
 "You make every conclusion cumbersome," he said.
 
-"Only the ones that know too much."
+"Only the ones that claim too much."
 
 Pontius kept the correction. A record built from confident shorthand could become the very complaint he feared.
 

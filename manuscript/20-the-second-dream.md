@@ -272,7 +272,7 @@ Tamar found her sealing the page.
 
 That phrasing helped Claudia more than reassurance would have. Fear had advanced to the end of the sequence while evidence remained at preparation.
 
-She placed the page behind her first dream record, outside the sealed source tablet. Mixing them would let Pontius or a later reader treat the dream as corroboration. It was a record of Claudia's state after hearing the warning.
+She placed the page behind her first dream record, outside the sealed source tablet. Mixing them would let Pontius or a later reader treat the dream as corroboration. It was only a record of her own state after hearing the warning.
 
 ## What She Escalated
 
